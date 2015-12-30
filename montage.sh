@@ -6,7 +6,7 @@ files=$(ls $BASEDIR/png/character*_t.png | xargs)
 montage -background '#000000' -geometry +1+1 ${files} png/ymontage.png
 
 args=""
-for i in $(seq 1 230)
+for i in $(seq 1 401)
 do
 	n=`printf %04d $i`
 	name="png/character_${n}_t.png"
