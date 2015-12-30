@@ -997,7 +997,7 @@
         "name": "格鬥隊　打雜",
         "no": 125,
         "portrait": "character_0186_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8001.png",
         "thumbnail": "character_0186_t.png",
         "title": "黑色海賊"
       },
@@ -1013,7 +1013,7 @@
         "name": "斬擊隊　打雜",
         "no": 127,
         "portrait": "character_0188_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8007.png",
         "thumbnail": "character_0188_t.png",
         "title": "藍色海賊"
       },
@@ -1047,7 +1047,7 @@
         "portrait": "character_0192_c1.png",
         "skill": "skill_name_8033.png",
         "thumbnail": "character_0192_t.png",
-        "title": ""
+        "title": "紅色海賊"
       },
       {
         "name": "突擊隊　打雜",
@@ -1063,7 +1063,7 @@
         "portrait": "character_0194_c1.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_0194_t.png",
-        "title": ""
+        "title": "綠色海賊"
       },
       {
         "name": "突擊隊　打雜",
@@ -1071,15 +1071,15 @@
         "portrait": "character_0195_c1.png",
         "skill": "skill_name_8022.png",
         "thumbnail": "character_0195_t.png",
-        "title": ""
+        "title": "黃色海賊"
       },
       {
         "name": "突擊隊　打雜",
         "no": 135,
         "portrait": "character_0196_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8003.png",
         "thumbnail": "character_0196_t.png",
-        "title": ""
+        "title": "黑色海賊"
       },
       {
         "name": "狙擊隊　打雜",
@@ -1087,15 +1087,15 @@
         "portrait": "character_0197_c1.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_0197_t.png",
-        "title": ""
+        "title": "紅色海賊"
       },
       {
         "name": "狙擊隊　打雜",
         "no": 137,
         "portrait": "character_0198_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8007.png",
         "thumbnail": "character_0198_t.png",
-        "title": ""
+        "title": "藍色海賊"
       },
       {
         "name": "狙擊隊　打雜",
@@ -1103,7 +1103,7 @@
         "portrait": "character_0199_c1.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_0199_t.png",
-        "title": ""
+        "title": "綠色海賊"
       },
       {
         "name": "狙擊隊　打雜",
@@ -1111,7 +1111,7 @@
         "portrait": "character_0200_c1.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_0200_t.png",
-        "title": ""
+        "title": "黃色海賊"
       },
       {
         "name": "狙擊隊　打雜",
@@ -1119,7 +1119,7 @@
         "portrait": "character_0201_c1.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_0201_t.png",
-        "title": ""
+        "title": "黑色海賊"
       },
       {
         "name": "打雜砲擊手",
@@ -1181,7 +1181,7 @@
         "name": "斬擊隊員",
         "no": 148,
         "portrait": "character_0209_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8007.png",
         "thumbnail": "character_0209_t.png",
         "title": "藍色海賊"
       },
@@ -1245,7 +1245,7 @@
         "name": "突擊隊員",
         "no": 156,
         "portrait": "character_0217_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8003.png",
         "thumbnail": "character_0217_t.png",
         "title": "黑色海賊"
       },
@@ -1261,7 +1261,7 @@
         "name": "狙擊隊員",
         "no": 158,
         "portrait": "character_0219_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8007.png",
         "thumbnail": "character_0219_t.png",
         "title": "藍色海賊"
       },
@@ -1413,7 +1413,7 @@
         "name": "拿矛的魚人",
         "no": 177,
         "portrait": "character_0075_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8003.png",
         "thumbnail": "character_0075_t.png",
         "title": "惡龍海賊團"
       },
@@ -2181,7 +2181,7 @@
         "name": "格鬥隊　武裝隊員",
         "no": 273,
         "portrait": "character_0264_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8001.png",
         "thumbnail": "character_0264_t.png",
         "title": "黑色海賊"
       },
@@ -2197,7 +2197,7 @@
         "name": "",
         "no": 275,
         "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8007.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -2261,7 +2261,7 @@
         "name": "突擊隊　武裝隊員",
         "no": 283,
         "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8003.png",
         "thumbnail": "character_none.png",
         "title": "黑色海賊"
       },
@@ -2381,7 +2381,7 @@
         "name": "飛鼠",
         "no": 298,
         "portrait": "character_0312_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0312_momonga_skill_name.png",
         "thumbnail": "character_0312_t.png",
         "title": ""
       },
