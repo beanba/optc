@@ -429,7 +429,7 @@
         "name": "鬼人銀仔",
         "no": 54,
         "portrait": "character_0159_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0159_gin_skill_name.png",
         "thumbnail": "character_0159_t.png",
         "title": ""
       },
@@ -1053,9 +1053,9 @@
         "name": "突擊隊　打雜",
         "no": 132,
         "portrait": "character_0193_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8014.png",
         "thumbnail": "character_0193_t.png",
-        "title": ""
+        "title": "藍色海賊"
       },
       {
         "name": "突擊隊　打雜",
@@ -1221,7 +1221,7 @@
         "name": "突擊隊員",
         "no": 153,
         "portrait": "character_0214_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8014.png",
         "thumbnail": "character_0214_t.png",
         "title": "藍色海賊"
       },
@@ -1948,7 +1948,7 @@
       {
         "name": "薙刀億萬長者",
         "no": 244,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0283_c1.png",
         "skill": "skill_name_8041.png",
         "thumbnail": "character_0283_t.png",
         "title": "巴洛克華克"
@@ -1964,7 +1964,7 @@
       {
         "name": "火箭砲億萬長者",
         "no": 246,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0285_c1.png",
         "skill": "skill_name_8010.png",
         "thumbnail": "character_0285_t.png",
         "title": "巴洛克華克"
@@ -2180,9 +2180,9 @@
       {
         "name": "格鬥隊　武裝隊員",
         "no": 273,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0264_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0264_t.png",
         "title": "黑色海賊"
       },
       {
@@ -2226,44 +2226,44 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "突擊隊　武裝隊員",
         "no": 279,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "紅色海賊"
       },
       {
-        "name": "",
+        "name": "突擊隊　武裝隊員",
         "no": 280,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0271_c1.png",
+        "skill": "skill_name_8014.png",
+        "thumbnail": "character_0271_t.png",
+        "title": "藍色海賊"
       },
       {
-        "name": "",
+        "name": "突擊隊　武裝隊員",
         "no": 281,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "綠色海賊"
       },
       {
-        "name": "",
+        "name": "突擊隊　武裝隊員",
         "no": 282,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "黃色海賊"
       },
       {
-        "name": "",
+        "name": "突擊隊　武裝隊員",
         "no": 283,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "黑色海賊"
       },
       {
         "name": "",
@@ -2365,7 +2365,7 @@
         "name": "阿鶴",
         "no": 296,
         "portrait": "character_0309_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0309_otsuru_skill_name.png",
         "thumbnail": "character_0309_t.png",
         "title": ""
       },
@@ -2581,7 +2581,7 @@
         "name": "卡古",
         "no": 323,
         "portrait": "character_0374_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0374_kaku_skill_name.png",
         "thumbnail": "character_0374_t.png",
         "title": ""
       },
@@ -2597,7 +2597,7 @@
         "name": "露露",
         "no": 325,
         "portrait": "character_0376_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8052.png",
         "thumbnail": "character_0376_t.png",
         "title": ""
       },
