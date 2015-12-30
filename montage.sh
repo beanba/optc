@@ -17,7 +17,7 @@ do
 	fi
 done
 
-for i in $(seq 5002 5039)
+for i in $(seq 5002 5321)
 do
 	name="png/character_${i}_t.png"
 	if [ -f "${name}" ]; then
