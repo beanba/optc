@@ -2130,11 +2130,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "彩虹紋守護龍",
         "no": 267,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0117_c1.png",
+        "skill": "skill_name_8007.png",
+        "thumbnail": "character_0117_t.png",
         "title": ""
       },
       {
@@ -2252,9 +2252,9 @@
       {
         "name": "突擊隊　武裝隊員",
         "no": 282,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0273_c1.png",
         "skill": "skill_name_8022.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0273_t.png",
         "title": "黃色海賊"
       },
       {
@@ -2634,11 +2634,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "傑斯",
         "no": 330,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0344_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0344_t.png",
         "title": ""
       },
       {
