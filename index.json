@@ -1610,7 +1610,7 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "Miss情人節",
         "no": 202,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
@@ -1618,19 +1618,19 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "Mr.3",
         "no": 203,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0250_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0250_t.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "Mr.3",
         "no": 204,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0251_t.png",
         "title": ""
       },
       {
@@ -1738,12 +1738,12 @@
         "title": "３檔"
       },
       {
-        "name": "",
+        "name": "羅羅亞．索隆",
         "no": 218,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0012_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "thumbnail": "character_0012_t.png",
+        "title": "刀狼流"
       },
       {
         "name": "羅羅亞．索隆",
@@ -2266,44 +2266,44 @@
         "title": "黑色海賊"
       },
       {
-        "name": "",
+        "name": "狙擊隊　武裝隊員",
         "no": 284,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "紅色海賊"
       },
       {
-        "name": "",
+        "name": "狙擊隊　武裝隊員",
         "no": 285,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0276_c1.png",
+        "skill": "skill_name_8007.png",
+        "thumbnail": "character_0276_t.png",
+        "title": "藍色海賊"
       },
       {
-        "name": "",
+        "name": "狙擊隊　武裝隊員",
         "no": 286,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "綠色海賊"
       },
       {
-        "name": "",
+        "name": "狙擊隊　武裝隊員",
         "no": 287,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "黃色海賊"
       },
       {
-        "name": "",
+        "name": "狙擊隊　武裝隊員",
         "no": 288,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "黑色海賊"
       },
       {
         "name": "",
@@ -2370,11 +2370,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "大參謀阿鶴",
         "no": 297,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0310_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0310_t.png",
         "title": ""
       },
       {
@@ -2394,7 +2394,7 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "紅色鎧甲龍蝦",
         "no": 300,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
@@ -2410,7 +2410,7 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "綠色鎧甲龍蝦",
         "no": 302,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
@@ -2426,11 +2426,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "黑色鎧甲龍蝦",
         "no": 304,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0110_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0110_t.png",
         "title": ""
       },
       {
@@ -2466,11 +2466,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "巴吉魯．霍金斯",
         "no": 309,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0332_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0332_t.png",
         "title": ""
       },
       {
@@ -2482,11 +2482,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "奇拉",
         "no": 311,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0334_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0334_t.png",
         "title": ""
       },
       {
@@ -2506,11 +2506,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "怪僧烏魯基",
         "no": 314,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0337_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0337_t.png",
         "title": ""
       },
       {
@@ -2572,10 +2572,10 @@
       {
         "name": "羅布．路基",
         "no": 322,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0373_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "thumbnail": "character_0373_t.png",
+        "title": "一號船塢鋸木、木釘工人工頭"
       },
       {
         "name": "卡古",
@@ -2826,11 +2826,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "刮盤人．亞普",
         "no": 358,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0352_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0352_t.png",
         "title": ""
       },
       {
@@ -2842,11 +2842,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "X．多雷古",
         "no": 360,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0354_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0354_t.png",
         "title": ""
       },
       {
