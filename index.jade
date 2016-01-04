@@ -26,7 +26,7 @@ html(lang="zh-Hant-HK")
 
 		script.
 			$( "img.thumbnail" ).mouseenter(function() {
-				$("#shower").html('<div class="op-flex-item-title"><h4>' + $(this).data('title') + '</h4></div><div class="op-flex-item-name"><h3>' + $(this).data('name') + '</h3></div><div class="op-flex-item"><img src="' + $(this).data('portrait') + '"><br><img src="' + $(this).data('skill') + '"></div>');
+				$("#shower").html('<div class="op-flex-item-title"><h4>' + $(this).data('title') + '</h4></div><div class="op-flex-item-name"><h3>' + $(this).data('name') + '</h3></div><div class="op-flex-item"><img src="' + $(this).data('portrait') + '"><br><img src="' + $(this).data('skill') + '" style="position: relative; top: -100px"></div>');
 			});
 
 		script.

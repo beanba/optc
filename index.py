@@ -144,7 +144,7 @@ idList = [
 {'no':135, 'id':196, 'name':'突擊隊　打雜', 'title':'黑色海賊', 'skill':8003},
 {'no':136, 'id':197, 'name':'狙擊隊　打雜', 'title':'紅色海賊'},
 {'no':137, 'id':198, 'name':'狙擊隊　打雜', 'title':'藍色海賊', 'skill':8007},
-{'no':138, 'id':199, 'name':'狙擊隊　打雜', 'title':'綠色海賊'},
+{'no':138, 'id':199, 'name':'狙擊隊　打雜', 'title':'綠色海賊', 'skill':8017},
 {'no':139, 'id':200, 'name':'狙擊隊　打雜', 'title':'黃色海賊'},
 {'no':140, 'id':201, 'name':'狙擊隊　打雜', 'title':'黑色海賊'},
 {'no':141, 'id':202, 'name':'打雜砲擊手', 'skill':8006},
@@ -165,7 +165,7 @@ idList = [
 {'no':156, 'id':217, 'name':'突擊隊員', 'title':'黑色海賊', 'skill':8003},
 {'no':157, 'id':218, 'name':'狙擊隊員', 'title':'紅色海賊', 'skill':8004},
 {'no':158, 'id':219, 'name':'狙擊隊員', 'title':'藍色海賊', 'skill':8007},
-{'no':159, 'id':220, 'name':'狙擊隊員', 'title':'綠色海賊'},
+{'no':159, 'id':220, 'name':'狙擊隊員', 'title':'綠色海賊', 'skill':8017},
 {'no':160, 'id':221, 'name':'狙擊隊員', 'title':'黃色海賊'},
 {'no':161, 'id':222, 'name':'狙擊隊員', 'title':'黑色海賊', 'skill':8004},
 {'no':162, 'id':223, 'name':'老鳥砲擊手', 'skill':8006},
@@ -184,7 +184,7 @@ idList = [
 {'no':175, 'id':73, 'name':'空手道魚人', 'title':'惡龍海賊團', 'skill':8001},
 {'no':176, 'id':74, 'name':'拿刀的魚人', 'title':'惡龍海賊團', 'skill':8002},
 {'no':177, 'id':75, 'name':'拿矛的魚人', 'title':'惡龍海賊團', 'skill':8003},
-{'no':178, 'id':76, 'name':'拿槍的魚人', 'title':'惡龍海賊團'},
+{'no':178, 'id':76, 'name':'拿槍的魚人', 'title':'惡龍海賊團', 'skill':8004},
 {'no':179, 'id':224, 'name':'戴手指虎的三等兵', 'title':'海軍', 'skill':8018},
 {'no':180, 'id':225, 'name':'佩劍的三等兵', 'title':'海軍', 'skill':8005},
 {'no':181, 'id':226, 'name':'薙刀三等兵', 'title':'海軍', 'skill':8009},
@@ -292,7 +292,7 @@ idList = [
 {'no':283, 'id':274, 'name':'突擊隊　武裝隊員', 'title':'黑色海賊', 'skill':8003},
 {'no':284, 'id':275, 'name':'狙擊隊　武裝隊員', 'title':'紅色海賊'},
 {'no':285, 'id':276, 'name':'狙擊隊　武裝隊員', 'title':'藍色海賊', 'skill':8007},
-{'no':286, 'id':277, 'name':'狙擊隊　武裝隊員', 'title':'綠色海賊'},
+{'no':286, 'id':277, 'name':'狙擊隊　武裝隊員', 'title':'綠色海賊', 'skill':8017},
 {'no':287, 'id':278, 'name':'狙擊隊　武裝隊員', 'title':'黃色海賊'},
 {'no':288, 'id':279, 'name':'狙擊隊　武裝隊員', 'title':'黑色海賊'},
 {'no':289, 'id':9999, 'name':''},
@@ -313,8 +313,8 @@ idList = [
 {'no':304, 'id':110, 'name':'黑色鎧甲龍蝦'},
 {'no':305, 'id':315, 'name':'卡普'},
 {'no':306, 'id':9999, 'name':''},
-{'no':307, 'id':9999, 'name':''},
-{'no':308, 'id':331, 'name':'托拉法爾加．羅'},
+{'no':307, 'id':330, 'name':'托拉法爾加．羅'},
+{'no':308, 'id':331, 'name':'托拉法爾加．羅', 'title':'ROOM'},
 {'no':309, 'id':332, 'name':'巴吉魯．霍金斯'},
 {'no':310, 'id':333, 'name':''},
 {'no':311, 'id':334, 'name':'奇拉'},
@@ -334,14 +334,14 @@ idList = [
 {'no':325, 'id':376, 'name':'露露', 'skill':8052},
 {'no':326, 'id':377, 'name':'露露'},
 {'no':327, 'id':9999, 'name':''},
-{'no':328, 'id':9999, 'name':''},
+{'no':328, 'id':342, 'name':'多魯頓'},
 {'no':329, 'id':9999, 'name':''},
 {'no':330, 'id':344, 'name':'傑斯'},
 {'no':331, 'id':9999, 'name':''},
 {'no':332, 'id':9999, 'name':''},
 {'no':333, 'id':9999, 'name':''},
-{'no':334, 'id':9999, 'name':''},
-{'no':335, 'id':9999, 'name':''},
+{'no':334, 'id':348, 'name':'食肉兔', 'skill':8005},
+{'no':335, 'id':349, 'name':''},
 {'no':336, 'id':9999, 'name':''},
 {'no':337, 'id':9999, 'name':''},
 {'no':338, 'id':9999, 'name':''},
@@ -428,9 +428,9 @@ for obj in idList:
 
 		if aid == sid:
 			for filename in os.listdir('png'):
-				if fnmatch.fnmatch(filename, 'motion_{0}_*_skill_name.png'.format(index)):
+				if fnmatch.fnmatch(filename, 'motion_{0}_*skill_name.png'.format(index)):
 					build['skill'] = filename
-				elif fnmatch.fnmatch(filename, 'motion_{0}_*_skill_name_0001.png'.format(index)):
+				elif fnmatch.fnmatch(filename, 'motion_{0}_*skill_name_0001.png'.format(index)):
 					build['skill'] = filename
 		else:
 			build['skill'] = 'skill_name_{0}.png'.format(str(sid).zfill(4))

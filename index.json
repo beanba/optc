@@ -1101,7 +1101,7 @@
         "name": "狙擊隊　打雜",
         "no": 138,
         "portrait": "character_0199_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8017.png",
         "thumbnail": "character_0199_t.png",
         "title": "綠色海賊"
       },
@@ -1269,7 +1269,7 @@
         "name": "狙擊隊員",
         "no": 159,
         "portrait": "character_0220_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8017.png",
         "thumbnail": "character_0220_t.png",
         "title": "綠色海賊"
       },
@@ -1421,7 +1421,7 @@
         "name": "拿槍的魚人",
         "no": 178,
         "portrait": "character_0076_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8004.png",
         "thumbnail": "character_0076_t.png",
         "title": "惡龍海賊團"
       },
@@ -1741,7 +1741,7 @@
         "name": "羅羅亞．索隆",
         "no": 218,
         "portrait": "character_0012_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0012_zoro_skill_name.png",
         "thumbnail": "character_0012_t.png",
         "title": "刀狼流"
       },
@@ -2285,7 +2285,7 @@
         "name": "狙擊隊　武裝隊員",
         "no": 286,
         "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8017.png",
         "thumbnail": "character_none.png",
         "title": "綠色海賊"
       },
@@ -2373,7 +2373,7 @@
         "name": "大參謀阿鶴",
         "no": 297,
         "portrait": "character_0310_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0310_otsuru_skill_name.png",
         "thumbnail": "character_0310_t.png",
         "title": ""
       },
@@ -2412,9 +2412,9 @@
       {
         "name": "綠色鎧甲龍蝦",
         "no": 302,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0108_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0108_t.png",
         "title": ""
       },
       {
@@ -2450,11 +2450,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "托拉法爾加．羅",
         "no": 307,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0330_c1.png",
+        "skill": "motion_0330_law_skill_name_0001.png",
+        "thumbnail": "character_0330_t.png",
         "title": ""
       },
       {
@@ -2463,13 +2463,13 @@
         "portrait": "character_0331_c1.png",
         "skill": "motion_0331_law_skill_name_0001.png",
         "thumbnail": "character_0331_t.png",
-        "title": ""
+        "title": "ROOM"
       },
       {
         "name": "巴吉魯．霍金斯",
         "no": 309,
         "portrait": "character_0332_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0332_hawkins_skill_name.png",
         "thumbnail": "character_0332_t.png",
         "title": ""
       },
@@ -2485,7 +2485,7 @@
         "name": "奇拉",
         "no": 311,
         "portrait": "character_0334_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0334_killer_skill_name.png",
         "thumbnail": "character_0334_t.png",
         "title": ""
       },
@@ -2509,7 +2509,7 @@
         "name": "怪僧烏魯基",
         "no": 314,
         "portrait": "character_0337_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0337_urouge_skill_name.png",
         "thumbnail": "character_0337_t.png",
         "title": ""
       },
@@ -2573,7 +2573,7 @@
         "name": "羅布．路基",
         "no": 322,
         "portrait": "character_0373_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0373_rob-lucci_skill_name.png",
         "thumbnail": "character_0373_t.png",
         "title": "一號船塢鋸木、木釘工人工頭"
       },
@@ -2618,11 +2618,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "多魯頓",
         "no": 328,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0342_c1.png",
+        "skill": "motion_0342_skill_name.png",
+        "thumbnail": "character_0342_t.png",
         "title": ""
       },
       {
@@ -2666,11 +2666,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "食肉兔",
         "no": 334,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0348_c1.png",
+        "skill": "skill_name_8005.png",
+        "thumbnail": "character_0348_t.png",
         "title": ""
       },
       {
@@ -2829,7 +2829,7 @@
         "name": "刮盤人．亞普",
         "no": 358,
         "portrait": "character_0352_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0352_apoo_skill_name.png",
         "thumbnail": "character_0352_t.png",
         "title": ""
       },
@@ -2845,7 +2845,7 @@
         "name": "X．多雷古",
         "no": 360,
         "portrait": "character_0354_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0354_xdrake_skill_name.png",
         "thumbnail": "character_0354_t.png",
         "title": ""
       },
