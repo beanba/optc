@@ -1762,12 +1762,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "娜美",
         "no": 221,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0017_c1.png",
+        "skill": "motion_0017_nami_skill_name.png",
+        "thumbnail": "character_0017_t.png",
+        "title": "幸福的一擊"
       },
       {
         "name": "",
@@ -1884,7 +1884,7 @@
       {
         "name": "",
         "no": 236,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0247_c1.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
         "title": ""
@@ -2034,11 +2034,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "花劍比斯塔",
         "no": 255,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0323_c1.png",
+        "skill": "motion_0323_vista_skill_name.png",
+        "thumbnail": "character_0323_t.png",
         "title": ""
       },
       {
@@ -2172,9 +2172,9 @@
       {
         "name": "格鬥隊　武裝隊員",
         "no": 272,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0263_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0263_t.png",
         "title": "黃色海賊"
       },
       {
@@ -2186,51 +2186,51 @@
         "title": "黑色海賊"
       },
       {
-        "name": "",
+        "name": "斬擊隊　武裝隊員",
         "no": 274,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "紅色海賊"
       },
       {
-        "name": "",
+        "name": "斬擊隊　武裝隊員",
         "no": 275,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0266_c1.png",
         "skill": "skill_name_8007.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "thumbnail": "character_0266_t.png",
+        "title": "藍色海賊"
       },
       {
-        "name": "",
+        "name": "斬擊隊　武裝隊員",
         "no": 276,
         "portrait": "character_9999_t.png",
         "skill": "skill_name_8019.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "綠色海賊"
       },
       {
-        "name": "",
+        "name": "斬擊隊　武裝隊員",
         "no": 277,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "黃色海賊"
       },
       {
-        "name": "",
+        "name": "斬擊隊　武裝隊員",
         "no": 278,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "黑色海賊"
       },
       {
         "name": "突擊隊　武裝隊員",
         "no": 279,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0270_c1.png",
+        "skill": "skill_name_8033.png",
+        "thumbnail": "character_0270_t.png",
         "title": "紅色海賊"
       },
       {
@@ -2474,11 +2474,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "魔術師巴吉魯．霍金斯",
         "no": 310,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0333_c1.png",
+        "skill": "motion_0333_hawkins_skill_name.png",
+        "thumbnail": "character_0333_t.png",
         "title": ""
       },
       {
@@ -2642,11 +2642,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "克羅馬利蒙",
         "no": 331,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0345_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0345_t.png",
         "title": ""
       },
       {
@@ -2682,11 +2682,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "佛朗基",
         "no": 336,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0395_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0395_t.png",
         "title": ""
       },
       {
@@ -2698,17 +2698,17 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "基威",
         "no": 338,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0397_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0397_t.png",
         "title": ""
       },
       {
         "name": "",
         "no": 339,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0398_c1.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
         "title": ""
@@ -2890,19 +2890,19 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "席爾巴斯．雷利",
         "no": 366,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0360_c1.png",
+        "skill": "motion_0360_rayleigh_skill_name.png",
+        "thumbnail": "character_0360_t.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "冥王雷利",
         "no": 367,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0361_c1.png",
+        "skill": "motion_0361_rayleigh_skill_name.png",
+        "thumbnail": "character_0361_t.png",
         "title": ""
       },
       {
