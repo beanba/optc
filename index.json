@@ -1029,7 +1029,7 @@
         "name": "斬擊隊　打雜",
         "no": 129,
         "portrait": "character_0190_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8031.png",
         "thumbnail": "character_0190_t.png",
         "title": "黃色海賊"
       },
@@ -1085,7 +1085,7 @@
         "name": "狙擊隊　打雜",
         "no": 136,
         "portrait": "character_0197_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8004.png",
         "thumbnail": "character_0197_t.png",
         "title": "紅色海賊"
       },
@@ -1117,7 +1117,7 @@
         "name": "狙擊隊　打雜",
         "no": 140,
         "portrait": "character_0201_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8004.png",
         "thumbnail": "character_0201_t.png",
         "title": "黑色海賊"
       },
@@ -1197,7 +1197,7 @@
         "name": "斬擊隊員",
         "no": 150,
         "portrait": "character_0211_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8031.png",
         "thumbnail": "character_0211_t.png",
         "title": "黃色海賊"
       },
@@ -1970,11 +1970,11 @@
         "title": "巴洛克華克"
       },
       {
-        "name": "",
+        "name": "喬巴超人",
         "no": 247,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0367_c1.png",
+        "skill": "motion_0367_chopperman_skill_name.png",
+        "thumbnail": "character_0367_t.png",
         "title": ""
       },
       {
@@ -2157,7 +2157,7 @@
         "name": "格鬥隊　武裝隊員",
         "no": 270,
         "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8006.png",
         "thumbnail": "character_none.png",
         "title": "藍色海賊"
       },
@@ -2173,7 +2173,7 @@
         "name": "格鬥隊　武裝隊員",
         "no": 272,
         "portrait": "character_0263_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8006.png",
         "thumbnail": "character_0263_t.png",
         "title": "黃色海賊"
       },
@@ -2212,9 +2212,9 @@
       {
         "name": "斬擊隊　武裝隊員",
         "no": 277,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0268_c1.png",
+        "skill": "skill_name_8031.png",
+        "thumbnail": "character_0268_t.png",
         "title": "黃色海賊"
       },
       {
@@ -2269,7 +2269,7 @@
         "name": "狙擊隊　武裝隊員",
         "no": 284,
         "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8004.png",
         "thumbnail": "character_none.png",
         "title": "紅色海賊"
       },
@@ -2300,9 +2300,9 @@
       {
         "name": "狙擊隊　武裝隊員",
         "no": 288,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0279_c1.png",
+        "skill": "skill_name_8004.png",
+        "thumbnail": "character_0279_t.png",
         "title": "黑色海賊"
       },
       {
@@ -2685,7 +2685,7 @@
         "name": "佛朗基",
         "no": 336,
         "portrait": "character_0395_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0395_franky_skill_name.png",
         "thumbnail": "character_0395_t.png",
         "title": ""
       },
@@ -2701,16 +2701,16 @@
         "name": "基威",
         "no": 338,
         "portrait": "character_0397_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8053.png",
         "thumbnail": "character_0397_t.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "摩茲",
         "no": 339,
         "portrait": "character_0398_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "skill": "skill_name_8054.png",
+        "thumbnail": "character_0398_t.png",
         "title": ""
       },
       {
