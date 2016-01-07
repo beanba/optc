@@ -1882,12 +1882,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "Miss星期一",
         "no": 236,
         "portrait": "character_0247_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "thumbnail": "character_0247_t.png",
+        "title": "怪．力　金剛拳"
       },
       {
         "name": "戴手指虎的百萬長者",
@@ -2114,11 +2114,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "貝魯梅柏中士",
         "no": 265,
         "portrait": "character_0308_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0308_t.png",
         "title": ""
       },
       {
@@ -2306,11 +2306,11 @@
         "title": "黑色海賊"
       },
       {
-        "name": "",
+        "name": "俐落的砲擊手",
         "no": 289,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0280_c1.png",
+        "skill": "skill_name_8006.png",
+        "thumbnail": "character_0280_t.png",
         "title": ""
       },
       {
