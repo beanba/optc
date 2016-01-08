@@ -981,7 +981,7 @@
         "name": "格鬥隊　打雜",
         "no": 123,
         "portrait": "character_0184_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8008.png",
         "thumbnail": "character_0184_t.png",
         "title": "綠色海賊"
       },
@@ -1109,7 +1109,7 @@
         "name": "狙擊隊　打雜",
         "no": 139,
         "portrait": "character_0200_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8027.png",
         "thumbnail": "character_0200_t.png",
         "title": "黃色海賊"
       },
@@ -1149,7 +1149,7 @@
         "name": "格鬥隊員",
         "no": 144,
         "portrait": "character_0205_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8008.png",
         "thumbnail": "character_0205_t.png",
         "title": "綠色海賊"
       },
@@ -1277,7 +1277,7 @@
         "name": "狙擊隊員",
         "no": 160,
         "portrait": "character_0221_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8027.png",
         "thumbnail": "character_0221_t.png",
         "title": "黃色海賊"
       },
@@ -1885,7 +1885,7 @@
         "name": "Miss星期一",
         "no": 236,
         "portrait": "character_0247_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0247_miss.monday_skill_name.png",
         "thumbnail": "character_0247_t.png",
         "title": "怪．力　金剛拳"
       },
@@ -2101,7 +2101,7 @@
         "name": "克比上士",
         "no": 263,
         "portrait": "character_0306_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0306_coby_skill_name.png",
         "thumbnail": "character_0306_t.png",
         "title": ""
       },
@@ -2117,7 +2117,7 @@
         "name": "貝魯梅柏中士",
         "no": 265,
         "portrait": "character_0308_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0308_helmeppo_skill_name.png",
         "thumbnail": "character_0308_t.png",
         "title": ""
       },
@@ -2156,16 +2156,16 @@
       {
         "name": "格鬥隊　武裝隊員",
         "no": 270,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0261_c1.png",
         "skill": "skill_name_8006.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0261_t.png",
         "title": "藍色海賊"
       },
       {
         "name": "格鬥隊　武裝隊員",
         "no": 271,
         "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8008.png",
         "thumbnail": "character_none.png",
         "title": "綠色海賊"
       },
@@ -2189,7 +2189,7 @@
         "name": "斬擊隊　武裝隊員",
         "no": 274,
         "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8002.png",
         "thumbnail": "character_none.png",
         "title": "紅色海賊"
       },
@@ -2221,7 +2221,7 @@
         "name": "斬擊隊　武裝隊員",
         "no": 278,
         "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8002.png",
         "thumbnail": "character_none.png",
         "title": "黑色海賊"
       },
@@ -2244,9 +2244,9 @@
       {
         "name": "突擊隊　武裝隊員",
         "no": 281,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0272_c1.png",
         "skill": "skill_name_8019.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0272_t.png",
         "title": "綠色海賊"
       },
       {
@@ -2260,9 +2260,9 @@
       {
         "name": "突擊隊　武裝隊員",
         "no": 283,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0274_c1.png",
         "skill": "skill_name_8003.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0274_t.png",
         "title": "黑色海賊"
       },
       {
@@ -2292,9 +2292,9 @@
       {
         "name": "狙擊隊　武裝隊員",
         "no": 287,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0278_c1.png",
+        "skill": "skill_name_8027.png",
+        "thumbnail": "character_0278_t.png",
         "title": "黃色海賊"
       },
       {
@@ -2970,12 +2970,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "月光．摩利亞",
         "no": 414,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0438_c1.png",
+        "skill": "motion_0438_moria_skill_name.png",
+        "thumbnail": "character_0438_t.png",
+        "title": "王下七武海"
       },
       {
         "name": "",
