@@ -1690,12 +1690,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "Mr.9",
         "no": 212,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0236_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "thumbnail": "character_0236_t.png",
+        "title": "熱血9號後空翻"
       },
       {
         "name": "拉布",
@@ -1818,11 +1818,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "逃獄的蒙卡",
         "no": 228,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0311_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0311_t.png",
         "title": ""
       },
       {
@@ -2188,9 +2188,9 @@
       {
         "name": "斬擊隊　武裝隊員",
         "no": 274,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0265_c1.png",
         "skill": "skill_name_8002.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0265_t.png",
         "title": "紅色海賊"
       },
       {
@@ -2220,9 +2220,9 @@
       {
         "name": "斬擊隊　武裝隊員",
         "no": 278,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0269_c1.png",
         "skill": "skill_name_8002.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0269_t.png",
         "title": "黑色海賊"
       },
       {
@@ -2268,9 +2268,9 @@
       {
         "name": "狙擊隊　武裝隊員",
         "no": 284,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0275_c1.png",
         "skill": "skill_name_8004.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0275_t.png",
         "title": "紅色海賊"
       },
       {
@@ -2284,9 +2284,9 @@
       {
         "name": "狙擊隊　武裝隊員",
         "no": 286,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0277_c1.png",
         "skill": "skill_name_8017.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0277_t.png",
         "title": "綠色海賊"
       },
       {
@@ -2442,11 +2442,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "鐵拳卡普",
         "no": 306,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0316_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0316_t.png",
         "title": ""
       },
       {
