@@ -1612,7 +1612,7 @@
       {
         "name": "Miss情人節",
         "no": 202,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0243_c1.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
         "title": ""
@@ -1628,8 +1628,8 @@
       {
         "name": "Mr.3",
         "no": 204,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_0251_c1.png",
+        "skill": "motion_0251_mr.3_skill_name.png",
         "thumbnail": "character_0251_t.png",
         "title": ""
       },
@@ -1642,12 +1642,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "Miss黃金週",
         "no": 206,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0253_c1.png",
+        "skill": "motion_0253_miss.goldenweek_skill_name.png",
+        "thumbnail": "character_0253_t.png",
+        "title": "彩色陷阱　悠閒之綠"
       },
       {
         "name": "Mr.2　馮．克雷",
@@ -1693,7 +1693,7 @@
         "name": "Mr.9",
         "no": 212,
         "portrait": "character_0236_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0236_mr.9_skill_name.png",
         "thumbnail": "character_0236_t.png",
         "title": "熱血9號後空翻"
       },
@@ -1989,7 +1989,7 @@
         "name": "多尼多尼．喬巴",
         "no": 249,
         "portrait": "character_0034_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0034_chopper_skill_name.png",
         "thumbnail": "character_0034_t.png",
         "title": "暴走後"
       },
@@ -2204,9 +2204,9 @@
       {
         "name": "斬擊隊　武裝隊員",
         "no": 276,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0267_c1.png",
         "skill": "skill_name_8019.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0267_t.png",
         "title": "綠色海賊"
       },
       {
@@ -2404,9 +2404,9 @@
       {
         "name": "藍色鎧甲龍蝦",
         "no": 301,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0107_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0107_t.png",
         "title": ""
       },
       {
@@ -2445,7 +2445,7 @@
         "name": "鐵拳卡普",
         "no": 306,
         "portrait": "character_0316_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0316_garp_skill_name.png",
         "thumbnail": "character_0316_t.png",
         "title": ""
       },
@@ -2588,10 +2588,10 @@
       {
         "name": "卡古",
         "no": 324,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0375_c1.png",
+        "skill": "motion_0375_kaku_skill_name.png",
+        "thumbnail": "character_0375_t.png",
+        "title": "一號船塢木工工人工頭"
       },
       {
         "name": "露露",
@@ -2674,12 +2674,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "食肉兔",
         "no": 335,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0349_c1.png",
+        "skill": "skill_name_8005.png",
+        "thumbnail": "character_0349_t.png",
+        "title": "成獸"
       },
       {
         "name": "佛朗基",
@@ -2690,11 +2690,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "解體商佛朗基",
         "no": 337,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0396_c1.png",
+        "skill": "motion_0396_franky_skill_name.png",
+        "thumbnail": "character_0396_t.png",
         "title": ""
       },
       {
