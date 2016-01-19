@@ -1714,11 +1714,11 @@
         "title": "被魯夫塗鴉的"
       },
       {
-        "name": "",
+        "name": "大王烏賊",
         "no": 215,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0259_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0259_t.png",
         "title": ""
       },
       {
@@ -2042,7 +2042,7 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "以藏",
         "no": 256,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
@@ -2050,9 +2050,9 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "短槍以藏",
         "no": 257,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0325_c1.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
         "title": ""
@@ -2314,9 +2314,9 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "Mr.13&Miss.13號星期五（不吉利）",
         "no": 290,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0286_c1.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
         "title": ""
@@ -2714,12 +2714,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "大海怪",
         "no": 340,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0399_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "thumbnail": "character_0399_t.png",
+        "title": "魷魚"
       },
       {
         "name": "",
@@ -2730,15 +2730,15 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "紅色能量豬",
         "no": 342,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0405_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0405_t.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "藍色能量豬",
         "no": 343,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
@@ -2746,7 +2746,7 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "綠色能量豬",
         "no": 344,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
@@ -2754,7 +2754,7 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "黃色能量豬",
         "no": 345,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
@@ -2762,7 +2762,7 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "黑色能量豬",
         "no": 346,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
@@ -3098,7 +3098,7 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "月光．摩利亞",
         "no": 413,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
@@ -3122,12 +3122,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "波雅．漢考克",
         "no": 416,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0440_c1.png",
+        "skill": "motion_0440_hankook_skill_name.png",
+        "thumbnail": "character_0440_t.png",
+        "title": "王下七武海"
       },
       {
         "name": "",
