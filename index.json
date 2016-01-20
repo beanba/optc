@@ -1717,7 +1717,7 @@
         "name": "大王烏賊",
         "no": 215,
         "portrait": "character_0259_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8051.png",
         "thumbnail": "character_0259_t.png",
         "title": ""
       },
@@ -2322,17 +2322,17 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "多利",
         "no": 291,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0287_c1.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "布羅基",
         "no": 292,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0288_c1.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
         "title": ""
@@ -2717,7 +2717,7 @@
         "name": "大海怪",
         "no": 340,
         "portrait": "character_0399_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0399_kraken_skill_name.png",
         "thumbnail": "character_0399_t.png",
         "title": "魷魚"
       },
@@ -2740,9 +2740,9 @@
       {
         "name": "藍色能量豬",
         "no": 343,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0406_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0406_t.png",
         "title": ""
       },
       {
@@ -2770,23 +2770,23 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "紅寶石能量豬",
         "no": 347,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0410_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0410_t.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "藍寶石能量豬",
         "no": 348,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0411_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0411_t.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "綠寶石能量豬",
         "no": 349,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
@@ -2794,7 +2794,7 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "黃寶石能量豬",
         "no": 350,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
@@ -2802,7 +2802,7 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "黑寶石能量豬",
         "no": 351,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
