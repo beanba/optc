@@ -2021,7 +2021,7 @@
         "name": "鑽石裘斯",
         "no": 253,
         "portrait": "character_0321_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0321_joz_skill_name.png",
         "thumbnail": "character_0321_t.png",
         "title": ""
       },
@@ -2396,9 +2396,9 @@
       {
         "name": "紅色鎧甲龍蝦",
         "no": 300,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0106_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0106_t.png",
         "title": ""
       },
       {
@@ -2602,7 +2602,7 @@
         "title": ""
       },
       {
-        "name": "露露",
+        "name": "",
         "no": 326,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
@@ -2613,7 +2613,7 @@
         "name": "",
         "no": 327,
         "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0341_skill_name.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -2722,12 +2722,12 @@
         "title": "魷魚"
       },
       {
-        "name": "",
+        "name": "大海怪",
         "no": 341,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0400_c1.png",
+        "skill": "motion_0400_kraken_skill_name.png",
+        "thumbnail": "character_0400_t.png",
+        "title": "北極的怪物"
       },
       {
         "name": "紅色能量豬",
