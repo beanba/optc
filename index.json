@@ -1994,7 +1994,7 @@
         "title": "暴走後"
       },
       {
-        "name": "",
+        "name": "馬可",
         "no": 250,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
@@ -2002,11 +2002,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "不死鳥馬可",
         "no": 251,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0319_c1.png",
+        "skill": "motion_0319_marco_skill_name.png",
+        "thumbnail": "character_0319_t.png",
         "title": ""
       },
       {
@@ -3050,10 +3050,10 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "艾波利歐．伊娃柯夫",
         "no": 390,
         "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0402_ivankov_skill_name.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
