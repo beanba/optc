@@ -1614,7 +1614,7 @@
         "no": 202,
         "portrait": "character_0243_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0243_t.png",
         "title": ""
       },
       {
@@ -1850,11 +1850,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "黑檻的希娜",
         "no": 232,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0303_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0303_t.png",
         "title": ""
       },
       {
@@ -2082,9 +2082,9 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "艾德華．紐蓋特",
         "no": 261,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0329_c1.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
         "title": ""
