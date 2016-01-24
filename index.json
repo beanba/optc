@@ -1613,9 +1613,9 @@
         "name": "Miss情人節",
         "no": 202,
         "portrait": "character_0243_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0243_miss.valentine_guillotine_skill_name.png",
         "thumbnail": "character_0243_t.png",
-        "title": ""
+        "title": "一萬公斤泰山壓頂"
       },
       {
         "name": "Mr.3",
@@ -1853,7 +1853,7 @@
         "name": "黑檻的希娜",
         "no": 232,
         "portrait": "character_0303_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0303_hina_blackcage_skill_name.png",
         "thumbnail": "character_0303_t.png",
         "title": ""
       },
