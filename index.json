@@ -2082,11 +2082,11 @@
         "title": ""
       },
       {
-        "name": "艾德華．紐蓋特",
+        "name": "白鬍子",
         "no": 261,
         "portrait": "character_0329_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "skill": "motion_0329_edward-newgate_skill_name.png",
+        "thumbnail": "character_0329_t.png",
         "title": ""
       },
       {
@@ -2122,11 +2122,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "彩虹海賊企鵝",
         "no": 266,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0093_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0093_t.png",
         "title": ""
       },
       {
@@ -2810,7 +2810,7 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "基德",
         "no": 356,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
@@ -2818,11 +2818,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "船長基德",
         "no": 357,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0351_c1.png",
+        "skill": "motion_0351_kid_skill_name.png",
+        "thumbnail": "character_0351_t.png",
         "title": ""
       },
       {
@@ -3082,7 +3082,7 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "巴索羅繆．大熊",
         "no": 411,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
@@ -3090,12 +3090,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "巴索羅繆．大熊",
         "no": 412,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0436_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "thumbnail": "character_0436_t.png",
+        "title": "王下七武海"
       },
       {
         "name": "月光．摩利亞",
