@@ -2060,9 +2060,9 @@
       {
         "name": "布朗明哥",
         "no": 258,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0326_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0326_t.png",
         "title": ""
       },
       {
@@ -2314,12 +2314,12 @@
         "title": ""
       },
       {
-        "name": "Mr.13&Miss.13號星期五（不吉利）",
+        "name": "Mr.13 & Miss星期五",
         "no": 290,
         "portrait": "character_0286_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "thumbnail": "character_0286_t.png",
+        "title": "不吉利二人組"
       },
       {
         "name": "多利",
@@ -3130,20 +3130,20 @@
         "title": "王下七武海"
       },
       {
-        "name": "",
+        "name": "唐吉訶德．多佛朗明哥",
         "no": 417,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0442_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0442_t.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "唐吉訶德．多佛朗明哥",
         "no": 418,
         "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0443_doflamingo_skill_name.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "王下七武海"
       },
       {
         "name": "",
