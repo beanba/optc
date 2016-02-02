@@ -1858,17 +1858,17 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "Mr.8",
         "no": 233,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0244_c1.png",
         "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0244_t.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "Mr.8",
         "no": 234,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0245_c1.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
         "title": ""
@@ -2802,7 +2802,7 @@
         "title": ""
       },
       {
-        "name": "黑寶石能量豬",
+        "name": "紫水晶能量豬",
         "no": 351,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
@@ -3036,6 +3036,38 @@
       {
         "name": "",
         "no": 384,
+        "portrait": "character_9999_t.png",
+        "skill": "character_9999_t.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "赫古巴庫",
+        "no": 385,
+        "portrait": "character_0419_c1.png",
+        "skill": "character_9999_t.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 386,
+        "portrait": "character_9999_t.png",
+        "skill": "character_9999_t.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 387,
+        "portrait": "character_9999_t.png",
+        "skill": "character_9999_t.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 388,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
         "thumbnail": "character_none.png",
