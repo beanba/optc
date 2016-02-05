@@ -393,6 +393,22 @@ idList = [
 {'no':388, 'id':422, 'name':'辛朵莉'},
 {'no':389, 'id':401, 'name':'艾波利歐．伊娃柯夫'},
 {'no':390, 'id':402, 'name':'艾波利歐．伊娃柯夫'},
+{'no':391, 'id':9999, 'name':''},
+{'no':392, 'id':9999, 'name':''},
+{'no':393, 'id':9999, 'name':''},
+{'no':394, 'id':9999, 'name':''},
+{'no':395, 'id':9999, 'name':''},
+{'no':396, 'id':9999, 'name':''},
+{'no':397, 'id':9999, 'name':''},
+{'no':398, 'id':9999, 'name':''},
+{'no':399, 'id':9999, 'name':''},
+{'no':400, 'id':9999, 'name':''},
+{'no':401, 'id':9999, 'name':''},
+{'no':402, 'id':9999, 'name':''},
+{'no':404, 'id':9999, 'name':''},
+{'no':405, 'id':9999, 'name':''},
+{'no':406, 'id':9999, 'name':''},
+{'no':407, 'id':9999, 'name':''},
 {'no':408, 'id':9999, 'name':''},
 {'no':409, 'id':381, 'name':'吉貝爾'},
 {'no':410, 'id':9999, 'name':''},
@@ -404,12 +420,110 @@ idList = [
 {'no':416, 'id':440, 'name':'波雅．漢考克', 'title':'王下七武海'},
 {'no':417, 'id':442, 'name':'唐吉訶德．多佛朗明哥'},
 {'no':418, 'id':443, 'name':'唐吉訶德．多佛朗明哥', 'title':'王下七武海'},
+{'no':423, 'id':9999, 'name':''},
+{'no':424, 'id':9999, 'name':''},
+{'no':425, 'id':9999, 'name':''},
+{'no':426, 'id':9999, 'name':''},
+{'no':427, 'id':9999, 'name':''},
+{'no':428, 'id':9999, 'name':''},
+{'no':429, 'id':9999, 'name':''},
+{'no':430, 'id':9999, 'name':''},
+{'no':431, 'id':9999, 'name':''},
+{'no':432, 'id':9999, 'name':''},
+{'no':437, 'id':9999, 'name':''},
+{'no':438, 'id':9999, 'name':''},
+{'no':439, 'id':9999, 'name':''},
+{'no':440, 'id':9999, 'name':''},
 {'no':446, 'id':9999, 'name':''},
 {'no':447, 'id':9999, 'name':''},
+{'no':448, 'id':9999, 'name':''},
+{'no':449, 'id':9999, 'name':''},
+{'no':450, 'id':9999, 'name':''},
+{'no':451, 'id':9999, 'name':''},
+{'no':452, 'id':9999, 'name':''},
+{'no':453, 'id':9999, 'name':''},
+{'no':454, 'id':9999, 'name':''},
+{'no':455, 'id':9999, 'name':''},
+{'no':456, 'id':9999, 'name':''},
+{'no':457, 'id':9999, 'name':''},
+{'no':458, 'id':9999, 'name':''},
+{'no':459, 'id':9999, 'name':''},
+{'no':463, 'id':9999, 'name':''},
+{'no':464, 'id':9999, 'name':''},
+{'no':465, 'id':9999, 'name':''},
+{'no':466, 'id':9999, 'name':''},
+{'no':467, 'id':9999, 'name':''},
+{'no':468, 'id':9999, 'name':''},
+{'no':469, 'id':9999, 'name':''},
+{'no':470, 'id':9999, 'name':''},
+{'no':471, 'id':9999, 'name':''},
+{'no':472, 'id':9999, 'name':''},
+{'no':473, 'id':9999, 'name':''},
+{'no':474, 'id':9999, 'name':''},
+{'no':475, 'id':9999, 'name':''},
+{'no':476, 'id':9999, 'name':''},
+{'no':477, 'id':9999, 'name':''},
+{'no':478, 'id':9999, 'name':''},
+{'no':479, 'id':9999, 'name':''},
+{'no':480, 'id':9999, 'name':''},
+{'no':481, 'id':9999, 'name':''},
+{'no':482, 'id':9999, 'name':''},
+{'no':483, 'id':9999, 'name':''},
+{'no':484, 'id':9999, 'name':''},
+{'no':485, 'id':9999, 'name':''},
+{'no':486, 'id':9999, 'name':''},
+{'no':487, 'id':9999, 'name':''},
+{'no':488, 'id':9999, 'name':''},
+{'no':489, 'id':9999, 'name':''},
+{'no':490, 'id':9999, 'name':''},
+{'no':491, 'id':9999, 'name':''},
+{'no':492, 'id':9999, 'name':''},
+{'no':493, 'id':9999, 'name':''},
+{'no':494, 'id':9999, 'name':''},
+{'no':495, 'id':9999, 'name':''},
+{'no':496, 'id':9999, 'name':''},
+{'no':497, 'id':9999, 'name':''},
+{'no':498, 'id':9999, 'name':''},
+{'no':499, 'id':9999, 'name':''},
+{'no':500, 'id':9999, 'name':''},
+{'no':501, 'id':9999, 'name':''},
+{'no':502, 'id':9999, 'name':''},
+{'no':503, 'id':9999, 'name':''},
+{'no':504, 'id':9999, 'name':''},
+{'no':505, 'id':9999, 'name':''},
+{'no':506, 'id':9999, 'name':''},
+{'no':507, 'id':9999, 'name':''},
+{'no':508, 'id':9999, 'name':''},
 {'no':529, 'id':9999, 'name':''},
 {'no':530, 'id':9999, 'name':''},
+{'no':541, 'id':9999, 'name':''},
+{'no':542, 'id':9999, 'name':''},
+{'no':543, 'id':9999, 'name':''},
+{'no':544, 'id':9999, 'name':''},
+{'no':545, 'id':9999, 'name':''},
+{'no':546, 'id':9999, 'name':''},
 {'no':561, 'id':9999, 'name':''},
-{'no':562, 'id':9999, 'name':''}
+{'no':562, 'id':9999, 'name':''},
+{'no':614, 'id':9999, 'name':''},
+{'no':615, 'id':9999, 'name':''},
+{'no':616, 'id':9999, 'name':''},
+{'no':617, 'id':9999, 'name':''},
+{'no':618, 'id':9999, 'name':''},
+{'no':619, 'id':9999, 'name':''},
+{'no':620, 'id':9999, 'name':''},
+{'no':621, 'id':9999, 'name':''},
+{'no':622, 'id':9999, 'name':''},
+{'no':623, 'id':9999, 'name':''},
+{'no':624, 'id':9999, 'name':''},
+{'no':625, 'id':9999, 'name':''},
+{'no':626, 'id':9999, 'name':''},
+{'no':627, 'id':9999, 'name':''},
+{'no':628, 'id':9999, 'name':''},
+{'no':629, 'id':9999, 'name':''},
+{'no':630, 'id':9999, 'name':''},
+{'no':631, 'id':9999, 'name':''},
+{'no':632, 'id':9999, 'name':''},
+{'no':633, 'id':9999, 'name':''}
 ]
 
 rtn = {
@@ -424,8 +538,8 @@ for obj in idList:
 	build['name'] = obj['name']
 	build['title'] = obj['title'] if 'title' in obj else ''
 	build['thumbnail'] = 'character_none.png'
-	build['portrait'] = 'character_9999_t.png'
-	build['skill'] = 'character_9999_t.png'
+	build['portrait'] = 'character_9999_t1.png'
+	build['skill'] = 'character_9999_t1.png'
 
 	aid = obj['id']
 
@@ -440,11 +554,14 @@ for obj in idList:
 
 		index = str(aid).zfill(4)
 
-		thumbnail = 'character_{0}_t.png'.format(index)
+		thumbnail = 'character_{0}_t1.png'.format(index)
+		thumbnail_old = 'character_{0}_t.png'.format(index)
 		portrait = 'character_{0}_c1.png'.format(index)
 
 		if os.path.exists('png/' + thumbnail):
 			build['thumbnail'] = thumbnail
+		elif os.path.exists('png/' + thumbnail_old):
+		  build['thumbnail'] = thumbnail_old
 
 		if os.path.exists('png/' + portrait):
 			build['portrait'] = portrait

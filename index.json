@@ -6,7 +6,7 @@
         "no": 1,
         "portrait": "character_0001_c1.png",
         "skill": "motion_0001_lufFy_skill_name.png",
-        "thumbnail": "character_0001_t.png",
+        "thumbnail": "character_0001_t1.png",
         "title": ""
       },
       {
@@ -14,7 +14,7 @@
         "no": 2,
         "portrait": "character_0002_c1.png",
         "skill": "motion_0002_luffy_skill_name.png",
-        "thumbnail": "character_0002_t.png",
+        "thumbnail": "character_0002_t1.png",
         "title": "伸縮自如的橡膠槍"
       },
       {
@@ -22,7 +22,7 @@
         "no": 3,
         "portrait": "character_0003_c1.png",
         "skill": "motion_0003_luffy_skill_name.png",
-        "thumbnail": "character_0003_t.png",
+        "thumbnail": "character_0003_t1.png",
         "title": "伸縮自如的橡膠火箭砲"
       },
       {
@@ -30,7 +30,7 @@
         "no": 4,
         "portrait": "character_0008_c1.png",
         "skill": "motion_0008_luffy_skill_name.png",
-        "thumbnail": "character_0008_t.png",
+        "thumbnail": "character_0008_t1.png",
         "title": "２檔"
       },
       {
@@ -38,7 +38,7 @@
         "no": 5,
         "portrait": "character_0009_c1.png",
         "skill": "motion_0009_zoro_skill_name.png",
-        "thumbnail": "character_0009_t.png",
+        "thumbnail": "character_0009_t1.png",
         "title": ""
       },
       {
@@ -46,7 +46,7 @@
         "no": 6,
         "portrait": "character_0010_c1.png",
         "skill": "motion_0010_zoro_skill_name.png",
-        "thumbnail": "character_0010_t.png",
+        "thumbnail": "character_0010_t1.png",
         "title": "三．千．世．界"
       },
       {
@@ -54,7 +54,7 @@
         "no": 7,
         "portrait": "character_0011_c1.png",
         "skill": "motion_0011_zoro_skill_name.png",
-        "thumbnail": "character_0011_t.png",
+        "thumbnail": "character_0011_t1.png",
         "title": "煩惱鳳"
       },
       {
@@ -62,7 +62,7 @@
         "no": 8,
         "portrait": "character_0013_c1.png",
         "skill": "motion_0013_zoro_skill_name.png",
-        "thumbnail": "character_0013_t.png",
+        "thumbnail": "character_0013_t1.png",
         "title": "鬼氣　九刀流　阿修羅壹霧銀"
       },
       {
@@ -70,7 +70,7 @@
         "no": 9,
         "portrait": "character_0014_c1.png",
         "skill": "motion_0014_nami_skill_name.png",
-        "thumbnail": "character_0014_t.png",
+        "thumbnail": "character_0014_t1.png",
         "title": ""
       },
       {
@@ -78,7 +78,7 @@
         "no": 10,
         "portrait": "character_0015_c1.png",
         "skill": "motion_0015_nami_skill_name.png",
-        "thumbnail": "character_0015_t.png",
+        "thumbnail": "character_0015_t1.png",
         "title": "龍捲風天候"
       },
       {
@@ -86,7 +86,7 @@
         "no": 11,
         "portrait": "character_0016_c1.png",
         "skill": "motion_0016_nami_skill_name.png",
-        "thumbnail": "character_0016_t.png",
+        "thumbnail": "character_0016_t1.png",
         "title": "海市蜃樓天候"
       },
       {
@@ -94,7 +94,7 @@
         "no": 12,
         "portrait": "character_0018_c1.png",
         "skill": "motion_0018_nami_skill_name.png",
-        "thumbnail": "character_0018_t.png",
+        "thumbnail": "character_0018_t1.png",
         "title": "雷霆天候"
       },
       {
@@ -102,7 +102,7 @@
         "no": 13,
         "portrait": "character_0019_c1.png",
         "skill": "motion_0019_usopp_skill_name.png",
-        "thumbnail": "character_0019_t.png",
+        "thumbnail": "character_0019_t1.png",
         "title": ""
       },
       {
@@ -110,7 +110,7 @@
         "no": 14,
         "portrait": "character_0020_c1.png",
         "skill": "motion_0020_usopp_skill_name.png",
-        "thumbnail": "character_0020_t.png",
+        "thumbnail": "character_0020_t1.png",
         "title": "墨西哥辣椒星"
       },
       {
@@ -118,7 +118,7 @@
         "no": 15,
         "portrait": "character_0022_c1.png",
         "skill": "motion_0022_usopp_skill_name.png",
-        "thumbnail": "character_0022_t.png",
+        "thumbnail": "character_0022_t1.png",
         "title": "黃金鐵鎚"
       },
       {
@@ -126,7 +126,7 @@
         "no": 16,
         "portrait": "character_0023_c1.png",
         "skill": "motion_0023_sogeking_skill_name.png",
-        "thumbnail": "character_0023_t.png",
+        "thumbnail": "character_0023_t1.png",
         "title": ""
       },
       {
@@ -134,7 +134,7 @@
         "no": 17,
         "portrait": "character_0024_c1.png",
         "skill": "motion_0024_sanji_skill_name.png",
-        "thumbnail": "character_0024_t.png",
+        "thumbnail": "character_0024_t1.png",
         "title": ""
       },
       {
@@ -142,7 +142,7 @@
         "no": 18,
         "portrait": "character_0025_c1.png",
         "skill": "motion_0025_sanji_skill_name.png",
-        "thumbnail": "character_0025_t.png",
+        "thumbnail": "character_0025_t1.png",
         "title": "整形SHOT"
       },
       {
@@ -150,7 +150,7 @@
         "no": 19,
         "portrait": "character_0026_c1.png",
         "skill": "motion_0026_sanji_skill_name.png",
-        "thumbnail": "character_0026_t.png",
+        "thumbnail": "character_0026_t1.png",
         "title": "燒石燉菜"
       },
       {
@@ -158,7 +158,7 @@
         "no": 20,
         "portrait": "character_0027_c1.png",
         "skill": "motion_0027_sanji_skill_name.png",
-        "thumbnail": "character_0027_t.png",
+        "thumbnail": "character_0027_t1.png",
         "title": "惡魔風腳"
       },
       {
@@ -166,7 +166,7 @@
         "no": 21,
         "portrait": "character_0028_c1.png",
         "skill": "motion_0028_chopper_skill_name.png",
-        "thumbnail": "character_0028_t.png",
+        "thumbnail": "character_0028_t1.png",
         "title": ""
       },
       {
@@ -174,7 +174,7 @@
         "no": 22,
         "portrait": "character_0029_c1.png",
         "skill": "motion_0029_chopper_skill_name.png",
-        "thumbnail": "character_0029_t.png",
+        "thumbnail": "character_0029_t1.png",
         "title": "重量強化"
       },
       {
@@ -182,7 +182,7 @@
         "no": 23,
         "portrait": "character_0030_c1.png",
         "skill": "motion_0030_chopper_skill_name.png",
-        "thumbnail": "character_0030_t.png",
+        "thumbnail": "character_0030_t1.png",
         "title": "頭腦強化"
       },
       {
@@ -190,7 +190,7 @@
         "no": 24,
         "portrait": "character_0031_c1.png",
         "skill": "motion_0031_chopper_skill_name.png",
-        "thumbnail": "character_0031_t.png",
+        "thumbnail": "character_0031_t1.png",
         "title": "腕力強化"
       },
       {
@@ -198,7 +198,7 @@
         "no": 25,
         "portrait": "character_0032_c1.png",
         "skill": "motion_0032_chopper_skill_name.png",
-        "thumbnail": "character_0032_t.png",
+        "thumbnail": "character_0032_t1.png",
         "title": "角強化"
       },
       {
@@ -206,7 +206,7 @@
         "no": 26,
         "portrait": "character_0033_c1.png",
         "skill": "motion_0033_chopper_skill_name.png",
-        "thumbnail": "character_0033_t.png",
+        "thumbnail": "character_0033_t1.png",
         "title": "毛皮強化"
       },
       {
@@ -214,7 +214,7 @@
         "no": 27,
         "portrait": "character_0035_c1.png",
         "skill": "skill_name_8002.png",
-        "thumbnail": "character_0035_t.png",
+        "thumbnail": "character_0035_t1.png",
         "title": ""
       },
       {
@@ -222,7 +222,7 @@
         "no": 28,
         "portrait": "character_0036_c1.png",
         "skill": "skill_name_8001.png",
-        "thumbnail": "character_0036_t.png",
+        "thumbnail": "character_0036_t1.png",
         "title": ""
       },
       {
@@ -230,7 +230,7 @@
         "no": 29,
         "portrait": "character_0038_c1.png",
         "skill": "motion_0038_alwida_skill_name.png",
-        "thumbnail": "character_0038_t.png",
+        "thumbnail": "character_0038_t1.png",
         "title": ""
       },
       {
@@ -238,15 +238,15 @@
         "no": 30,
         "portrait": "character_0039_c1.png",
         "skill": "motion_0039_alwida_skill_name.png",
-        "thumbnail": "character_0039_t.png",
+        "thumbnail": "character_0039_t1.png",
         "title": "滑嫩果實"
       },
       {
         "name": "克比",
         "no": 31,
         "portrait": "character_0136_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0136_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0136_t1.png",
         "title": ""
       },
       {
@@ -254,15 +254,15 @@
         "no": 32,
         "portrait": "character_0137_c1.png",
         "skill": "motion_0137_coby_skill_name.png",
-        "thumbnail": "character_0137_t.png",
+        "thumbnail": "character_0137_t1.png",
         "title": ""
       },
       {
         "name": "貝魯梅柏",
         "no": 33,
         "portrait": "character_0139_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0139_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0139_t1.png",
         "title": ""
       },
       {
@@ -270,7 +270,7 @@
         "no": 34,
         "portrait": "character_0140_c1.png",
         "skill": "motion_0140_helmeppo_skill_name.png",
-        "thumbnail": "character_0140_t.png",
+        "thumbnail": "character_0140_t1.png",
         "title": ""
       },
       {
@@ -278,7 +278,7 @@
         "no": 35,
         "portrait": "character_0037_c1.png",
         "skill": "motion_0037_morgan_skill_name.png",
-        "thumbnail": "character_0037_t.png",
+        "thumbnail": "character_0037_t1.png",
         "title": ""
       },
       {
@@ -286,7 +286,7 @@
         "no": 36,
         "portrait": "character_0145_c1.png",
         "skill": "motion_0145_morge&richie_skill_name.png",
-        "thumbnail": "character_0145_t.png",
+        "thumbnail": "character_0145_t1.png",
         "title": ""
       },
       {
@@ -294,7 +294,7 @@
         "no": 37,
         "portrait": "character_0144_c1.png",
         "skill": "motion_0144_kabaji_skill_name.png",
-        "thumbnail": "character_0144_t.png",
+        "thumbnail": "character_0144_t1.png",
         "title": ""
       },
       {
@@ -302,7 +302,7 @@
         "no": 38,
         "portrait": "character_0040_c1.png",
         "skill": "motion_0040_buggy_skill_name.png",
-        "thumbnail": "character_0040_t.png",
+        "thumbnail": "character_0040_t1.png",
         "title": ""
       },
       {
@@ -310,7 +310,7 @@
         "no": 39,
         "portrait": "character_0041_c1.png",
         "skill": "motion_0041_buggy_skill_name.png",
-        "thumbnail": "character_0041_t.png",
+        "thumbnail": "character_0041_t1.png",
         "title": ""
       },
       {
@@ -318,7 +318,7 @@
         "no": 40,
         "portrait": "character_0135_c1.png",
         "skill": "skill_name_8038.png",
-        "thumbnail": "character_0135_t.png",
+        "thumbnail": "character_0135_t1.png",
         "title": ""
       },
       {
@@ -326,7 +326,7 @@
         "no": 41,
         "portrait": "character_0154_c1.png",
         "skill": "motion_0154_sham_skill_name.png",
-        "thumbnail": "character_0154_t.png",
+        "thumbnail": "character_0154_t1.png",
         "title": ""
       },
       {
@@ -334,7 +334,7 @@
         "no": 42,
         "portrait": "character_0155_c1.png",
         "skill": "motion_0155_buchi_skill_name.png",
-        "thumbnail": "character_0155_t.png",
+        "thumbnail": "character_0155_t1.png",
         "title": ""
       },
       {
@@ -342,7 +342,7 @@
         "no": 43,
         "portrait": "character_0151_c1.png",
         "skill": "motion_0151_jango_skill_name.png",
-        "thumbnail": "character_0151_t.png",
+        "thumbnail": "character_0151_t1.png",
         "title": ""
       },
       {
@@ -350,7 +350,7 @@
         "no": 44,
         "portrait": "character_0152_c1.png",
         "skill": "motion_0152_dancingjango_skill_name.png",
-        "thumbnail": "character_0152_t.png",
+        "thumbnail": "character_0152_t1.png",
         "title": ""
       },
       {
@@ -358,7 +358,7 @@
         "no": 45,
         "portrait": "character_0042_c1.png",
         "skill": "motion_0042_kuro_skill_name.png",
-        "thumbnail": "character_0042_t.png",
+        "thumbnail": "character_0042_t1.png",
         "title": ""
       },
       {
@@ -366,7 +366,7 @@
         "no": 46,
         "portrait": "character_0043_c1.png",
         "skill": "motion_0043_captainkuro_skill_name.png",
-        "thumbnail": "character_0043_t.png",
+        "thumbnail": "character_0043_t1.png",
         "title": ""
       },
       {
@@ -374,7 +374,7 @@
         "no": 47,
         "portrait": "character_0142_c1.png",
         "skill": "skill_name_8044.png",
-        "thumbnail": "character_0142_t.png",
+        "thumbnail": "character_0142_t1.png",
         "title": ""
       },
       {
@@ -382,7 +382,7 @@
         "no": 48,
         "portrait": "character_0143_c1.png",
         "skill": "skill_name_8038.png",
-        "thumbnail": "character_0143_t.png",
+        "thumbnail": "character_0143_t1.png",
         "title": ""
       },
       {
@@ -390,7 +390,7 @@
         "no": 49,
         "portrait": "character_0146_c1.png",
         "skill": "skill_name_8001.png",
-        "thumbnail": "character_0146_t.png",
+        "thumbnail": "character_0146_t1.png",
         "title": ""
       },
       {
@@ -398,15 +398,15 @@
         "no": 50,
         "portrait": "character_0147_c1.png",
         "skill": "motion_0147_patty_skill_name.png",
-        "thumbnail": "character_0147_t.png",
+        "thumbnail": "character_0147_t1.png",
         "title": ""
       },
       {
         "name": "卡爾涅",
         "no": 51,
         "portrait": "character_0148_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0148_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0148_t1.png",
         "title": ""
       },
       {
@@ -414,15 +414,15 @@
         "no": 52,
         "portrait": "character_0149_c1.png",
         "skill": "motion_0149_zeff_skill_name.png",
-        "thumbnail": "character_0149_t.png",
+        "thumbnail": "character_0149_t1.png",
         "title": ""
       },
       {
         "name": "銀仔",
         "no": 53,
         "portrait": "character_0158_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0158_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0158_t1.png",
         "title": ""
       },
       {
@@ -430,15 +430,15 @@
         "no": 54,
         "portrait": "character_0159_c1.png",
         "skill": "motion_0159_gin_skill_name.png",
-        "thumbnail": "character_0159_t.png",
+        "thumbnail": "character_0159_t1.png",
         "title": ""
       },
       {
         "name": "帕魯",
         "no": 55,
         "portrait": "character_0156_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0156_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0156_t1.png",
         "title": ""
       },
       {
@@ -446,7 +446,7 @@
         "no": 56,
         "portrait": "character_0157_c1.png",
         "skill": "motion_0157_firepearl_skill_name.png",
-        "thumbnail": "character_0157_t.png",
+        "thumbnail": "character_0157_t1.png",
         "title": ""
       },
       {
@@ -454,7 +454,7 @@
         "no": 57,
         "portrait": "character_0044_c1.png",
         "skill": "motion_0044_creek_skill_name.png",
-        "thumbnail": "character_0044_t.png",
+        "thumbnail": "character_0044_t1.png",
         "title": ""
       },
       {
@@ -462,7 +462,7 @@
         "no": 58,
         "portrait": "character_0045_c1.png",
         "skill": "motion_0045_creek_skill_name.png",
-        "thumbnail": "character_0045_t.png",
+        "thumbnail": "character_0045_t1.png",
         "title": "劇毒毒氣彈「M．H．5」"
       },
       {
@@ -470,7 +470,7 @@
         "no": 59,
         "portrait": "character_0179_c1.png",
         "skill": "skill_name_8026.png",
-        "thumbnail": "character_0179_t.png",
+        "thumbnail": "character_0179_t1.png",
         "title": ""
       },
       {
@@ -478,7 +478,7 @@
         "no": 60,
         "portrait": "character_0180_c1.png",
         "skill": "skill_name_8039.png",
-        "thumbnail": "character_0180_t.png",
+        "thumbnail": "character_0180_t1.png",
         "title": ""
       },
       {
@@ -486,7 +486,7 @@
         "no": 61,
         "portrait": "character_0160_c1.png",
         "skill": "motion_0160_chuu_skill_name.png",
-        "thumbnail": "character_0160_t.png",
+        "thumbnail": "character_0160_t1.png",
         "title": ""
       },
       {
@@ -494,15 +494,15 @@
         "no": 62,
         "portrait": "character_0161_c1.png",
         "skill": "motion_0161_kuroobi_skill_name.png",
-        "thumbnail": "character_0161_t.png",
+        "thumbnail": "character_0161_t1.png",
         "title": ""
       },
       {
         "name": "小八",
         "no": 63,
         "portrait": "character_0162_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0162_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0162_t1.png",
         "title": ""
       },
       {
@@ -510,7 +510,7 @@
         "no": 64,
         "portrait": "character_0163_c1.png",
         "skill": "motion_0163_hacchan_skill_name.png",
-        "thumbnail": "character_0163_t.png",
+        "thumbnail": "character_0163_t1.png",
         "title": ""
       },
       {
@@ -518,7 +518,7 @@
         "no": 65,
         "portrait": "character_0046_c1.png",
         "skill": "motion_0046_arlong_skill_name.png",
-        "thumbnail": "character_0046_t.png",
+        "thumbnail": "character_0046_t1.png",
         "title": ""
       },
       {
@@ -526,7 +526,7 @@
         "no": 66,
         "portrait": "character_0047_c1.png",
         "skill": "motion_0047_arlong_skill_name.png",
-        "thumbnail": "character_0047_t.png",
+        "thumbnail": "character_0047_t1.png",
         "title": "鯊魚齒輪"
       },
       {
@@ -534,7 +534,7 @@
         "no": 67,
         "portrait": "character_0164_c1.png",
         "skill": "motion_0164_tashigi_skill_name.png",
-        "thumbnail": "character_0164_t.png",
+        "thumbnail": "character_0164_t1.png",
         "title": ""
       },
       {
@@ -542,7 +542,7 @@
         "no": 68,
         "portrait": "character_0165_c1.png",
         "skill": "motion_0165_tashigi_skill_name.png",
-        "thumbnail": "character_0165_t.png",
+        "thumbnail": "character_0165_t1.png",
         "title": "海軍本部少尉"
       },
       {
@@ -550,7 +550,7 @@
         "no": 69,
         "portrait": "character_0166_c1.png",
         "skill": "motion_0166_smoker_skill_name.png",
-        "thumbnail": "character_0166_t.png",
+        "thumbnail": "character_0166_t1.png",
         "title": ""
       },
       {
@@ -566,7 +566,7 @@
         "no": 71,
         "portrait": "character_0170_c1.png",
         "skill": "motion_0170_MsWednesday_skill_name.png",
-        "thumbnail": "character_0170_t.png",
+        "thumbnail": "character_0170_t1.png",
         "title": ""
       },
       {
@@ -574,7 +574,7 @@
         "no": 72,
         "portrait": "character_0171_c1.png",
         "skill": "motion_0171_vivi_skill_name.png",
-        "thumbnail": "character_0171_t.png",
+        "thumbnail": "character_0171_t1.png",
         "title": ""
       },
       {
@@ -582,7 +582,7 @@
         "no": 73,
         "portrait": "character_0172_c1.png",
         "skill": "motion_0172_vivi_skill_name.png",
-        "thumbnail": "character_0172_t.png",
+        "thumbnail": "character_0172_t1.png",
         "title": ""
       },
       {
@@ -590,7 +590,7 @@
         "no": 74,
         "portrait": "character_0173_c1.png",
         "skill": "motion_0173_ace_skill_name.png",
-        "thumbnail": "character_0173_t.png",
+        "thumbnail": "character_0173_t1.png",
         "title": ""
       },
       {
@@ -598,7 +598,7 @@
         "no": 75,
         "portrait": "character_0174_c1.png",
         "skill": "motion_0174_ace_skill_name.png",
-        "thumbnail": "character_0174_t.png",
+        "thumbnail": "character_0174_t1.png",
         "title": "鏡火炎"
       },
       {
@@ -606,7 +606,7 @@
         "no": 76,
         "portrait": "character_0175_c1.png",
         "skill": "motion_0175_shanks_skill_name.png",
-        "thumbnail": "character_0175_t.png",
+        "thumbnail": "character_0175_t1.png",
         "title": ""
       },
       {
@@ -614,335 +614,335 @@
         "no": 77,
         "portrait": "character_0176_c1.png",
         "skill": "motion_0176_shanks_skill_name.png",
-        "thumbnail": "character_0176_t.png",
+        "thumbnail": "character_0176_t1.png",
         "title": ""
       },
       {
         "name": "紅色小偷企鵝",
         "no": 78,
         "portrait": "character_0082_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0082_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0082_t1.png",
         "title": ""
       },
       {
         "name": "藍色小偷企鵝",
         "no": 79,
         "portrait": "character_0083_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0083_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0083_t1.png",
         "title": ""
       },
       {
         "name": "綠色小偷企鵝",
         "no": 80,
         "portrait": "character_0084_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0084_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0084_t1.png",
         "title": ""
       },
       {
         "name": "黃色小偷企鵝",
         "no": 81,
         "portrait": "character_0085_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0085_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0085_t1.png",
         "title": ""
       },
       {
         "name": "黑色小偷企鵝",
         "no": 82,
         "portrait": "character_0086_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0086_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0086_t1.png",
         "title": ""
       },
       {
         "name": "彩虹小偷企鵝",
         "no": 83,
         "portrait": "character_0087_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0087_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0087_t1.png",
         "title": ""
       },
       {
         "name": "紅色海賊企鵝",
         "no": 84,
         "portrait": "character_0088_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0088_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0088_t1.png",
         "title": ""
       },
       {
         "name": "藍色海賊企鵝",
         "no": 85,
         "portrait": "character_0089_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0089_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0089_t1.png",
         "title": ""
       },
       {
         "name": "綠色海賊企鵝",
         "no": 86,
         "portrait": "character_0090_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0090_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0090_t1.png",
         "title": ""
       },
       {
         "name": "黃色海賊企鵝",
         "no": 87,
         "portrait": "character_0091_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0091_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0091_t1.png",
         "title": ""
       },
       {
         "name": "黑色海賊企鵝",
         "no": 88,
         "portrait": "character_0092_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0092_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0092_t1.png",
         "title": ""
       },
       {
         "name": "紅色頭盔寄居蟹",
         "no": 89,
         "portrait": "character_0094_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0094_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0094_t1.png",
         "title": ""
       },
       {
         "name": "藍色頭盔寄居蟹",
         "no": 90,
         "portrait": "character_0095_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0095_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0095_t1.png",
         "title": ""
       },
       {
         "name": "綠色頭盔寄居蟹",
         "no": 91,
         "portrait": "character_0096_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0096_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0096_t1.png",
         "title": ""
       },
       {
         "name": "黃色頭盔寄居蟹",
         "no": 92,
         "portrait": "character_0097_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0097_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0097_t1.png",
         "title": ""
       },
       {
         "name": "黑色頭盔寄居蟹",
         "no": 93,
         "portrait": "character_0098_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0098_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0098_t1.png",
         "title": ""
       },
       {
         "name": "彩虹頭盔寄居蟹",
         "no": 94,
         "portrait": "character_0099_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0099_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0099_t1.png",
         "title": ""
       },
       {
         "name": "紅色鎧甲蟹",
         "no": 95,
         "portrait": "character_0100_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0100_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0100_t1.png",
         "title": ""
       },
       {
         "name": "藍色鎧甲蟹",
         "no": 96,
         "portrait": "character_0101_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0101_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0101_t1.png",
         "title": ""
       },
       {
         "name": "綠色鎧甲蟹",
         "no": 97,
         "portrait": "character_0102_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0102_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0102_t1.png",
         "title": ""
       },
       {
         "name": "黃色鎧甲蟹",
         "no": 98,
         "portrait": "character_0103_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0103_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0103_t1.png",
         "title": ""
       },
       {
         "name": "黑色鎧甲蟹",
         "no": 99,
         "portrait": "character_0104_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0104_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0104_t1.png",
         "title": ""
       },
       {
         "name": "紅色守護龍",
         "no": 100,
         "portrait": "character_0112_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0112_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0112_t1.png",
         "title": ""
       },
       {
         "name": "藍色守護龍",
         "no": 101,
         "portrait": "character_0113_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0113_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0113_t1.png",
         "title": ""
       },
       {
         "name": "綠色守護龍",
         "no": 102,
         "portrait": "character_0114_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0114_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0114_t1.png",
         "title": ""
       },
       {
         "name": "黃色守護龍",
         "no": 103,
         "portrait": "character_0115_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0115_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0115_t1.png",
         "title": ""
       },
       {
         "name": "黑色守護龍",
         "no": 104,
         "portrait": "character_0116_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0116_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0116_t1.png",
         "title": ""
       },
       {
         "name": "紅色寶石龜",
         "no": 105,
         "portrait": "character_0118_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0118_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0118_t1.png",
         "title": ""
       },
       {
         "name": "藍色寶石龜",
         "no": 106,
         "portrait": "character_0119_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0119_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0119_t1.png",
         "title": ""
       },
       {
         "name": "綠色寶石龜",
         "no": 107,
         "portrait": "character_0120_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0120_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0120_t1.png",
         "title": ""
       },
       {
         "name": "黃色寶石龜",
         "no": 108,
         "portrait": "character_0121_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0121_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0121_t1.png",
         "title": ""
       },
       {
         "name": "黑色寶石龜",
         "no": 109,
         "portrait": "character_0122_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0122_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0122_t1.png",
         "title": ""
       },
       {
         "name": "紅色領主海龜",
         "no": 110,
         "portrait": "character_0123_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0123_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0123_t1.png",
         "title": ""
       },
       {
         "name": "藍色領主海龜",
         "no": 111,
         "portrait": "character_0124_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0124_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0124_t1.png",
         "title": ""
       },
       {
         "name": "綠色領主海龜",
         "no": 112,
         "portrait": "character_0125_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0125_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0125_t1.png",
         "title": ""
       },
       {
         "name": "黃色領主海龜",
         "no": 113,
         "portrait": "character_0126_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0126_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0126_t1.png",
         "title": ""
       },
       {
         "name": "黑色領主海龜",
         "no": 114,
         "portrait": "character_0127_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0127_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0127_t1.png",
         "title": ""
       },
       {
         "name": "海馬",
         "no": 115,
         "portrait": "character_0078_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0078_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0078_t1.png",
         "title": ""
       },
       {
         "name": "海馬王子",
         "no": 116,
         "portrait": "character_0079_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0079_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0079_t1.png",
         "title": ""
       },
       {
         "name": "海馬皇太子",
         "no": 117,
         "portrait": "character_0080_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0080_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0080_t1.png",
         "title": ""
       },
       {
         "name": "海馬王",
         "no": 118,
         "portrait": "character_0081_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0081_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0081_t1.png",
         "title": ""
       },
       {
@@ -950,7 +950,7 @@
         "no": 119,
         "portrait": "character_0133_c1.png",
         "skill": "skill_name_8002.png",
-        "thumbnail": "character_0133_t.png",
+        "thumbnail": "character_0133_t1.png",
         "title": ""
       },
       {
@@ -958,7 +958,7 @@
         "no": 120,
         "portrait": "character_0134_c1.png",
         "skill": "skill_name_8004.png",
-        "thumbnail": "character_0134_t.png",
+        "thumbnail": "character_0134_t1.png",
         "title": ""
       },
       {
@@ -966,7 +966,7 @@
         "no": 121,
         "portrait": "character_0182_c1.png",
         "skill": "skill_name_8001.png",
-        "thumbnail": "character_0182_t.png",
+        "thumbnail": "character_0182_t1.png",
         "title": "紅色海賊"
       },
       {
@@ -974,7 +974,7 @@
         "no": 122,
         "portrait": "character_0183_c1.png",
         "skill": "skill_name_8006.png",
-        "thumbnail": "character_0183_t.png",
+        "thumbnail": "character_0183_t1.png",
         "title": "藍色海賊"
       },
       {
@@ -982,7 +982,7 @@
         "no": 123,
         "portrait": "character_0184_c1.png",
         "skill": "skill_name_8008.png",
-        "thumbnail": "character_0184_t.png",
+        "thumbnail": "character_0184_t1.png",
         "title": "綠色海賊"
       },
       {
@@ -990,7 +990,7 @@
         "no": 124,
         "portrait": "character_0185_c1.png",
         "skill": "skill_name_8006.png",
-        "thumbnail": "character_0185_t.png",
+        "thumbnail": "character_0185_t1.png",
         "title": "黃色海賊"
       },
       {
@@ -998,7 +998,7 @@
         "no": 125,
         "portrait": "character_0186_c1.png",
         "skill": "skill_name_8001.png",
-        "thumbnail": "character_0186_t.png",
+        "thumbnail": "character_0186_t1.png",
         "title": "黑色海賊"
       },
       {
@@ -1006,7 +1006,7 @@
         "no": 126,
         "portrait": "character_0187_c1.png",
         "skill": "skill_name_8002.png",
-        "thumbnail": "character_0187_t.png",
+        "thumbnail": "character_0187_t1.png",
         "title": "紅色海賊"
       },
       {
@@ -1014,7 +1014,7 @@
         "no": 127,
         "portrait": "character_0188_c1.png",
         "skill": "skill_name_8007.png",
-        "thumbnail": "character_0188_t.png",
+        "thumbnail": "character_0188_t1.png",
         "title": "藍色海賊"
       },
       {
@@ -1022,7 +1022,7 @@
         "no": 128,
         "portrait": "character_0189_c1.png",
         "skill": "skill_name_8019.png",
-        "thumbnail": "character_0189_t.png",
+        "thumbnail": "character_0189_t1.png",
         "title": "綠色海賊"
       },
       {
@@ -1030,7 +1030,7 @@
         "no": 129,
         "portrait": "character_0190_c1.png",
         "skill": "skill_name_8031.png",
-        "thumbnail": "character_0190_t.png",
+        "thumbnail": "character_0190_t1.png",
         "title": "黃色海賊"
       },
       {
@@ -1038,7 +1038,7 @@
         "no": 130,
         "portrait": "character_0191_c1.png",
         "skill": "skill_name_8002.png",
-        "thumbnail": "character_0191_t.png",
+        "thumbnail": "character_0191_t1.png",
         "title": "黑色海賊"
       },
       {
@@ -1046,7 +1046,7 @@
         "no": 131,
         "portrait": "character_0192_c1.png",
         "skill": "skill_name_8033.png",
-        "thumbnail": "character_0192_t.png",
+        "thumbnail": "character_0192_t1.png",
         "title": "紅色海賊"
       },
       {
@@ -1054,7 +1054,7 @@
         "no": 132,
         "portrait": "character_0193_c1.png",
         "skill": "skill_name_8014.png",
-        "thumbnail": "character_0193_t.png",
+        "thumbnail": "character_0193_t1.png",
         "title": "藍色海賊"
       },
       {
@@ -1062,7 +1062,7 @@
         "no": 133,
         "portrait": "character_0194_c1.png",
         "skill": "skill_name_8019.png",
-        "thumbnail": "character_0194_t.png",
+        "thumbnail": "character_0194_t1.png",
         "title": "綠色海賊"
       },
       {
@@ -1070,7 +1070,7 @@
         "no": 134,
         "portrait": "character_0195_c1.png",
         "skill": "skill_name_8022.png",
-        "thumbnail": "character_0195_t.png",
+        "thumbnail": "character_0195_t1.png",
         "title": "黃色海賊"
       },
       {
@@ -1078,7 +1078,7 @@
         "no": 135,
         "portrait": "character_0196_c1.png",
         "skill": "skill_name_8003.png",
-        "thumbnail": "character_0196_t.png",
+        "thumbnail": "character_0196_t1.png",
         "title": "黑色海賊"
       },
       {
@@ -1086,7 +1086,7 @@
         "no": 136,
         "portrait": "character_0197_c1.png",
         "skill": "skill_name_8004.png",
-        "thumbnail": "character_0197_t.png",
+        "thumbnail": "character_0197_t1.png",
         "title": "紅色海賊"
       },
       {
@@ -1094,7 +1094,7 @@
         "no": 137,
         "portrait": "character_0198_c1.png",
         "skill": "skill_name_8007.png",
-        "thumbnail": "character_0198_t.png",
+        "thumbnail": "character_0198_t1.png",
         "title": "藍色海賊"
       },
       {
@@ -1102,7 +1102,7 @@
         "no": 138,
         "portrait": "character_0199_c1.png",
         "skill": "skill_name_8017.png",
-        "thumbnail": "character_0199_t.png",
+        "thumbnail": "character_0199_t1.png",
         "title": "綠色海賊"
       },
       {
@@ -1110,7 +1110,7 @@
         "no": 139,
         "portrait": "character_0200_c1.png",
         "skill": "skill_name_8027.png",
-        "thumbnail": "character_0200_t.png",
+        "thumbnail": "character_0200_t1.png",
         "title": "黃色海賊"
       },
       {
@@ -1118,7 +1118,7 @@
         "no": 140,
         "portrait": "character_0201_c1.png",
         "skill": "skill_name_8004.png",
-        "thumbnail": "character_0201_t.png",
+        "thumbnail": "character_0201_t1.png",
         "title": "黑色海賊"
       },
       {
@@ -1126,7 +1126,7 @@
         "no": 141,
         "portrait": "character_0202_c1.png",
         "skill": "skill_name_8006.png",
-        "thumbnail": "character_0202_t.png",
+        "thumbnail": "character_0202_t1.png",
         "title": ""
       },
       {
@@ -1134,7 +1134,7 @@
         "no": 142,
         "portrait": "character_0203_c1.png",
         "skill": "skill_name_8001.png",
-        "thumbnail": "character_0203_t.png",
+        "thumbnail": "character_0203_t1.png",
         "title": "紅色海賊"
       },
       {
@@ -1142,7 +1142,7 @@
         "no": 143,
         "portrait": "character_0204_c1.png",
         "skill": "skill_name_8006.png",
-        "thumbnail": "character_0204_t.png",
+        "thumbnail": "character_0204_t1.png",
         "title": "藍色海賊"
       },
       {
@@ -1150,7 +1150,7 @@
         "no": 144,
         "portrait": "character_0205_c1.png",
         "skill": "skill_name_8008.png",
-        "thumbnail": "character_0205_t.png",
+        "thumbnail": "character_0205_t1.png",
         "title": "綠色海賊"
       },
       {
@@ -1158,7 +1158,7 @@
         "no": 145,
         "portrait": "character_0206_c1.png",
         "skill": "skill_name_8006.png",
-        "thumbnail": "character_0206_t.png",
+        "thumbnail": "character_0206_t1.png",
         "title": "黃色海賊"
       },
       {
@@ -1166,7 +1166,7 @@
         "no": 146,
         "portrait": "character_0207_c1.png",
         "skill": "skill_name_8001.png",
-        "thumbnail": "character_0207_t.png",
+        "thumbnail": "character_0207_t1.png",
         "title": "黑色海賊"
       },
       {
@@ -1174,7 +1174,7 @@
         "no": 147,
         "portrait": "character_0208_c1.png",
         "skill": "skill_name_8002.png",
-        "thumbnail": "character_0208_t.png",
+        "thumbnail": "character_0208_t1.png",
         "title": "紅色海賊"
       },
       {
@@ -1182,7 +1182,7 @@
         "no": 148,
         "portrait": "character_0209_c1.png",
         "skill": "skill_name_8007.png",
-        "thumbnail": "character_0209_t.png",
+        "thumbnail": "character_0209_t1.png",
         "title": "藍色海賊"
       },
       {
@@ -1190,7 +1190,7 @@
         "no": 149,
         "portrait": "character_0210_c1.png",
         "skill": "skill_name_8019.png",
-        "thumbnail": "character_0210_t.png",
+        "thumbnail": "character_0210_t1.png",
         "title": "綠色海賊"
       },
       {
@@ -1198,7 +1198,7 @@
         "no": 150,
         "portrait": "character_0211_c1.png",
         "skill": "skill_name_8031.png",
-        "thumbnail": "character_0211_t.png",
+        "thumbnail": "character_0211_t1.png",
         "title": "黃色海賊"
       },
       {
@@ -1206,7 +1206,7 @@
         "no": 151,
         "portrait": "character_0212_c1.png",
         "skill": "skill_name_8002.png",
-        "thumbnail": "character_0212_t.png",
+        "thumbnail": "character_0212_t1.png",
         "title": "黑色海賊"
       },
       {
@@ -1214,7 +1214,7 @@
         "no": 152,
         "portrait": "character_0213_c1.png",
         "skill": "skill_name_8033.png",
-        "thumbnail": "character_0213_t.png",
+        "thumbnail": "character_0213_t1.png",
         "title": "紅色海賊"
       },
       {
@@ -1222,7 +1222,7 @@
         "no": 153,
         "portrait": "character_0214_c1.png",
         "skill": "skill_name_8014.png",
-        "thumbnail": "character_0214_t.png",
+        "thumbnail": "character_0214_t1.png",
         "title": "藍色海賊"
       },
       {
@@ -1230,7 +1230,7 @@
         "no": 154,
         "portrait": "character_0215_c1.png",
         "skill": "skill_name_8019.png",
-        "thumbnail": "character_0215_t.png",
+        "thumbnail": "character_0215_t1.png",
         "title": "綠色海賊"
       },
       {
@@ -1238,7 +1238,7 @@
         "no": 155,
         "portrait": "character_0216_c1.png",
         "skill": "skill_name_8022.png",
-        "thumbnail": "character_0216_t.png",
+        "thumbnail": "character_0216_t1.png",
         "title": "黃色海賊"
       },
       {
@@ -1246,7 +1246,7 @@
         "no": 156,
         "portrait": "character_0217_c1.png",
         "skill": "skill_name_8003.png",
-        "thumbnail": "character_0217_t.png",
+        "thumbnail": "character_0217_t1.png",
         "title": "黑色海賊"
       },
       {
@@ -1254,7 +1254,7 @@
         "no": 157,
         "portrait": "character_0218_c1.png",
         "skill": "skill_name_8004.png",
-        "thumbnail": "character_0218_t.png",
+        "thumbnail": "character_0218_t1.png",
         "title": "紅色海賊"
       },
       {
@@ -1262,7 +1262,7 @@
         "no": 158,
         "portrait": "character_0219_c1.png",
         "skill": "skill_name_8007.png",
-        "thumbnail": "character_0219_t.png",
+        "thumbnail": "character_0219_t1.png",
         "title": "藍色海賊"
       },
       {
@@ -1270,7 +1270,7 @@
         "no": 159,
         "portrait": "character_0220_c1.png",
         "skill": "skill_name_8017.png",
-        "thumbnail": "character_0220_t.png",
+        "thumbnail": "character_0220_t1.png",
         "title": "綠色海賊"
       },
       {
@@ -1278,7 +1278,7 @@
         "no": 160,
         "portrait": "character_0221_c1.png",
         "skill": "skill_name_8027.png",
-        "thumbnail": "character_0221_t.png",
+        "thumbnail": "character_0221_t1.png",
         "title": "黃色海賊"
       },
       {
@@ -1286,7 +1286,7 @@
         "no": 161,
         "portrait": "character_0222_c1.png",
         "skill": "skill_name_8004.png",
-        "thumbnail": "character_0222_t.png",
+        "thumbnail": "character_0222_t1.png",
         "title": "黑色海賊"
       },
       {
@@ -1294,7 +1294,7 @@
         "no": 162,
         "portrait": "character_0223_c1.png",
         "skill": "skill_name_8006.png",
-        "thumbnail": "character_0223_t.png",
+        "thumbnail": "character_0223_t1.png",
         "title": ""
       },
       {
@@ -1302,7 +1302,7 @@
         "no": 163,
         "portrait": "character_0177_c1.png",
         "skill": "skill_name_8046.png",
-        "thumbnail": "character_0177_t.png",
+        "thumbnail": "character_0177_t1.png",
         "title": ""
       },
       {
@@ -1310,7 +1310,7 @@
         "no": 164,
         "portrait": "character_0178_c1.png",
         "skill": "skill_name_8047.png",
-        "thumbnail": "character_0178_t.png",
+        "thumbnail": "character_0178_t1.png",
         "title": ""
       },
       {
@@ -1318,7 +1318,7 @@
         "no": 165,
         "portrait": "character_0063_c1.png",
         "skill": "skill_name_8005.png",
-        "thumbnail": "character_0063_t.png",
+        "thumbnail": "character_0063_t1.png",
         "title": "黑貓海賊團"
       },
       {
@@ -1326,7 +1326,7 @@
         "no": 166,
         "portrait": "character_0064_c1.png",
         "skill": "skill_name_8005.png",
-        "thumbnail": "character_0064_t.png",
+        "thumbnail": "character_0064_t1.png",
         "title": "黑貓海賊團"
       },
       {
@@ -1334,7 +1334,7 @@
         "no": 167,
         "portrait": "character_0065_c1.png",
         "skill": "skill_name_8005.png",
-        "thumbnail": "character_0065_t.png",
+        "thumbnail": "character_0065_t1.png",
         "title": "黑貓海賊團"
       },
       {
@@ -1342,7 +1342,7 @@
         "no": 168,
         "portrait": "character_0066_c1.png",
         "skill": "skill_name_8005.png",
-        "thumbnail": "character_0066_t.png",
+        "thumbnail": "character_0066_t1.png",
         "title": "黑貓海賊團"
       },
       {
@@ -1350,7 +1350,7 @@
         "no": 169,
         "portrait": "character_0067_c1.png",
         "skill": "skill_name_8005.png",
-        "thumbnail": "character_0067_t.png",
+        "thumbnail": "character_0067_t1.png",
         "title": "黑貓海賊團"
       },
       {
@@ -1358,7 +1358,7 @@
         "no": 170,
         "portrait": "character_0068_c1.png",
         "skill": "skill_name_8006.png",
-        "thumbnail": "character_0068_t.png",
+        "thumbnail": "character_0068_t1.png",
         "title": ""
       },
       {
@@ -1366,7 +1366,7 @@
         "no": 171,
         "portrait": "character_0069_c1.png",
         "skill": "skill_name_8006.png",
-        "thumbnail": "character_0069_t.png",
+        "thumbnail": "character_0069_t1.png",
         "title": ""
       },
       {
@@ -1374,7 +1374,7 @@
         "no": 172,
         "portrait": "character_0070_c1.png",
         "skill": "skill_name_8006.png",
-        "thumbnail": "character_0070_t.png",
+        "thumbnail": "character_0070_t1.png",
         "title": ""
       },
       {
@@ -1382,7 +1382,7 @@
         "no": 173,
         "portrait": "character_0071_c1.png",
         "skill": "skill_name_8006.png",
-        "thumbnail": "character_0071_t.png",
+        "thumbnail": "character_0071_t1.png",
         "title": ""
       },
       {
@@ -1390,7 +1390,7 @@
         "no": 174,
         "portrait": "character_0072_c1.png",
         "skill": "skill_name_8006.png",
-        "thumbnail": "character_0072_t.png",
+        "thumbnail": "character_0072_t1.png",
         "title": ""
       },
       {
@@ -1398,7 +1398,7 @@
         "no": 175,
         "portrait": "character_0073_c1.png",
         "skill": "skill_name_8001.png",
-        "thumbnail": "character_0073_t.png",
+        "thumbnail": "character_0073_t1.png",
         "title": "惡龍海賊團"
       },
       {
@@ -1406,7 +1406,7 @@
         "no": 176,
         "portrait": "character_0074_c1.png",
         "skill": "skill_name_8002.png",
-        "thumbnail": "character_0074_t.png",
+        "thumbnail": "character_0074_t1.png",
         "title": "惡龍海賊團"
       },
       {
@@ -1414,7 +1414,7 @@
         "no": 177,
         "portrait": "character_0075_c1.png",
         "skill": "skill_name_8003.png",
-        "thumbnail": "character_0075_t.png",
+        "thumbnail": "character_0075_t1.png",
         "title": "惡龍海賊團"
       },
       {
@@ -1422,7 +1422,7 @@
         "no": 178,
         "portrait": "character_0076_c1.png",
         "skill": "skill_name_8004.png",
-        "thumbnail": "character_0076_t.png",
+        "thumbnail": "character_0076_t1.png",
         "title": "惡龍海賊團"
       },
       {
@@ -1430,7 +1430,7 @@
         "no": 179,
         "portrait": "character_0224_c1.png",
         "skill": "skill_name_8018.png",
-        "thumbnail": "character_0224_t.png",
+        "thumbnail": "character_0224_t1.png",
         "title": "海軍"
       },
       {
@@ -1438,7 +1438,7 @@
         "no": 180,
         "portrait": "character_0225_c1.png",
         "skill": "skill_name_8005.png",
-        "thumbnail": "character_0225_t.png",
+        "thumbnail": "character_0225_t1.png",
         "title": "海軍"
       },
       {
@@ -1446,7 +1446,7 @@
         "no": 181,
         "portrait": "character_0226_c1.png",
         "skill": "skill_name_8009.png",
-        "thumbnail": "character_0226_t.png",
+        "thumbnail": "character_0226_t1.png",
         "title": "海軍"
       },
       {
@@ -1454,7 +1454,7 @@
         "no": 182,
         "portrait": "character_0227_c1.png",
         "skill": "skill_name_8005.png",
-        "thumbnail": "character_0227_t.png",
+        "thumbnail": "character_0227_t1.png",
         "title": "海軍"
       },
       {
@@ -1462,7 +1462,7 @@
         "no": 183,
         "portrait": "character_0228_c1.png",
         "skill": "skill_name_8037.png",
-        "thumbnail": "character_0228_t.png",
+        "thumbnail": "character_0228_t1.png",
         "title": "海軍"
       },
       {
@@ -1470,7 +1470,7 @@
         "no": 184,
         "portrait": "character_0229_c1.png",
         "skill": "skill_name_8018.png",
-        "thumbnail": "character_0229_t.png",
+        "thumbnail": "character_0229_t1.png",
         "title": "海軍"
       },
       {
@@ -1478,7 +1478,7 @@
         "no": 185,
         "portrait": "character_0230_c1.png",
         "skill": "skill_name_8005.png",
-        "thumbnail": "character_0230_t.png",
+        "thumbnail": "character_0230_t1.png",
         "title": "海軍"
       },
       {
@@ -1486,7 +1486,7 @@
         "no": 186,
         "portrait": "character_0231_c1.png",
         "skill": "skill_name_8009.png",
-        "thumbnail": "character_0231_t.png",
+        "thumbnail": "character_0231_t1.png",
         "title": "海軍"
       },
       {
@@ -1494,7 +1494,7 @@
         "no": 187,
         "portrait": "character_0232_c1.png",
         "skill": "skill_name_8005.png",
-        "thumbnail": "character_0232_t.png",
+        "thumbnail": "character_0232_t1.png",
         "title": "海軍"
       },
       {
@@ -1502,47 +1502,47 @@
         "no": 188,
         "portrait": "character_0233_c1.png",
         "skill": "skill_name_8037.png",
-        "thumbnail": "character_0233_t.png",
+        "thumbnail": "character_0233_t1.png",
         "title": "海軍"
       },
       {
         "name": "紅色長老海龜",
         "no": 189,
         "portrait": "character_0128_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0128_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0128_t1.png",
         "title": ""
       },
       {
         "name": "藍色長老海龜",
         "no": 190,
         "portrait": "character_0129_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0129_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0129_t1.png",
         "title": ""
       },
       {
         "name": "綠色長老海龜",
         "no": 191,
         "portrait": "character_0130_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0130_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0130_t1.png",
         "title": ""
       },
       {
         "name": "黃色長老海龜",
         "no": 192,
         "portrait": "character_0131_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0131_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0131_t1.png",
         "title": ""
       },
       {
         "name": "黑色長老海龜",
         "no": 193,
         "portrait": "character_0132_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0132_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0132_t1.png",
         "title": ""
       },
       {
@@ -1550,7 +1550,7 @@
         "no": 194,
         "portrait": "character_0254_c1.png",
         "skill": "skill_name_8018.png",
-        "thumbnail": "character_0254_t.png",
+        "thumbnail": "character_0254_t1.png",
         "title": "海軍本部"
       },
       {
@@ -1558,7 +1558,7 @@
         "no": 195,
         "portrait": "character_0255_c1.png",
         "skill": "skill_name_8005.png",
-        "thumbnail": "character_0255_t.png",
+        "thumbnail": "character_0255_t1.png",
         "title": "海軍本部"
       },
       {
@@ -1566,7 +1566,7 @@
         "no": 196,
         "portrait": "character_0256_c1.png",
         "skill": "skill_name_8009.png",
-        "thumbnail": "character_0256_t.png",
+        "thumbnail": "character_0256_t1.png",
         "title": "海軍本部"
       },
       {
@@ -1574,7 +1574,7 @@
         "no": 197,
         "portrait": "character_0257_c1.png",
         "skill": "skill_name_8005.png",
-        "thumbnail": "character_0257_t.png",
+        "thumbnail": "character_0257_t1.png",
         "title": "海軍本部"
       },
       {
@@ -1582,7 +1582,7 @@
         "no": 198,
         "portrait": "character_0258_c1.png",
         "skill": "skill_name_8037.png",
-        "thumbnail": "character_0258_t.png",
+        "thumbnail": "character_0258_t1.png",
         "title": "海軍本部"
       },
       {
@@ -1590,7 +1590,7 @@
         "no": 199,
         "portrait": "character_0240_c1.png",
         "skill": "motion_0240_mr.5_skill_name.png",
-        "thumbnail": "character_0240_t.png",
+        "thumbnail": "character_0240_t1.png",
         "title": "鼻空想砲"
       },
       {
@@ -1598,15 +1598,15 @@
         "no": 200,
         "portrait": "character_0241_c1.png",
         "skill": "motion_0241_mr.5_magnum_skill_name.png",
-        "thumbnail": "character_0241_t.png",
+        "thumbnail": "character_0241_t1.png",
         "title": "微風氣息炸彈"
       },
       {
         "name": "Miss情人節",
         "no": 201,
         "portrait": "character_0242_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0242_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0242_t1.png",
         "title": ""
       },
       {
@@ -1614,15 +1614,15 @@
         "no": 202,
         "portrait": "character_0243_c1.png",
         "skill": "motion_0243_miss.valentine_guillotine_skill_name.png",
-        "thumbnail": "character_0243_t.png",
+        "thumbnail": "character_0243_t1.png",
         "title": "一萬公斤泰山壓頂"
       },
       {
         "name": "Mr.3",
         "no": 203,
         "portrait": "character_0250_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0250_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0250_t1.png",
         "title": ""
       },
       {
@@ -1630,15 +1630,15 @@
         "no": 204,
         "portrait": "character_0251_c1.png",
         "skill": "motion_0251_mr.3_skill_name.png",
-        "thumbnail": "character_0251_t.png",
+        "thumbnail": "character_0251_t1.png",
         "title": "特大號蠟燭饗宴"
       },
       {
         "name": "Miss黃金週",
         "no": 205,
         "portrait": "character_0252_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0252_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0252_t1.png",
         "title": ""
       },
       {
@@ -1646,15 +1646,15 @@
         "no": 206,
         "portrait": "character_0253_c1.png",
         "skill": "motion_0253_miss.goldenweek_skill_name.png",
-        "thumbnail": "character_0253_t.png",
+        "thumbnail": "character_0253_t1.png",
         "title": "彩色陷阱　悠閒之綠"
       },
       {
         "name": "Mr.2　馮．克雷",
         "no": 207,
         "portrait": "character_0248_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0248_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0248_t1.png",
         "title": ""
       },
       {
@@ -1662,22 +1662,22 @@
         "no": 208,
         "portrait": "character_0249_c1.png",
         "skill": "motion_0249_mr.2_honki.ver_skill_name.png",
-        "thumbnail": "character_0249_t.png",
+        "thumbnail": "character_0249_t1.png",
         "title": "爆擊天鵝迎風展翅"
       },
       {
         "name": "",
         "no": 209,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 210,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -1685,8 +1685,8 @@
         "name": "Mr.9",
         "no": 211,
         "portrait": "character_0234_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0234_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0234_t1.png",
         "title": ""
       },
       {
@@ -1694,7 +1694,7 @@
         "no": 212,
         "portrait": "character_0236_c1.png",
         "skill": "motion_0236_mr.9_skill_name.png",
-        "thumbnail": "character_0236_t.png",
+        "thumbnail": "character_0236_t1.png",
         "title": "熱血9號後空翻"
       },
       {
@@ -1702,7 +1702,7 @@
         "no": 213,
         "portrait": "character_0235_c1.png",
         "skill": "motion_0235_laboon_skill_name.png",
-        "thumbnail": "character_0235_t.png",
+        "thumbnail": "character_0235_t1.png",
         "title": ""
       },
       {
@@ -1710,7 +1710,7 @@
         "no": 214,
         "portrait": "character_0237_c1.png",
         "skill": "motion_0237_laboon_skill_name.png",
-        "thumbnail": "character_0237_t.png",
+        "thumbnail": "character_0237_t1.png",
         "title": "被魯夫塗鴉的"
       },
       {
@@ -1718,7 +1718,7 @@
         "no": 215,
         "portrait": "character_0259_c1.png",
         "skill": "skill_name_8051.png",
-        "thumbnail": "character_0259_t.png",
+        "thumbnail": "character_0259_t1.png",
         "title": ""
       },
       {
@@ -1726,7 +1726,7 @@
         "no": 216,
         "portrait": "character_0004_c1.png",
         "skill": "motion_0004_lufy_skill_name.png",
-        "thumbnail": "character_0004_t.png",
+        "thumbnail": "character_0004_t1.png",
         "title": "伸縮自如的橡膠氣球"
       },
       {
@@ -1734,7 +1734,7 @@
         "no": 217,
         "portrait": "character_0006_c1.png",
         "skill": "motion_0006_luffy_skill_name.png",
-        "thumbnail": "character_0006_t.png",
+        "thumbnail": "character_0006_t1.png",
         "title": "３檔"
       },
       {
@@ -1742,7 +1742,7 @@
         "no": 218,
         "portrait": "character_0012_c1.png",
         "skill": "motion_0012_zoro_skill_name.png",
-        "thumbnail": "character_0012_t.png",
+        "thumbnail": "character_0012_t1.png",
         "title": "刀狼流"
       },
       {
@@ -1756,8 +1756,8 @@
       {
         "name": "",
         "no": 220,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -1766,7 +1766,7 @@
         "no": 221,
         "portrait": "character_0017_c1.png",
         "skill": "motion_0017_nami_skill_name.png",
-        "thumbnail": "character_0017_t.png",
+        "thumbnail": "character_0017_t1.png",
         "title": "幸福的一擊"
       },
       {
@@ -1774,7 +1774,7 @@
         "no": 222,
         "portrait": "character_0296_c1.png",
         "skill": "motion_0296_usopp_skill_name.png",
-        "thumbnail": "character_0296_t.png",
+        "thumbnail": "character_0296_t1.png",
         "title": "騙人布反擊"
       },
       {
@@ -1782,7 +1782,7 @@
         "no": 223,
         "portrait": "character_0021_c1.png",
         "skill": "motion_0021_usopp_skill_name.png",
-        "thumbnail": "character_0021_t.png",
+        "thumbnail": "character_0021_t1.png",
         "title": "衝擊"
       },
       {
@@ -1790,7 +1790,7 @@
         "no": 224,
         "portrait": "character_0297_c1.png",
         "skill": "motion_0297_mr.prince_skill_name.png",
-        "thumbnail": "character_0297_t.png",
+        "thumbnail": "character_0297_t1.png",
         "title": "羊肉SHOT"
       },
       {
@@ -1798,7 +1798,7 @@
         "no": 225,
         "portrait": "character_0298_c1.png",
         "skill": "motion_0298_mr.prince_skill_name.png",
-        "thumbnail": "character_0298_t.png",
+        "thumbnail": "character_0298_t1.png",
         "title": "小牛肉SHOT"
       },
       {
@@ -1806,7 +1806,7 @@
         "no": 226,
         "portrait": "character_0168_c1.png",
         "skill": "motion_0168_mihawk_skill_name.png",
-        "thumbnail": "character_0168_t.png",
+        "thumbnail": "character_0168_t1.png",
         "title": ""
       },
       {
@@ -1814,15 +1814,15 @@
         "no": 227,
         "portrait": "character_0169_c1.png",
         "skill": "motion_0169_mihawk_skill_name.png",
-        "thumbnail": "character_0169_t.png",
+        "thumbnail": "character_0169_t1.png",
         "title": ""
       },
       {
         "name": "逃獄的蒙卡",
         "no": 228,
         "portrait": "character_0311_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0311_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0311_t1.png",
         "title": ""
       },
       {
@@ -1830,7 +1830,7 @@
         "no": 229,
         "portrait": "character_0153_c1.png",
         "skill": "motion_0153_marine_jango_skill_name.png",
-        "thumbnail": "character_0153_t.png",
+        "thumbnail": "character_0153_t1.png",
         "title": ""
       },
       {
@@ -1838,7 +1838,7 @@
         "no": 230,
         "portrait": "character_0304_c1.png",
         "skill": "motion_0304_fullbody_skill_name.png",
-        "thumbnail": "character_0304_t.png",
+        "thumbnail": "character_0304_t1.png",
         "title": ""
       },
       {
@@ -1846,7 +1846,7 @@
         "no": 231,
         "portrait": "character_0302_c1.png",
         "skill": "motion_0302_hina_skill_name.png",
-        "thumbnail": "character_0302_t.png",
+        "thumbnail": "character_0302_t1.png",
         "title": ""
       },
       {
@@ -1854,22 +1854,22 @@
         "no": 232,
         "portrait": "character_0303_c1.png",
         "skill": "motion_0303_hina_blackcage_skill_name.png",
-        "thumbnail": "character_0303_t.png",
+        "thumbnail": "character_0303_t1.png",
         "title": ""
       },
       {
         "name": "Mr.8",
         "no": 233,
         "portrait": "character_0244_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0244_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0244_t1.png",
         "title": ""
       },
       {
         "name": "Mr.8",
         "no": 234,
         "portrait": "character_0245_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -1877,8 +1877,8 @@
         "name": "Miss星期一",
         "no": 235,
         "portrait": "character_0246_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0246_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0246_t1.png",
         "title": ""
       },
       {
@@ -1886,7 +1886,7 @@
         "no": 236,
         "portrait": "character_0247_c1.png",
         "skill": "motion_0247_miss.monday_skill_name.png",
-        "thumbnail": "character_0247_t.png",
+        "thumbnail": "character_0247_t1.png",
         "title": "怪．力　金剛拳"
       },
       {
@@ -1894,7 +1894,7 @@
         "no": 237,
         "portrait": "character_0289_c1.png",
         "skill": "skill_name_8013.png",
-        "thumbnail": "character_0289_t.png",
+        "thumbnail": "character_0289_t1.png",
         "title": "巴洛克華克"
       },
       {
@@ -1902,7 +1902,7 @@
         "no": 238,
         "portrait": "character_0290_c1.png",
         "skill": "skill_name_8040.png",
-        "thumbnail": "character_0290_t.png",
+        "thumbnail": "character_0290_t1.png",
         "title": "巴洛克華克"
       },
       {
@@ -1910,7 +1910,7 @@
         "no": 239,
         "portrait": "character_0291_c1.png",
         "skill": "skill_name_8041.png",
-        "thumbnail": "character_0291_t.png",
+        "thumbnail": "character_0291_t1.png",
         "title": "巴洛克華克"
       },
       {
@@ -1918,7 +1918,7 @@
         "no": 240,
         "portrait": "character_0292_c1.png",
         "skill": "skill_name_8021.png",
-        "thumbnail": "character_0292_t.png",
+        "thumbnail": "character_0292_t1.png",
         "title": "巴洛克華克"
       },
       {
@@ -1926,7 +1926,7 @@
         "no": 241,
         "portrait": "character_0293_c1.png",
         "skill": "skill_name_8010.png",
-        "thumbnail": "character_0293_t.png",
+        "thumbnail": "character_0293_t1.png",
         "title": "巴洛克華克"
       },
       {
@@ -1934,7 +1934,7 @@
         "no": 242,
         "portrait": "character_0281_c1.png",
         "skill": "skill_name_8013.png",
-        "thumbnail": "character_0281_t.png",
+        "thumbnail": "character_0281_t1.png",
         "title": "巴洛克華克"
       },
       {
@@ -1942,7 +1942,7 @@
         "no": 243,
         "portrait": "character_0282_c1.png",
         "skill": "skill_name_8040.png",
-        "thumbnail": "character_0282_t.png",
+        "thumbnail": "character_0282_t1.png",
         "title": "巴洛克華克"
       },
       {
@@ -1950,7 +1950,7 @@
         "no": 244,
         "portrait": "character_0283_c1.png",
         "skill": "skill_name_8041.png",
-        "thumbnail": "character_0283_t.png",
+        "thumbnail": "character_0283_t1.png",
         "title": "巴洛克華克"
       },
       {
@@ -1958,7 +1958,7 @@
         "no": 245,
         "portrait": "character_0284_c1.png",
         "skill": "skill_name_8021.png",
-        "thumbnail": "character_0284_t.png",
+        "thumbnail": "character_0284_t1.png",
         "title": "巴洛克華克"
       },
       {
@@ -1966,7 +1966,7 @@
         "no": 246,
         "portrait": "character_0285_c1.png",
         "skill": "skill_name_8010.png",
-        "thumbnail": "character_0285_t.png",
+        "thumbnail": "character_0285_t1.png",
         "title": "巴洛克華克"
       },
       {
@@ -1974,7 +1974,7 @@
         "no": 247,
         "portrait": "character_0367_c1.png",
         "skill": "motion_0367_chopperman_skill_name.png",
-        "thumbnail": "character_0367_t.png",
+        "thumbnail": "character_0367_t1.png",
         "title": ""
       },
       {
@@ -1982,7 +1982,7 @@
         "no": 248,
         "portrait": "character_0314_c1.png",
         "skill": "motion_0314_chopper_skill_name.png",
-        "thumbnail": "character_0314_t.png",
+        "thumbnail": "character_0314_t1.png",
         "title": "暴走前"
       },
       {
@@ -1990,14 +1990,14 @@
         "no": 249,
         "portrait": "character_0034_c1.png",
         "skill": "motion_0034_chopper_skill_name.png",
-        "thumbnail": "character_0034_t.png",
+        "thumbnail": "character_0034_t1.png",
         "title": "暴走後"
       },
       {
         "name": "馬可",
         "no": 250,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -2014,7 +2014,7 @@
         "no": 252,
         "portrait": "character_0320_c1.png",
         "skill": "motion_0320_joz_skill_name.png",
-        "thumbnail": "character_0320_t.png",
+        "thumbnail": "character_0320_t1.png",
         "title": ""
       },
       {
@@ -2022,14 +2022,14 @@
         "no": 253,
         "portrait": "character_0321_c1.png",
         "skill": "motion_0321_joz_skill_name.png",
-        "thumbnail": "character_0321_t.png",
+        "thumbnail": "character_0321_t1.png",
         "title": ""
       },
       {
         "name": "",
         "no": 254,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -2038,14 +2038,14 @@
         "no": 255,
         "portrait": "character_0323_c1.png",
         "skill": "motion_0323_vista_skill_name.png",
-        "thumbnail": "character_0323_t.png",
+        "thumbnail": "character_0323_t1.png",
         "title": ""
       },
       {
         "name": "以藏",
         "no": 256,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -2053,7 +2053,7 @@
         "name": "短槍以藏",
         "no": 257,
         "portrait": "character_0325_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -2061,7 +2061,7 @@
         "name": "布朗明哥",
         "no": 258,
         "portrait": "character_0326_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_0326_t.png",
         "title": ""
       },
@@ -2070,7 +2070,7 @@
         "no": 259,
         "portrait": "character_0327_c1.png",
         "skill": "motion_0327_blamenco_skill_name.png",
-        "thumbnail": "character_0327_t.png",
+        "thumbnail": "character_0327_t1.png",
         "title": ""
       },
       {
@@ -2078,7 +2078,7 @@
         "no": 260,
         "portrait": "character_0328_c1.png",
         "skill": "motion_0328_edward-newgate_skill_name.png",
-        "thumbnail": "character_0328_t.png",
+        "thumbnail": "character_0328_t1.png",
         "title": ""
       },
       {
@@ -2086,15 +2086,15 @@
         "no": 261,
         "portrait": "character_0329_c1.png",
         "skill": "motion_0329_edward-newgate_skill_name.png",
-        "thumbnail": "character_0329_t.png",
+        "thumbnail": "character_0329_t1.png",
         "title": ""
       },
       {
         "name": "特訓克比",
         "no": 262,
         "portrait": "character_0305_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0305_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0305_t1.png",
         "title": ""
       },
       {
@@ -2102,15 +2102,15 @@
         "no": 263,
         "portrait": "character_0306_c1.png",
         "skill": "motion_0306_coby_skill_name.png",
-        "thumbnail": "character_0306_t.png",
+        "thumbnail": "character_0306_t1.png",
         "title": ""
       },
       {
         "name": "特訓貝魯梅柏",
         "no": 264,
         "portrait": "character_0307_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0307_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0307_t1.png",
         "title": ""
       },
       {
@@ -2118,15 +2118,15 @@
         "no": 265,
         "portrait": "character_0308_c1.png",
         "skill": "motion_0308_helmeppo_skill_name.png",
-        "thumbnail": "character_0308_t.png",
+        "thumbnail": "character_0308_t1.png",
         "title": ""
       },
       {
         "name": "彩虹海賊企鵝",
         "no": 266,
         "portrait": "character_0093_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0093_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0093_t1.png",
         "title": ""
       },
       {
@@ -2134,14 +2134,14 @@
         "no": 267,
         "portrait": "character_0117_c1.png",
         "skill": "skill_name_8007.png",
-        "thumbnail": "character_0117_t.png",
+        "thumbnail": "character_0117_t1.png",
         "title": ""
       },
       {
         "name": "",
         "no": 268,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -2150,7 +2150,7 @@
         "no": 269,
         "portrait": "character_0260_c1.png",
         "skill": "skill_name_8001.png",
-        "thumbnail": "character_0260_t.png",
+        "thumbnail": "character_0260_t1.png",
         "title": "紅色海賊"
       },
       {
@@ -2158,7 +2158,7 @@
         "no": 270,
         "portrait": "character_0261_c1.png",
         "skill": "skill_name_8006.png",
-        "thumbnail": "character_0261_t.png",
+        "thumbnail": "character_0261_t1.png",
         "title": "藍色海賊"
       },
       {
@@ -2166,7 +2166,7 @@
         "no": 271,
         "portrait": "character_0262_c1.png",
         "skill": "skill_name_8008.png",
-        "thumbnail": "character_0262_t.png",
+        "thumbnail": "character_0262_t1.png",
         "title": "綠色海賊"
       },
       {
@@ -2174,7 +2174,7 @@
         "no": 272,
         "portrait": "character_0263_c1.png",
         "skill": "skill_name_8006.png",
-        "thumbnail": "character_0263_t.png",
+        "thumbnail": "character_0263_t1.png",
         "title": "黃色海賊"
       },
       {
@@ -2182,7 +2182,7 @@
         "no": 273,
         "portrait": "character_0264_c1.png",
         "skill": "skill_name_8001.png",
-        "thumbnail": "character_0264_t.png",
+        "thumbnail": "character_0264_t1.png",
         "title": "黑色海賊"
       },
       {
@@ -2190,7 +2190,7 @@
         "no": 274,
         "portrait": "character_0265_c1.png",
         "skill": "skill_name_8002.png",
-        "thumbnail": "character_0265_t.png",
+        "thumbnail": "character_0265_t1.png",
         "title": "紅色海賊"
       },
       {
@@ -2198,7 +2198,7 @@
         "no": 275,
         "portrait": "character_0266_c1.png",
         "skill": "skill_name_8007.png",
-        "thumbnail": "character_0266_t.png",
+        "thumbnail": "character_0266_t1.png",
         "title": "藍色海賊"
       },
       {
@@ -2206,7 +2206,7 @@
         "no": 276,
         "portrait": "character_0267_c1.png",
         "skill": "skill_name_8019.png",
-        "thumbnail": "character_0267_t.png",
+        "thumbnail": "character_0267_t1.png",
         "title": "綠色海賊"
       },
       {
@@ -2214,7 +2214,7 @@
         "no": 277,
         "portrait": "character_0268_c1.png",
         "skill": "skill_name_8031.png",
-        "thumbnail": "character_0268_t.png",
+        "thumbnail": "character_0268_t1.png",
         "title": "黃色海賊"
       },
       {
@@ -2222,7 +2222,7 @@
         "no": 278,
         "portrait": "character_0269_c1.png",
         "skill": "skill_name_8002.png",
-        "thumbnail": "character_0269_t.png",
+        "thumbnail": "character_0269_t1.png",
         "title": "黑色海賊"
       },
       {
@@ -2230,7 +2230,7 @@
         "no": 279,
         "portrait": "character_0270_c1.png",
         "skill": "skill_name_8033.png",
-        "thumbnail": "character_0270_t.png",
+        "thumbnail": "character_0270_t1.png",
         "title": "紅色海賊"
       },
       {
@@ -2238,7 +2238,7 @@
         "no": 280,
         "portrait": "character_0271_c1.png",
         "skill": "skill_name_8014.png",
-        "thumbnail": "character_0271_t.png",
+        "thumbnail": "character_0271_t1.png",
         "title": "藍色海賊"
       },
       {
@@ -2246,7 +2246,7 @@
         "no": 281,
         "portrait": "character_0272_c1.png",
         "skill": "skill_name_8019.png",
-        "thumbnail": "character_0272_t.png",
+        "thumbnail": "character_0272_t1.png",
         "title": "綠色海賊"
       },
       {
@@ -2254,7 +2254,7 @@
         "no": 282,
         "portrait": "character_0273_c1.png",
         "skill": "skill_name_8022.png",
-        "thumbnail": "character_0273_t.png",
+        "thumbnail": "character_0273_t1.png",
         "title": "黃色海賊"
       },
       {
@@ -2262,7 +2262,7 @@
         "no": 283,
         "portrait": "character_0274_c1.png",
         "skill": "skill_name_8003.png",
-        "thumbnail": "character_0274_t.png",
+        "thumbnail": "character_0274_t1.png",
         "title": "黑色海賊"
       },
       {
@@ -2270,7 +2270,7 @@
         "no": 284,
         "portrait": "character_0275_c1.png",
         "skill": "skill_name_8004.png",
-        "thumbnail": "character_0275_t.png",
+        "thumbnail": "character_0275_t1.png",
         "title": "紅色海賊"
       },
       {
@@ -2278,7 +2278,7 @@
         "no": 285,
         "portrait": "character_0276_c1.png",
         "skill": "skill_name_8007.png",
-        "thumbnail": "character_0276_t.png",
+        "thumbnail": "character_0276_t1.png",
         "title": "藍色海賊"
       },
       {
@@ -2286,7 +2286,7 @@
         "no": 286,
         "portrait": "character_0277_c1.png",
         "skill": "skill_name_8017.png",
-        "thumbnail": "character_0277_t.png",
+        "thumbnail": "character_0277_t1.png",
         "title": "綠色海賊"
       },
       {
@@ -2294,7 +2294,7 @@
         "no": 287,
         "portrait": "character_0278_c1.png",
         "skill": "skill_name_8027.png",
-        "thumbnail": "character_0278_t.png",
+        "thumbnail": "character_0278_t1.png",
         "title": "黃色海賊"
       },
       {
@@ -2302,7 +2302,7 @@
         "no": 288,
         "portrait": "character_0279_c1.png",
         "skill": "skill_name_8004.png",
-        "thumbnail": "character_0279_t.png",
+        "thumbnail": "character_0279_t1.png",
         "title": "黑色海賊"
       },
       {
@@ -2310,7 +2310,7 @@
         "no": 289,
         "portrait": "character_0280_c1.png",
         "skill": "skill_name_8006.png",
-        "thumbnail": "character_0280_t.png",
+        "thumbnail": "character_0280_t1.png",
         "title": ""
       },
       {
@@ -2318,14 +2318,14 @@
         "no": 290,
         "portrait": "character_0286_c1.png",
         "skill": "motion_0286_Mr.13andmissfryday_skill_name.png",
-        "thumbnail": "character_0286_t.png",
+        "thumbnail": "character_0286_t1.png",
         "title": "不吉利二人組"
       },
       {
         "name": "多利",
         "no": 291,
         "portrait": "character_0287_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -2333,7 +2333,7 @@
         "name": "布羅基",
         "no": 292,
         "portrait": "character_0288_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -2342,22 +2342,22 @@
         "no": 293,
         "portrait": "character_0299_c1.png",
         "skill": "skill_name_8006.png",
-        "thumbnail": "character_0299_t.png",
+        "thumbnail": "character_0299_t1.png",
         "title": ""
       },
       {
         "name": "",
         "no": 294,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 295,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -2366,7 +2366,7 @@
         "no": 296,
         "portrait": "character_0309_c1.png",
         "skill": "motion_0309_otsuru_skill_name.png",
-        "thumbnail": "character_0309_t.png",
+        "thumbnail": "character_0309_t1.png",
         "title": ""
       },
       {
@@ -2374,7 +2374,7 @@
         "no": 297,
         "portrait": "character_0310_c1.png",
         "skill": "motion_0310_otsuru_skill_name.png",
-        "thumbnail": "character_0310_t.png",
+        "thumbnail": "character_0310_t1.png",
         "title": ""
       },
       {
@@ -2382,7 +2382,7 @@
         "no": 298,
         "portrait": "character_0312_c1.png",
         "skill": "motion_0312_momonga_skill_name.png",
-        "thumbnail": "character_0312_t.png",
+        "thumbnail": "character_0312_t1.png",
         "title": ""
       },
       {
@@ -2390,47 +2390,47 @@
         "no": 299,
         "portrait": "character_0313_c1.png",
         "skill": "motion_0313_onigumo_skill_name.png",
-        "thumbnail": "character_0313_t.png",
+        "thumbnail": "character_0313_t1.png",
         "title": ""
       },
       {
         "name": "紅色鎧甲龍蝦",
         "no": 300,
         "portrait": "character_0106_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0106_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0106_t1.png",
         "title": ""
       },
       {
         "name": "藍色鎧甲龍蝦",
         "no": 301,
         "portrait": "character_0107_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0107_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0107_t1.png",
         "title": ""
       },
       {
         "name": "綠色鎧甲龍蝦",
         "no": 302,
         "portrait": "character_0108_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0108_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0108_t1.png",
         "title": ""
       },
       {
         "name": "黃色鎧甲龍蝦",
         "no": 303,
         "portrait": "character_0109_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0109_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0109_t1.png",
         "title": ""
       },
       {
         "name": "黑色鎧甲龍蝦",
         "no": 304,
         "portrait": "character_0110_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0110_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0110_t1.png",
         "title": ""
       },
       {
@@ -2438,7 +2438,7 @@
         "no": 305,
         "portrait": "character_0315_c1.png",
         "skill": "motion_0315_garp_skill_name.png",
-        "thumbnail": "character_0315_t.png",
+        "thumbnail": "character_0315_t1.png",
         "title": ""
       },
       {
@@ -2446,7 +2446,7 @@
         "no": 306,
         "portrait": "character_0316_c1.png",
         "skill": "motion_0316_garp_skill_name.png",
-        "thumbnail": "character_0316_t.png",
+        "thumbnail": "character_0316_t1.png",
         "title": ""
       },
       {
@@ -2462,7 +2462,7 @@
         "no": 308,
         "portrait": "character_0331_c1.png",
         "skill": "motion_0331_law_skill_name_0001.png",
-        "thumbnail": "character_0331_t.png",
+        "thumbnail": "character_0331_t1.png",
         "title": "ROOM"
       },
       {
@@ -2470,7 +2470,7 @@
         "no": 309,
         "portrait": "character_0332_c1.png",
         "skill": "motion_0332_hawkins_skill_name.png",
-        "thumbnail": "character_0332_t.png",
+        "thumbnail": "character_0332_t1.png",
         "title": ""
       },
       {
@@ -2486,7 +2486,7 @@
         "no": 311,
         "portrait": "character_0334_c1.png",
         "skill": "motion_0334_killer_skill_name.png",
-        "thumbnail": "character_0334_t.png",
+        "thumbnail": "character_0334_t1.png",
         "title": ""
       },
       {
@@ -2502,7 +2502,7 @@
         "no": 313,
         "portrait": "character_0336_c1.png",
         "skill": "motion_0336_urouge_skill_name.png",
-        "thumbnail": "character_0336_t.png",
+        "thumbnail": "character_0336_t1.png",
         "title": ""
       },
       {
@@ -2510,14 +2510,14 @@
         "no": 314,
         "portrait": "character_0337_c1.png",
         "skill": "motion_0337_urouge_skill_name.png",
-        "thumbnail": "character_0337_t.png",
+        "thumbnail": "character_0337_t1.png",
         "title": ""
       },
       {
         "name": "",
         "no": 315,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -2525,8 +2525,8 @@
         "name": "武鬥家培波",
         "no": 316,
         "portrait": "character_0339_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0339_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0339_t1.png",
         "title": ""
       },
       {
@@ -2534,7 +2534,7 @@
         "no": 317,
         "portrait": "character_0368_c1.png",
         "skill": "motion_0368_karifa_skill_name.png",
-        "thumbnail": "character_0368_t.png",
+        "thumbnail": "character_0368_t1.png",
         "title": ""
       },
       {
@@ -2542,7 +2542,7 @@
         "no": 318,
         "portrait": "character_0369_c1.png",
         "skill": "motion_0369_karifa_skill_name.png",
-        "thumbnail": "character_0369_t.png",
+        "thumbnail": "character_0369_t1.png",
         "title": ""
       },
       {
@@ -2550,7 +2550,7 @@
         "no": 319,
         "portrait": "character_0370_c1.png",
         "skill": "motion_0370_pauly_skill_name.png",
-        "thumbnail": "character_0370_t.png",
+        "thumbnail": "character_0370_t1.png",
         "title": ""
       },
       {
@@ -2558,7 +2558,7 @@
         "no": 320,
         "portrait": "character_0371_c1.png",
         "skill": "motion_0371_pauly_skill_name.png",
-        "thumbnail": "character_0371_t.png",
+        "thumbnail": "character_0371_t1.png",
         "title": "一號船塢索具、桅杆工頭"
       },
       {
@@ -2566,7 +2566,7 @@
         "no": 321,
         "portrait": "character_0372_c1.png",
         "skill": "motion_0372_rob-lucci_skill_name.png",
-        "thumbnail": "character_0372_t.png",
+        "thumbnail": "character_0372_t1.png",
         "title": ""
       },
       {
@@ -2574,7 +2574,7 @@
         "no": 322,
         "portrait": "character_0373_c1.png",
         "skill": "motion_0373_rob-lucci_skill_name.png",
-        "thumbnail": "character_0373_t.png",
+        "thumbnail": "character_0373_t1.png",
         "title": "一號船塢鋸木、木釘工人工頭"
       },
       {
@@ -2582,7 +2582,7 @@
         "no": 323,
         "portrait": "character_0374_c1.png",
         "skill": "motion_0374_kaku_skill_name.png",
-        "thumbnail": "character_0374_t.png",
+        "thumbnail": "character_0374_t1.png",
         "title": ""
       },
       {
@@ -2590,7 +2590,7 @@
         "no": 324,
         "portrait": "character_0375_c1.png",
         "skill": "motion_0375_kaku_skill_name.png",
-        "thumbnail": "character_0375_t.png",
+        "thumbnail": "character_0375_t1.png",
         "title": "一號船塢木工工人工頭"
       },
       {
@@ -2598,21 +2598,21 @@
         "no": 325,
         "portrait": "character_0376_c1.png",
         "skill": "skill_name_8052.png",
-        "thumbnail": "character_0376_t.png",
+        "thumbnail": "character_0376_t1.png",
         "title": ""
       },
       {
         "name": "",
         "no": 326,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 327,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
         "skill": "motion_0341_skill_name.png",
         "thumbnail": "character_none.png",
         "title": ""
@@ -2622,7 +2622,7 @@
         "no": 328,
         "portrait": "character_0342_c1.png",
         "skill": "motion_0342_skill_name.png",
-        "thumbnail": "character_0342_t.png",
+        "thumbnail": "character_0342_t1.png",
         "title": ""
       },
       {
@@ -2630,23 +2630,23 @@
         "no": 329,
         "portrait": "character_0343_c1.png",
         "skill": "motion_0343_skill_name.png",
-        "thumbnail": "character_0343_t.png",
+        "thumbnail": "character_0343_t1.png",
         "title": "野牛"
       },
       {
         "name": "傑斯",
         "no": 330,
         "portrait": "character_0344_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0344_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0344_t1.png",
         "title": ""
       },
       {
         "name": "克羅馬利蒙",
         "no": 331,
         "portrait": "character_0345_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0345_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0345_t1.png",
         "title": ""
       },
       {
@@ -2654,14 +2654,14 @@
         "no": 332,
         "portrait": "character_0346_c1.png",
         "skill": "motion_0346_chessmarimo_skill_name.png",
-        "thumbnail": "character_0346_t.png",
+        "thumbnail": "character_0346_t1.png",
         "title": ""
       },
       {
         "name": "",
         "no": 333,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -2670,7 +2670,7 @@
         "no": 334,
         "portrait": "character_0348_c1.png",
         "skill": "skill_name_8005.png",
-        "thumbnail": "character_0348_t.png",
+        "thumbnail": "character_0348_t1.png",
         "title": ""
       },
       {
@@ -2678,7 +2678,7 @@
         "no": 335,
         "portrait": "character_0349_c1.png",
         "skill": "skill_name_8005.png",
-        "thumbnail": "character_0349_t.png",
+        "thumbnail": "character_0349_t1.png",
         "title": "成獸"
       },
       {
@@ -2686,7 +2686,7 @@
         "no": 336,
         "portrait": "character_0395_c1.png",
         "skill": "motion_0395_franky_skill_name.png",
-        "thumbnail": "character_0395_t.png",
+        "thumbnail": "character_0395_t1.png",
         "title": ""
       },
       {
@@ -2694,7 +2694,7 @@
         "no": 337,
         "portrait": "character_0396_c1.png",
         "skill": "motion_0396_franky_skill_name.png",
-        "thumbnail": "character_0396_t.png",
+        "thumbnail": "character_0396_t1.png",
         "title": ""
       },
       {
@@ -2702,7 +2702,7 @@
         "no": 338,
         "portrait": "character_0397_c1.png",
         "skill": "skill_name_8053.png",
-        "thumbnail": "character_0397_t.png",
+        "thumbnail": "character_0397_t1.png",
         "title": ""
       },
       {
@@ -2710,7 +2710,7 @@
         "no": 339,
         "portrait": "character_0398_c1.png",
         "skill": "skill_name_8054.png",
-        "thumbnail": "character_0398_t.png",
+        "thumbnail": "character_0398_t1.png",
         "title": ""
       },
       {
@@ -2718,7 +2718,7 @@
         "no": 340,
         "portrait": "character_0399_c1.png",
         "skill": "motion_0399_kraken_skill_name.png",
-        "thumbnail": "character_0399_t.png",
+        "thumbnail": "character_0399_t1.png",
         "title": "魷魚"
       },
       {
@@ -2726,94 +2726,94 @@
         "no": 341,
         "portrait": "character_0400_c1.png",
         "skill": "motion_0400_kraken_skill_name.png",
-        "thumbnail": "character_0400_t.png",
+        "thumbnail": "character_0400_t1.png",
         "title": "北極的怪物"
       },
       {
         "name": "紅色能量豬",
         "no": 342,
         "portrait": "character_0405_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0405_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0405_t1.png",
         "title": ""
       },
       {
         "name": "藍色能量豬",
         "no": 343,
         "portrait": "character_0406_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0406_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0406_t1.png",
         "title": ""
       },
       {
         "name": "綠色能量豬",
         "no": 344,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "黃色能量豬",
         "no": 345,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "黑色能量豬",
         "no": 346,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0409_c1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0409_t1.png",
         "title": ""
       },
       {
         "name": "紅寶石能量豬",
         "no": 347,
         "portrait": "character_0410_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0410_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0410_t1.png",
         "title": ""
       },
       {
         "name": "藍寶石能量豬",
         "no": 348,
         "portrait": "character_0411_c1.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_0411_t.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0411_t1.png",
         "title": ""
       },
       {
         "name": "綠寶石能量豬",
         "no": 349,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "黃寶石能量豬",
         "no": 350,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "紫水晶能量豬",
         "no": 351,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0414_c1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0414_t1.png",
         "title": ""
       },
       {
         "name": "基德",
         "no": 356,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -2830,14 +2830,14 @@
         "no": 358,
         "portrait": "character_0352_c1.png",
         "skill": "motion_0352_apoo_skill_name.png",
-        "thumbnail": "character_0352_t.png",
+        "thumbnail": "character_0352_t1.png",
         "title": ""
       },
       {
         "name": "",
         "no": 359,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -2846,30 +2846,30 @@
         "no": 360,
         "portrait": "character_0354_c1.png",
         "skill": "motion_0354_xdrake_skill_name.png",
-        "thumbnail": "character_0354_t.png",
+        "thumbnail": "character_0354_t1.png",
         "title": ""
       },
       {
         "name": "",
         "no": 361,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 362,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 363,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -2884,8 +2884,8 @@
       {
         "name": "",
         "no": 365,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -2910,7 +2910,7 @@
         "no": 368,
         "portrait": "character_0363_c1.png",
         "skill": "skill_name_8056.png",
-        "thumbnail": "character_0363_t.png",
+        "thumbnail": "character_0363_t1.png",
         "title": "紅色海賊"
       },
       {
@@ -2918,7 +2918,7 @@
         "no": 369,
         "portrait": "character_0366_c1.png",
         "skill": "skill_name_8059.png",
-        "thumbnail": "character_0366_t.png",
+        "thumbnail": "character_0366_t1.png",
         "title": "藍色海賊"
       },
       {
@@ -2926,7 +2926,7 @@
         "no": 370,
         "portrait": "character_0365_c1.png",
         "skill": "skill_name_8058.png",
-        "thumbnail": "character_0365_t.png",
+        "thumbnail": "character_0365_t1.png",
         "title": "綠色海賊"
       },
       {
@@ -2934,7 +2934,7 @@
         "no": 371,
         "portrait": "character_0362_c1.png",
         "skill": "skill_name_8055.png",
-        "thumbnail": "character_0362_t.png",
+        "thumbnail": "character_0362_t1.png",
         "title": "黃色海賊"
       },
       {
@@ -2942,102 +2942,102 @@
         "no": 372,
         "portrait": "character_0364_c1.png",
         "skill": "skill_name_8057.png",
-        "thumbnail": "character_0364_t.png",
+        "thumbnail": "character_0364_t1.png",
         "title": "黑色海賊"
       },
       {
         "name": "",
         "no": 373,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 374,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 375,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 376,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 377,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 378,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 379,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 380,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 381,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 382,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 383,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 384,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -3046,30 +3046,30 @@
         "no": 385,
         "portrait": "character_0419_c1.png",
         "skill": "motion_0419_dr.hogback_skill_name.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0419_t1.png",
         "title": ""
       },
       {
         "name": "赫古巴庫",
         "no": 386,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "辛朵莉",
         "no": 387,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_0421_c1.png",
         "skill": "motion_0421_cindry_skill_name.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0421_t1.png",
         "title": ""
       },
       {
         "name": "辛朵莉",
         "no": 388,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -3078,22 +3078,150 @@
         "no": 389,
         "portrait": "character_0401_c1.png",
         "skill": "motion_0401_ivankov_skill_name.png",
-        "thumbnail": "character_0401_t.png",
+        "thumbnail": "character_0401_t1.png",
         "title": ""
       },
       {
         "name": "艾波利歐．伊娃柯夫",
         "no": 390,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
         "skill": "motion_0402_ivankov_skill_name.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
+        "no": 391,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 392,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 393,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 394,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 395,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 396,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 397,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 398,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 399,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 400,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 401,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 402,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 404,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 405,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 406,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 407,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
         "no": 408,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -3102,22 +3230,22 @@
         "no": 409,
         "portrait": "character_0381_c1.png",
         "skill": "motion_0381_jinbe_skill_name.png",
-        "thumbnail": "character_0381_t.png",
+        "thumbnail": "character_0381_t1.png",
         "title": ""
       },
       {
         "name": "",
         "no": 410,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "巴索羅繆．大熊",
         "no": 411,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -3125,15 +3253,15 @@
         "name": "巴索羅繆．大熊",
         "no": 412,
         "portrait": "character_0436_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_0436_t.png",
         "title": "王下七武海"
       },
       {
         "name": "月光．摩利亞",
         "no": 413,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -3150,7 +3278,7 @@
         "no": 415,
         "portrait": "character_0439_c1.png",
         "skill": "motion_0439_hankook_skill_name.png",
-        "thumbnail": "character_0439_t.png",
+        "thumbnail": "character_0439_t1.png",
         "title": ""
       },
       {
@@ -3158,7 +3286,7 @@
         "no": 416,
         "portrait": "character_0440_c1.png",
         "skill": "motion_0440_hankook_skill_name.png",
-        "thumbnail": "character_0440_t.png",
+        "thumbnail": "character_0440_t1.png",
         "title": "王下七武海"
       },
       {
@@ -3166,62 +3294,846 @@
         "no": 417,
         "portrait": "character_0442_c1.png",
         "skill": "motion_0442_doflamingo_skill_name.png",
-        "thumbnail": "character_0442_t.png",
+        "thumbnail": "character_0442_t1.png",
         "title": ""
       },
       {
         "name": "唐吉訶德．多佛朗明哥",
         "no": 418,
-        "portrait": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
         "skill": "motion_0443_doflamingo_skill_name.png",
         "thumbnail": "character_none.png",
         "title": "王下七武海"
       },
       {
         "name": "",
+        "no": 423,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 424,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 425,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 426,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 427,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 428,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 429,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 430,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 431,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 432,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 437,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 438,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 439,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 440,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
         "no": 446,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 447,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 448,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 449,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 450,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 451,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 452,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 453,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 454,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 455,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 456,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 457,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 458,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 459,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 463,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 464,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 465,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 466,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 467,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 468,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 469,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 470,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 471,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 472,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 473,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 474,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 475,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 476,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 477,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 478,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 479,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 480,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 481,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 482,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 483,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 484,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 485,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 486,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 487,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 488,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 489,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 490,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 491,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 492,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 493,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 494,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 495,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 496,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 497,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 498,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 499,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 500,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 501,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 502,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 503,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 504,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 505,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 506,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 507,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 508,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 529,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 530,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 541,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 542,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 543,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 544,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 545,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 546,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 561,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
         "name": "",
         "no": 562,
-        "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 614,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 615,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 616,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 617,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 618,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 619,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 620,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 621,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 622,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 623,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 624,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 625,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 626,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 627,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 628,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 629,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 630,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 631,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 632,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 633,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
       }
