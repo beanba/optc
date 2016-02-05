@@ -1301,7 +1301,7 @@
         "name": "戴墨鏡的保鑣",
         "no": 163,
         "portrait": "character_0177_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "skill_name_8046.png",
         "thumbnail": "character_0177_t.png",
         "title": ""
       },
@@ -2317,7 +2317,7 @@
         "name": "Mr.13 & Miss星期五",
         "no": 290,
         "portrait": "character_0286_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0286_Mr.13andmissfryday_skill_name.png",
         "thumbnail": "character_0286_t.png",
         "title": "不吉利二人組"
       },
@@ -3045,12 +3045,12 @@
         "name": "赫古巴庫",
         "no": 385,
         "portrait": "character_0419_c1.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0419_dr.hogback_skill_name.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "赫古巴庫",
         "no": 386,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
@@ -3058,15 +3058,15 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "辛朵莉",
         "no": 387,
         "portrait": "character_9999_t.png",
-        "skill": "character_9999_t.png",
+        "skill": "motion_0421_cindry_skill_name.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "辛朵莉",
         "no": 388,
         "portrait": "character_9999_t.png",
         "skill": "character_9999_t.png",
