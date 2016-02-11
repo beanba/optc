@@ -2,12 +2,21 @@
 
 BASEDIR=$(dirname $0)
 PKG=$1
-DEVICE=$2
+ID=$2
+DEVICE=$3
 
-if [ -z "$DEVICE" ]; then
-	adb shell 'ls -d /data/data/'$PKG'/files/Cache/GNPCACHE/**/* | grep -E "/character_.*\.png|/motion_.*\.png|/skill_name_.*\.png"' > tmp.txt
+if [ -z "$ID" ]; then
+	if [ -z "$DEVICE" ]; then
+		adb shell 'ls -d /data/data/'$PKG'/files/Cache/GNPCACHE/**/* | grep -E "/character_.*\.png|/motion_.*\.png|/skill_name_.*\.png"' > tmp.txt
+	else
+		adb -s $DEVICE shell 'ls -d /data/data/'$PKG'/files/Cache/GNPCACHE/**/* | grep -E "/character_.*\.png|/motion_.*\.png|/skill_name_.*\.png"' > tmp.txt
+	fi
 else
-	adb -s $DEVICE shell 'ls -d /data/data/'$PKG'/files/Cache/GNPCACHE/**/* | grep -E "/character_.*\.png|/motion_.*\.png|/skill_name_.*\.png"' > tmp.txt
+	if [ -z "$DEVICE" ]; then
+		adb shell 'ls -d /data/data/'$PKG'/files/Cache/GNPCACHE/**/* | grep -E "/character_.*'$ID'.*\.png|/motion_.*'$ID'.*\.png|/skill_name_.*'$ID'.*\.png"' > tmp.txt
+	else
+		adb -s $DEVICE shell 'ls -d /data/data/'$PKG'/files/Cache/GNPCACHE/**/* | grep -E "/character_.*'$ID'.*\.png|/motion_.*'$ID'.*\.png|/skill_name_.*'$ID'.*\.png"' > tmp.txt
+	fi
 fi
 
 while read -r line
