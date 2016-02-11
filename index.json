@@ -1869,7 +1869,7 @@
         "name": "Mr.8",
         "no": 234,
         "portrait": "character_0245_c1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "motion_0245_mr.8_skill_name.png",
         "thumbnail": "character_0245_t1.png",
         "title": "捲毛砲"
       },
@@ -2853,7 +2853,7 @@
         "name": "紅旗　X．多雷古",
         "no": 361,
         "portrait": "character_0355_c1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "motion_0355_xdrake_skill_name.png",
         "thumbnail": "character_0355_t1.png",
         "title": ""
       },
@@ -2989,7 +2989,7 @@
         "name": "海貓",
         "no": 378,
         "portrait": "character_0385_c1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "skill_name_8060.png",
         "thumbnail": "character_0385_t1.png",
         "title": ""
       },
@@ -3053,7 +3053,7 @@
         "name": "赫古巴庫醫生",
         "no": 386,
         "portrait": "character_0420_c1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "motion_0420_dr.hogback_skill_name.png",
         "thumbnail": "character_0420_t1.png",
         "title": ""
       },
@@ -3069,7 +3069,7 @@
         "name": "維多莉亞．辛朵莉",
         "no": 388,
         "portrait": "character_0422_c1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "motion_0422_cindry_skill_name.png",
         "thumbnail": "character_0422_t1.png",
         "title": ""
       },
@@ -3389,7 +3389,7 @@
         "name": "培羅娜　甜蜜",
         "no": 437,
         "portrait": "character_0559_c1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "motion_0559_perona_skill_name.png",
         "thumbnail": "character_0559_t1.png",
         "title": ""
       },
