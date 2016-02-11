@@ -1996,9 +1996,9 @@
       {
         "name": "馬可",
         "no": 250,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0318_c1.png",
+        "skill": "motion_0318_marco_skill_name.png",
+        "thumbnail": "character_0318_t1.png",
         "title": ""
       },
       {
@@ -3004,9 +3004,9 @@
       {
         "name": "功夫海牛",
         "no": 380,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0387_c1.png",
+        "skill": "motion_0387_kungfudugong_skill_name.png",
+        "thumbnail": "character_0387_t1.png",
         "title": ""
       },
       {
@@ -3972,6 +3972,62 @@
       {
         "name": "",
         "no": 562,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 563,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 564,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 565,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 566,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 567,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 568,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 569,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
