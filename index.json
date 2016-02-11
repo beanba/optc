@@ -2796,9 +2796,9 @@
       {
         "name": "黃寶石能量豬",
         "no": 350,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0413_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0413_t1.png",
         "title": ""
       },
       {
@@ -2997,7 +2997,7 @@
         "name": "功夫海牛",
         "no": 379,
         "portrait": "character_0386_c1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "motion_0386_kungfudugong_skill_name.png",
         "thumbnail": "character_0386_t1.png",
         "title": ""
       },
