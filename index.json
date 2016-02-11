@@ -1870,8 +1870,8 @@
         "no": 234,
         "portrait": "character_0245_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "thumbnail": "character_0245_t1.png",
+        "title": "捲毛砲"
       },
       {
         "name": "Miss星期一",
@@ -2026,11 +2026,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "比斯塔",
         "no": 254,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0322_c1.png",
+        "skill": "motion_0322_vista_skill_name.png",
+        "thumbnail": "character_0322_t1.png",
         "title": ""
       },
       {
@@ -2514,11 +2514,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "培波",
         "no": 315,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0338_c1.png",
+        "skill": "motion_0338_bepo_skill_name.png",
+        "thumbnail": "character_0338_t1.png",
         "title": ""
       },
       {
@@ -2756,9 +2756,9 @@
       {
         "name": "黃色能量豬",
         "no": 345,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0408_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0408_t1.png",
         "title": ""
       },
       {
@@ -2850,11 +2850,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "紅旗　X．多雷古",
         "no": 361,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0355_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0355_t1.png",
         "title": ""
       },
       {
@@ -2946,63 +2946,63 @@
         "title": "黑色海賊"
       },
       {
-        "name": "",
+        "name": "巨人斬擊近衛隊",
         "no": 373,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0391_c1.png",
+        "skill": "skill_name_8056.png",
+        "thumbnail": "character_0391_t1.png",
+        "title": "紅色海賊"
       },
       {
-        "name": "",
+        "name": "巨人射擊近衛隊",
         "no": 374,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0394_c1.png",
+        "skill": "skill_name_8059.png",
+        "thumbnail": "character_0394_t1.png",
+        "title": "藍色海賊"
       },
       {
-        "name": "",
+        "name": "巨人女戰士近衛隊",
         "no": 375,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0393_c1.png",
+        "skill": "skill_name_8058.png",
+        "thumbnail": "character_0393_t1.png",
+        "title": "綠色海賊"
       },
       {
-        "name": "",
+        "name": "巨人格鬥近衛隊",
         "no": 376,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0390_c1.png",
+        "skill": "skill_name_8055.png",
+        "thumbnail": "character_0390_t1.png",
+        "title": "黃色海賊"
       },
       {
-        "name": "",
+        "name": "巨人突擊近衛隊",
         "no": 377,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0392_c1.png",
+        "skill": "skill_name_8057.png",
+        "thumbnail": "character_0392_t1.png",
+        "title": "黑色海賊"
       },
       {
-        "name": "",
+        "name": "海貓",
         "no": 378,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0385_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0385_t1.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "功夫海牛",
         "no": 379,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0386_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0386_t1.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "功夫海牛",
         "no": 380,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
@@ -3050,11 +3050,11 @@
         "title": ""
       },
       {
-        "name": "赫古巴庫",
+        "name": "赫古巴庫醫生",
         "no": 386,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0420_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0420_t1.png",
         "title": ""
       },
       {
@@ -3066,11 +3066,11 @@
         "title": ""
       },
       {
-        "name": "辛朵莉",
+        "name": "維多莉亞．辛朵莉",
         "no": 388,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0422_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0422_t1.png",
         "title": ""
       },
       {
@@ -3300,9 +3300,9 @@
       {
         "name": "唐吉訶德．多佛朗明哥",
         "no": 418,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0443_c1.png",
         "skill": "motion_0443_doflamingo_skill_name.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0443_t1.png",
         "title": "王下七武海"
       },
       {
@@ -3386,11 +3386,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "培羅娜　甜蜜",
         "no": 437,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0559_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0559_t1.png",
         "title": ""
       },
       {
