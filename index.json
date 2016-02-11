@@ -558,7 +558,7 @@
         "no": 70,
         "portrait": "character_0167_c1.png",
         "skill": "motion_0167_smoker_skill_name.png",
-        "thumbnail": "character_0167_t.png",
+        "thumbnail": "character_0167_t1.png",
         "title": ""
       },
       {
@@ -1750,7 +1750,7 @@
         "no": 219,
         "portrait": "character_0294_c1.png",
         "skill": "motion_0294_zoro_skill_name.png",
-        "thumbnail": "character_0294_t.png",
+        "thumbnail": "character_0294_t1.png",
         "title": "獅子歌歌"
       },
       {
@@ -2006,7 +2006,7 @@
         "no": 251,
         "portrait": "character_0319_c1.png",
         "skill": "motion_0319_marco_skill_name.png",
-        "thumbnail": "character_0319_t.png",
+        "thumbnail": "character_0319_t1.png",
         "title": ""
       },
       {
@@ -2062,7 +2062,7 @@
         "no": 258,
         "portrait": "character_0326_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_0326_t.png",
+        "thumbnail": "character_0326_t1.png",
         "title": ""
       },
       {
@@ -2454,7 +2454,7 @@
         "no": 307,
         "portrait": "character_0330_c1.png",
         "skill": "motion_0330_law_skill_name_0001.png",
-        "thumbnail": "character_0330_t.png",
+        "thumbnail": "character_0330_t1.png",
         "title": ""
       },
       {
@@ -2478,7 +2478,7 @@
         "no": 310,
         "portrait": "character_0333_c1.png",
         "skill": "motion_0333_hawkins_skill_name.png",
-        "thumbnail": "character_0333_t.png",
+        "thumbnail": "character_0333_t1.png",
         "title": ""
       },
       {
@@ -2494,7 +2494,7 @@
         "no": 312,
         "portrait": "character_0335_c1.png",
         "skill": "motion_0335_killer_skill_name.png",
-        "thumbnail": "character_0335_t.png",
+        "thumbnail": "character_0335_t1.png",
         "title": ""
       },
       {
@@ -2822,7 +2822,7 @@
         "no": 357,
         "portrait": "character_0351_c1.png",
         "skill": "motion_0351_kid_skill_name.png",
-        "thumbnail": "character_0351_t.png",
+        "thumbnail": "character_0351_t1.png",
         "title": ""
       },
       {
@@ -2878,7 +2878,7 @@
         "no": 364,
         "portrait": "character_0358_c1.png",
         "skill": "motion_0358_capone_skill_name.png",
-        "thumbnail": "character_0358_t.png",
+        "thumbnail": "character_0358_t1.png",
         "title": ""
       },
       {
@@ -2894,7 +2894,7 @@
         "no": 366,
         "portrait": "character_0360_c1.png",
         "skill": "motion_0360_rayleigh_skill_name.png",
-        "thumbnail": "character_0360_t.png",
+        "thumbnail": "character_0360_t1.png",
         "title": ""
       },
       {
@@ -2902,7 +2902,7 @@
         "no": 367,
         "portrait": "character_0361_c1.png",
         "skill": "motion_0361_rayleigh_skill_name.png",
-        "thumbnail": "character_0361_t.png",
+        "thumbnail": "character_0361_t1.png",
         "title": ""
       },
       {
@@ -3254,7 +3254,7 @@
         "no": 412,
         "portrait": "character_0436_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_0436_t.png",
+        "thumbnail": "character_0436_t1.png",
         "title": "王下七武海"
       },
       {
@@ -3270,7 +3270,7 @@
         "no": 414,
         "portrait": "character_0438_c1.png",
         "skill": "motion_0438_moria_skill_name.png",
-        "thumbnail": "character_0438_t.png",
+        "thumbnail": "character_0438_t1.png",
         "title": "王下七武海"
       },
       {
