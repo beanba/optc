@@ -2346,19 +2346,19 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "暴龍",
         "no": 294,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0300_c1.png",
+        "skill": "skill_name_8001.png",
+        "thumbnail": "character_0300_t1.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "雷龍",
         "no": 295,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0301_c1.png",
+        "skill": "skill_name_8007.png",
+        "thumbnail": "character_0301_t1.png",
         "title": ""
       },
       {
