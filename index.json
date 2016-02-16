@@ -2748,9 +2748,9 @@
       {
         "name": "綠色能量豬",
         "no": 344,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0407_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0407_t1.png",
         "title": ""
       },
       {
@@ -3106,11 +3106,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "庫馬希",
         "no": 393,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0417_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0417_t1.png",
         "title": ""
       },
       {
@@ -3253,7 +3253,7 @@
         "name": "巴索羅繆．大熊",
         "no": 412,
         "portrait": "character_0436_c1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "motion_0436_bartholomew-kuma_skill_name.png",
         "thumbnail": "character_0436_t1.png",
         "title": "王下七武海"
       },
