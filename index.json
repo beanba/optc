@@ -2788,9 +2788,9 @@
       {
         "name": "綠寶石能量豬",
         "no": 349,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0412_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0412_t1.png",
         "title": ""
       },
       {
@@ -3090,18 +3090,18 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "培羅娜",
         "no": 391,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0415_c1.png",
+        "skill": "motion_0415_perona_skill_name.png",
+        "thumbnail": "character_0415_t1.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "培羅娜",
         "no": 392,
         "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "motion_0416_perona_skill_name.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -3109,16 +3109,16 @@
         "name": "庫馬希",
         "no": 393,
         "portrait": "character_0417_c1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "skill_name_8062.png",
         "thumbnail": "character_0417_t1.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "狗企鵝",
         "no": 394,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0418_c1.png",
+        "skill": "skill_name_8063.png",
+        "thumbnail": "character_0418_t1.png",
         "title": ""
       },
       {
