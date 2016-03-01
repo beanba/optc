@@ -2525,7 +2525,7 @@
         "name": "武鬥家培波",
         "no": 316,
         "portrait": "character_0339_c1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "motion_0339_bepo_evolved_skill_name.png",
         "thumbnail": "character_0339_t1.png",
         "title": ""
       },
@@ -3202,11 +3202,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "將軍殭屍",
         "no": 406,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0425_c1.png",
+        "skill": "skill_name_8065.png",
+        "thumbnail": "character_0425_t1.png",
         "title": ""
       },
       {
@@ -3420,9 +3420,9 @@
       {
         "name": "馬歇爾．D．汀奇",
         "no": 446,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0476_c1.png",
+        "skill": "motion_0476_kurohige_skill_name.png",
+        "thumbnail": "character_0476_t1.png",
         "title": ""
       },
       {
@@ -3468,9 +3468,9 @@
       {
         "name": "落葉",
         "no": 452,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0485_c1.png",
+        "skill": "motion_0485_luoyang_skill_name.png",
+        "thumbnail": "character_0485_t1.png",
         "title": ""
       },
       {
