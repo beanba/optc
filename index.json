@@ -2658,9 +2658,9 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "Dr.古蕾娃",
         "no": 333,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0347_c1.png",
         "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
@@ -3100,10 +3100,10 @@
       {
         "name": "培羅娜",
         "no": 392,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0416_c1.png",
         "skill": "motion_0416_perona_skill_name.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "thumbnail": "character_0416_t1.png",
+        "title": "鬼魂公主"
       },
       {
         "name": "庫馬希",
@@ -3210,9 +3210,9 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "殭屍流",
         "no": 407,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0426_c1.png",
         "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
@@ -3394,12 +3394,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "培羅娜　甜蜜",
         "no": 438,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0560_c1.png",
+        "skill": "motion_0560_perona_skill_name.png",
+        "thumbnail": "character_0560_t1.png",
+        "title": "鬼魂公主"
       },
       {
         "name": "",
@@ -3418,7 +3418,7 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "馬歇爾．D．汀奇",
         "no": 446,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
@@ -3426,7 +3426,7 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "黑鬍子",
         "no": 447,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
@@ -3434,7 +3434,7 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "薩吉",
         "no": 448,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
@@ -3442,11 +3442,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "雙劍的薩吉",
         "no": 449,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0482_c1.png",
+        "skill": "motion_0482_sacchi_skill_name.png",
+        "thumbnail": "character_0482_t1.png",
         "title": ""
       },
       {
@@ -3466,7 +3466,7 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "落葉",
         "no": 452,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
@@ -3522,11 +3522,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "佛之戰國",
         "no": 459,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0492_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0492_t1.png",
         "title": ""
       },
       {
