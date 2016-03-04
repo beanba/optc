@@ -3197,7 +3197,7 @@
         "name": "墓園的阿布薩羅姆",
         "no": 405,
         "portrait": "character_0424_c1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "motion_0424_absalom_skill_name.png",
         "thumbnail": "character_0424_t1.png",
         "title": ""
       },
@@ -3213,17 +3213,17 @@
         "name": "風之治五郎",
         "no": 407,
         "portrait": "character_0426_c1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "skill_name_8064.png",
         "thumbnail": "character_0426_t1.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "沙．克洛克達爾",
         "no": 408,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0441_c1.png",
+        "skill": "motion_0441_sir.crocodile_skill_name.png",
+        "thumbnail": "character_0441_t1.png",
+        "title": "王下七武海"
       },
       {
         "name": "吉貝爾",
