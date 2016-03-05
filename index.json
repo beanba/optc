@@ -3498,7 +3498,7 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "克利耶爾",
         "no": 456,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
@@ -3506,11 +3506,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "使用重型火藥兵器的克利耶爾",
         "no": 457,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0490_c1.png",
+        "skill": "motion_0490_curiel_skill_name.png",
+        "thumbnail": "character_0490_t1.png",
         "title": ""
       },
       {
