@@ -2834,11 +2834,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "海鳴　刮盤人．亞普",
         "no": 359,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0353_c1.png",
+        "skill": "motion_0353_apoo_skill_name.png",
+        "thumbnail": "character_0353_t1.png",
         "title": ""
       },
       {
@@ -3428,9 +3428,9 @@
       {
         "name": "黑鬍子",
         "no": 447,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0477_c1.png",
+        "skill": "motion_0477_kurohige_skill_name.png",
+        "thumbnail": "character_0477_t1.png",
         "title": ""
       },
       {
