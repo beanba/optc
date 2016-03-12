@@ -3260,9 +3260,9 @@
       {
         "name": "月光．摩利亞",
         "no": 413,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0437_c1.png",
+        "skill": "motion_0437_moria_skill_name.png",
+        "thumbnail": "character_0437_t1.png",
         "title": ""
       },
       {
@@ -3402,7 +3402,7 @@
         "title": "鬼魂公主"
       },
       {
-        "name": "",
+        "name": "薇薇公主　戀愛",
         "no": 439,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
@@ -3410,11 +3410,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "薇薇公主　戀愛",
         "no": 440,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0562_c1.png",
+        "skill": "motion_0562_vivi_skill_name.png",
+        "thumbnail": "character_0562_t1.png",
         "title": ""
       },
       {
@@ -3474,11 +3474,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "流星錘的落葉",
         "no": 453,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0486_c1.png",
+        "skill": "motion_0486_luoyang_skill_name.png",
+        "thumbnail": "character_0486_t1.png",
         "title": ""
       },
       {
