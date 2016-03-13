@@ -3178,12 +3178,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "Mr.1",
         "no": 402,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0434_c1.png",
+        "skill": "motion_0434_mr1_skill_name.png",
+        "thumbnail": "character_0434_t1.png",
+        "title": "全身刀刃人"
       },
       {
         "name": "阿布薩羅姆",
@@ -3525,7 +3525,7 @@
         "name": "佛之戰國",
         "no": 459,
         "portrait": "character_0492_c1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "motion_0492_sengoku_skill_name.png",
         "thumbnail": "character_0492_t1.png",
         "title": ""
       },
