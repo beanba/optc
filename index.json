@@ -2882,11 +2882,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "卡波涅．流氓．培基",
         "no": 365,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0359_c1.png",
+        "skill": "motion_0359_capone_skill_name.png",
+        "thumbnail": "character_0359_t1.png",
         "title": ""
       },
       {
@@ -3450,15 +3450,15 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "納米爾",
         "no": 450,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0483_c1.png",
+        "skill": "motion_0483_namur_skill_name.png",
+        "thumbnail": "character_0483_t1.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "納米爾",
         "no": 451,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
