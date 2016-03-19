@@ -2612,7 +2612,7 @@
       {
         "name": "",
         "no": 327,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0341_c1.png",
         "skill": "motion_0341_skill_name.png",
         "thumbnail": "character_none.png",
         "title": ""
@@ -3306,15 +3306,15 @@
         "title": "王下七武海"
       },
       {
-        "name": "",
+        "name": "布魯克",
         "no": 423,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0454_c1.png",
+        "skill": "motion_0454_brook_skill_name.png",
+        "thumbnail": "character_0454_t1.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "布魯克",
         "no": 424,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
@@ -3322,15 +3322,15 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "龍馬",
         "no": 425,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0456_c1.png",
+        "skill": "motion_0456_ryu-ma_skill_name_0001.png",
+        "thumbnail": "character_0456_t1.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "龍馬",
         "no": 426,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
@@ -3436,9 +3436,9 @@
       {
         "name": "薩吉",
         "no": 448,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0481_c1.png",
+        "skill": "motion_0481_sacchi_skill_name.png",
+        "thumbnail": "character_0481_t1.png",
         "title": ""
       },
       {
