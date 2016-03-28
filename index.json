@@ -3029,7 +3029,7 @@
         "name": "Mr.0",
         "no": 383,
         "portrait": "character_0383_c1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "motion_0383_crocodile_skill_name.png",
         "thumbnail": "character_0383_t1.png",
         "title": "巴洛克華克社長"
       },
@@ -3317,7 +3317,7 @@
         "name": "鼻唄的布魯克",
         "no": 424,
         "portrait": "character_0455_c1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "motion_0455_brook_skill_name.png",
         "thumbnail": "character_0455_t1.png",
         "title": ""
       },
