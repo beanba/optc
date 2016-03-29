@@ -3386,6 +3386,38 @@
         "title": ""
       },
       {
+        "name": "伊莉莎白",
+        "no": 433,
+        "portrait": "character_0462_c1.png",
+        "skill": "motion_0462_elizabeth_skill_name.png",
+        "thumbnail": "character_0462_t1.png",
+        "title": ""
+      },
+      {
+        "name": "卡羅萊茵",
+        "no": 434,
+        "portrait": "character_0463_c1.png",
+        "skill": "motion_0463_caroline_skill_name.png",
+        "thumbnail": "character_0463_t1.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 435,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 436,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
         "name": "培羅娜　甜蜜",
         "no": 437,
         "portrait": "character_0559_c1.png",
