@@ -2858,7 +2858,7 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "珠寶．波妮",
         "no": 362,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
@@ -2866,11 +2866,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "大胃王 珠寶．波妮",
         "no": 363,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0357_c1.png",
+        "skill": "motion_0357_jewelry-bonney_skill_name.png",
+        "thumbnail": "character_0357_t1.png",
         "title": ""
       },
       {
@@ -3034,12 +3034,12 @@
         "title": "巴洛克華克社長"
       },
       {
-        "name": "Mr.0",
+        "name": "沙．克洛克達爾",
         "no": 384,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0384_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": "王下七武海"
+        "thumbnail": "character_0384_t1.png",
+        "title": ""
       },
       {
         "name": "赫古巴庫",
@@ -3402,12 +3402,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "香吉士",
         "no": 435,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0464_c1.png",
+        "skill": "motion_0464_sanjichan_skill_name.png",
+        "thumbnail": "character_0464_t1.png",
+        "title": "卡馬帕卡王國的傳統決鬥風格"
       },
       {
         "name": "",
@@ -3447,6 +3447,46 @@
         "portrait": "character_0562_c1.png",
         "skill": "motion_0562_vivi_skill_name.png",
         "thumbnail": "character_0562_t1.png",
+        "title": ""
+      },
+      {
+        "name": "牛仔跟波旁二世",
+        "no": 441,
+        "portrait": "character_0459_c1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0459_t1.png",
+        "title": "超級飛毛腿部隊"
+      },
+      {
+        "name": "史東普跟伊旺X",
+        "no": 442,
+        "portrait": "character_0460_c1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0460_t1.png",
+        "title": "超級飛毛腿部隊"
+      },
+      {
+        "name": "",
+        "no": 443,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "飛毛腿",
+        "no": 444,
+        "portrait": "character_0457_c1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0457_t1.png",
+        "title": ""
+      },
+      {
+        "name": "飛毛腿",
+        "no": 445,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
         "title": ""
       },
       {
