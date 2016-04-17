@@ -1666,17 +1666,17 @@
         "title": "爆擊天鵝迎風展翅"
       },
       {
-        "name": "",
+        "name": "Miss All星期天",
         "no": 209,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0238_c1.png",
+        "skill": "motion_0238_missallsunday_skill_name.png",
+        "thumbnail": "character_0238_t1.png",
+        "title": "巴洛克華克副社長"
       },
       {
         "name": "",
         "no": 210,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0239_c1.png",
         "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
@@ -3354,26 +3354,26 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "指南鳥與森林居民",
         "no": 429,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0450_c1.png",
+        "skill": "skill_name_8066.png",
+        "thumbnail": "character_0450_t1.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "貝拉密",
         "no": 430,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0451_c1.png",
+        "skill": "motion_0451_bellamy_skill_name.png",
+        "thumbnail": "character_0451_t1.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "貝拉密",
         "no": 431,
         "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "motion_0452_bellamy_skill_name.png",
         "thumbnail": "character_none.png",
         "title": ""
       },
@@ -3466,12 +3466,12 @@
         "title": "超級飛毛腿部隊"
       },
       {
-        "name": "",
+        "name": "人頭馬跟彥一",
         "no": 443,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0461_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "thumbnail": "character_0461_t1.png",
+        "title": "超級飛毛腿部隊"
       },
       {
         "name": "飛毛腿",
@@ -3482,11 +3482,11 @@
         "title": ""
       },
       {
-        "name": "飛毛腿",
+        "name": "飛毛腿隊長跟超級飛毛腿鴨部隊",
         "no": 445,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "portrait": "character_0458_c1.png",
+        "skill": "motion_0458_karoo_skill_name.png",
+        "thumbnail": "character_0458_t1.png",
         "title": ""
       },
       {
@@ -3599,6 +3599,30 @@
         "portrait": "character_0492_c1.png",
         "skill": "motion_0492_sengoku_skill_name.png",
         "thumbnail": "character_0492_t1.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 460,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 461,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 462,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
         "title": ""
       },
       {
@@ -3971,6 +3995,86 @@
       },
       {
         "name": "",
+        "no": 509,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 510,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 511,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 512,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 513,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 514,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 515,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 516,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 517,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 518,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
         "no": 529,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
@@ -4028,6 +4132,22 @@
       {
         "name": "",
         "no": 546,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 547,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 548,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
@@ -4100,6 +4220,22 @@
       {
         "name": "",
         "no": 569,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 574,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 575,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
