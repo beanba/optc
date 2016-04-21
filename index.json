@@ -1674,11 +1674,11 @@
         "title": "巴洛克華克副社長"
       },
       {
-        "name": "",
+        "name": "妮可．羅賓",
         "no": 210,
         "portrait": "character_0239_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0239_t1.png",
         "title": ""
       },
       {
@@ -2061,7 +2061,7 @@
         "name": "布朗明哥",
         "no": 258,
         "portrait": "character_0326_c1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "motion_0326_blamenco_skill_name.png",
         "thumbnail": "character_0326_t1.png",
         "title": ""
       },
@@ -2138,12 +2138,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "白獵之斯摩格",
         "no": 268,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0317_c1.png",
+        "skill": "motion_0317_smoker_skill_name.png",
+        "thumbnail": "character_0317_t1.png",
+        "title": "三輪摩托車"
       },
       {
         "name": "格鬥隊　武裝隊員",
@@ -3186,6 +3186,14 @@
         "title": "全身刀刃人"
       },
       {
+        "name": "",
+        "no": 403,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
         "name": "阿布薩羅姆",
         "no": 404,
         "portrait": "character_0423_c1.png",
@@ -3306,6 +3314,14 @@
         "title": "王下七武海"
       },
       {
+        "name": "",
+        "no": 419,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
         "name": "布魯克",
         "no": 423,
         "portrait": "character_0454_c1.png",
@@ -3410,12 +3426,12 @@
         "title": "卡馬帕卡王國的傳統決鬥風格"
       },
       {
-        "name": "",
+        "name": "香吉士",
         "no": 436,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0465_c1.png",
+        "skill": "motion_0465_sanjichan_skill_name.png",
+        "thumbnail": "character_0465_t1.png",
+        "title": "小蜜糖"
       },
       {
         "name": "培羅娜　甜蜜",
@@ -3642,140 +3658,140 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "紅色白扁帽部隊",
         "no": 465,
         "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "skill_name_8066.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "SKYPIEA神隊"
       },
       {
-        "name": "",
+        "name": "藍色白扁帽部隊",
         "no": 466,
         "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "skill_name_8067.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "SKYPIEA神隊"
       },
       {
-        "name": "",
+        "name": "綠色白扁帽部隊",
         "no": 467,
         "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "skill_name_8068.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "SKYPIEA神隊"
       },
       {
-        "name": "",
+        "name": "黃色白扁帽部隊",
         "no": 468,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0567_c1.png",
+        "skill": "skill_name_8069.png",
+        "thumbnail": "character_0567_t1.png",
+        "title": "SKYPIEA神隊"
       },
       {
-        "name": "",
+        "name": "黑色白扁帽部隊",
         "no": 469,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0568_c1.png",
+        "skill": "skill_name_8070.png",
+        "thumbnail": "character_0568_t1.png",
+        "title": "SKYPIEA神隊"
       },
       {
-        "name": "",
+        "name": "黃色白扁帽部隊 隊長",
         "no": 470,
         "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "skill_name_8069.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "SKYPIEA神隊"
       },
       {
-        "name": "",
+        "name": "黑色白扁帽部隊 隊長",
         "no": 471,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0570_c1.png",
+        "skill": "skill_name_8070.png",
+        "thumbnail": "character_0570_t1.png",
+        "title": "SKYPIEA神隊"
       },
       {
-        "name": "",
+        "name": "紅色神之近衛隊 隊員",
         "no": 472,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0571_c1.png",
+        "skill": "skill_name_8071.png",
+        "thumbnail": "character_0571_t1.png",
+        "title": "SKYPIEA神兵"
       },
       {
-        "name": "",
+        "name": "藍色神之近衛隊 隊員",
         "no": 473,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0572_c1.png",
+        "skill": "skill_name_8072.png",
+        "thumbnail": "character_0572_t1.png",
+        "title": "SKYPIEA神兵"
       },
       {
-        "name": "",
+        "name": "綠色神之近衛隊 隊員",
         "no": 474,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0573_c1.png",
+        "skill": "skill_name_8073.png",
+        "thumbnail": "character_0573_t1.png",
+        "title": "SKYPIEA神兵"
       },
       {
-        "name": "",
+        "name": "黃色神之近衛隊 隊員",
         "no": 475,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0574_c1.png",
+        "skill": "skill_name_8074.png",
+        "thumbnail": "character_0574_t1.png",
+        "title": "SKYPIEA神兵"
       },
       {
-        "name": "",
+        "name": "黑色神之近衛隊 隊員",
         "no": 476,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0575_c1.png",
+        "skill": "skill_name_8075.png",
+        "thumbnail": "character_0575_t1.png",
+        "title": "SKYPIEA神兵"
       },
       {
-        "name": "",
+        "name": "紅色突擊隊 隊員",
         "no": 477,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "SKYPIEA神兵"
       },
       {
-        "name": "",
+        "name": "藍色突擊隊 隊員",
         "no": 478,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0578_c1.png",
+        "skill": "skill_name_8025.png",
+        "thumbnail": "character_0578_t1.png",
+        "title": "SKYPIEA神兵"
       },
       {
-        "name": "",
+        "name": "綠色突擊隊 隊員",
         "no": 479,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "SKYPIEA神兵"
       },
       {
-        "name": "",
+        "name": "黃色突擊隊 隊員",
         "no": 480,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "SKYPIEA神兵"
       },
       {
-        "name": "",
+        "name": "黑色突擊隊 隊員",
         "no": 481,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0581_c1.png",
+        "skill": "skill_name_8016.png",
+        "thumbnail": "character_0581_t1.png",
+        "title": "SKYPIEA神兵"
       },
       {
         "name": "",
@@ -3818,68 +3834,68 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "紅色遊牧隊 隊員",
         "no": 487,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0587_c1.png",
+        "skill": "skill_name_8076.png",
+        "thumbnail": "character_0587_t1.png",
+        "title": "香狄亞的戰士"
       },
       {
-        "name": "",
+        "name": "藍色遊牧隊 隊員",
         "no": 488,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0588_c1.png",
+        "skill": "skill_name_8077.png",
+        "thumbnail": "character_0588_t1.png",
+        "title": "香狄亞的戰士"
       },
       {
-        "name": "",
+        "name": "綠色遊牧隊 隊員",
         "no": 489,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0589_c1.png",
+        "skill": "skill_name_8078.png",
+        "thumbnail": "character_0589_t1.png",
+        "title": "香狄亞的戰士"
       },
       {
-        "name": "",
+        "name": "紅色遊牧隊 專家",
         "no": 490,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0590_c1.png",
+        "skill": "skill_name_8076.png",
+        "thumbnail": "character_0590_t1.png",
+        "title": "香狄亞的戰士"
       },
       {
-        "name": "",
+        "name": "藍色遊牧隊 專家",
         "no": 491,
         "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "skill_name_8077.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "香狄亞的戰士"
       },
       {
-        "name": "",
+        "name": "綠色遊牧隊 專家",
         "no": 492,
         "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "skill_name_8078.png",
         "thumbnail": "character_none.png",
-        "title": ""
+        "title": "香狄亞的戰士"
       },
       {
-        "name": "",
+        "name": "黃色狩獵隊 隊員",
         "no": 493,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0593_c1.png",
+        "skill": "skill_name_8079.png",
+        "thumbnail": "character_0593_t1.png",
+        "title": "香狄亞的戰士"
       },
       {
-        "name": "",
+        "name": "黑色狩獵隊 隊員",
         "no": 494,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0594_c1.png",
+        "skill": "skill_name_8080.png",
+        "thumbnail": "character_0594_t1.png",
+        "title": "香狄亞的戰士"
       },
       {
         "name": "",
@@ -4034,12 +4050,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "妮可．羅賓",
         "no": 514,
-        "portrait": "character_9999_t1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "portrait": "character_0520_c1.png",
+        "skill": "motion_0520_robin_skill_name.png",
+        "thumbnail": "character_0520_t1.png",
+        "title": "熱帶風情"
       },
       {
         "name": "",
