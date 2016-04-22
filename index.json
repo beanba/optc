@@ -3386,11 +3386,11 @@
         "title": ""
       },
       {
-        "name": "貝拉密",
+        "name": "鬣狗貝拉密",
         "no": 431,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0452_c1.png",
         "skill": "motion_0452_bellamy_skill_name.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0452_t1.png",
         "title": ""
       },
       {
@@ -3868,17 +3868,17 @@
       {
         "name": "藍色遊牧隊 專家",
         "no": 491,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0591_c1.png",
         "skill": "skill_name_8077.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0591_t1.png",
         "title": "香狄亞的戰士"
       },
       {
         "name": "綠色遊牧隊 專家",
         "no": 492,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0592_c1.png",
         "skill": "skill_name_8078.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0592_t1.png",
         "title": "香狄亞的戰士"
       },
       {
@@ -4107,6 +4107,38 @@
       },
       {
         "name": "",
+        "no": 537,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 538,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 539,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 540,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
         "no": 541,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
@@ -4164,6 +4196,38 @@
       {
         "name": "",
         "no": 548,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 549,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 550,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 551,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 552,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
@@ -4243,6 +4307,38 @@
       },
       {
         "name": "",
+        "no": 570,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 571,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 572,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 573,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
         "no": 574,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
@@ -4252,6 +4348,222 @@
       {
         "name": "",
         "no": 575,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 581,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 582,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 583,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 584,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 585,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 586,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 587,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 588,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 589,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 590,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 591,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 592,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 593,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 594,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 595,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 598,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 599,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 600,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 601,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 602,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 603,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 606,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 607,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 608,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 609,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 610,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 611,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
@@ -4412,6 +4724,262 @@
       {
         "name": "",
         "no": 633,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 634,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 635,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 636,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 637,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 638,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 639,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 640,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 641,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 642,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 643,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 644,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 645,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 646,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 647,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 648,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 649,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 652,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 653,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 654,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 655,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 656,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 657,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 658,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 659,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 663,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 664,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 665,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 666,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 667,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 668,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 669,
+        "portrait": "character_9999_t1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 670,
         "portrait": "character_9999_t1.png",
         "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
