@@ -2053,8 +2053,8 @@
         "name": "短槍以藏",
         "no": 257,
         "portrait": "character_0325_c1.png",
-        "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "skill": "motion_0325_izou_skill_name.png",
+        "thumbnail": "character_0325_t1.png",
         "title": ""
       },
       {
@@ -3548,9 +3548,9 @@
       {
         "name": "納米爾",
         "no": 451,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0484_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0484_t1.png",
         "title": ""
       },
       {
@@ -4514,11 +4514,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "雷神艾涅爾",
         "no": 603,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0653_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
+        "thumbnail": "character_0653_t1.png",
         "title": ""
       },
       {
