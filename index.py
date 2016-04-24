@@ -7,6 +7,9 @@ import os
 import os.path
 
 idList = {}
+for x in xrange(1,1000):
+	idList[x] = {'no':x, 'id':9999, 'name':''}
+
 idList[1] = {'no':1, 'id':1, 'name':'蒙其．D．魯夫'}
 idList[2] = {'no':2, 'id':2, 'name':'蒙其．D．魯夫', 'title':'伸縮自如的橡膠槍'}
 idList[3] = {'no':3, 'id':3, 'name':'蒙其．D．魯夫', 'title':'伸縮自如的橡膠火箭砲'}
