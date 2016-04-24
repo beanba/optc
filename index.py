@@ -514,13 +514,21 @@ for tup in iter(sorted(idList.iteritems())):
 		thumbnail_old = 'character_{0}_t.png'.format(index)
 		portrait = 'character_{0}_c1.png'.format(index)
 
+		missing_thumbnail = False
+		missing_portrait = False
+		missing_skill = False
+
 		if os.path.exists('png/' + thumbnail):
 			build['thumbnail'] = thumbnail
 		elif os.path.exists('png/' + thumbnail_old):
-		  build['thumbnail'] = thumbnail_old
+			build['thumbnail'] = thumbnail_old
+		else:
+			missing_thumbnail = True
 
 		if os.path.exists('png/' + portrait):
 			build['portrait'] = portrait
+		else:
+			missing_portrait = True
 
 		if aid == sid:
 			for filename in os.listdir('png'):
@@ -528,12 +536,30 @@ for tup in iter(sorted(idList.iteritems())):
 					build['skill'] = filename
 				elif fnmatch.fnmatch(filename, 'motion_{0}_*skill_name_0001.png'.format(index)):
 					build['skill'] = filename
+
+			if build['skill'] == 'character_9999_t1.png':
+				missing_skill = True
 		else:
-			build['skill'] = 'skill_name_{0}.png'.format(str(sid).zfill(4))
+			if sid == -1:
+				pass
+			else:
+				if os.path.exists('png/skill_name_{0}.png'.format(str(sid).zfill(4))):
+					build['skill'] = 'skill_name_{0}.png'.format(str(sid).zfill(4))
+				else:
+					missing_skill = True
+
+		if missing_thumbnail or missing_portrait or missing_skill:
+			if missing_thumbnail:
+				print '\033[0;31mmissing_thumbnail'
+			elif missing_portrait:
+				print '\033[0;33mmissing_portrait'
+			elif missing_skill:
+				print '\033[0;32mmissing_skill'
+			print json.dumps(build, indent=2, ensure_ascii=False, sort_keys=True)
 
 	rtn['report']['builds'].append(build)
 
-print json.dumps(rtn, indent=2, separators=(',', ': '), ensure_ascii=False, sort_keys=True)
+# print json.dumps(rtn, indent=2, separators=(',', ': '), ensure_ascii=False, sort_keys=True)
 
 with open('index.json', 'w') as f:
 	f.write(json.dumps(rtn, indent=2, separators=(',', ': '), ensure_ascii=False, sort_keys=True))

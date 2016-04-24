@@ -44,8 +44,8 @@ done < tmp.txt
 
 rm -f tmp.txt
 
-ls $BASEDIR'/png/'
-find $BASEDIR'/png/' -name "*.png" | wc -l
+# ls $BASEDIR'/png/'
+# find $BASEDIR'/png/' -name "*.png" | wc -l
 
 ./index.py
 jade --out . --obj index.json --pretty index.jade
