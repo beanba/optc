@@ -1677,7 +1677,7 @@
         "name": "妮可．羅賓",
         "no": 210,
         "portrait": "png/tw/character_0239_c1.png",
-        "skill": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/motion_0239_robin_skill_name.png",
         "thumbnail": "png/tw/character_0239_t1.png",
         "title": ""
       },
@@ -1821,7 +1821,7 @@
         "name": "逃獄的蒙卡",
         "no": 228,
         "portrait": "png/tw/character_0311_c1.png",
-        "skill": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/motion_0311_morgan_skill_name.png",
         "thumbnail": "png/tw/character_0311_t1.png",
         "title": ""
       },
@@ -3069,7 +3069,7 @@
         "name": "沙．克洛克達爾",
         "no": 384,
         "portrait": "png/tw/character_0384_c1.png",
-        "skill": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/motion_0384_crocodile_skill_name.png",
         "thumbnail": "png/tw/character_0384_t1.png",
         "title": ""
       },
