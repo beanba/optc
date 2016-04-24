@@ -513,9 +513,9 @@ for tup in iter(sorted(idList.iteritems())):
 	build['no'] = tup[0]
 	build['name'] = obj['name']
 	build['title'] = obj['title'] if 'title' in obj else ''
-	build['thumbnail'] = 'png/character_none.png'
-	build['portrait'] = 'png/character_9999_t1.png'
-	build['skill'] = 'png/character_9999_t1.png'
+	build['thumbnail'] = 'png/tw/character_none.png'
+	build['portrait'] = 'png/tw/character_9999_t1.png'
+	build['skill'] = 'png/tw/character_9999_t1.png'
 
 	aid = obj['id']
 
@@ -537,8 +537,8 @@ for tup in iter(sorted(idList.iteritems())):
 		missing_portrait = False
 		missing_skill = False
 
-		if os.path.exists('png/' + thumbnail):
-			build['thumbnail'] = 'png/' + thumbnail
+		if os.path.exists('png/tw/' + thumbnail):
+			build['thumbnail'] = 'png/tw/' + thumbnail
 		elif os.path.exists('png/jp/' + thumbnail):
 			build['thumbnail'] = 'png/jp/' + thumbnail
 		elif os.path.exists('png/us/' + thumbnail):
@@ -546,8 +546,8 @@ for tup in iter(sorted(idList.iteritems())):
 		else:
 			missing_thumbnail = True
 
-		if os.path.exists('png/' + portrait):
-			build['portrait'] = 'png/' + portrait
+		if os.path.exists('png/tw/' + portrait):
+			build['portrait'] = 'png/tw/' + portrait
 		elif os.path.exists('png/jp/' + portrait):
 			build['portrait'] = 'png/jp/' + portrait
 		elif os.path.exists('png/us/' + portrait):
@@ -556,7 +556,7 @@ for tup in iter(sorted(idList.iteritems())):
 			missing_portrait = True
 
 		if aid == sid:
-			for dirname in ['png', 'png/jp', 'png/us']:
+			for dirname in ['png/tw', 'png/jp', 'png/us']:
 				for filename in os.listdir(dirname):
 					if fnmatch.fnmatch(filename, 'motion_{0}_*skill_name.png'.format(index)):
 						build['skill'] = dirname + '/' + filename
@@ -568,13 +568,13 @@ for tup in iter(sorted(idList.iteritems())):
 					continue # executed if the loop ended normally (no break)
 				break
 
-			if build['skill'] == 'png/character_9999_t1.png':
+			if build['skill'] == 'png/tw/character_9999_t1.png':
 				missing_skill = True
 		else:
 			if sid == -1:
 				pass
 			else:
-				for dirname in ['png', 'png/jp', 'png/us']:
+				for dirname in ['png/tw', 'png/jp', 'png/us']:
 					if os.path.exists('{0}/skill_name_{1}.png'.format(dirname, str(sid).zfill(4))):
 						build['skill'] = '{0}/skill_name_{1}.png'.format(dirname, str(sid).zfill(4))
 						break
