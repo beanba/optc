@@ -360,7 +360,7 @@ idList[348] = {'id':411, 'name':'藍寶石能量豬', 'skill':-1}
 idList[349] = {'id':412, 'name':'綠寶石能量豬', 'skill':-1}
 idList[350] = {'id':413, 'name':'黃寶石能量豬', 'skill':-1}
 idList[351] = {'id':414, 'name':'紫水晶能量豬', 'skill':-1}
-idList[356] = {'id':350, 'name':'基德'}
+idList[356] = {'id':350, 'name':'ユースタス・キッド'}
 idList[357] = {'id':351, 'name':'船長基德'}
 idList[358] = {'id':352, 'name':'刮盤人．亞普'}
 idList[359] = {'id':353, 'name':'海鳴　刮盤人．亞普'}
@@ -508,6 +508,7 @@ idList[786] = {'id':762, 'name':'Dr.ヒルルク'}
 idList[841] = {'id':963, 'name':'モネ'}
 idList[842] = {'id':964, 'name':'モネ', 'title':'ドンキホーテ海賊団'}
 idList[843] = {'id':965, 'name':'ベビー５'}
+idList[994] = {'id':1120, 'name':'ヴァイオレット'}
 idList[1007] = {'id':1142, 'name':'モネ　寒桜'}
 idList[1009] = {'id':1157, 'name':'キズナBOOOOSTルフィ'}
 

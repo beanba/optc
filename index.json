@@ -2842,11 +2842,11 @@
         "title": ""
       },
       {
-        "name": "基德",
+        "name": "ユースタス・キッド",
         "no": 356,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0350_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
+        "thumbnail": "png/jp/character_0350_t1.png",
         "title": ""
       },
       {
@@ -2892,9 +2892,9 @@
       {
         "name": "珠寶．波妮",
         "no": 362,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
+        "portrait": "png/jp/character_0356_c1.png",
+        "skill": "png/jp/motion_0356_jewelry-bonney_skill_name.png",
+        "thumbnail": "png/jp/character_0356_t1.png",
         "title": ""
       },
       {
@@ -4061,7 +4061,7 @@
         "name": "チャカ",
         "no": 508,
         "portrait": "png/jp/character_0519_c1.png",
-        "skill": "png/tw/character_9999_t1.png",
+        "skill": "png/jp/motion_0519_chaka_skill_name.png",
         "thumbnail": "png/jp/character_0519_t1.png",
         "title": "アラバスタの守護神ジャッカル"
       },
@@ -7946,11 +7946,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "ヴァイオレット",
         "no": 994,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
+        "portrait": "png/jp/character_1120_c1.png",
+        "skill": "png/jp/motion_1120_skill_name.png",
+        "thumbnail": "png/jp/character_1120_t1.png",
         "title": ""
       },
       {
