@@ -4058,12 +4058,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "チャカ",
         "no": 508,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0519_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "thumbnail": "png/jp/character_0519_t1.png",
+        "title": "アラバスタの守護神ジャッカル"
       },
       {
         "name": "",
@@ -4706,11 +4706,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "コーザ",
         "no": 589,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0542_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
+        "thumbnail": "png/jp/character_0542_t1.png",
         "title": ""
       },
       {
@@ -5026,12 +5026,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "フランキー",
         "no": 629,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0658_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "thumbnail": "png/jp/character_0658_t1.png",
+        "title": "フランキー一家棟梁"
       },
       {
         "name": "",
@@ -5162,11 +5162,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "リトルオーズJr.",
         "no": 646,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
+        "portrait": "png/jp/character_0703_c1.png",
+        "skill": "png/jp/motion_0703_littleoarsjr_skill_name.png",
+        "thumbnail": "png/jp/character_0703_t1.png",
         "title": ""
       },
       {
@@ -6226,12 +6226,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "レベッカ",
         "no": 779,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0861_c1.png",
         "skill": "png/tw/character_9999_t1.png",
         "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "title": "コロシアム専属剣闘士"
       },
       {
         "name": "",
@@ -6722,11 +6722,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "モネ",
         "no": 841,
         "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
+        "skill": "png/jp/motion_0963_mone_skill_name.png",
+        "thumbnail": "png/jp/character_0963_t1.png",
         "title": ""
       },
       {
@@ -7991,6 +7991,14 @@
         "portrait": "png/tw/character_9999_t1.png",
         "skill": "png/tw/character_9999_t1.png",
         "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "モネ　寒桜",
+        "no": 1007,
+        "portrait": "png/jp/character_1142_c1.png",
+        "skill": "png/jp/motion_1142_monet_skill_name.png",
+        "thumbnail": "png/jp/character_1142_t1.png",
         "title": ""
       },
       {
