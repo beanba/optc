@@ -3938,12 +3938,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "Bellmere",
         "no": 500,
-        "portrait": "character_9999_t1.png",
+        "portrait": "character_0511_c1.png",
         "skill": "character_9999_t1.png",
-        "thumbnail": "character_none.png",
-        "title": ""
+        "thumbnail": "character_0511_t1.png",
+        "title": "Nami and Nojiko's Mother"
       },
       {
         "name": "",
@@ -4352,6 +4352,14 @@
         "skill": "character_9999_t1.png",
         "thumbnail": "character_none.png",
         "title": ""
+      },
+      {
+        "name": "蒙其．D．魯夫",
+        "no": 578,
+        "portrait": "character_0631_c1.png",
+        "skill": "character_9999_t1.png",
+        "thumbnail": "character_0631_t1.png",
+        "title": "Voyage Dream: Pirate King"
       },
       {
         "name": "",
