@@ -4050,10 +4050,10 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "チャカ",
         "no": 507,
         "portrait": "character_0518_c1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "motion_0518_chaka_skill_name.png",
         "thumbnail": "character_0518_t1.png",
         "title": ""
       },
@@ -6741,7 +6741,7 @@
         "name": "ベビー５",
         "no": 843,
         "portrait": "character_0965_c1.png",
-        "skill": "character_9999_t1.png",
+        "skill": "motion_0965_baby5_skill_name.png",
         "thumbnail": "character_0965_t1.png",
         "title": ""
       },
