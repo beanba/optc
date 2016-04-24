@@ -20,7 +20,7 @@ html(lang="zh-Hant-HK")
 					- y = Math.floor(build_idx / 5) * 113 + 1 + 75
 					- y2 = y + 85
 					div(style="position: absolute; left: " + x + "px; top: " + y + "px")
-						img(class="thumbnail" src="png/#{build.thumbnail}" data-title="#{build.title}" data-name="#{build.name}" data-skill="png/#{build.skill}" data-portrait="png/#{build.portrait}")
+						img(class="thumbnail" src="#{build.thumbnail}" data-title="#{build.title}" data-name="#{build.name}" data-skill="#{build.skill}" data-portrait="#{build.portrait}")
 					div(align="center" style="position: absolute; left: " + x + "px; top: " + y2 + "px; width: 113px; height: 18px; font-family: \"Arial Black\", Gadget, sans-serif; font-size: 18px; color: white; text-shadow: 1px 1px black, -1px -1px black, -1px 1px black, 1px -1px black;") No.#{build.no}
 			div(class="op-flex-item" id="shower")
 

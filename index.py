@@ -485,6 +485,7 @@ idList[537] = {'id':548, 'name':'Domino'}
 idList[570] = {'id':636, 'name':'蒙其．D．魯夫', 'title':'デービーバックファイト・アフロ'}
 idList[572] = {'id':638, 'name':'騙人布', 'title':'デービーバックファイト・セコンド'}
 idList[576] = {'id':676, 'name':'娜美的下午茶時間'}
+idList[577] = {'id':630, 'name':'蒙其．D．魯夫', 'title':'Voyage Log: Straw Hat Pirates'}
 idList[578] = {'id':631, 'name':'蒙其．D．魯夫', 'title':'Voyage Dream: Pirate King'}
 idList[579] = {'id':609, 'name':'羅羅亞．索隆', 'title':'航海の記録・麦わらの一味'}
 idList[593] = {'id':556, 'name':'翠の竜宮カメ姫'}
@@ -512,9 +513,9 @@ for tup in iter(sorted(idList.iteritems())):
 	build['no'] = tup[0]
 	build['name'] = obj['name']
 	build['title'] = obj['title'] if 'title' in obj else ''
-	build['thumbnail'] = 'character_none.png'
-	build['portrait'] = 'character_9999_t1.png'
-	build['skill'] = 'character_9999_t1.png'
+	build['thumbnail'] = 'png/character_none.png'
+	build['portrait'] = 'png/character_9999_t1.png'
+	build['skill'] = 'png/character_9999_t1.png'
 
 	aid = obj['id']
 
@@ -530,7 +531,6 @@ for tup in iter(sorted(idList.iteritems())):
 		index = str(aid).zfill(4)
 
 		thumbnail = 'character_{0}_t1.png'.format(index)
-		thumbnail_old = 'character_{0}_t.png'.format(index)
 		portrait = 'character_{0}_c1.png'.format(index)
 
 		missing_thumbnail = False
@@ -538,32 +538,46 @@ for tup in iter(sorted(idList.iteritems())):
 		missing_skill = False
 
 		if os.path.exists('png/' + thumbnail):
-			build['thumbnail'] = thumbnail
-		elif os.path.exists('png/' + thumbnail_old):
-			build['thumbnail'] = thumbnail_old
+			build['thumbnail'] = 'png/' + thumbnail
+		elif os.path.exists('png/jp/' + thumbnail):
+			build['thumbnail'] = 'png/jp/' + thumbnail
+		elif os.path.exists('png/us/' + thumbnail):
+			build['thumbnail'] = 'png/us/' + thumbnail
 		else:
 			missing_thumbnail = True
 
 		if os.path.exists('png/' + portrait):
-			build['portrait'] = portrait
+			build['portrait'] = 'png/' + portrait
+		elif os.path.exists('png/jp/' + portrait):
+			build['portrait'] = 'png/jp/' + portrait
+		elif os.path.exists('png/us/' + portrait):
+			build['portrait'] = 'png/us/' + portrait
 		else:
 			missing_portrait = True
 
 		if aid == sid:
-			for filename in os.listdir('png'):
-				if fnmatch.fnmatch(filename, 'motion_{0}_*skill_name.png'.format(index)):
-					build['skill'] = filename
-				elif fnmatch.fnmatch(filename, 'motion_{0}_*skill_name_0001.png'.format(index)):
-					build['skill'] = filename
+			for dirname in ['png', 'png/jp', 'png/us']:
+				for filename in os.listdir(dirname):
+					if fnmatch.fnmatch(filename, 'motion_{0}_*skill_name.png'.format(index)):
+						build['skill'] = dirname + '/' + filename
+						break
+					elif fnmatch.fnmatch(filename, 'motion_{0}_*skill_name_0001.png'.format(index)):
+						build['skill'] = dirname + '/' + filename
+						break
+				else:
+					continue # executed if the loop ended normally (no break)
+				break
 
-			if build['skill'] == 'character_9999_t1.png':
+			if build['skill'] == 'png/character_9999_t1.png':
 				missing_skill = True
 		else:
 			if sid == -1:
 				pass
 			else:
-				if os.path.exists('png/skill_name_{0}.png'.format(str(sid).zfill(4))):
-					build['skill'] = 'skill_name_{0}.png'.format(str(sid).zfill(4))
+				for dirname in ['png', 'png/jp', 'png/us']:
+					if os.path.exists('{0}/skill_name_{1}.png'.format(dirname, str(sid).zfill(4))):
+						build['skill'] = '{0}/skill_name_{1}.png'.format(dirname, str(sid).zfill(4))
+						break
 				else:
 					missing_skill = True
 

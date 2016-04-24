@@ -5,6 +5,6 @@ PKG='com.namcobandaigames.spmoja010'
 ID=$1
 DEVICE=$2
 
-$BASEDIR/optc.sh $PKG $ID $DEVICE
+$BASEDIR/optc.sh "$PKG" "$ID" "$DEVICE" 'jp'
 
 exit 0

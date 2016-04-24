@@ -4,6 +4,7 @@ BASEDIR=$(dirname $0)
 PKG=$1
 ID=$2
 DEVICE=$3
+SUBDIR=$4
 
 if [ -z "$ID" ]; then
 	if [ -z "$DEVICE" ]; then
@@ -26,9 +27,9 @@ do
 
 	while true; do
 		if [ -z "$DEVICE" ]; then
-			adb pull $s $BASEDIR'/png/'
+			adb pull $s $BASEDIR'/png/'$SUBDIR'/'
 		else
-			adb -s $DEVICE pull $s $BASEDIR'/png/'
+			adb -s $DEVICE pull $s $BASEDIR'/png/'$SUBDIR'/'
 		fi
 		err=$?
 		if [ "0" == "${err}" ]; then
