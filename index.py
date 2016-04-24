@@ -508,6 +508,7 @@ idList[786] = {'id':762, 'name':'Dr.ヒルルク'}
 idList[841] = {'id':963, 'name':'モネ'}
 idList[842] = {'id':964, 'name':'モネ', 'title':'ドンキホーテ海賊団'}
 idList[843] = {'id':965, 'name':'ベビー５'}
+idList[905] = {'id':1015, 'name':'羅羅亞．索隆', 'title':'クライガナ島をさすらう剣士'}
 idList[994] = {'id':1120, 'name':'ヴァイオレット'}
 idList[1007] = {'id':1142, 'name':'モネ　寒桜'}
 idList[1009] = {'id':1157, 'name':'キズナBOOOOSTルフィ'}
