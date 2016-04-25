@@ -491,6 +491,7 @@ idList[578] = {'id':631, 'name':'蒙其．D．魯夫', 'title':'Voyage Dream: Pi
 idList[579] = {'id':609, 'name':'羅羅亞．索隆', 'title':'航海の記録・麦わらの一味'}
 idList[589] = {'id':542, 'name':'コーザ'}
 idList[593] = {'id':556, 'name':'翠の竜宮カメ姫'}
+idList[602] = {'id':652, 'name':'Eneru', 'title':'200,000,000 Volt Amaru'}
 idList[603] = {'id':653, 'name':'雷神艾涅爾'}
 idList[629] = {'id':658, 'name':'フランキー', 'title':'フランキー一家棟梁'}
 idList[638] = {'id':695, 'name':'ドーマ'}
@@ -503,6 +504,7 @@ idList[739] = {'id':795, 'name':'佛朗基', 'title':'Straw Hat Pirates'}
 idList[747] = {'id':865, 'name':'ロブ・ルッチ', 'title':'闇の正義の「ＣＰ９」'}
 idList[753] = {'id':871, 'name':'ジャブラ', 'title':'闇の正義の「ＣＰ９」'}
 idList[779] = {'id':861, 'name':'レベッカ', 'title':'コロシアム専属剣闘士'}
+idList[783] = {'id':863, 'name':'達絲琪', 'title':'Navy HQ Officer: Flower of Justice', 'skill':862}
 idList[784] = {'id':760, 'name':'ゲンさん'}
 idList[786] = {'id':762, 'name':'Dr.ヒルルク'}
 idList[841] = {'id':963, 'name':'モネ'}
@@ -567,13 +569,13 @@ for tup in iter(sorted(idList.iteritems())):
 		else:
 			missing_portrait = True
 
-		if aid == sid:
+		if aid == sid or sid < 1000:
 			for dirname in ['png/tw', 'png/jp', 'png/us']:
 				for filename in os.listdir(dirname):
-					if fnmatch.fnmatch(filename, 'motion_{0}_*skill_name.png'.format(index)):
+					if fnmatch.fnmatch(filename, 'motion_{0}_*skill_name.png'.format(str(sid).zfill(4))):
 						build['skill'] = dirname + '/' + filename
 						break
-					elif fnmatch.fnmatch(filename, 'motion_{0}_*skill_name_0001.png'.format(index)):
+					elif fnmatch.fnmatch(filename, 'motion_{0}_*skill_name_0001.png'.format(str(sid).zfill(4))):
 						build['skill'] = dirname + '/' + filename
 						break
 				else:
