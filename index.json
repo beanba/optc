@@ -4557,7 +4557,7 @@
         "name": "蒙其．D．魯夫",
         "no": 570,
         "portrait": "png/tw/character_0636_c1.png",
-        "skill": "png/tw/character_9999_t1.png",
+        "skill": "png/jp/motion_0636_afroluffy_skill_name.png",
         "thumbnail": "png/tw/character_0636_t1.png",
         "title": "デービーバックファイト・アフロ"
       },
@@ -6269,7 +6269,7 @@
         "name": "ゲンさん",
         "no": 784,
         "portrait": "png/tw/character_0760_c1.png",
-        "skill": "png/tw/character_9999_t1.png",
+        "skill": "png/jp/motion_0760_gensan_skill_name.png",
         "thumbnail": "png/tw/character_0760_t1.png",
         "title": ""
       },
@@ -6285,7 +6285,7 @@
         "name": "Dr.ヒルルク",
         "no": 786,
         "portrait": "png/tw/character_0762_c1.png",
-        "skill": "png/tw/character_9999_t1.png",
+        "skill": "png/jp/motion_0762_hiruruku_skill_name.png",
         "thumbnail": "png/tw/character_0762_t1.png",
         "title": ""
       },
