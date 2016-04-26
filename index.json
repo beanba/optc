@@ -3602,7 +3602,7 @@
         "title": ""
       },
       {
-        "name": "納米爾",
+        "name": "奮力一擊的納米爾",
         "no": 451,
         "portrait": "png/tw/character_0484_c1.png",
         "skill": "png/tw/motion_0484_namur_skill_name.png",
@@ -3756,9 +3756,9 @@
       {
         "name": "黃色白扁帽部隊 隊長",
         "no": 470,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/tw/character_0569_c1.png",
         "skill": "png/tw/skill_name_8069.png",
-        "thumbnail": "png/tw/character_none.png",
+        "thumbnail": "png/tw/character_0569_t1.png",
         "title": "SKYPIEA神隊"
       },
       {
@@ -3850,44 +3850,44 @@
         "title": "SKYPIEA神兵"
       },
       {
-        "name": "",
+        "name": "紅色突擊隊 精英",
         "no": 482,
         "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/skill_name_8013.png",
         "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "title": "SKYPIEA神兵"
       },
       {
-        "name": "",
+        "name": "藍色突擊隊 精英",
         "no": 483,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "portrait": "png/tw/character_0583_c1.png",
+        "skill": "png/tw/skill_name_8025.png",
+        "thumbnail": "png/tw/character_0583_t1.png",
+        "title": "SKYPIEA神兵"
       },
       {
-        "name": "",
+        "name": "綠色突擊隊 精英",
         "no": 484,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "portrait": "png/tw/character_0584_c1.png",
+        "skill": "png/tw/skill_name_8029.png",
+        "thumbnail": "png/tw/character_0584_t1.png",
+        "title": "SKYPIEA神兵"
       },
       {
-        "name": "",
+        "name": "黃色突擊隊 精英",
         "no": 485,
         "portrait": "png/tw/character_9999_t1.png",
         "skill": "png/tw/character_9999_t1.png",
         "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "title": "SKYPIEA神兵"
       },
       {
-        "name": "",
+        "name": "黑色突擊隊 精英",
         "no": 486,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "portrait": "png/tw/character_0586_c1.png",
+        "skill": "png/tw/skill_name_8016.png",
+        "thumbnail": "png/tw/character_0586_t1.png",
+        "title": "SKYPIEA神兵"
       },
       {
         "name": "紅色遊牧隊 隊員",
