@@ -481,6 +481,7 @@ idList[500] = {'id':511, 'name':'Bellmere', 'title':'Nami and Nojiko\'s Mother'}
 idList[507] = {'id':518, 'name':'チャカ'}
 idList[508] = {'id':519, 'name':'チャカ', 'title':'アラバスタの守護神ジャッカル'}
 idList[514] = {'id':520, 'name':'妮可．羅賓', 'title':'熱帶風情'}
+idList[519] = {'id':526, 'name':'モンキー・Ｄ・ルフィ', 'title':'メルヴィユの冒険者'}
 idList[522] = {'id':529, 'name':'香吉士', 'title':'特攻の麦わらの一味'}
 idList[523] = {'id':530, 'name':'娜美', 'title':'メルヴィユの冒険者'}
 idList[537] = {'id':548, 'name':'Domino'}
