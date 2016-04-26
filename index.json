@@ -4466,12 +4466,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "フランキー",
         "no": 559,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "portrait": "png/jp/character_0619_c1.png",
+        "skill": "png/jp/motion_0619_franky_skill_name.png",
+        "thumbnail": "png/jp/character_0619_t1.png",
+        "title": "メルヴィユの冒険者"
       },
       {
         "name": "",
@@ -6978,11 +6978,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "セニョール・ピンク",
         "no": 873,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
+        "portrait": "png/jp/character_0987_c1.png",
+        "skill": "png/jp/motion_0987_senorpink_skill_name.png",
+        "thumbnail": "png/jp/character_0987_t1.png",
         "title": ""
       },
       {
