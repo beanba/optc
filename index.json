@@ -3162,9 +3162,9 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "Miss聖誕節　鼴鼠人",
         "no": 396,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/tw/character_0428_c1.png",
         "skill": "png/tw/character_9999_t1.png",
         "thumbnail": "png/tw/character_none.png",
         "title": ""
@@ -3674,28 +3674,28 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "犯罪者　加爾迪諾",
         "no": 460,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "portrait": "png/tw/character_0521_c1.png",
+        "skill": "png/tw/motion_0521_mr.3_skill_name.png",
+        "thumbnail": "png/tw/character_0521_t1.png",
+        "title": "Mr.3"
       },
       {
-        "name": "",
+        "name": "脫逃者　班薩姆",
         "no": 461,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "portrait": "png/tw/character_0505_c1.png",
+        "skill": "png/tw/motion_0505_mr.2_skill_name.png",
+        "thumbnail": "png/tw/character_0505_t1.png",
+        "title": "Mr.2　馮．克雷"
       },
       {
-        "name": "",
+        "name": "逃獄名人　班薩姆",
         "no": 462,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "portrait": "png/tw/character_0506_c1.png",
+        "skill": "png/tw/motion_0506_mr.2_skill_name.png",
+        "thumbnail": "png/tw/character_0506_t1.png",
+        "title": "Mr.2　馮．克雷"
       },
       {
         "name": "",
