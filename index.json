@@ -6740,9 +6740,9 @@
       {
         "name": "ベビー５",
         "no": 843,
-        "portrait": "png/tw/character_0965_c1.png",
-        "skill": "png/tw/motion_0965_baby5_skill_name.png",
-        "thumbnail": "png/tw/character_0965_t1.png",
+        "portrait": "png/jp/character_0965_c1.png",
+        "skill": "png/jp/motion_0965_baby5_skill_name.png",
+        "thumbnail": "png/jp/character_0965_t1.png",
         "title": ""
       },
       {
