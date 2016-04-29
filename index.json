@@ -3658,11 +3658,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "センゴク",
         "no": 458,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
+        "portrait": "png/jp/character_0491_c1.png",
+        "skill": "png/jp/motion_0491_sengoku_skill_name.png",
+        "thumbnail": "png/jp/character_0491_t1.png",
         "title": ""
       },
       {
@@ -4234,12 +4234,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "シャンクス",
         "no": 530,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0525_c1.png",
         "skill": "png/tw/character_9999_t1.png",
         "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "title": "黒衣の四皇"
       },
       {
         "name": "",
@@ -4514,9 +4514,9 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "ハンバーグ",
         "no": 565,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0625_c1.png",
         "skill": "png/tw/character_9999_t1.png",
         "thumbnail": "png/tw/character_none.png",
         "title": ""
@@ -5434,11 +5434,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "アイス大好きナミ",
         "no": 680,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0736_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
+        "thumbnail": "png/jp/character_0736_t1.png",
         "title": ""
       },
       {
@@ -5986,12 +5986,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "カク",
         "no": 749,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0867_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "thumbnail": "png/jp/character_0867_t1.png",
+        "title": "闇の正義の「ＣＰ９」"
       },
       {
         "name": "",
@@ -6946,12 +6946,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "ドンキホーテ・ドフラミンゴ",
         "no": 869,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "portrait": "png/jp/character_0983_c1.png",
+        "skill": "png/jp/motion_0983_dofuramingo_skill_name.png",
+        "thumbnail": "png/jp/character_0983_t1.png",
+        "title": "ドンキホーテ海賊団"
       },
       {
         "name": "",
@@ -7994,6 +7994,62 @@
         "title": ""
       },
       {
+        "name": "",
+        "no": 1000,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1001,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1002,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1003,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1004,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1005,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1006,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
         "name": "モネ　寒桜",
         "no": 1007,
         "portrait": "png/jp/character_1142_c1.png",
@@ -8002,11 +8058,115 @@
         "title": ""
       },
       {
+        "name": "モネ　大寒桜",
+        "no": 1008,
+        "portrait": "png/jp/character_1143_c1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/jp/character_1143_t1.png",
+        "title": ""
+      },
+      {
         "name": "キズナBOOOOSTルフィ",
         "no": 1009,
         "portrait": "png/jp/character_1157_c1.png",
         "skill": "png/tw/character_9999_t1.png",
         "thumbnail": "png/jp/character_1157_t1.png",
+        "title": ""
+      },
+      {
+        "name": "バトラー伯爵",
+        "no": 1010,
+        "portrait": "png/jp/character_1152_c1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/jp/character_1152_t1.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1011,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1012,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "ホットドッグ将軍",
+        "no": 1013,
+        "portrait": "png/jp/character_1155_c1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/jp/character_1155_t1.png",
+        "title": ""
+      },
+      {
+        "name": "トニートニー・チョッパー",
+        "no": 1014,
+        "portrait": "png/jp/character_1156_c1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": "動物王"
+      },
+      {
+        "name": "",
+        "no": 1015,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1016,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1017,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1018,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1019,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1020,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1021,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
         "title": ""
       },
       {
