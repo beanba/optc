@@ -4002,11 +4002,11 @@
         "title": "Nami and Nojiko's Mother"
       },
       {
-        "name": "",
+        "name": "カヤ",
         "no": 501,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0512_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
+        "thumbnail": "png/jp/character_0512_t1.png",
         "title": ""
       },
       {
@@ -4034,11 +4034,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "ペル",
         "no": 505,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
+        "portrait": "png/jp/character_0516_c1.png",
+        "skill": "png/jp/motion_0516_peru_skill_name.png",
+        "thumbnail": "png/jp/character_0516_t1.png",
         "title": ""
       },
       {
@@ -4986,12 +4986,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "棍棒チンピラ",
         "no": 624,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0772_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "thumbnail": "png/jp/character_0772_t1.png",
+        "title": "黄の賞金稼ぎ"
       },
       {
         "name": "",
@@ -5101,7 +5101,7 @@
         "name": "ドーマ",
         "no": 638,
         "portrait": "png/tw/character_0695_c1.png",
-        "skill": "png/tw/character_9999_t1.png",
+        "skill": "png/jp/motion_0695_doma_skill_name.png",
         "thumbnail": "png/tw/character_0695_t1.png",
         "title": ""
       },
@@ -5437,7 +5437,7 @@
         "name": "アイス大好きナミ",
         "no": 680,
         "portrait": "png/jp/character_0736_c1.png",
-        "skill": "png/tw/character_9999_t1.png",
+        "skill": "png/jp/motion_0736_nami_mizugi_skill_name.png",
         "thumbnail": "png/jp/character_0736_t1.png",
         "title": ""
       },
@@ -7234,7 +7234,7 @@
         "title": ""
       },
       {
-        "name": "羅羅亞．索隆",
+        "name": "ロロノア・ゾロ",
         "no": 905,
         "portrait": "png/jp/character_1015_c1.png",
         "skill": "png/jp/motion_1015_zoro_skill_name.png",
@@ -7290,12 +7290,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "サンジ",
         "no": 912,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_1022_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "thumbnail": "png/jp/character_1022_t1.png",
+        "title": "男を懸けた愛の料理人"
       },
       {
         "name": "",
@@ -7994,12 +7994,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "コラソン",
         "no": 1000,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "portrait": "png/jp/character_1150_c1.png",
+        "skill": "png/jp/motion_1150_skill_name.png",
+        "thumbnail": "png/jp/character_1150_t1.png",
+        "title": "ドンキホーテ海賊団"
       },
       {
         "name": "",
@@ -8101,7 +8101,7 @@
         "name": "ホットドッグ将軍",
         "no": 1013,
         "portrait": "png/jp/character_1155_c1.png",
-        "skill": "png/tw/character_9999_t1.png",
+        "skill": "png/jp/skill_name_8169.png",
         "thumbnail": "png/jp/character_1155_t1.png",
         "title": ""
       },
