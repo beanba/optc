@@ -521,6 +521,7 @@ idList[579] = {'id':609, 'name':'羅羅亞．索隆', 'title':'航海の記録�
 idList[589] = {'id':542, 'name':'コーザ'}
 idList[593] = {'id':556, 'name':'翠の竜宮カメ姫'}
 idList[594] = {'id':557, 'name':'琥珀の竜宮カメ姫'}
+idList[597] = {'id':633, 'name':'Tony Tony Chopper', 'title':'Voyage Dream: Great Doctor'}
 idList[598] = {'id':648, 'name':'バギー', 'title':'海賊見習い'}
 idList[602] = {'id':652, 'name':'Eneru', 'title':'200,000,000 Volt Amaru'}
 idList[603] = {'id':653, 'name':'雷神艾涅爾'}
