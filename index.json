@@ -5122,11 +5122,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "絆のディカルバン兄弟",
         "no": 641,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
+        "portrait": "png/tw/character_0698_c1.png",
+        "skill": "png/tw/motion_0698_dikalban_skill_name.png",
+        "thumbnail": "png/tw/character_0698_t1.png",
         "title": ""
       },
       {
@@ -7242,12 +7242,12 @@
         "title": "クライガナ島をさすらう剣士"
       },
       {
-        "name": "",
+        "name": "ロロノア・ゾロ",
         "no": 906,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_1016_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "thumbnail": "png/jp/character_1016_t1.png",
+        "title": "世界最強剣士の門弟"
       },
       {
         "name": "",
