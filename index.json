@@ -4978,12 +4978,12 @@
         "title": "緑の賞金稼ぎ"
       },
       {
-        "name": "",
+        "name": "ピストルチンピラ",
         "no": 623,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0771_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "thumbnail": "png/jp/character_0771_t1.png",
+        "title": "黄の賞金稼ぎ"
       },
       {
         "name": "棍棒チンピラ",
@@ -5538,12 +5538,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "サーベル伍長",
         "no": 693,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "portrait": "png/jp/character_0717_c1.png",
+        "skill": "png/jp/skill_name_8015.png",
+        "thumbnail": "png/jp/character_0717_t1.png",
+        "title": "海軍本部"
       },
       {
         "name": "",
@@ -6026,12 +6026,12 @@
         "title": "闇の正義の「ＣＰ９」"
       },
       {
-        "name": "",
+        "name": "ジャブラ",
         "no": 754,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "portrait": "png/jp/character_0872_c1.png",
+        "skill": "png/jp/motion_0872_jabra_skill_name.png",
+        "thumbnail": "png/jp/character_0872_t1.png",
+        "title": "歴代最強の「ＣＰ９」"
       },
       {
         "name": "",
@@ -6906,12 +6906,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "ボア・ハンコック",
         "no": 864,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0936_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "thumbnail": "png/jp/character_0936_t1.png",
+        "title": "九蛇海賊団船長"
       },
       {
         "name": "",
@@ -7002,19 +7002,19 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "トレーボル",
         "no": 876,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0990_c1.png",
         "skill": "png/tw/character_9999_t1.png",
         "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "title": "ドンキホーテ海賊団"
       },
       {
-        "name": "",
+        "name": "ジョーラ",
         "no": 877,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0991_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
+        "thumbnail": "png/jp/character_0991_t1.png",
         "title": ""
       },
       {
