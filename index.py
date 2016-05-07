@@ -540,6 +540,7 @@ idList[638] = {'id':695, 'name':'ドーマ'}
 idList[641] = {'id':698, 'name':'羈絆的迪卡爾班兄弟'}
 idList[646] = {'id':703, 'name':'リトルオーズJr.'}
 idList[647] = {'id':704, 'name':'猛攻のリトルオーズJr.'}
+idList[659] = {'id':674, 'name':'モンキー・D・ルフィ', 'title':'うきわ'}
 idList[662] = {'id':673, 'name':'娜美', 'title':'バカンス'}
 idList[675] = {'id':733, 'name':'エンポリオ・イワンコフ', 'title':'革命軍'}
 idList[680] = {'id':736, 'name':'アイス大好きナミ'}
