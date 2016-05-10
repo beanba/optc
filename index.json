@@ -5386,18 +5386,18 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "エンポリオ・イワンコフ",
         "no": 674,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "portrait": "png/jp/character_0732_c1.png",
+        "skill": "png/jp/motion_0732_ivankov_skill_name.png",
+        "thumbnail": "png/jp/character_0732_t1.png",
+        "title": "ニューカマー拳法　師範"
       },
       {
         "name": "エンポリオ・イワンコフ",
         "no": 675,
         "portrait": "png/jp/character_0733_c1.png",
-        "skill": "png/tw/character_9999_t1.png",
+        "skill": "png/jp/motion_0732_ivankov_skill_name.png",
         "thumbnail": "png/jp/character_0733_t1.png",
         "title": "革命軍"
       },
@@ -5466,11 +5466,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "アイス大好きペローナ",
         "no": 684,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0740_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
+        "thumbnail": "png/jp/character_0740_t1.png",
         "title": ""
       },
       {
@@ -5522,20 +5522,20 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "ナギナタ伍長",
         "no": 691,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0715_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "thumbnail": "png/jp/character_0715_t1.png",
+        "title": "海軍本部"
       },
       {
-        "name": "",
+        "name": "ピストル伍長",
         "no": 692,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0716_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "thumbnail": "png/jp/character_0716_t1.png",
+        "title": "海軍本部"
       },
       {
         "name": "サーベル伍長",
@@ -5546,12 +5546,12 @@
         "title": "海軍本部"
       },
       {
-        "name": "",
+        "name": "バズーカ伍長",
         "no": 694,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0718_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "thumbnail": "png/jp/character_0718_t1.png",
+        "title": "海軍本部"
       },
       {
         "name": "",
@@ -6154,52 +6154,52 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "ダルメシアン",
         "no": 770,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0804_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "thumbnail": "png/jp/character_0804_t1.png",
+        "title": "海軍本部中将"
       },
       {
-        "name": "",
+        "name": "モモンガ",
         "no": 771,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0805_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "thumbnail": "png/jp/character_0805_t1.png",
+        "title": "海軍本部中将"
       },
       {
-        "name": "",
+        "name": "オニグモ",
         "no": 772,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0806_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "thumbnail": "png/jp/character_0806_t1.png",
+        "title": "海軍本部中将"
       },
       {
-        "name": "",
+        "name": "シュウ",
         "no": 773,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0807_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
+        "thumbnail": "png/jp/character_0807_t1.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "ベリーグッド",
         "no": 774,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0808_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
+        "thumbnail": "png/jp/character_0808_t1.png",
         "title": ""
       },
       {
-        "name": "",
+        "name": "ストロベリー",
         "no": 775,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0809_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "thumbnail": "png/jp/character_0809_t1.png",
+        "title": "海軍本部中将"
       },
       {
         "name": "",
@@ -6306,12 +6306,12 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "くいな",
         "no": 789,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0765_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "thumbnail": "png/jp/character_0765_t1.png",
+        "title": "シモツキ村の少女剣士"
       },
       {
         "name": "",
@@ -6922,28 +6922,28 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "ニコ・ロビン",
         "no": 866,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0819_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "thumbnail": "png/jp/character_0819_t1.png",
+        "title": "百花繚乱 ウイング“華”"
       },
       {
-        "name": "",
+        "name": "ウソップ",
         "no": 867,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0820_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "thumbnail": "png/jp/character_0820_t1.png",
+        "title": "タバスコ星“撃”"
       },
       {
-        "name": "",
+        "name": "トニートニー・チョッパー",
         "no": 868,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/jp/character_0821_c1.png",
         "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "thumbnail": "png/jp/character_0821_t1.png",
+        "title": "重量ゴング“獣”"
       },
       {
         "name": "ドンキホーテ・ドフラミンゴ",
@@ -8178,12 +8178,132 @@
         "title": ""
       },
       {
-        "name": "人十又又",
+        "name": "",
+        "no": 1023,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1024,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1025,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1026,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1027,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1028,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1029,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1030,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1031,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1032,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1033,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1034,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "",
+        "no": 1035,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "エンポリオ・イワンコフ",
+        "no": 1036,
+        "portrait": "png/jp/character_1176_c1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/jp/character_1176_t1.png",
+        "title": "秘密の花園の女王"
+      },
+      {
+        "name": "",
+        "no": 1037,
+        "portrait": "png/tw/character_9999_t1.png",
+        "skill": "png/tw/character_9999_t1.png",
+        "thumbnail": "png/tw/character_none.png",
+        "title": ""
+      },
+      {
+        "name": "イナズマ",
         "no": 1038,
         "portrait": "png/jp/character_1178_c1.png",
         "skill": "png/tw/character_9999_t1.png",
         "thumbnail": "png/jp/character_1178_t1.png",
-        "title": ""
+        "title": "秘密の花園の乙女"
       }
     ]
   }
