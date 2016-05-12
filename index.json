@@ -3876,9 +3876,9 @@
       {
         "name": "黃色突擊隊 精英",
         "no": 485,
-        "portrait": "png/tw/character_9999_t1.png",
+        "portrait": "png/tw/character_0585_c1.png",
         "skill": "png/tw/skill_name_8042.png",
-        "thumbnail": "png/tw/character_none.png",
+        "thumbnail": "png/tw/character_0585_t1.png",
         "title": "SKYPIEA神兵"
       },
       {
@@ -5106,11 +5106,11 @@
         "title": ""
       },
       {
-        "name": "",
+        "name": "遊騎士多馬",
         "no": 639,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
+        "portrait": "png/tw/character_0696_c1.png",
+        "skill": "png/tw/motion_0696_doma_skill_name.png",
+        "thumbnail": "png/tw/character_0696_t1.png",
         "title": ""
       },
       {
