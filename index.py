@@ -578,6 +578,7 @@ idList[783] = {'id':863, 'name':'達絲琪', 'title':'Navy HQ Officer: Flower of
 idList[784] = {'id':760, 'name':'ゲンさん'}
 idList[786] = {'id':762, 'name':'Dr.ヒルルク'}
 idList[789] = {'id':765, 'name':'くいな', 'title':'シモツキ村の少女剣士'}
+idList[804] = {'id':845, 'name':'黒檻のヒナ', 'title':'海軍本部大佐'}
 idList[817] = {'id':1004, 'name':'ソルジャーゾンビ　力自慢の影'}
 idList[823] = {'id':1010, 'name':'インテリ・ワイルドゾンビ'}
 idList[825] = {'id':1012, 'name':'ジェネラルゾンビ　怪力の影'}
