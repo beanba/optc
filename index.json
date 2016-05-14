@@ -4814,7 +4814,7 @@
         "no": 602,
         "portrait": "png/us/character_0652_c1.png",
         "skill": "png/us/motion_0652_eneru_skill_name.png",
-        "thumbnail": "png/us/character_0652_t1.png",
+        "thumbnail": "png/jp/character_0652_t1.png",
         "title": "200,000,000 Volt Amaru"
       },
       {
@@ -5733,17 +5733,17 @@
         "name": "喬拉可爾．密佛格",
         "no": 717,
         "portrait": "png/tw/character_0791_c1.png",
-        "skill": "png/tw/character_9999_t1.png",
+        "skill": "png/jp/motion_0791_mihawk_skill_name.png",
         "thumbnail": "png/tw/character_0791_t1.png",
         "title": "王下七武海"
       },
       {
-        "name": "",
+        "name": "鷹の目のミホーク",
         "no": 718,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
-        "title": ""
+        "portrait": "png/jp/character_0792_c1.png",
+        "skill": "png/jp/motion_0791_mihawk_skill_name.png",
+        "thumbnail": "png/jp/character_0792_t1.png",
+        "title": "世界最強の剣士"
       },
       {
         "name": "",
@@ -8002,11 +8002,11 @@
         "title": "ドンキホーテ海賊団"
       },
       {
-        "name": "",
+        "name": "ドンキホーテ・ロシナンテ",
         "no": 1001,
-        "portrait": "png/tw/character_9999_t1.png",
-        "skill": "png/tw/character_9999_t1.png",
-        "thumbnail": "png/tw/character_none.png",
+        "portrait": "png/jp/character_1151_c1.png",
+        "skill": "png/jp/motion_1151_skill_name.png",
+        "thumbnail": "png/jp/character_1151_t1.png",
         "title": ""
       },
       {
