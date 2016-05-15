@@ -15,7 +15,7 @@ html(lang="zh-Hant-HK")
 		div(class="op-container")
 			div(class="op-fixed")
 				ins(class="adsbygoogle" style="padding:5px; display:block" data-ad-client="ca-pub-2845669748705451" data-ad-slot="5320111623" data-ad-format="auto")
-				each build, build_idx in report.builds
+				each build, build_idx in builds
 					- x = build_idx % 5 * 113 + 1
 					- y = Math.floor(build_idx / 5) * 113 + 1 + 75
 					- y2 = y + 85

@@ -633,9 +633,7 @@ idList[1038] = {'id':1178, 'name':'イナズマ', 'title':'秘密の花園の乙
 idList[1044] = {'id':1026, 'name':'羅', 'title':'最惡之世代'}
 
 rtn = {
-	"report":{
-		"builds":[]
-	}
+	"builds":[]
 }
 
 for tup in iter(sorted(idList.iteritems())):
@@ -721,7 +719,7 @@ for tup in iter(sorted(idList.iteritems())):
 				print '\033[0;32mmissing_skill'
 			print json.dumps(build, indent=2, ensure_ascii=False, sort_keys=True)
 
-	rtn['report']['builds'].append(build)
+	rtn['builds'].append(build)
 
 # print json.dumps(rtn, indent=2, separators=(',', ': '), ensure_ascii=False, sort_keys=True)
 
