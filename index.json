@@ -3409,11 +3409,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "猩猩",
       "no": 427,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/tw/character_0448_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/tw/character_0448_t1.png",
       "title": ""
     },
     {
@@ -4025,12 +4025,12 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "ホトリ・コトリ",
       "no": 504,
-      "portrait": "png/tw/character_9999_t1.png",
-      "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "portrait": "png/jp/character_0515_c1.png",
+      "skill": "png/jp/motion_0515_hotorikotori_skill_name.png",
+      "thumbnail": "png/jp/character_0515_t1.png",
+      "title": "スカイピア副神兵長"
     },
     {
       "name": "貝爾",
@@ -4489,12 +4489,12 @@
       "title": "黒衣の火拳"
     },
     {
-      "name": "",
+      "name": "ポートガス・D・エース",
       "no": 562,
       "portrait": "png/tw/character_9999_t1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_0612_t1.png",
+      "title": "黒衣の白ひげ海賊団2番隊隊長"
     },
     {
       "name": "",
@@ -5177,12 +5177,12 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "マルコ",
       "no": 648,
       "portrait": "png/tw/character_9999_t1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_0693_t1.png",
+      "title": "白ひげ海賊団１番隊隊長"
     },
     {
       "name": "不死鳥マルコ",
@@ -6057,12 +6057,12 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "フクロウ",
       "no": 758,
       "portrait": "png/tw/character_9999_t1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_0876_t1.png",
+      "title": "歴代最強の「ＣＰ９」"
     },
     {
       "name": "",
@@ -6353,12 +6353,12 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "ナイトメア・ルフィ",
       "no": 795,
       "portrait": "png/tw/character_9999_t1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_0837_t1.png",
+      "title": "希望の戦士"
     },
     {
       "name": "",
@@ -7281,12 +7281,12 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "サンジ",
       "no": 911,
       "portrait": "png/tw/character_9999_t1.png",
-      "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "skill": "png/jp/motion_1021_sanji_skill_name.png",
+      "thumbnail": "png/jp/character_1021_t1.png",
+      "title": "カマバッカ王国の逃走者"
     },
     {
       "name": "サンジ",
@@ -8345,12 +8345,12 @@
       "title": ""
     },
     {
-      "name": "羅",
+      "name": "トラファルガー・ロー",
       "no": 1044,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1126_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": "最惡之世代"
+      "thumbnail": "png/jp/character_1126_t1.png",
+      "title": "最悪の世代"
     }
   ]
 }
