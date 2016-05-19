@@ -2812,7 +2812,7 @@
       "name": "ゼファー",
       "no": 352,
       "portrait": "png/jp/character_0377_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0377_zephyr_skill_name.png",
       "thumbnail": "png/jp/character_0377_t1.png",
       "title": ""
     },
@@ -8300,7 +8300,7 @@
       "name": "イナズマ",
       "no": 1038,
       "portrait": "png/jp/character_1178_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8171.png",
       "thumbnail": "png/jp/character_1178_t1.png",
       "title": "秘密の花園の乙女"
     },
@@ -8351,6 +8351,54 @@
       "skill": "png/tw/character_9999_t1.png",
       "thumbnail": "png/jp/character_1126_t1.png",
       "title": "最悪の世代"
+    },
+    {
+      "name": "",
+      "no": 1045,
+      "portrait": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/character_9999_t1.png",
+      "thumbnail": "png/tw/character_none.png",
+      "title": ""
+    },
+    {
+      "name": "",
+      "no": 1046,
+      "portrait": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/character_9999_t1.png",
+      "thumbnail": "png/tw/character_none.png",
+      "title": ""
+    },
+    {
+      "name": "サボ",
+      "no": 1047,
+      "portrait": "png/jp/character_1205_c1.png",
+      "skill": "png/jp/motion_1204_skill_name.png",
+      "thumbnail": "png/jp/character_1205_t1.png",
+      "title": "革命軍参謀総長"
+    },
+    {
+      "name": "",
+      "no": 1048,
+      "portrait": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/character_9999_t1.png",
+      "thumbnail": "png/tw/character_none.png",
+      "title": ""
+    },
+    {
+      "name": "",
+      "no": 1049,
+      "portrait": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/character_9999_t1.png",
+      "thumbnail": "png/tw/character_none.png",
+      "title": ""
+    },
+    {
+      "name": "ハグワール・D・サウロ",
+      "no": 1050,
+      "portrait": "png/jp/character_1208_c1.png",
+      "skill": "png/jp/motion_1208_sauro_name.png",
+      "thumbnail": "png/jp/character_1208_t1.png",
+      "title": ""
     }
   ]
 }

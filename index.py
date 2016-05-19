@@ -7,7 +7,7 @@ import os
 import os.path
 
 idList = {}
-for x in xrange(1,1044):
+for x in xrange(1,1050):
 	idList[x] = {'id':9999, 'name':''}
 
 idList[1] = {'id':1, 'name':'蒙其．D．魯夫'}
@@ -648,8 +648,10 @@ idList[1014] = {'id':1156, 'name':'トニートニー・チョッパー', 'title
 idList[1022] = {'id':1001, 'name':'蒙其．D．魯夫'}
 idList[1023] = {'id':1049, 'name':'ポートガス・D・エース', 'title':'海賊王に馳せた夢'}
 idList[1036] = {'id':1176, 'name':'エンポリオ・イワンコフ', 'title':'秘密の花園の女王'}
-idList[1038] = {'id':1178, 'name':'イナズマ', 'title':'秘密の花園の乙女'}
+idList[1038] = {'id':1178, 'name':'イナズマ', 'title':'秘密の花園の乙女', 'skill':8171}
 idList[1044] = {'id':1126, 'name':'トラファルガー・ロー', 'title':'最悪の世代'}
+idList[1047] = {'id':1205, 'name':'サボ', 'title':'革命軍参謀総長', 'skill':1204}
+idList[1050] = {'id':1208, 'name':'ハグワール・D・サウロ'}
 
 rtn = {
 	"builds":[]
@@ -706,7 +708,7 @@ for tup in iter(sorted(idList.iteritems())):
 		if aid == sid or (sid > -1 and sid < 8000):
 			for dirname in ['png/tw', 'png/jp', 'png/us']:
 				for filename in os.listdir(dirname):
-					if fnmatch.fnmatch(filename, 'motion_{0}_*skill_name.png'.format(str(sid).zfill(4))):
+					if fnmatch.fnmatch(filename, 'motion_{0}_*_name.png'.format(str(sid).zfill(4))):
 						build['skill'] = dirname + '/' + filename
 						break
 					elif fnmatch.fnmatch(filename, 'motion_{0}_*skill_name_0001.png'.format(str(sid).zfill(4))):
