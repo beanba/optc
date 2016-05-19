@@ -401,6 +401,7 @@ idList[391] = {'id':415, 'name':'培羅娜'}
 idList[392] = {'id':416, 'name':'培羅娜', 'title':'鬼魂公主'}
 idList[393] = {'id':417, 'name':'庫馬希', 'skill':8062}
 idList[394] = {'id':418, 'name':'狗企鵝', 'skill':8063}
+idList[395] = {'id':427, 'name':'Miss Merry Christmas'}
 idList[396] = {'id':428, 'name':'Miss聖誕節　鼴鼠人'}
 idList[398] = {'id':430, 'name':'Mr.4 與犬槍拉蘇'}
 idList[401] = {'id':433, 'name':'Mr.1'}
