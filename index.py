@@ -518,6 +518,7 @@ idList[530] = {'id':525, 'name':'シャンクス', 'title':'黒衣の四皇'}
 idList[537] = {'id':548, 'name':'Domino'}
 idList[546] = {'id':504, 'name':'ゴッド・エネル'}
 idList[542] = {'id':499, 'name':'Nola', 'title':'Giant Snake'}
+idList[544] = {'id':502, 'name':'ワイパー', 'title':'大戦士カルガラの子孫'}
 idList[553] = {'id':613, 'name':'ロロノア・ゾロ', 'title':'メルヴィユの冒険者'}
 idList[559] = {'id':619, 'name':'フランキー', 'title':'メルヴィユの冒険者'}
 idList[561] = {'id':611, 'name':'ポートガス・D・エース', 'title':'黒衣の火拳'}
