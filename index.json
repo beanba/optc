@@ -8361,12 +8361,12 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "サボ",
       "no": 1046,
-      "portrait": "png/tw/character_9999_t1.png",
-      "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "portrait": "png/jp/character_1204_c1.png",
+      "skill": "png/jp/motion_1204_skill_name.png",
+      "thumbnail": "png/jp/character_1204_t1.png",
+      "title": "竜の爪"
     },
     {
       "name": "サボ",
@@ -8377,11 +8377,11 @@
       "title": "革命軍参謀総長"
     },
     {
-      "name": "",
+      "name": "ニコ・オルビア",
       "no": 1048,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1206_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_1206_t1.png",
       "title": ""
     },
     {
