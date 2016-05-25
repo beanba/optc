@@ -4937,12 +4937,12 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "ナックルチンピラ",
       "no": 618,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0766_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_0766_t1.png",
+      "title": "赤の賞金稼ぎ"
     },
     {
       "name": "ナックルチンピラ",
@@ -5833,12 +5833,12 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "ジャブラ",
       "no": 730,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0782_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_0782_t1.png",
+      "title": "サイファーポールNo.9"
     },
     {
       "name": "",
@@ -5865,12 +5865,12 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "クマドリ",
       "no": 734,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0786_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_0786_t1.png",
+      "title": "サイファーポールNo.9"
     },
     {
       "name": "",
@@ -5897,11 +5897,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "スパンダム",
       "no": 738,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0790_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_0790_t1.png",
       "title": ""
     },
     {
