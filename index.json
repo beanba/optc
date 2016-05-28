@@ -5553,12 +5553,12 @@
       "title": "海軍本部"
     },
     {
-      "name": "",
+      "name": "ナックル伍長",
       "no": 695,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0719_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_0719_t1.png",
+      "title": "海軍本部"
     },
     {
       "name": "",
@@ -5761,11 +5761,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "ジェリー",
       "no": 721,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0796_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_0796_t1.png",
       "title": ""
     },
     {
@@ -5777,11 +5777,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "Tボーン",
       "no": 723,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0798_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_0798_t1.png",
       "title": ""
     },
     {
@@ -5929,11 +5929,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "ワンゼ",
       "no": 742,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0802_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_0802_t1.png",
       "title": ""
     },
     {
@@ -7073,20 +7073,20 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "ジンベエ",
       "no": 885,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0977_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_0977_t1.png",
+      "title": "鮫の武人"
     },
     {
-      "name": "",
+      "name": "Mr.1",
       "no": 886,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0978_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_0978_t1.png",
+      "title": "西の海の剣客"
     },
     {
       "name": "",
