@@ -4057,12 +4057,12 @@
       "title": ""
     },
     {
-      "name": "チャカ",
+      "name": "加卡",
       "no": 508,
-      "portrait": "png/jp/character_0519_c1.png",
-      "skill": "png/jp/motion_0519_chaka_skill_name.png",
-      "thumbnail": "png/jp/character_0519_t1.png",
-      "title": "アラバスタの守護神ジャッカル"
+      "portrait": "png/tw/character_0519_c1.png",
+      "skill": "png/tw/motion_0519_chaka_skill_name.png",
+      "thumbnail": "png/tw/character_0519_t1.png",
+      "title": "阿拉巴斯坦守護胡狼"
     },
     {
       "name": "最強的囚犯 沙．克洛克達爾",
@@ -5129,11 +5129,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "史庫亞德",
       "no": 642,
-      "portrait": "png/tw/character_9999_t1.png",
-      "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "portrait": "png/tw/character_0699_c1.png",
+      "skill": "png/tw/motion_0699_squard_skill_name.png",
+      "thumbnail": "png/tw/character_0699_t1.png",
       "title": ""
     },
     {
@@ -7969,12 +7969,12 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "デリンジャー",
       "no": 997,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1123_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_1123_t1.png",
+      "title": "ドンキホーテ海賊団"
     },
     {
       "name": "ディアマンテ",
