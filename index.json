@@ -4425,12 +4425,12 @@
       "title": "メルヴィユの冒険者"
     },
     {
-      "name": "",
+      "name": "ロロノア・ゾロ",
       "no": 554,
       "portrait": "png/tw/character_9999_t1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_0614_t1.png",
+      "title": "特攻の麦わらの一味"
     },
     {
       "name": "",
@@ -4961,12 +4961,12 @@
       "title": "青の賞金稼ぎ"
     },
     {
-      "name": "",
+      "name": "カタナチンピラ",
       "no": 621,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0769_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_0769_t1.png",
+      "title": "赤の賞金稼ぎ"
     },
     {
       "name": "ピストルチンピラ",
@@ -5401,11 +5401,11 @@
       "title": "革命軍"
     },
     {
-      "name": "",
+      "name": "イナズマ",
       "no": 676,
       "portrait": "png/tw/character_9999_t1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_0734_t1.png",
       "title": ""
     },
     {
