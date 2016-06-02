@@ -575,6 +575,7 @@ idList[638] = {'id':695, 'name':'ドーマ'}
 idList[639] = {'id':696, 'name':'遊騎士多馬'}
 idList[641] = {'id':698, 'name':'羈絆的迪卡爾班兄弟'}
 idList[642] = {'id':699, 'name':'史庫亞德'}
+idList[645] = {'id':702, 'name':'冰之魔女雪白之珮'}
 idList[646] = {'id':703, 'name':'リトルオーズJr.'}
 idList[647] = {'id':704, 'name':'猛攻的小歐斯Jr.', 'name-jp':'猛攻のリトルオーズJr.'}
 idList[648] = {'id':693, 'name':'マルコ', 'title':'白ひげ海賊団１番隊隊長'}
