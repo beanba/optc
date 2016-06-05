@@ -4473,12 +4473,12 @@
       "title": "メルヴィユの冒険者"
     },
     {
-      "name": "",
+      "name": "フランキー",
       "no": 560,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0620_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_0620_t1.png",
+      "title": "特攻の麦わらの一味"
     },
     {
       "name": "ポートガス・D・エース",
@@ -5369,11 +5369,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "ハック",
       "no": 672,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0730_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_0730_t1.png",
       "title": ""
     },
     {
@@ -7249,12 +7249,12 @@
       "title": "世界最強剣士の門弟"
     },
     {
-      "name": "",
+      "name": "ニコ・ロビン",
       "no": 907,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1017_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_1017_t1.png",
+      "title": "テキーラウルフの収監者"
     },
     {
       "name": "",
@@ -7929,11 +7929,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "グラディウス",
       "no": 992,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1118_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_1118_t1.png",
       "title": ""
     },
     {
