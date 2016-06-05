@@ -2041,7 +2041,7 @@
       "title": ""
     },
     {
-      "name": "以藏",
+      "name": "",
       "no": 256,
       "portrait": "png/tw/character_9999_t1.png",
       "skill": "png/tw/character_9999_t1.png",
@@ -2601,7 +2601,7 @@
       "title": ""
     },
     {
-      "name": "瓦波爾",
+      "name": "",
       "no": 326,
       "portrait": "png/tw/character_9999_t1.png",
       "skill": "png/tw/character_9999_t1.png",
@@ -2609,10 +2609,10 @@
       "title": ""
     },
     {
-      "name": "瓦波爾房屋",
+      "name": "",
       "no": 327,
-      "portrait": "png/tw/character_0341_c1.png",
-      "skill": "png/tw/motion_0341_skill_name.png",
+      "portrait": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/character_9999_t1.png",
       "thumbnail": "png/tw/character_none.png",
       "title": ""
     },
@@ -3161,9 +3161,9 @@
       "title": ""
     },
     {
-      "name": "Miss聖誕節　鼴鼠人",
+      "name": "",
       "no": 396,
-      "portrait": "png/tw/character_0428_c1.png",
+      "portrait": "png/tw/character_9999_t1.png",
       "skill": "png/tw/character_9999_t1.png",
       "thumbnail": "png/tw/character_none.png",
       "title": ""
@@ -3505,7 +3505,7 @@
       "title": "鬼魂公主"
     },
     {
-      "name": "薇薇公主　戀愛",
+      "name": "",
       "no": 439,
       "portrait": "png/tw/character_9999_t1.png",
       "skill": "png/tw/character_9999_t1.png",
@@ -3697,9 +3697,9 @@
       "title": "Mr.2　馮．克雷"
     },
     {
-      "name": "サトリ",
+      "name": "",
       "no": 463,
-      "portrait": "png/jp/character_0495_c1.png",
+      "portrait": "png/tw/character_9999_t1.png",
       "skill": "png/tw/character_9999_t1.png",
       "thumbnail": "png/tw/character_none.png",
       "title": ""
@@ -4513,9 +4513,9 @@
       "title": ""
     },
     {
-      "name": "ハンバーグ",
+      "name": "",
       "no": 565,
-      "portrait": "png/jp/character_0625_c1.png",
+      "portrait": "png/tw/character_9999_t1.png",
       "skill": "png/tw/character_9999_t1.png",
       "thumbnail": "png/tw/character_none.png",
       "title": ""
@@ -6225,12 +6225,12 @@
       "title": ""
     },
     {
-      "name": "レベッカ",
+      "name": "",
       "no": 779,
-      "portrait": "png/jp/character_0861_c1.png",
+      "portrait": "png/tw/character_9999_t1.png",
       "skill": "png/tw/character_9999_t1.png",
       "thumbnail": "png/tw/character_none.png",
-      "title": "コロシアム専属剣闘士"
+      "title": ""
     },
     {
       "name": "",
@@ -7001,12 +7001,12 @@
       "title": ""
     },
     {
-      "name": "トレーボル",
+      "name": "",
       "no": 876,
-      "portrait": "png/jp/character_0990_c1.png",
+      "portrait": "png/tw/character_9999_t1.png",
       "skill": "png/tw/character_9999_t1.png",
       "thumbnail": "png/tw/character_none.png",
-      "title": "ドンキホーテ海賊団"
+      "title": ""
     },
     {
       "name": "ジョーラ",
@@ -8105,12 +8105,12 @@
       "title": ""
     },
     {
-      "name": "トニートニー・チョッパー",
+      "name": "",
       "no": 1014,
-      "portrait": "png/jp/character_1156_c1.png",
+      "portrait": "png/tw/character_9999_t1.png",
       "skill": "png/tw/character_9999_t1.png",
       "thumbnail": "png/tw/character_none.png",
-      "title": "動物王"
+      "title": ""
     },
     {
       "name": "",
