@@ -4004,7 +4004,7 @@
       "name": "カヤ",
       "no": 501,
       "portrait": "png/jp/character_0512_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0512_kaya_skill_name.png",
       "thumbnail": "png/jp/character_0512_t1.png",
       "title": ""
     },
@@ -4180,7 +4180,7 @@
       "name": "娜美",
       "no": 523,
       "portrait": "png/tw/character_0530_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0530_nami_skill_name.png",
       "thumbnail": "png/tw/character_0530_t1.png",
       "title": "メルヴィユの冒険者"
     },
@@ -6345,17 +6345,17 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "ナイトメア・ルフィ",
       "no": 794,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0836_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_0836_t1.png",
+      "title": "希望の星"
     },
     {
       "name": "ナイトメア・ルフィ",
       "no": 795,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0837_c1.png",
       "skill": "png/tw/character_9999_t1.png",
       "thumbnail": "png/jp/character_0837_t1.png",
       "title": "希望の戦士"
@@ -7396,7 +7396,7 @@
       "name": "獄卒長サディちゃん",
       "no": 925,
       "portrait": "png/jp/character_0947_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0947_sadichan_skill_name.png",
       "thumbnail": "png/jp/character_0947_t1.png",
       "title": ""
     },
@@ -7473,12 +7473,12 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "海峡のジンベエ",
       "no": 935,
-      "portrait": "png/tw/character_9999_t1.png",
-      "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "portrait": "png/jp/character_1061_c1.png",
+      "skill": "png/jp/motion_1061_jinbe_skill_name.png",
+      "thumbnail": "png/jp/character_1061_t1.png",
+      "title": "元王下七武海"
     },
     {
       "name": "モンキー・Ｄ・ルフィ",
