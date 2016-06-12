@@ -4817,12 +4817,12 @@
       "title": "200,000,000 Volt Amaru"
     },
     {
-      "name": "Eneru, Lightning Incarnate",
+      "name": "エネル　雷人間",
       "no": 603,
       "portrait": "png/us/character_0653_c1.png",
-      "skill": "png/us/motion_0652_eneru_skill_name.png",
+      "skill": "png/jp/motion_0653_eneru_skill_name.png",
       "thumbnail": "png/us/character_0653_t1.png",
-      "title": ""
+      "title": "２億Ｖ　雷神"
     },
     {
       "name": "",
@@ -5012,7 +5012,7 @@
       "name": "ガトリングチンピラ",
       "no": 627,
       "portrait": "png/jp/character_0775_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8101.png",
       "thumbnail": "png/jp/character_0775_t1.png",
       "title": "青の賞金稼ぎ"
     },
@@ -5020,7 +5020,7 @@
       "name": "タイルストン",
       "no": 628,
       "portrait": "png/jp/character_0659_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8106.png",
       "thumbnail": "png/jp/character_0659_t1.png",
       "title": ""
     },
@@ -5028,7 +5028,7 @@
       "name": "フランキー",
       "no": 629,
       "portrait": "png/jp/character_0658_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8105.png",
       "thumbnail": "png/jp/character_0658_t1.png",
       "title": "フランキー一家棟梁"
     },
@@ -5036,7 +5036,7 @@
       "name": "カク",
       "no": 630,
       "portrait": "png/jp/character_0654_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0654_cpnine_kaku_skill_name.png",
       "thumbnail": "png/jp/character_0654_t1.png",
       "title": "サイファーポールNo.9"
     },
@@ -5468,7 +5468,7 @@
       "name": "アイス大好きペローナ",
       "no": 684,
       "portrait": "png/jp/character_0740_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0740_perona_mizugi_skill_name.png",
       "thumbnail": "png/jp/character_0740_t1.png",
       "title": ""
     },
@@ -5532,7 +5532,7 @@
       "name": "ピストル伍長",
       "no": 692,
       "portrait": "png/jp/character_0716_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/skill_name_8025.png",
       "thumbnail": "png/jp/character_0716_t1.png",
       "title": "海軍本部"
     },
@@ -5556,7 +5556,7 @@
       "name": "ナックル伍長",
       "no": 695,
       "portrait": "png/jp/character_0719_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8095.png",
       "thumbnail": "png/jp/character_0719_t1.png",
       "title": "海軍本部"
     },
