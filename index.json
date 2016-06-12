@@ -4172,7 +4172,7 @@
       "name": "サンジ",
       "no": 522,
       "portrait": "png/tw/character_0529_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0529_sanji_skill_name.png",
       "thumbnail": "png/tw/character_0529_t1.png",
       "title": "特攻の麦わらの一味"
     },
@@ -5596,7 +5596,7 @@
       "name": "ナックル少佐",
       "no": 700,
       "portrait": "png/jp/character_0759_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8095.png",
       "thumbnail": "png/jp/character_0759_t1.png",
       "title": "海軍本部"
     },
@@ -5660,7 +5660,7 @@
       "name": "ニコ・ロビン",
       "no": 708,
       "portrait": "png/jp/character_0778_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0778_robin_skill_name.png",
       "thumbnail": "png/jp/character_0778_t1.png",
       "title": "悪魔の子"
     },
@@ -5780,7 +5780,7 @@
       "name": "Tボーン",
       "no": 723,
       "portrait": "png/jp/character_0798_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0798_tbone_skill_name.png",
       "thumbnail": "png/jp/character_0798_t1.png",
       "title": ""
     },
@@ -5836,7 +5836,7 @@
       "name": "ジャブラ",
       "no": 730,
       "portrait": "png/jp/character_0782_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0782_jabra_skill_name.png",
       "thumbnail": "png/jp/character_0782_t1.png",
       "title": "サイファーポールNo.9"
     },
@@ -5868,7 +5868,7 @@
       "name": "クマドリ",
       "no": 734,
       "portrait": "png/jp/character_0786_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8119.png",
       "thumbnail": "png/jp/character_0786_t1.png",
       "title": "サイファーポールNo.9"
     },
@@ -5900,7 +5900,7 @@
       "name": "スパンダム",
       "no": 738,
       "portrait": "png/jp/character_0790_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8120.png",
       "thumbnail": "png/jp/character_0790_t1.png",
       "title": ""
     },
@@ -5916,7 +5916,7 @@
       "name": "ネロ",
       "no": 740,
       "portrait": "png/jp/character_0800_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8123.png",
       "thumbnail": "png/jp/character_0800_t1.png",
       "title": ""
     },
@@ -5932,7 +5932,7 @@
       "name": "ワンゼ",
       "no": 742,
       "portrait": "png/jp/character_0802_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0802_wanze_skill_name.png",
       "thumbnail": "png/jp/character_0802_t1.png",
       "title": ""
     },
@@ -6164,7 +6164,7 @@
       "name": "モモンガ",
       "no": 771,
       "portrait": "png/jp/character_0805_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0805_momonga_skill_name.png",
       "thumbnail": "png/jp/character_0805_t1.png",
       "title": "海軍本部中将"
     },
@@ -6172,7 +6172,7 @@
       "name": "オニグモ",
       "no": 772,
       "portrait": "png/jp/character_0806_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0806_onigumo_skill_name.png",
       "thumbnail": "png/jp/character_0806_t1.png",
       "title": "海軍本部中将"
     },
