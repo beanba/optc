@@ -6580,7 +6580,7 @@
       "name": "インテリ・ワイルドゾンビ",
       "no": 823,
       "portrait": "png/jp/character_1010_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8099.png",
       "thumbnail": "png/jp/character_1010_t1.png",
       "title": ""
     },
@@ -6588,7 +6588,7 @@
       "name": "ハートフル・ワイルドゾンビ",
       "no": 824,
       "portrait": "png/jp/character_1011_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8097.png",
       "thumbnail": "png/jp/character_1011_t1.png",
       "title": ""
     },
@@ -6596,7 +6596,7 @@
       "name": "ジェネラルゾンビ　怪力の影",
       "no": 825,
       "portrait": "png/jp/character_1012_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8130.png",
       "thumbnail": "png/jp/character_1012_t1.png",
       "title": ""
     },
@@ -6612,7 +6612,7 @@
       "name": "ジェネラルゾンビ　疾速の影",
       "no": 827,
       "portrait": "png/jp/character_1014_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8132.png",
       "thumbnail": "png/jp/character_1014_t1.png",
       "title": ""
     },
@@ -6676,7 +6676,7 @@
       "name": "暴君バーソロミュー・くま",
       "no": 835,
       "portrait": "png/jp/character_0899_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0899_bartholomewkuma_skill_name.png",
       "thumbnail": "png/jp/character_0899_t1.png",
       "title": ""
     },
