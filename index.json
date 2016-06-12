@@ -4177,7 +4177,7 @@
       "title": "特攻の麦わらの一味"
     },
     {
-      "name": "娜美",
+      "name": "ナミ",
       "no": 523,
       "portrait": "png/tw/character_0530_c1.png",
       "skill": "png/jp/motion_0530_nami_skill_name.png",
@@ -4185,11 +4185,11 @@
       "title": "メルヴィユの冒険者"
     },
     {
-      "name": "",
+      "name": "ナミと雷鳥ビリー",
       "no": 524,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0531_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_0531_t1.png",
       "title": ""
     },
     {
@@ -4572,7 +4572,7 @@
       "name": "騙人布",
       "no": 572,
       "portrait": "png/tw/character_0638_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0638_second_usopp_skill_name.png",
       "thumbnail": "png/tw/character_0638_t1.png",
       "title": "デービーバックファイト・セコンド"
     },
@@ -5361,12 +5361,12 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "コアラ",
       "no": 671,
-      "portrait": "png/tw/character_9999_t1.png",
-      "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "portrait": "png/jp/character_0729_c1.png",
+      "skill": "png/jp/motion_0728_koara_skill_name.png",
+      "thumbnail": "png/jp/character_0729_t1.png",
+      "title": "革命軍"
     },
     {
       "name": "ハック",
@@ -8316,7 +8316,7 @@
       "name": "ジョズ",
       "no": 1040,
       "portrait": "png/jp/character_1138_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_1138_joz_skill_name.png",
       "thumbnail": "png/jp/character_1138_t1.png",
       "title": "白ひげ海賊団３番隊隊長"
     },
@@ -8380,7 +8380,7 @@
       "name": "ニコ・オルビア",
       "no": 1048,
       "portrait": "png/jp/character_1206_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_1206_olvia_skill_name.png",
       "thumbnail": "png/jp/character_1206_t1.png",
       "title": ""
     },
@@ -8564,7 +8564,7 @@
       "name": "ガスパーデ",
       "no": 1071,
       "portrait": "png/jp/character_0824_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0824_gaspade_skill_name.png",
       "thumbnail": "png/jp/character_0824_t1.png",
       "title": ""
     },
@@ -8684,7 +8684,7 @@
       "name": "ムッシュール",
       "no": 1086,
       "portrait": "png/jp/character_0918_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0918_musshuru_skill_name.png",
       "thumbnail": "png/jp/character_0918_t1.png",
       "title": ""
     },
@@ -8700,7 +8700,7 @@
       "name": "サガ",
       "no": 1088,
       "portrait": "png/jp/character_1216_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_1216_saga_skill_name.png",
       "thumbnail": "png/jp/character_1216_t1.png",
       "title": ""
     },
