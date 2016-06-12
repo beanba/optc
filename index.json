@@ -6388,7 +6388,7 @@
       "name": "シーラパーン",
       "no": 799,
       "portrait": "png/jp/character_0912_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8133.png",
       "thumbnail": "png/jp/character_0912_t1.png",
       "title": "海獣海賊団"
     },
@@ -6436,7 +6436,7 @@
       "name": "スモーカー",
       "no": 805,
       "portrait": "png/jp/character_0812_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0812_smoker_skill_name.png",
       "thumbnail": "png/jp/character_0812_t1.png",
       "title": "海軍本部大佐"
     },
@@ -6452,7 +6452,7 @@
       "name": "純白の天使ナミ",
       "no": 807,
       "portrait": "png/jp/character_0894_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0894_nami_skill_name.png",
       "thumbnail": "png/jp/character_0894_t1.png",
       "title": "ウエディング"
     },
@@ -6532,7 +6532,7 @@
       "name": "ソルジャーゾンビ　力自慢の影",
       "no": 817,
       "portrait": "png/jp/character_1004_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8023.png",
       "thumbnail": "png/jp/character_1004_t1.png",
       "title": ""
     },
@@ -6540,7 +6540,7 @@
       "name": "ソルジャーゾンビ　素早さの影",
       "no": 818,
       "portrait": "png/jp/character_1005_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/skill_name_8070.png",
       "thumbnail": "png/jp/character_1005_t1.png",
       "title": ""
     },
@@ -7932,7 +7932,7 @@
       "name": "グラディウス",
       "no": 992,
       "portrait": "png/jp/character_1118_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_1118_gladius_skill_name.png",
       "thumbnail": "png/jp/character_1118_t1.png",
       "title": ""
     },
