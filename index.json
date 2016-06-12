@@ -6052,15 +6052,15 @@
       "name": "Fukuro",
       "no": 757,
       "portrait": "png/us/character_0875_c1.png",
-      "skill": "png/us/motion_0875_fukurou_skill_name.png",
+      "skill": "png/jp/motion_0875_fukurou_skill_name.png",
       "thumbnail": "png/us/character_0875_t1.png",
       "title": "CP9 Dark Justice"
     },
     {
       "name": "フクロウ",
       "no": 758,
-      "portrait": "png/tw/character_9999_t1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0876_c1.png",
+      "skill": "png/jp/motion_0875_fukurou_skill_name.png",
       "thumbnail": "png/jp/character_0876_t1.png",
       "title": "歴代最強の「ＣＰ９」"
     },
@@ -7092,7 +7092,7 @@
       "name": "バギー",
       "no": 887,
       "portrait": "png/jp/character_0979_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0979_buggy_skill_name.png",
       "thumbnail": "png/jp/character_0979_t1.png",
       "title": "陽気なかぶき者"
     },
@@ -7452,7 +7452,7 @@
       "name": "ピーカ",
       "no": 932,
       "portrait": "png/jp/character_0969_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0969_pika_skill_name.png",
       "thumbnail": "png/jp/character_0969_t1.png",
       "title": ""
     },
@@ -8068,7 +8068,7 @@
       "name": "キズナBOOOOSTルフィ",
       "no": 1009,
       "portrait": "png/jp/character_1157_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0636_afroluffy_skill_name.png",
       "thumbnail": "png/jp/character_1157_t1.png",
       "title": ""
     },
@@ -8076,7 +8076,7 @@
       "name": "バトラー伯爵",
       "no": 1010,
       "portrait": "png/jp/character_1152_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_1152_skill_name.png",
       "thumbnail": "png/jp/character_1152_t1.png",
       "title": ""
     },
@@ -8284,7 +8284,7 @@
       "name": "エンポリオ・イワンコフ",
       "no": 1036,
       "portrait": "png/jp/character_1176_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_1176_ivankov_woman_skill_name.png",
       "thumbnail": "png/jp/character_1176_t1.png",
       "title": "秘密の花園の女王"
     },
