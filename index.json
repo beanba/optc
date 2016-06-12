@@ -6908,7 +6908,7 @@
       "name": "ボア・ハンコック",
       "no": 864,
       "portrait": "png/jp/character_0936_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0936_hankook_skill_name.png",
       "thumbnail": "png/jp/character_0936_t1.png",
       "title": "九蛇海賊団船長"
     },
@@ -6932,7 +6932,7 @@
       "name": "ウソップ",
       "no": 867,
       "portrait": "png/jp/character_0820_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0820_usopp_skill_name.png",
       "thumbnail": "png/jp/character_0820_t1.png",
       "title": "タバスコ星“撃”"
     },
@@ -6940,7 +6940,7 @@
       "name": "トニートニー・チョッパー",
       "no": 868,
       "portrait": "png/jp/character_0821_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0821_chopper_skill_name.png",
       "thumbnail": "png/jp/character_0821_t1.png",
       "title": "重量ゴング“獣”"
     },
@@ -7076,7 +7076,7 @@
       "name": "ジンベエ",
       "no": 885,
       "portrait": "png/jp/character_0977_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0977_jinbei_skill_name.png",
       "thumbnail": "png/jp/character_0977_t1.png",
       "title": "鮫の武人"
     },
@@ -7084,7 +7084,7 @@
       "name": "Mr.1",
       "no": 886,
       "portrait": "png/jp/character_0978_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0978_mr1_skill_name.png",
       "thumbnail": "png/jp/character_0978_t1.png",
       "title": "西の海の剣客"
     },
@@ -7940,7 +7940,7 @@
       "name": "グラディウス",
       "no": 993,
       "portrait": "png/jp/character_1119_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_1119_gladius_skill_name.png",
       "thumbnail": "png/jp/character_1119_t1.png",
       "title": "ドンキホーテ海賊団"
     },
