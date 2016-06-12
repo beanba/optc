@@ -6180,7 +6180,7 @@
       "name": "シュウ",
       "no": 773,
       "portrait": "png/jp/character_0807_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8124.png",
       "thumbnail": "png/jp/character_0807_t1.png",
       "title": ""
     },
@@ -6188,7 +6188,7 @@
       "name": "ベリーグッド",
       "no": 774,
       "portrait": "png/jp/character_0808_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8125.png",
       "thumbnail": "png/jp/character_0808_t1.png",
       "title": ""
     },
@@ -6196,7 +6196,7 @@
       "name": "ストロベリー",
       "no": 775,
       "portrait": "png/jp/character_0809_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8126.png",
       "thumbnail": "png/jp/character_0809_t1.png",
       "title": "海軍本部中将"
     },
@@ -6348,7 +6348,7 @@
       "name": "ナイトメア・ルフィ",
       "no": 794,
       "portrait": "png/jp/character_0836_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0836_nightmareluffy_skill_name.png",
       "thumbnail": "png/jp/character_0836_t1.png",
       "title": "希望の星"
     },
@@ -6364,7 +6364,7 @@
       "name": "ブリード",
       "no": 796,
       "portrait": "png/jp/character_0909_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0909_breed_skill_name.png",
       "thumbnail": "png/jp/character_0909_t1.png",
       "title": ""
     },
@@ -6716,7 +6716,7 @@
       "name": "ヴェルゴ",
       "no": 840,
       "portrait": "png/jp/character_0962_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0961_vergo_skill_name.png",
       "thumbnail": "png/jp/character_0962_t1.png",
       "title": "ドンキホーテ海賊団"
     },
