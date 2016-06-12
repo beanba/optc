@@ -5356,7 +5356,7 @@
       "name": "コアラ",
       "no": 670,
       "portrait": "png/jp/character_0728_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0728_koara_skill_name.png",
       "thumbnail": "png/jp/character_0728_t1.png",
       "title": ""
     },
@@ -6585,11 +6585,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "ハートフル・ワイルドゾンビ",
       "no": 824,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1011_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_1011_t1.png",
       "title": ""
     },
     {
@@ -6609,11 +6609,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "ジェネラルゾンビ　疾速の影",
       "no": 827,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1014_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_1014_t1.png",
       "title": ""
     },
     {
@@ -6673,11 +6673,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "暴君バーソロミュー・くま",
       "no": 835,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0899_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_0899_t1.png",
       "title": ""
     },
     {
@@ -7329,11 +7329,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "マーガレット",
       "no": 917,
-      "portrait": "png/tw/character_9999_t1.png",
-      "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "portrait": "png/jp/character_1025_c1.png",
+      "skill": "png/jp/motion_1025_margaret_skill_name.png",
+      "thumbnail": "png/jp/character_1025_t1.png",
       "title": ""
     },
     {
