@@ -660,6 +660,7 @@ idList[841] = {'id':963, 'name':'モネ'}
 idList[842] = {'id':964, 'name':'モネ', 'title':'ドンキホーテ海賊団', 'skill':963}
 idList[843] = {'id':965, 'name':'ベビー５'}
 idList[844] = {'id':966, 'name':'ベビー５', 'title':'ドンキホーテ海賊団'}
+idList[846] = {'id':968, 'name':'バッファロー', 'title':'ドンキホーテ海賊団', 'skill':967}
 idList[856] = {'id':933, 'name':'トラファルガー・ロー', 'title':'聖夜の貴公子', 'skill':932}
 idList[861] = {'id':846, 'name':'レディー・アルビダ', 'title':'うるわしき美女'}
 idList[864] = {'id':936, 'name':'ボア・ハンコック', 'title':'九蛇海賊団船長'}
