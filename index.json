@@ -3364,7 +3364,7 @@
       "name": "ロロノア・ゾロ",
       "no": 421,
       "portrait": "png/jp/character_0445_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0445_zoro_skill_name.png",
       "thumbnail": "png/jp/character_0445_t1.png",
       "title": "三・千・世・界“斬”"
     },
@@ -6955,8 +6955,8 @@
     {
       "name": "天夜叉ドフラミンゴ",
       "no": 870,
-      "portrait": "png/tw/character_9999_t1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0984_c1.png",
+      "skill": "png/jp/motion_0983_dofuramingo_skill_name.png",
       "thumbnail": "png/jp/character_0984_t1.png",
       "title": ""
     },
@@ -7812,7 +7812,7 @@
       "name": "黄猿",
       "no": 977,
       "portrait": "png/jp/character_1047_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_1047_kizaru_skill_name.png",
       "thumbnail": "png/jp/character_1047_t1.png",
       "title": ""
     },
@@ -8657,12 +8657,12 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "首領・サイ",
       "no": 1083,
-      "portrait": "png/tw/character_9999_t1.png",
-      "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "portrait": "png/jp/character_1227_c1.png",
+      "skill": "png/jp/motion_1226_skill_name.png",
+      "thumbnail": "png/jp/character_1227_t1.png",
+      "title": "花ノ国のギャング"
     },
     {
       "name": "藤虎",
@@ -8780,7 +8780,7 @@
       "name": "雷鳥ビリー",
       "no": 1098,
       "portrait": "png/jp/character_1242_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8174.png",
       "thumbnail": "png/jp/character_1242_t1.png",
       "title": ""
     },
