@@ -3361,12 +3361,12 @@
       "title": "ゴムゴムのバズーカ“覇”"
     },
     {
-      "name": "",
+      "name": "ロロノア・ゾロ",
       "no": 421,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0445_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_0445_t1.png",
+      "title": "三・千・世・界“斬”"
     },
     {
       "name": "",
@@ -4017,11 +4017,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "ホトリ・コトリ",
       "no": 503,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0514_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_0514_t1.png",
       "title": ""
     },
     {
@@ -7665,12 +7665,12 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "技巧のガンマン",
       "no": 959,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1195_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_1195_t1.png",
+      "title": "緑のボディガード"
     },
     {
       "name": "",
@@ -7737,11 +7737,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "パシフィスタ　ＰＸ－1",
       "no": 968,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1200_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_1200_t1.png",
       "title": ""
     },
     {
@@ -7753,11 +7753,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "パシフィスタ　ＰＸ－３",
       "no": 970,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1201_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_1201_t1.png",
       "title": ""
     },
     {
@@ -7769,11 +7769,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "パシフィスタ　ＰＸ－５",
       "no": 972,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1203_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_1203_t1.png",
       "title": ""
     },
     {
@@ -7809,11 +7809,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "黄猿",
       "no": 977,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1047_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_1047_t1.png",
       "title": ""
     },
     {
@@ -8710,6 +8710,30 @@
       "portrait": "png/tw/character_9999_t1.png",
       "skill": "png/tw/character_9999_t1.png",
       "thumbnail": "png/tw/character_none.png",
+      "title": ""
+    },
+    {
+      "name": "X・ドレーク",
+      "no": 1090,
+      "portrait": "png/jp/character_1050_c1.png",
+      "skill": "png/tw/character_9999_t1.png",
+      "thumbnail": "png/jp/character_1050_t1.png",
+      "title": "ドレーク海賊団"
+    },
+    {
+      "name": "Dr.インディゴ",
+      "no": 1094,
+      "portrait": "png/jp/character_1238_c1.png",
+      "skill": "png/tw/character_9999_t1.png",
+      "thumbnail": "png/jp/character_1238_t1.png",
+      "title": ""
+    },
+    {
+      "name": "雷鳥ビリー",
+      "no": 1098,
+      "portrait": "png/jp/character_1242_c1.png",
+      "skill": "png/tw/character_9999_t1.png",
+      "thumbnail": "png/jp/character_1242_t1.png",
       "title": ""
     }
   ]
