@@ -4819,9 +4819,9 @@
     {
       "name": "エネル　雷人間",
       "no": 603,
-      "portrait": "png/us/character_0653_c1.png",
+      "portrait": "png/jp/character_0653_c1.png",
       "skill": "png/jp/motion_0653_eneru_skill_name.png",
-      "thumbnail": "png/us/character_0653_t1.png",
+      "thumbnail": "png/jp/character_0653_t1.png",
       "title": "２億Ｖ　雷神"
     },
     {
@@ -5753,12 +5753,12 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "サー・クロコダイル　ロギア",
       "no": 720,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0794_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_0794_t1.png",
+      "title": "元王下七武海"
     },
     {
       "name": "ジェリー",
@@ -6697,11 +6697,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "Ｍ（マスター）・シーザー",
       "no": 838,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0960_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_0960_t1.png",
       "title": ""
     },
     {
@@ -8665,19 +8665,19 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "藤虎",
       "no": 1084,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1301_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_1301_t1.png",
       "title": ""
     },
     {
-      "name": "",
+      "name": "イッショウ",
       "no": 1085,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1302_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_1302_t1.png",
       "title": ""
     },
     {
