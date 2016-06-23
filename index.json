@@ -1,7 +1,7 @@
 {
   "builds": [
     {
-      "name": "蒙其．D．魯夫",
+      "name": "蒙其・D・魯夫",
       "no": 1,
       "portrait": "png/tw/character_0001_c1.png",
       "skill": "png/tw/motion_0001_lufFy_skill_name.png",
@@ -9,7 +9,7 @@
       "title": ""
     },
     {
-      "name": "蒙其．D．魯夫",
+      "name": "蒙其・D・魯夫",
       "no": 2,
       "portrait": "png/tw/character_0002_c1.png",
       "skill": "png/tw/motion_0002_luffy_skill_name.png",
@@ -17,7 +17,7 @@
       "title": "伸縮自如的橡膠槍"
     },
     {
-      "name": "蒙其．D．魯夫",
+      "name": "蒙其・D・魯夫",
       "no": 3,
       "portrait": "png/tw/character_0003_c1.png",
       "skill": "png/tw/motion_0003_luffy_skill_name.png",
@@ -25,7 +25,7 @@
       "title": "伸縮自如的橡膠火箭砲"
     },
     {
-      "name": "蒙其．D．魯夫",
+      "name": "蒙其・D・魯夫",
       "no": 4,
       "portrait": "png/tw/character_0008_c1.png",
       "skill": "png/tw/motion_0008_luffy_skill_name.png",
@@ -33,7 +33,7 @@
       "title": "２檔"
     },
     {
-      "name": "羅羅亞．索隆",
+      "name": "羅羅亞・索隆",
       "no": 5,
       "portrait": "png/tw/character_0009_c1.png",
       "skill": "png/tw/motion_0009_zoro_skill_name.png",
@@ -41,15 +41,15 @@
       "title": ""
     },
     {
-      "name": "羅羅亞．索隆",
+      "name": "羅羅亞・索隆",
       "no": 6,
       "portrait": "png/tw/character_0010_c1.png",
       "skill": "png/tw/motion_0010_zoro_skill_name.png",
       "thumbnail": "png/tw/character_0010_t1.png",
-      "title": "三．千．世．界"
+      "title": "三・千・世・界"
     },
     {
-      "name": "羅羅亞．索隆",
+      "name": "羅羅亞・索隆",
       "no": 7,
       "portrait": "png/tw/character_0011_c1.png",
       "skill": "png/tw/motion_0011_zoro_skill_name.png",
@@ -57,7 +57,7 @@
       "title": "煩惱鳳"
     },
     {
-      "name": "羅羅亞．索隆",
+      "name": "羅羅亞・索隆",
       "no": 8,
       "portrait": "png/tw/character_0013_c1.png",
       "skill": "png/tw/motion_0013_zoro_skill_name.png",
@@ -161,7 +161,7 @@
       "title": "惡魔風腳"
     },
     {
-      "name": "多尼多尼．喬巴",
+      "name": "多尼多尼・喬巴",
       "no": 21,
       "portrait": "png/tw/character_0028_c1.png",
       "skill": "png/tw/motion_0028_chopper_skill_name.png",
@@ -169,7 +169,7 @@
       "title": ""
     },
     {
-      "name": "多尼多尼．喬巴",
+      "name": "多尼多尼・喬巴",
       "no": 22,
       "portrait": "png/tw/character_0029_c1.png",
       "skill": "png/tw/motion_0029_chopper_skill_name.png",
@@ -177,7 +177,7 @@
       "title": "重量強化"
     },
     {
-      "name": "多尼多尼．喬巴",
+      "name": "多尼多尼・喬巴",
       "no": 23,
       "portrait": "png/tw/character_0030_c1.png",
       "skill": "png/tw/motion_0030_chopper_skill_name.png",
@@ -185,7 +185,7 @@
       "title": "頭腦強化"
     },
     {
-      "name": "多尼多尼．喬巴",
+      "name": "多尼多尼・喬巴",
       "no": 24,
       "portrait": "png/tw/character_0031_c1.png",
       "skill": "png/tw/motion_0031_chopper_skill_name.png",
@@ -193,7 +193,7 @@
       "title": "腕力強化"
     },
     {
-      "name": "多尼多尼．喬巴",
+      "name": "多尼多尼・喬巴",
       "no": 25,
       "portrait": "png/tw/character_0032_c1.png",
       "skill": "png/tw/motion_0032_chopper_skill_name.png",
@@ -201,7 +201,7 @@
       "title": "角強化"
     },
     {
-      "name": "多尼多尼．喬巴",
+      "name": "多尼多尼・喬巴",
       "no": 26,
       "portrait": "png/tw/character_0033_c1.png",
       "skill": "png/tw/motion_0033_chopper_skill_name.png",
@@ -337,7 +337,7 @@
       "title": ""
     },
     {
-      "name": "１．２傑克斯",
+      "name": "１・２傑克斯",
       "no": 43,
       "portrait": "png/tw/character_0151_c1.png",
       "skill": "png/tw/motion_0151_jango_skill_name.png",
@@ -462,7 +462,7 @@
       "portrait": "png/tw/character_0045_c1.png",
       "skill": "png/tw/motion_0045_creek_skill_name.png",
       "thumbnail": "png/tw/character_0045_t1.png",
-      "title": "劇毒毒氣彈「M．H．5」"
+      "title": "劇毒毒氣彈「M・H・5」"
     },
     {
       "name": "老鼠",
@@ -569,7 +569,7 @@
       "title": ""
     },
     {
-      "name": "納菲魯塔利．薇薇",
+      "name": "納菲魯塔利・薇薇",
       "no": 72,
       "portrait": "png/tw/character_0171_c1.png",
       "skill": "png/tw/motion_0171_vivi_skill_name.png",
@@ -585,7 +585,7 @@
       "title": ""
     },
     {
-      "name": "波特卡斯．D．艾斯",
+      "name": "波特卡斯・D・艾斯",
       "no": 74,
       "portrait": "png/tw/character_0173_c1.png",
       "skill": "png/tw/motion_0173_ace_skill_name.png",
@@ -593,7 +593,7 @@
       "title": ""
     },
     {
-      "name": "波特卡斯．D．艾斯",
+      "name": "波特卡斯・D・艾斯",
       "no": 75,
       "portrait": "png/tw/character_0174_c1.png",
       "skill": "png/tw/motion_0174_ace_skill_name.png",
@@ -1649,7 +1649,7 @@
       "title": "彩色陷阱　悠閒之綠"
     },
     {
-      "name": "Mr.2　馮．克雷",
+      "name": "Mr.2　馮・克雷",
       "no": 207,
       "portrait": "png/tw/character_0248_c1.png",
       "skill": "png/tw/character_9999_t1.png",
@@ -1657,7 +1657,7 @@
       "title": ""
     },
     {
-      "name": "Mr.2　馮．克雷",
+      "name": "Mr.2　馮・克雷",
       "no": 208,
       "portrait": "png/tw/character_0249_c1.png",
       "skill": "png/tw/motion_0249_mr.2_honki.ver_skill_name.png",
@@ -1673,7 +1673,7 @@
       "title": "巴洛克華克副社長"
     },
     {
-      "name": "妮可．羅賓",
+      "name": "妮可・羅賓",
       "no": 210,
       "portrait": "png/tw/character_0239_c1.png",
       "skill": "png/tw/motion_0239_robin_skill_name.png",
@@ -1721,7 +1721,7 @@
       "title": ""
     },
     {
-      "name": "蒙其．D．魯夫",
+      "name": "蒙其・D・魯夫",
       "no": 216,
       "portrait": "png/tw/character_0004_c1.png",
       "skill": "png/tw/motion_0004_lufy_skill_name.png",
@@ -1729,7 +1729,7 @@
       "title": "伸縮自如的橡膠氣球"
     },
     {
-      "name": "蒙其．D．魯夫",
+      "name": "蒙其・D・魯夫",
       "no": 217,
       "portrait": "png/tw/character_0006_c1.png",
       "skill": "png/tw/motion_0006_luffy_skill_name.png",
@@ -1737,7 +1737,7 @@
       "title": "３檔"
     },
     {
-      "name": "羅羅亞．索隆",
+      "name": "羅羅亞・索隆",
       "no": 218,
       "portrait": "png/tw/character_0012_c1.png",
       "skill": "png/tw/motion_0012_zoro_skill_name.png",
@@ -1745,7 +1745,7 @@
       "title": "刀狼流"
     },
     {
-      "name": "羅羅亞．索隆",
+      "name": "羅羅亞・索隆",
       "no": 219,
       "portrait": "png/tw/character_0294_c1.png",
       "skill": "png/tw/motion_0294_zoro_skill_name.png",
@@ -1801,7 +1801,7 @@
       "title": "小牛肉SHOT"
     },
     {
-      "name": "喬拉可爾．密佛格",
+      "name": "喬拉可爾・密佛格",
       "no": 226,
       "portrait": "png/tw/character_0168_c1.png",
       "skill": "png/tw/motion_0168_mihawk_skill_name.png",
@@ -1886,7 +1886,7 @@
       "portrait": "png/tw/character_0247_c1.png",
       "skill": "png/tw/motion_0247_miss.monday_skill_name.png",
       "thumbnail": "png/tw/character_0247_t1.png",
-      "title": "怪．力　金剛拳"
+      "title": "怪・力　金剛拳"
     },
     {
       "name": "戴手指虎的百萬長者",
@@ -1977,7 +1977,7 @@
       "title": ""
     },
     {
-      "name": "多尼多尼．喬巴",
+      "name": "多尼多尼・喬巴",
       "no": 248,
       "portrait": "png/tw/character_0314_c1.png",
       "skill": "png/tw/motion_0314_chopper_skill_name.png",
@@ -1985,7 +1985,7 @@
       "title": "暴走前"
     },
     {
-      "name": "多尼多尼．喬巴",
+      "name": "多尼多尼・喬巴",
       "no": 249,
       "portrait": "png/tw/character_0034_c1.png",
       "skill": "png/tw/motion_0034_chopper_skill_name.png",
@@ -2073,7 +2073,7 @@
       "title": ""
     },
     {
-      "name": "艾德華．紐蓋特",
+      "name": "艾德華・紐蓋特",
       "no": 260,
       "portrait": "png/tw/character_0328_c1.png",
       "skill": "png/tw/motion_0328_edward-newgate_skill_name.png",
@@ -2449,7 +2449,7 @@
       "title": ""
     },
     {
-      "name": "托拉法爾加．羅",
+      "name": "托拉法爾加・羅",
       "no": 307,
       "portrait": "png/tw/character_0330_c1.png",
       "skill": "png/tw/motion_0330_law_skill_name_0001.png",
@@ -2457,7 +2457,7 @@
       "title": ""
     },
     {
-      "name": "托拉法爾加．羅",
+      "name": "托拉法爾加・羅",
       "no": 308,
       "portrait": "png/tw/character_0331_c1.png",
       "skill": "png/tw/motion_0331_law_skill_name_0001.png",
@@ -2465,7 +2465,7 @@
       "title": "ROOM"
     },
     {
-      "name": "巴吉魯．霍金斯",
+      "name": "巴吉魯・霍金斯",
       "no": 309,
       "portrait": "png/tw/character_0332_c1.png",
       "skill": "png/tw/motion_0332_hawkins_skill_name.png",
@@ -2473,7 +2473,7 @@
       "title": ""
     },
     {
-      "name": "魔術師巴吉魯．霍金斯",
+      "name": "魔術師巴吉魯・霍金斯",
       "no": 310,
       "portrait": "png/tw/character_0333_c1.png",
       "skill": "png/tw/motion_0333_hawkins_skill_name.png",
@@ -2561,7 +2561,7 @@
       "title": "一號船塢索具、桅杆工頭"
     },
     {
-      "name": "羅布．路基",
+      "name": "羅布・路基",
       "no": 321,
       "portrait": "png/tw/character_0372_c1.png",
       "skill": "png/tw/motion_0372_rob-lucci_skill_name.png",
@@ -2569,7 +2569,7 @@
       "title": ""
     },
     {
-      "name": "羅布．路基",
+      "name": "羅布・路基",
       "no": 322,
       "portrait": "png/tw/character_0373_c1.png",
       "skill": "png/tw/motion_0373_rob-lucci_skill_name.png",
@@ -2841,7 +2841,7 @@
       "title": ""
     },
     {
-      "name": "尤斯塔斯．基德",
+      "name": "尤斯塔斯・基德",
       "no": 356,
       "portrait": "png/jp/character_0350_c1.png",
       "skill": "png/tw/motion_0350_kid_skill_name.png",
@@ -2857,7 +2857,7 @@
       "title": ""
     },
     {
-      "name": "刮盤人．亞普",
+      "name": "刮盤人・亞普",
       "no": 358,
       "portrait": "png/tw/character_0352_c1.png",
       "skill": "png/tw/motion_0352_apoo_skill_name.png",
@@ -2865,7 +2865,7 @@
       "title": ""
     },
     {
-      "name": "海鳴　刮盤人．亞普",
+      "name": "海鳴　刮盤人・亞普",
       "no": 359,
       "portrait": "png/tw/character_0353_c1.png",
       "skill": "png/tw/motion_0353_apoo_skill_name.png",
@@ -2873,7 +2873,7 @@
       "title": ""
     },
     {
-      "name": "X．多雷古",
+      "name": "X・多雷古",
       "no": 360,
       "portrait": "png/tw/character_0354_c1.png",
       "skill": "png/tw/motion_0354_xdrake_skill_name.png",
@@ -2881,7 +2881,7 @@
       "title": ""
     },
     {
-      "name": "紅旗　X．多雷古",
+      "name": "紅旗　X・多雷古",
       "no": 361,
       "portrait": "png/tw/character_0355_c1.png",
       "skill": "png/tw/motion_0355_xdrake_skill_name.png",
@@ -2889,7 +2889,7 @@
       "title": ""
     },
     {
-      "name": "珠寶．波妮",
+      "name": "珠寶・波妮",
       "no": 362,
       "portrait": "png/jp/character_0356_c1.png",
       "skill": "png/jp/motion_0356_jewelry-bonney_skill_name.png",
@@ -2897,7 +2897,7 @@
       "title": ""
     },
     {
-      "name": "大胃王 珠寶．波妮",
+      "name": "大胃王 珠寶・波妮",
       "no": 363,
       "portrait": "png/tw/character_0357_c1.png",
       "skill": "png/tw/motion_0357_jewelry-bonney_skill_name.png",
@@ -2905,7 +2905,7 @@
       "title": ""
     },
     {
-      "name": "卡波涅．培基",
+      "name": "卡波涅・培基",
       "no": 364,
       "portrait": "png/tw/character_0358_c1.png",
       "skill": "png/tw/motion_0358_capone_skill_name.png",
@@ -2913,7 +2913,7 @@
       "title": ""
     },
     {
-      "name": "卡波涅．流氓．培基",
+      "name": "卡波涅・流氓・培基",
       "no": 365,
       "portrait": "png/tw/character_0359_c1.png",
       "skill": "png/tw/motion_0359_capone_skill_name.png",
@@ -2921,7 +2921,7 @@
       "title": ""
     },
     {
-      "name": "席爾巴斯．雷利",
+      "name": "席爾巴斯・雷利",
       "no": 366,
       "portrait": "png/tw/character_0360_c1.png",
       "skill": "png/tw/motion_0360_rayleigh_skill_name.png",
@@ -3065,7 +3065,7 @@
       "title": "巴洛克華克社長"
     },
     {
-      "name": "沙．克洛克達爾",
+      "name": "沙・克洛克達爾",
       "no": 384,
       "portrait": "png/tw/character_0384_c1.png",
       "skill": "png/tw/motion_0384_crocodile_skill_name.png",
@@ -3097,7 +3097,7 @@
       "title": ""
     },
     {
-      "name": "維多莉亞．辛朵莉",
+      "name": "維多莉亞・辛朵莉",
       "no": 388,
       "portrait": "png/tw/character_0422_c1.png",
       "skill": "png/tw/motion_0422_cindry_skill_name.png",
@@ -3105,7 +3105,7 @@
       "title": ""
     },
     {
-      "name": "艾波利歐．伊娃柯夫",
+      "name": "艾波利歐・伊娃柯夫",
       "no": 389,
       "portrait": "png/tw/character_0401_c1.png",
       "skill": "png/tw/motion_0401_ivankov_skill_name.png",
@@ -3113,7 +3113,7 @@
       "title": ""
     },
     {
-      "name": "艾波利歐．伊娃柯夫",
+      "name": "艾波利歐・伊娃柯夫",
       "no": 390,
       "portrait": "png/tw/character_0402_c1.png",
       "skill": "png/tw/motion_0402_ivankov_skill_name.png",
@@ -3257,7 +3257,7 @@
       "title": ""
     },
     {
-      "name": "沙．克洛克達爾",
+      "name": "沙・克洛克達爾",
       "no": 408,
       "portrait": "png/tw/character_0441_c1.png",
       "skill": "png/tw/motion_0441_sir.crocodile_skill_name.png",
@@ -3281,7 +3281,7 @@
       "title": "王下七武海"
     },
     {
-      "name": "巴索羅繆．大熊",
+      "name": "巴索羅繆・大熊",
       "no": 411,
       "portrait": "png/tw/character_0435_c1.png",
       "skill": "png/tw/motion_0435_bartholomew-kuma_skill_name.png",
@@ -3289,7 +3289,7 @@
       "title": ""
     },
     {
-      "name": "巴索羅繆．大熊",
+      "name": "巴索羅繆・大熊",
       "no": 412,
       "portrait": "png/tw/character_0436_c1.png",
       "skill": "png/tw/motion_0436_bartholomew-kuma_skill_name.png",
@@ -3297,7 +3297,7 @@
       "title": "王下七武海"
     },
     {
-      "name": "月光．摩利亞",
+      "name": "月光・摩利亞",
       "no": 413,
       "portrait": "png/tw/character_0437_c1.png",
       "skill": "png/tw/motion_0437_moria_skill_name.png",
@@ -3305,7 +3305,7 @@
       "title": ""
     },
     {
-      "name": "月光．摩利亞",
+      "name": "月光・摩利亞",
       "no": 414,
       "portrait": "png/tw/character_0438_c1.png",
       "skill": "png/tw/motion_0438_moria_skill_name.png",
@@ -3313,7 +3313,7 @@
       "title": "王下七武海"
     },
     {
-      "name": "波雅．漢考克",
+      "name": "波雅・漢考克",
       "no": 415,
       "portrait": "png/tw/character_0439_c1.png",
       "skill": "png/tw/motion_0439_hankook_skill_name.png",
@@ -3321,7 +3321,7 @@
       "title": ""
     },
     {
-      "name": "波雅．漢考克",
+      "name": "波雅・漢考克",
       "no": 416,
       "portrait": "png/tw/character_0440_c1.png",
       "skill": "png/tw/motion_0440_hankook_skill_name.png",
@@ -3329,7 +3329,7 @@
       "title": "王下七武海"
     },
     {
-      "name": "唐吉訶德．多佛朗明哥",
+      "name": "唐吉訶德・多佛朗明哥",
       "no": 417,
       "portrait": "png/tw/character_0442_c1.png",
       "skill": "png/tw/motion_0442_doflamingo_skill_name.png",
@@ -3337,7 +3337,7 @@
       "title": ""
     },
     {
-      "name": "唐吉訶德．多佛朗明哥",
+      "name": "唐吉訶德・多佛朗明哥",
       "no": 418,
       "portrait": "png/tw/character_0443_c1.png",
       "skill": "png/tw/motion_0443_doflamingo_skill_name.png",
@@ -3417,7 +3417,7 @@
       "title": ""
     },
     {
-      "name": "蒙布朗．庫力凱",
+      "name": "蒙布朗・庫力凱",
       "no": 428,
       "portrait": "png/tw/character_0449_c1.png",
       "skill": "png/tw/motion_0449_cricket_skill_name.png",
@@ -3561,7 +3561,7 @@
       "title": ""
     },
     {
-      "name": "馬歇爾．D．汀奇",
+      "name": "馬歇爾・D・汀奇",
       "no": 446,
       "portrait": "png/tw/character_0476_c1.png",
       "skill": "png/tw/motion_0476_kurohige_skill_name.png",
@@ -3686,7 +3686,7 @@
       "portrait": "png/tw/character_0505_c1.png",
       "skill": "png/tw/motion_0505_mr.2_skill_name.png",
       "thumbnail": "png/tw/character_0505_t1.png",
-      "title": "Mr.2　馮．克雷"
+      "title": "Mr.2　馮・克雷"
     },
     {
       "name": "逃獄名人　班薩姆",
@@ -3694,7 +3694,7 @@
       "portrait": "png/tw/character_0506_c1.png",
       "skill": "png/tw/motion_0506_mr.2_skill_name.png",
       "thumbnail": "png/tw/character_0506_t1.png",
-      "title": "Mr.2　馮．克雷"
+      "title": "Mr.2　馮・克雷"
     },
     {
       "name": "",
@@ -4065,7 +4065,7 @@
       "title": "阿拉巴斯坦守護胡狼"
     },
     {
-      "name": "最強的囚犯 沙．克洛克達爾",
+      "name": "最強的囚犯 沙・克洛克達爾",
       "no": 509,
       "portrait": "png/tw/character_0507_c1.png",
       "skill": "png/tw/motion_0507_crocodile_skill_name.png",
@@ -4073,7 +4073,7 @@
       "title": "Mr.0 巴洛克華克的前社長"
     },
     {
-      "name": "最強的囚犯 沙．克洛克達爾",
+      "name": "最強的囚犯 沙・克洛克達爾",
       "no": 510,
       "portrait": "png/tw/character_0508_c1.png",
       "skill": "png/tw/motion_0508_crocodile_skill_name.png",
@@ -4081,7 +4081,7 @@
       "title": "原王下七武海成員"
     },
     {
-      "name": "服刑囚犯 達茲．波涅士",
+      "name": "服刑囚犯 達茲・波涅士",
       "no": 511,
       "portrait": "png/tw/character_0509_c1.png",
       "skill": "png/tw/motion_0509_mr1_skill_name.png",
@@ -4105,7 +4105,7 @@
       "title": ""
     },
     {
-      "name": "妮可．羅賓",
+      "name": "妮可・羅賓",
       "no": 514,
       "portrait": "png/tw/character_0520_c1.png",
       "skill": "png/tw/motion_0520_robin_skill_name.png",
@@ -4553,7 +4553,7 @@
       "title": ""
     },
     {
-      "name": "蒙其．D．魯夫",
+      "name": "蒙其・D・魯夫",
       "no": 570,
       "portrait": "png/tw/character_0636_c1.png",
       "skill": "png/tw/motion_0636_afroluffy_skill_name.png",
@@ -4577,12 +4577,12 @@
       "title": "デービーバックファイト・セコンド"
     },
     {
-      "name": "多尼多尼．喬巴",
+      "name": "多尼多尼・喬巴",
       "no": 573,
       "portrait": "png/tw/character_0639_c1.png",
       "skill": "png/tw/character_9999_t1.png",
       "thumbnail": "png/tw/character_0639_t1.png",
-      "title": "DAVY BACK FIGHT．面罩"
+      "title": "DAVY BACK FIGHT・面罩"
     },
     {
       "name": "青雉",
@@ -4609,7 +4609,7 @@
       "title": ""
     },
     {
-      "name": "蒙其．D．魯夫",
+      "name": "蒙其・D・魯夫",
       "no": 577,
       "portrait": "png/tw/character_0630_c1.png",
       "skill": "png/tw/motion_0630_luffy_skill_name.png",
@@ -4617,7 +4617,7 @@
       "title": "Voyage Log: Straw Hat Pirates"
     },
     {
-      "name": "蒙其．D．魯夫",
+      "name": "蒙其・D・魯夫",
       "no": 578,
       "portrait": "png/jp/character_0631_c1.png",
       "skill": "png/jp/motion_0631_luffy_skill_name.png",
@@ -4625,7 +4625,7 @@
       "title": "Voyage Dream: Pirate King"
     },
     {
-      "name": "羅羅亞．索隆",
+      "name": "羅羅亞・索隆",
       "no": 579,
       "portrait": "png/tw/character_0609_c1.png",
       "skill": "png/tw/character_9999_t1.png",
@@ -5729,7 +5729,7 @@
       "title": "スカイピアの少女"
     },
     {
-      "name": "喬拉可爾．密佛格",
+      "name": "喬拉可爾・密佛格",
       "no": 717,
       "portrait": "png/tw/character_0791_c1.png",
       "skill": "png/jp/motion_0791_mihawk_skill_name.png",
@@ -8169,7 +8169,7 @@
       "title": ""
     },
     {
-      "name": "蒙其．D．魯夫",
+      "name": "蒙其・D・魯夫",
       "no": 1022,
       "portrait": "png/jp/character_1001_c1.png",
       "skill": "png/jp/motion_1001_luffy_skill_name.png",
