@@ -537,6 +537,7 @@ idList[561] = {'id':611, 'name':'ポートガス・D・エース', 'title':'黒�
 idList[562] = {'id':612, 'name':'ポートガス・D・エース', 'title':'黒衣の白ひげ海賊団2番隊隊長'}
 idList[568] = {'id':628, 'name':'フォクシー'}
 idList[570] = {'id':636, 'name':'蒙其・D・魯夫', 'title':'DAVY BACK FIGHT・爆炸頭', 'title-jp':'デービーバックファイト・アフロ'}
+idList[571] = {'id':637, 'name':'蒙其・D・魯夫', 'title':'DAVY BACK FIGHT・決鬥'}
 idList[572] = {'id':638, 'name':'騙人布', 'title':'デービーバックファイト・セコンド'}
 idList[573] = {'id':639, 'name':'多尼多尼・喬巴', 'title':'DAVY BACK FIGHT・面罩'}
 idList[574] = {'id':621, 'name':'青雉'}
