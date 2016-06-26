@@ -3660,7 +3660,7 @@
       "name": "戰國",
       "no": 458,
       "portrait": "png/tw/character_0491_c1.png",
-      "skill": "png/jp/motion_0491_sengoku_skill_name.png",
+      "skill": "png/tw/motion_0491_sengoku_skill_name.png",
       "thumbnail": "png/tw/character_0491_t1.png",
       "title": ""
     },
@@ -3988,7 +3988,7 @@
       "name": "貝爾梅爾",
       "no": 499,
       "portrait": "png/tw/character_0510_c1.png",
-      "skill": "png/jp/motion_0510_bellmere_skill_name.png",
+      "skill": "png/tw/motion_0510_bellmere_skill_name.png",
       "thumbnail": "png/tw/character_0510_t1.png",
       "title": ""
     },
@@ -3996,7 +3996,7 @@
       "name": "ベルメール",
       "no": 500,
       "portrait": "png/tw/character_0511_c1.png",
-      "skill": "png/jp/motion_0510_bellmere_skill_name.png",
+      "skill": "png/tw/motion_0510_bellmere_skill_name.png",
       "thumbnail": "png/tw/character_0511_t1.png",
       "title": "ナミとノジコの養母"
     },
@@ -4396,7 +4396,7 @@
       "name": "小莎蒂",
       "no": 550,
       "portrait": "png/tw/character_0552_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/motion_0552_sadichan_skill_name.png",
       "thumbnail": "png/tw/character_0552_t1.png",
       "title": "推進城獄卒長"
     },
@@ -4812,7 +4812,7 @@
       "name": "艾涅爾",
       "no": 602,
       "portrait": "png/tw/character_0652_c1.png",
-      "skill": "png/us/motion_0652_eneru_skill_name.png",
+      "skill": "png/tw/motion_0652_eneru_skill_name.png",
       "thumbnail": "png/tw/character_0652_t1.png",
       "title": "２億伏特　雷神"
     },
@@ -5164,7 +5164,7 @@
       "name": "小歐斯Jr.",
       "no": 646,
       "portrait": "png/tw/character_0703_c1.png",
-      "skill": "png/jp/motion_0703_littleoarsjr_skill_name.png",
+      "skill": "png/tw/motion_0703_littleoarsjr_skill_name.png",
       "thumbnail": "png/tw/character_0703_t1.png",
       "title": ""
     },
