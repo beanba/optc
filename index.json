@@ -3188,7 +3188,7 @@
       "name": "ミス・ダブルフィンガー",
       "no": 399,
       "portrait": "png/jp/character_0431_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0431_doublefinger_skill_name.png",
       "thumbnail": "png/jp/character_0431_t1.png",
       "title": ""
     },
@@ -3404,7 +3404,7 @@
       "name": "マシラ",
       "no": 426,
       "portrait": "png/jp/character_0447_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0447_masira_skill_name.png",
       "thumbnail": "png/jp/character_0447_t1.png",
       "title": ""
     },
@@ -3452,7 +3452,7 @@
       "name": "サーキース",
       "no": 432,
       "portrait": "png/jp/character_0453_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0453_sarquiss_skill_name.png",
       "thumbnail": "png/jp/character_0453_t1.png",
       "title": ""
     },
@@ -4188,7 +4188,7 @@
       "name": "ナミと雷鳥ビリー",
       "no": 524,
       "portrait": "png/jp/character_0531_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_0531_nami_skill_name.png",
       "thumbnail": "png/jp/character_0531_t1.png",
       "title": ""
     },
@@ -4841,11 +4841,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "海賊ゼフ",
       "no": 606,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0681_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_0681_t1.png",
       "title": ""
     },
     {
@@ -4865,11 +4865,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "ごろつきカルネ",
       "no": 609,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0684_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_0684_t1.png",
       "title": ""
     },
     {
@@ -6753,11 +6753,11 @@
       "title": "ドンキホーテ海賊団"
     },
     {
-      "name": "",
+      "name": "バッファロー",
       "no": 845,
-      "portrait": "png/tw/character_9999_t1.png",
-      "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "portrait": "png/jp/character_0967_c1.png",
+      "skill": "png/jp/motion_0967_buffalo_skill_name.png",
+      "thumbnail": "png/jp/character_0967_t1.png",
       "title": ""
     },
     {
@@ -7153,12 +7153,12 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "ブルック",
       "no": 895,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_0926_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_0926_t1.png",
+      "title": "紳士なガイコツ"
     },
     {
       "name": "",
@@ -7417,11 +7417,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "ハンニャバル",
       "no": 928,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1043_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_1043_t1.png",
       "title": ""
     },
     {
@@ -7441,11 +7441,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "ブルゴリ",
       "no": 931,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1046_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_1046_t1.png",
       "title": ""
     },
     {
@@ -7649,12 +7649,12 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "早業のガンマン",
       "no": 957,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1193_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_1193_t1.png",
+      "title": "青のボディガード"
     },
     {
       "name": "",
@@ -7681,20 +7681,20 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "豪腕のガンマン",
       "no": 961,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1197_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_1197_t1.png",
+      "title": "赤のボディガード"
     },
     {
-      "name": "",
+      "name": "強心のガンマン",
       "no": 962,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1198_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/jp/character_1198_t1.png",
+      "title": "黄のボディガード"
     },
     {
       "name": "",
@@ -8273,11 +8273,11 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "人食いのバルトロメオ",
       "no": 1035,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/jp/character_1175_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/jp/character_1175_t1.png",
       "title": ""
     },
     {
@@ -8787,6 +8787,94 @@
     {
       "name": "",
       "no": 1099,
+      "portrait": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/character_9999_t1.png",
+      "thumbnail": "png/tw/character_none.png",
+      "title": ""
+    },
+    {
+      "name": "",
+      "no": 1100,
+      "portrait": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/character_9999_t1.png",
+      "thumbnail": "png/tw/character_none.png",
+      "title": ""
+    },
+    {
+      "name": "",
+      "no": 1101,
+      "portrait": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/character_9999_t1.png",
+      "thumbnail": "png/tw/character_none.png",
+      "title": ""
+    },
+    {
+      "name": "",
+      "no": 1102,
+      "portrait": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/character_9999_t1.png",
+      "thumbnail": "png/tw/character_none.png",
+      "title": ""
+    },
+    {
+      "name": "",
+      "no": 1103,
+      "portrait": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/character_9999_t1.png",
+      "thumbnail": "png/tw/character_none.png",
+      "title": ""
+    },
+    {
+      "name": "",
+      "no": 1104,
+      "portrait": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/character_9999_t1.png",
+      "thumbnail": "png/tw/character_none.png",
+      "title": ""
+    },
+    {
+      "name": "",
+      "no": 1105,
+      "portrait": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/character_9999_t1.png",
+      "thumbnail": "png/tw/character_none.png",
+      "title": ""
+    },
+    {
+      "name": "",
+      "no": 1106,
+      "portrait": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/character_9999_t1.png",
+      "thumbnail": "png/tw/character_none.png",
+      "title": ""
+    },
+    {
+      "name": "金獅子のシキ",
+      "no": 1107,
+      "portrait": "png/jp/character_1236_c1.png",
+      "skill": "png/tw/character_9999_t1.png",
+      "thumbnail": "png/jp/character_1236_t1.png",
+      "title": ""
+    },
+    {
+      "name": "",
+      "no": 1108,
+      "portrait": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/character_9999_t1.png",
+      "thumbnail": "png/tw/character_none.png",
+      "title": ""
+    },
+    {
+      "name": "",
+      "no": 1109,
+      "portrait": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/character_9999_t1.png",
+      "thumbnail": "png/tw/character_none.png",
+      "title": ""
+    },
+    {
+      "name": "",
+      "no": 1110,
       "portrait": "png/tw/character_9999_t1.png",
       "skill": "png/tw/character_9999_t1.png",
       "thumbnail": "png/tw/character_none.png",
