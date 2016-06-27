@@ -7420,7 +7420,7 @@
       "name": "ハンニャバル",
       "no": 928,
       "portrait": "png/jp/character_1043_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_1043_hannyabal_skill_name.png",
       "thumbnail": "png/jp/character_1043_t1.png",
       "title": ""
     },
@@ -8276,7 +8276,7 @@
       "name": "人食いのバルトロメオ",
       "no": 1035,
       "portrait": "png/jp/character_1175_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_1174_skill_name.png",
       "thumbnail": "png/jp/character_1175_t1.png",
       "title": ""
     },
