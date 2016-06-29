@@ -7244,7 +7244,7 @@
       "name": "ロロノア・ゾロ",
       "no": 906,
       "portrait": "png/jp/character_1016_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_1015_zoro_skill_name.png",
       "thumbnail": "png/jp/character_1016_t1.png",
       "title": "世界最強剣士の門弟"
     },
@@ -7684,7 +7684,7 @@
       "name": "豪腕のガンマン",
       "no": 961,
       "portrait": "png/jp/character_1197_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8153.png",
       "thumbnail": "png/jp/character_1197_t1.png",
       "title": "赤のボディガード"
     },
@@ -7692,7 +7692,7 @@
       "name": "強心のガンマン",
       "no": 962,
       "portrait": "png/jp/character_1198_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/skill_name_8154.png",
       "thumbnail": "png/jp/character_1198_t1.png",
       "title": "黄のボディガード"
     },
@@ -8748,7 +8748,7 @@
       "name": "Dr.インディゴ",
       "no": 1094,
       "portrait": "png/jp/character_1238_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_1238_Dr.Indigo_name.png",
       "thumbnail": "png/jp/character_1238_t1.png",
       "title": ""
     },
@@ -8852,7 +8852,7 @@
       "name": "金獅子のシキ",
       "no": 1107,
       "portrait": "png/jp/character_1236_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/jp/motion_1236_shiki_skill_name.png",
       "thumbnail": "png/jp/character_1236_t1.png",
       "title": ""
     },
