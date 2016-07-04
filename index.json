@@ -3401,11 +3401,11 @@
       "title": ""
     },
     {
-      "name": "マシラ",
+      "name": "人猿",
       "no": 426,
-      "portrait": "png/jp/character_0447_c1.png",
+      "portrait": "png/tw/character_0447_c1.png",
       "skill": "png/jp/motion_0447_masira_skill_name.png",
-      "thumbnail": "png/jp/character_0447_t1.png",
+      "thumbnail": "png/tw/character_0447_t1.png",
       "title": ""
     },
     {
@@ -4697,12 +4697,12 @@
       "title": ""
     },
     {
-      "name": "クロッカス",
+      "name": "可樂克斯",
       "no": 588,
-      "portrait": "png/jp/character_0541_c1.png",
+      "portrait": "png/tw/character_0541_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/jp/character_0541_t1.png",
-      "title": "双子岬の灯台守"
+      "thumbnail": "png/tw/character_0541_t1.png",
+      "title": "雙子海角的燈塔看守員"
     },
     {
       "name": "寇沙",
@@ -4745,11 +4745,11 @@
       "title": ""
     },
     {
-      "name": "琥珀の竜宮カメ姫",
+      "name": "琥珀的龍宮海龜公主",
       "no": 594,
-      "portrait": "png/jp/character_0557_c1.png",
+      "portrait": "png/tw/character_0557_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/jp/character_0557_t1.png",
+      "thumbnail": "png/tw/character_0557_t1.png",
       "title": ""
     },
     {
@@ -4937,36 +4937,36 @@
       "title": ""
     },
     {
-      "name": "ナックルチンピラ",
+      "name": "戴手指虎的小混混",
       "no": 618,
-      "portrait": "png/jp/character_0766_c1.png",
+      "portrait": "png/tw/character_0766_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/jp/character_0766_t1.png",
-      "title": "赤の賞金稼ぎ"
+      "thumbnail": "png/tw/character_0766_t1.png",
+      "title": "紅色的賞金獵人"
     },
     {
-      "name": "ナックルチンピラ",
+      "name": "戴手指虎的小混混",
       "no": 619,
-      "portrait": "png/jp/character_0767_c1.png",
+      "portrait": "png/tw/character_0767_c1.png",
       "skill": "png/jp/skill_name_8095.png",
-      "thumbnail": "png/jp/character_0767_t1.png",
-      "title": "緑の賞金稼ぎ"
+      "thumbnail": "png/tw/character_0767_t1.png",
+      "title": "綠色的賞金獵人"
     },
     {
-      "name": "カタナチンピラ",
+      "name": "拿刀的小混混",
       "no": 620,
-      "portrait": "png/jp/character_0768_c1.png",
+      "portrait": "png/tw/character_0768_c1.png",
       "skill": "png/jp/skill_name_8030.png",
-      "thumbnail": "png/jp/character_0768_t1.png",
-      "title": "青の賞金稼ぎ"
+      "thumbnail": "png/tw/character_0768_t1.png",
+      "title": "藍色的賞金獵人"
     },
     {
-      "name": "カタナチンピラ",
+      "name": "拿刀的小混混",
       "no": 621,
-      "portrait": "png/jp/character_0769_c1.png",
+      "portrait": "png/tw/character_0769_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/jp/character_0769_t1.png",
-      "title": "赤の賞金稼ぎ"
+      "thumbnail": "png/tw/character_0769_t1.png",
+      "title": "紅色的賞金獵人"
     },
     {
       "name": "ピストルチンピラ",
@@ -4977,44 +4977,44 @@
       "title": "緑の賞金稼ぎ"
     },
     {
-      "name": "ピストルチンピラ",
+      "name": "拿槍的小混混",
       "no": 623,
-      "portrait": "png/jp/character_0771_c1.png",
+      "portrait": "png/tw/character_0771_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/jp/character_0771_t1.png",
-      "title": "黄の賞金稼ぎ"
+      "thumbnail": "png/tw/character_0771_t1.png",
+      "title": "黃色的賞金獵人"
     },
     {
-      "name": "棍棒チンピラ",
+      "name": "拿棍棒的小混混",
       "no": 624,
-      "portrait": "png/jp/character_0772_c1.png",
+      "portrait": "png/tw/character_0772_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/jp/character_0772_t1.png",
-      "title": "黄の賞金稼ぎ"
+      "thumbnail": "png/tw/character_0772_t1.png",
+      "title": "黃色的賞金獵人"
     },
     {
-      "name": "",
+      "name": "拿棍棒的小混混",
       "no": 625,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/tw/character_0773_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/tw/character_0773_t1.png",
+      "title": "黑色的賞金獵人"
     },
     {
-      "name": "ガトリングチンピラ",
+      "name": "拿機關槍的小混混",
       "no": 626,
-      "portrait": "png/jp/character_0774_c1.png",
+      "portrait": "png/tw/character_0774_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/jp/character_0774_t1.png",
-      "title": "黒の賞金稼ぎ"
+      "thumbnail": "png/tw/character_0774_t1.png",
+      "title": "黑色的賞金獵人"
     },
     {
-      "name": "ガトリングチンピラ",
+      "name": "拿機關槍的小混混",
       "no": 627,
-      "portrait": "png/jp/character_0775_c1.png",
+      "portrait": "png/tw/character_0775_c1.png",
       "skill": "png/jp/skill_name_8101.png",
-      "thumbnail": "png/jp/character_0775_t1.png",
-      "title": "青の賞金稼ぎ"
+      "thumbnail": "png/tw/character_0775_t1.png",
+      "title": "藍色的賞金獵人"
     },
     {
       "name": "タイルストン",
