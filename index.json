@@ -3156,7 +3156,7 @@
       "name": "Miss 聖誕節",
       "no": 395,
       "portrait": "png/tw/character_0427_c1.png",
-      "skill": "png/us/motion_0427_miss.merrychristmas_skill_name.png",
+      "skill": "png/tw/motion_0427_miss.merrychristmas_skill_name.png",
       "thumbnail": "png/tw/character_0427_t1.png",
       "title": ""
     },
@@ -4644,7 +4644,7 @@
       "name": "捷寶",
       "no": 581,
       "portrait": "png/tw/character_0640_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/skill_name_8091.png",
       "thumbnail": "png/tw/character_0640_t1.png",
       "title": ""
     },
@@ -4652,7 +4652,7 @@
       "name": "卡馬奇利",
       "no": 582,
       "portrait": "png/tw/character_0641_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/skill_name_8092.png",
       "thumbnail": "png/tw/character_0641_t1.png",
       "title": ""
     },
@@ -4660,7 +4660,7 @@
       "name": "蘭奇",
       "no": 583,
       "portrait": "png/tw/character_0642_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/motion_0642_raki_skill_name.png",
       "thumbnail": "png/tw/character_0642_t1.png",
       "title": ""
     },
@@ -4668,7 +4668,7 @@
       "name": "愛紗",
       "no": 584,
       "portrait": "png/tw/character_0643_c1.png",
-      "skill": "png/tw/character_9999_t1.png",
+      "skill": "png/tw/skill_name_8093.png",
       "thumbnail": "png/tw/character_0643_t1.png",
       "title": ""
     },
