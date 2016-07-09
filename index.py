@@ -7,7 +7,7 @@ import os
 import os.path
 
 idList = {}
-for x in xrange(1,1111):
+for x in xrange(1,1141):
 	idList[x] = {'id':9999, 'name':''}
 
 idList[1] = {'id':1, 'name':'蒙其・D・魯夫'}
@@ -597,6 +597,7 @@ idList[646] = {'id':703, 'name':'小歐斯Jr.', 'name-jp':'リトルオーズJr.
 idList[647] = {'id':704, 'name':'猛攻的小歐斯Jr.', 'name-jp':'猛攻のリトルオーズJr.'}
 idList[648] = {'id':693, 'name':'マルコ', 'title':'白ひげ海賊団１番隊隊長'}
 idList[649] = {'id':694, 'name':'不死鳥マルコ', 'title':'白ひげ海賊団１番隊隊長'}
+idList[652] = {'id':711, 'name':'鉄仮面のデュバル'}
 idList[655] = {'id':685, 'name':'Arlong the Pirate'}
 idList[657] = {'id':687, 'name':'Kuroobi', 'title':'Sun Pirates'}
 idList[659] = {'id':674, 'name':'モンキー・D・ルフィ', 'title':'うきわ'}
@@ -769,6 +770,8 @@ idList[1098] = {'id':1242, 'name':'雷鳥ビリー', 'skill':8174}
 idList[1101] = {'id':1284, 'name':'黒腕のゼファー'}
 idList[1105] = {'id':1288, 'name':'ビンズ', 'title':'ＮＥＯ海軍'}
 idList[1107] = {'id':1236, 'name':'金獅子のシキ'}
+idList[1132] = {'id':1274, 'name':'イデオ'}
+idList[1133] = {'id':1275, 'name':'イデオ', 'title':'破壊砲'}
 
 rtn = {
 	"builds":[]
