@@ -3,8 +3,7 @@
 BASEDIR=$(dirname $0)
 PKG='com.namcobandaigames.spmoja010E'
 ID=$1
-DEVICE=$2
 
-$BASEDIR/optc.sh "$PKG" "$ID" "$DEVICE" 'us'
+$BASEDIR/optc.sh "$PKG" "$ID" 'us'
 
 exit 0
