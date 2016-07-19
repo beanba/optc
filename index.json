@@ -3185,11 +3185,11 @@
       "title": ""
     },
     {
-      "name": "ミス・ダブルフィンガー",
+      "name": "Miss 雙手指",
       "no": 399,
-      "portrait": "png/jp/character_0431_c1.png",
+      "portrait": "png/tw/character_0431_c1.png",
       "skill": "png/jp/motion_0431_doublefinger_skill_name.png",
-      "thumbnail": "png/jp/character_0431_t1.png",
+      "thumbnail": "png/tw/character_0431_t1.png",
       "title": ""
     },
     {
@@ -3203,9 +3203,9 @@
     {
       "name": "Mr.1",
       "no": 401,
-      "portrait": "png/jp/character_0433_c1.png",
-      "skill": "png/jp/motion_0433_mr1_skill_name.png",
-      "thumbnail": "png/jp/character_0433_t1.png",
+      "portrait": "png/tw/character_0433_c1.png",
+      "skill": "png/tw/motion_0433_mr1_skill_name.png",
+      "thumbnail": "png/tw/character_0433_t1.png",
       "title": ""
     },
     {
@@ -3217,11 +3217,11 @@
       "title": "全身刀刃人"
     },
     {
-      "name": "",
+      "name": "蕾貝卡",
       "no": 403,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/tw/character_0404_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
+      "thumbnail": "png/tw/character_0404_t1.png",
       "title": ""
     },
     {
@@ -3449,11 +3449,11 @@
       "title": ""
     },
     {
-      "name": "サーキース",
+      "name": "薩奇斯",
       "no": 432,
-      "portrait": "png/jp/character_0453_c1.png",
+      "portrait": "png/tw/character_0453_c1.png",
       "skill": "png/jp/motion_0453_sarquiss_skill_name.png",
-      "thumbnail": "png/jp/character_0453_t1.png",
+      "thumbnail": "png/tw/character_0453_t1.png",
       "title": ""
     },
     {
@@ -4777,12 +4777,12 @@
       "title": "Voyage Dream: Great Doctor"
     },
     {
-      "name": "バギー",
+      "name": "巴其",
       "no": 598,
-      "portrait": "png/jp/character_0648_c1.png",
+      "portrait": "png/tw/character_0648_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/jp/character_0648_t1.png",
-      "title": "海賊見習い"
+      "thumbnail": "png/tw/character_0648_t1.png",
+      "title": "海賊見習生"
     },
     {
       "name": "",
@@ -4793,12 +4793,12 @@
       "title": ""
     },
     {
-      "name": "",
+      "name": "傑克",
       "no": 600,
-      "portrait": "png/tw/character_9999_t1.png",
+      "portrait": "png/tw/character_0650_c1.png",
       "skill": "png/tw/character_9999_t1.png",
-      "thumbnail": "png/tw/character_none.png",
-      "title": ""
+      "thumbnail": "png/tw/character_0650_t1.png",
+      "title": "海賊見習生"
     },
     {
       "name": "",
@@ -4969,12 +4969,12 @@
       "title": "紅色的賞金獵人"
     },
     {
-      "name": "ピストルチンピラ",
+      "name": "拿槍的小混混",
       "no": 622,
-      "portrait": "png/jp/character_0770_c1.png",
+      "portrait": "png/tw/character_0770_c1.png",
       "skill": "png/jp/skill_name_8096.png",
-      "thumbnail": "png/jp/character_0770_t1.png",
-      "title": "緑の賞金稼ぎ"
+      "thumbnail": "png/tw/character_0770_t1.png",
+      "title": "綠色的賞金獵人"
     },
     {
       "name": "拿槍的小混混",
@@ -5209,11 +5209,11 @@
       "title": ""
     },
     {
-      "name": "鉄仮面のデュバル",
+      "name": "鐵面具迪巴魯",
       "no": 652,
-      "portrait": "png/jp/character_0711_c1.png",
+      "portrait": "png/tw/character_0711_c1.png",
       "skill": "png/jp/motion_0711_dubal_iron_skill_name.png",
-      "thumbnail": "png/jp/character_0711_t1.png",
+      "thumbnail": "png/tw/character_0711_t1.png",
       "title": ""
     },
     {
