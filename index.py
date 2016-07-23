@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+import datetime
 import fnmatch
 import json
 import os
@@ -8,7 +9,7 @@ import os.path
 
 idList = {}
 for x in xrange(1,1141):
-	idList[x] = {'id':9999, 'name':''}
+	idList[x] = {'id':9999}
 
 idList[1] = {'id':1, 'name':'蒙其・D・魯夫'}
 idList[2] = {'id':2, 'name':'蒙其・D・魯夫', 'title':'伸縮自如的橡膠槍'}
@@ -789,15 +790,27 @@ rtn = {
 	"builds":[]
 }
 
+print datetime.datetime.now()
+
 for tup in iter(sorted(idList.iteritems())):
 	obj = tup[1]
 	build = {}
 	build['no'] = tup[0]
-	build['name'] = obj['name']
-	build['title'] = obj['title'] if 'title' in obj else ''
-	build['thumbnail'] = 'png/tw/character_none.png'
-	build['portrait'] = 'png/tw/character_9999_t1.png'
-	build['skill'] = 'png/tw/character_9999_t1.png'
+	build['name-tw'] = obj['name'] if 'name' in obj else ''
+	build['name-jp'] = obj['name-jp'] if 'name-jp' in obj else ''
+	build['name-us'] = obj['name-us'] if 'name-us' in obj else ''
+	build['title-tw'] = obj['title'] if 'title' in obj else ''
+	build['title-jp'] = obj['title-jp'] if 'title-jp' in obj else ''
+	build['title-us'] = obj['title-us'] if 'title-us' in obj else ''
+	build['thumbnail-tw'] = 'png/tw/character_none.png'
+	build['thumbnail-jp'] = 'png/jp/character_none.png'
+	build['thumbnail-us'] = 'png/us/character_none.png'
+	build['portrait-tw'] = 'png/tw/character_9999_t1.png'
+	build['portrait-jp'] = 'png/jp/character_9999_t1.png'
+	build['portrait-us'] = 'png/us/character_9999_t1.png'
+	build['skill-tw'] = 'png/tw/character_9999_t1.png'
+	build['skill-jp'] = 'png/jp/character_9999_t1.png'
+	build['skill-us'] = 'png/us/character_9999_t1.png'
 
 	aid = obj['id']
 
@@ -815,62 +828,63 @@ for tup in iter(sorted(idList.iteritems())):
 		thumbnail = 'character_{0}_t1.png'.format(index)
 		portrait = 'character_{0}_c1.png'.format(index)
 
-		missing_thumbnail = False
-		missing_portrait = False
-		missing_skill = False
+		# missing_thumbnail = False
+		# missing_portrait = False
+		# missing_skill = False
 
-		if os.path.exists('png/tw/' + thumbnail):
-			build['thumbnail'] = 'png/tw/' + thumbnail
-		elif os.path.exists('png/jp/' + thumbnail):
-			build['thumbnail'] = 'png/jp/' + thumbnail
-		elif os.path.exists('png/us/' + thumbnail):
-			build['thumbnail'] = 'png/us/' + thumbnail
-		else:
-			missing_thumbnail = True
+		for lang in ['tw', 'jp', 'us']:
+			if os.path.exists('png/{0}/'.format(lang) + thumbnail):
+				build['thumbnail-{0}'.format(lang)] = 'png/{0}/'.format(lang) + thumbnail
+			if os.path.exists('png/{0}/'.format(lang) + portrait):
+				build['portrait-{0}'.format(lang)] = 'png/{0}/'.format(lang) + portrait
+		# else:
+		# 	missing_thumbnail = True
 
-		if os.path.exists('png/tw/' + portrait):
-			build['portrait'] = 'png/tw/' + portrait
-		elif os.path.exists('png/jp/' + portrait):
-			build['portrait'] = 'png/jp/' + portrait
-		elif os.path.exists('png/us/' + portrait):
-			build['portrait'] = 'png/us/' + portrait
-		else:
-			missing_portrait = True
+		# if os.path.exists('png/tw/' + portrait):
+		# 	build['portrait'] = 'png/tw/' + portrait
+		# elif os.path.exists('png/jp/' + portrait):
+		# 	build['portrait-jp'] = 'png/jp/' + portrait
+		# elif os.path.exists('png/us/' + portrait):
+		# 	build['portrait-us'] = 'png/us/' + portrait
+		# else:
+		# 	missing_portrait = True
 
 		if aid == sid or (sid > -1 and sid < 8000):
-			for dirname in ['png/tw', 'png/jp', 'png/us']:
+			for lang in ['tw', 'jp', 'us']:
+				dirname = 'png/{0}'.format(lang);
 				for filename in os.listdir(dirname):
 					if fnmatch.fnmatch(filename, 'motion_{0}_*_name.png'.format(str(sid).zfill(4))):
-						build['skill'] = dirname + '/' + filename
+						build['skill-{0}'.format(lang)] = dirname + '/' + filename
 						break
 					elif fnmatch.fnmatch(filename, 'motion_{0}_*skill_name_0001.png'.format(str(sid).zfill(4))):
-						build['skill'] = dirname + '/' + filename
+						build['skill-{0}'.format(lang)] = dirname + '/' + filename
 						break
-				else:
-					continue # executed if the loop ended normally (no break)
-				break
+				# else:
+				# 	continue # executed if the loop ended normally (no break)
+				# break
 
-			if build['skill'] == 'png/tw/character_9999_t1.png':
-				missing_skill = True
+			# if build['skill-tw'] == 'png/tw/character_9999_t1.png' and build['skill-jp'] == 'png/jp/character_9999_t1.png' and build['skill-us'] == 'png/us/character_9999_t1.png'
+			# 	missing_skill = True
 		else:
 			if sid == -1:
 				pass
 			else:
-				for dirname in ['png/tw', 'png/jp', 'png/us']:
+				for lang in ['tw', 'jp', 'us']:
+					dirname = 'png/{0}'.format(lang);
 					if os.path.exists('{0}/skill_name_{1}.png'.format(dirname, str(sid).zfill(4))):
-						build['skill'] = '{0}/skill_name_{1}.png'.format(dirname, str(sid).zfill(4))
-						break
-				else:
-					missing_skill = True
+						build['skill-{0}'.format(lang)] = '{0}/skill_name_{1}.png'.format(dirname, str(sid).zfill(4))
+						continue
+				# else:
+				# 	missing_skill = True
 
-		if missing_thumbnail or missing_portrait or missing_skill:
-			if missing_thumbnail:
-				print '\033[0;31mmissing_thumbnail'
-			elif missing_portrait:
-				print '\033[0;33mmissing_portrait'
-			elif missing_skill:
-				print '\033[0;32mmissing_skill'
-			print json.dumps(build, indent=2, ensure_ascii=False, sort_keys=True)
+		# if missing_thumbnail or missing_portrait or missing_skill:
+		# 	if missing_thumbnail:
+		# 		print '\033[0;31mmissing_thumbnail'
+		# 	elif missing_portrait:
+		# 		print '\033[0;33mmissing_portrait'
+		# 	elif missing_skill:
+		# 		print '\033[0;32mmissing_skill'
+		# 	print json.dumps(build, indent=2, ensure_ascii=False, sort_keys=True)
 
 	rtn['builds'].append(build)
 
@@ -878,3 +892,5 @@ for tup in iter(sorted(idList.iteritems())):
 
 with open('index.json', 'w') as f:
 	f.write(json.dumps(rtn, indent=2, separators=(',', ': '), ensure_ascii=False, sort_keys=True))
+
+print datetime.datetime.now()
