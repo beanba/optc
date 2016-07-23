@@ -6,9 +6,9 @@ ID=$2
 SUBDIR=$3
 
 if [ -z "$ID" ]; then
-  adb shell 'ls -d /data/data/'$PKG'/files/Cache/GNPCACHE/**/* | grep -E "/.*\.png"' > tmp.txt
+  adb shell 'ls -d /data/data/'$PKG'/files/Cache/GNPCACHE/**/* | grep -E "/.*\.png$"' > tmp.txt
 else
-  adb shell 'ls -d /data/data/'$PKG'/files/Cache/GNPCACHE/**/* | grep -E "/.*'$ID'.*\.png"' > tmp.txt
+  adb shell 'ls -d /data/data/'$PKG'/files/Cache/GNPCACHE/**/* | grep -E "/.*'$ID'.*\.png$"' > tmp.txt
 fi
 
 while read -r line
