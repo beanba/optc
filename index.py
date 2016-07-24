@@ -780,6 +780,7 @@ idList[1088] = {'id':1216, 'name':'サガ'}
 idList[1090] = {'id':1050, 'name':'X・ドレーク', 'title':'ドレーク海賊団'}
 idList[1094] = {'id':1238, 'name':'Dr.インディゴ'}
 idList[1098] = {'id':1242, 'name':'雷鳥ビリー', 'skill':8174}
+idList[1099] = {'id':1160, 'name-jp':'コビー', 'title-jp':'雨の中の曹長'}
 idList[1101] = {'id':1284, 'name':'黒腕のゼファー'}
 idList[1103] = {'id':1286, 'name':'アイン', 'title':'ＮＥＯ海軍'}
 idList[1105] = {'id':1288, 'name':'ビンズ', 'title':'ＮＥＯ海軍'}
