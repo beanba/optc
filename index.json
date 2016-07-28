@@ -12007,8 +12007,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "サボ",
+      "name-jp": "サボ",
+      "name-tw": "",
       "name-us": "",
       "no": 668,
       "portrait-jp": "png/jp/character_0726_c1.png",
@@ -12025,21 +12025,21 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "",
+      "name-jp": "サボ",
+      "name-tw": "薩波",
       "name-us": "",
       "no": 669,
       "portrait-jp": "png/jp/character_9999_t1.png",
-      "portrait-tw": "png/tw/character_9999_t1.png",
+      "portrait-tw": "png/tw/character_0727_c1.png",
       "portrait-us": "png/us/character_9999_t1.png",
       "skill-jp": "png/jp/character_9999_t1.png",
       "skill-tw": "png/tw/character_9999_t1.png",
       "skill-us": "png/us/character_9999_t1.png",
-      "thumbnail-jp": "png/jp/character_none.png",
-      "thumbnail-tw": "png/tw/character_none.png",
+      "thumbnail-jp": "png/jp/character_0727_t1.png",
+      "thumbnail-tw": "png/tw/character_0727_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title-jp": "",
-      "title-tw": "",
+      "title-tw": "革命軍",
       "title-us": ""
     },
     {
@@ -12079,8 +12079,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "ハック",
+      "name-jp": "ハック",
+      "name-tw": "",
       "name-us": "",
       "no": 672,
       "portrait-jp": "png/jp/character_0730_c1.png",
@@ -12097,21 +12097,21 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "",
+      "name-jp": "ハック",
+      "name-tw": "哈克",
       "name-us": "",
       "no": 673,
-      "portrait-jp": "png/jp/character_9999_t1.png",
-      "portrait-tw": "png/tw/character_9999_t1.png",
+      "portrait-jp": "png/jp/character_0731_c1.png",
+      "portrait-tw": "png/tw/character_0731_c1.png",
       "portrait-us": "png/us/character_9999_t1.png",
-      "skill-jp": "png/jp/character_9999_t1.png",
+      "skill-jp": "png/jp/motion_0731_hack_skill_name.png",
       "skill-tw": "png/tw/character_9999_t1.png",
       "skill-us": "png/us/character_9999_t1.png",
       "thumbnail-jp": "png/jp/character_none.png",
-      "thumbnail-tw": "png/tw/character_none.png",
+      "thumbnail-tw": "png/tw/character_0731_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title-jp": "",
-      "title-tw": "",
+      "title-tw": "革命軍",
       "title-us": ""
     },
     {
@@ -12907,21 +12907,21 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "鷹の目のミホーク",
+      "name-jp": "鷹の目のミホーク",
+      "name-tw": "鷹眼密佛格",
       "name-us": "",
       "no": 718,
       "portrait-jp": "png/jp/character_0792_c1.png",
-      "portrait-tw": "png/tw/character_9999_t1.png",
+      "portrait-tw": "png/tw/character_0792_c1.png",
       "portrait-us": "png/us/character_9999_t1.png",
       "skill-jp": "png/jp/motion_0791_mihawk_skill_name.png",
       "skill-tw": "png/tw/character_9999_t1.png",
       "skill-us": "png/us/character_9999_t1.png",
       "thumbnail-jp": "png/jp/character_0792_t1.png",
-      "thumbnail-tw": "png/tw/character_none.png",
+      "thumbnail-tw": "png/tw/character_0792_t1.png",
       "thumbnail-us": "png/us/character_none.png",
-      "title-jp": "",
-      "title-tw": "世界最強の剣士",
+      "title-jp": "世界最強の剣士",
+      "title-tw": "世界最強的劍士",
       "title-us": ""
     },
     {
