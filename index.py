@@ -846,7 +846,8 @@ for tup in iter(sorted(idList.iteritems())):
 						build['skill-{0}'.format(lang)] = dirname + '/' + filename
 						break
 				else: # executed if the loop ended normally (no break)
-					missing_skill = True
+					if build['thumbnail-{0}'.format(lang)] != 'png/{0}/character_none.png'.format(lang):
+						missing_skill = True
 			else:
 				if sid == -1:
 					pass
@@ -855,7 +856,8 @@ for tup in iter(sorted(idList.iteritems())):
 					if os.path.exists('{0}/skill_name_{1}.png'.format(dirname, str(sid).zfill(4))):
 						build['skill-{0}'.format(lang)] = '{0}/skill_name_{1}.png'.format(dirname, str(sid).zfill(4))
 					else:
-						missing_skill = True
+						if build['thumbnail-{0}'.format(lang)] != 'png/{0}/character_none.png'.format(lang):
+							missing_skill = True
 
 			if missing_skill and lang == 'tw':
 				print '\033[0;32mmissing_skill' + ' ' + lang
