@@ -10513,8 +10513,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "ノジコ",
+      "name-jp": "ノジコ",
+      "name-tw": "",
       "name-us": "",
       "no": 585,
       "portrait-jp": "png/jp/character_0538_c1.png",
@@ -10621,8 +10621,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "朱の竜宮カメ姫",
+      "name-jp": "朱の竜宮カメ姫",
+      "name-tw": "",
       "name-us": "",
       "no": 591,
       "portrait-jp": "png/jp/character_0554_c1.png",
@@ -10639,8 +10639,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "蒼の竜宮カメ姫",
+      "name-jp": "蒼の竜宮カメ姫",
+      "name-tw": "",
       "name-us": "",
       "no": 592,
       "portrait-jp": "png/jp/character_0555_c1.png",
@@ -10657,8 +10657,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "翠の竜宮カメ姫",
+      "name-jp": "翠の竜宮カメ姫",
+      "name-tw": "",
       "name-us": "",
       "no": 593,
       "portrait-jp": "png/jp/character_9999_t1.png",
@@ -10730,8 +10730,8 @@
     },
     {
       "name-jp": "",
-      "name-tw": "Tony Tony Chopper",
-      "name-us": "",
+      "name-tw": "",
+      "name-us": "Tony Tony Chopper",
       "no": 597,
       "portrait-jp": "png/jp/character_9999_t1.png",
       "portrait-tw": "png/tw/character_9999_t1.png",
@@ -10743,8 +10743,8 @@
       "thumbnail-tw": "png/tw/character_none.png",
       "thumbnail-us": "png/us/character_0633_t1.png",
       "title-jp": "",
-      "title-tw": "Voyage Dream: Great Doctor",
-      "title-us": ""
+      "title-tw": "",
+      "title-us": "Voyage Dream: Great Doctor"
     },
     {
       "name-jp": "バギー",
@@ -10891,8 +10891,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "海賊ゼフ",
+      "name-jp": "海賊ゼフ",
+      "name-tw": "",
       "name-us": "",
       "no": 606,
       "portrait-jp": "png/jp/character_0681_c1.png",
@@ -10945,8 +10945,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "ごろつきカルネ",
+      "name-jp": "ごろつきカルネ",
+      "name-tw": "",
       "name-us": "",
       "no": 609,
       "portrait-jp": "png/jp/character_0684_c1.png",
@@ -10964,8 +10964,8 @@
     },
     {
       "name-jp": "",
-      "name-tw": "Hiking Bear",
-      "name-us": "",
+      "name-tw": "",
+      "name-us": "Hiking Bear",
       "no": 610,
       "portrait-jp": "png/jp/character_9999_t1.png",
       "portrait-tw": "png/tw/character_9999_t1.png",
@@ -10982,8 +10982,8 @@
     },
     {
       "name-jp": "",
-      "name-tw": "Purinpurin",
-      "name-us": "",
+      "name-tw": "",
+      "name-us": "Purinpurin",
       "no": 611,
       "portrait-jp": "png/jp/character_9999_t1.png",
       "portrait-tw": "png/tw/character_9999_t1.png",
@@ -11287,8 +11287,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "タイルストン",
+      "name-jp": "タイルストン",
+      "name-tw": "",
       "name-us": "",
       "no": 628,
       "portrait-jp": "png/jp/character_0659_c1.png",
@@ -11305,8 +11305,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "フランキー",
+      "name-jp": "フランキー",
+      "name-tw": "",
       "name-us": "",
       "no": 629,
       "portrait-jp": "png/jp/character_0658_c1.png",
@@ -11647,8 +11647,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "マルコ",
+      "name-jp": "マルコ",
+      "name-tw": "",
       "name-us": "",
       "no": 648,
       "portrait-jp": "png/jp/character_9999_t1.png",
@@ -11660,8 +11660,8 @@
       "thumbnail-jp": "png/jp/character_0693_t1.png",
       "thumbnail-tw": "png/tw/character_none.png",
       "thumbnail-us": "png/us/character_none.png",
-      "title-jp": "",
-      "title-tw": "白ひげ海賊団１番隊隊長",
+      "title-jp": "白ひげ海賊団１番隊隊長",
+      "title-tw": "",
       "title-us": ""
     },
     {
@@ -11774,8 +11774,8 @@
     },
     {
       "name-jp": "",
-      "name-tw": "Arlong the Pirate",
-      "name-us": "",
+      "name-tw": "",
+      "name-us": "Arlong the Pirate",
       "no": 655,
       "portrait-jp": "png/jp/character_9999_t1.png",
       "portrait-tw": "png/tw/character_9999_t1.png",
@@ -11810,8 +11810,8 @@
     },
     {
       "name-jp": "",
-      "name-tw": "Kuroobi",
-      "name-us": "",
+      "name-tw": "",
+      "name-us": "Kuroobi",
       "no": 657,
       "portrait-jp": "png/jp/character_9999_t1.png",
       "portrait-tw": "png/tw/character_9999_t1.png",
@@ -11823,8 +11823,8 @@
       "thumbnail-tw": "png/tw/character_none.png",
       "thumbnail-us": "png/us/character_0687_t1.png",
       "title-jp": "",
-      "title-tw": "Sun Pirates",
-      "title-us": ""
+      "title-tw": "",
+      "title-us": "Sun Pirates"
     },
     {
       "name-jp": "",
@@ -11845,8 +11845,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "モンキー・D・ルフィ",
+      "name-jp": "モンキー・D・ルフィ",
+      "name-tw": "",
       "name-us": "",
       "no": 659,
       "portrait-jp": "png/jp/character_0674_c1.png",
@@ -11858,8 +11858,8 @@
       "thumbnail-jp": "png/jp/character_0674_t1.png",
       "thumbnail-tw": "png/tw/character_none.png",
       "thumbnail-us": "png/us/character_none.png",
-      "title-jp": "",
-      "title-tw": "うきわ",
+      "title-jp": "うきわ",
+      "title-tw": "",
       "title-us": ""
     },
     {
@@ -11899,8 +11899,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "娜美",
+      "name-jp": "ナミ",
+      "name-tw": "",
       "name-us": "",
       "no": 662,
       "portrait-jp": "png/jp/character_0673_c1.png",
@@ -11912,8 +11912,8 @@
       "thumbnail-jp": "png/jp/character_0673_t1.png",
       "thumbnail-tw": "png/tw/character_none.png",
       "thumbnail-us": "png/us/character_none.png",
-      "title-jp": "",
-      "title-tw": "バカンス",
+      "title-jp": "バカンス",
+      "title-tw": "",
       "title-us": ""
     },
     {
@@ -11954,8 +11954,8 @@
     },
     {
       "name-jp": "",
-      "name-tw": "Koza",
-      "name-us": "",
+      "name-tw": "",
+      "name-us": "Koza",
       "no": 665,
       "portrait-jp": "png/jp/character_9999_t1.png",
       "portrait-tw": "png/tw/character_9999_t1.png",
@@ -11967,8 +11967,8 @@
       "thumbnail-tw": "png/tw/character_none.png",
       "thumbnail-us": "png/us/character_0723_t1.png",
       "title-jp": "",
-      "title-tw": "Alabasta Citizen",
-      "title-us": ""
+      "title-tw": "",
+      "title-us": "Alabasta Citizen"
     },
     {
       "name-jp": "",
@@ -12043,8 +12043,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "コアラ",
+      "name-jp": "コアラ",
+      "name-tw": "",
       "name-us": "",
       "no": 670,
       "portrait-jp": "png/jp/character_0728_c1.png",
@@ -12061,8 +12061,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "コアラ",
+      "name-jp": "コアラ",
+      "name-tw": "",
       "name-us": "",
       "no": 671,
       "portrait-jp": "png/jp/character_0729_c1.png",
@@ -12074,8 +12074,8 @@
       "thumbnail-jp": "png/jp/character_0729_t1.png",
       "thumbnail-tw": "png/tw/character_none.png",
       "thumbnail-us": "png/us/character_none.png",
-      "title-jp": "",
-      "title-tw": "革命軍",
+      "title-jp": "革命軍",
+      "title-tw": "",
       "title-us": ""
     },
     {
@@ -12151,8 +12151,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "イナズマ",
+      "name-jp": "イナズマ",
+      "name-tw": "",
       "name-us": "",
       "no": 676,
       "portrait-jp": "png/jp/character_9999_t1.png",
@@ -12223,8 +12223,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "アイス大好きナミ",
+      "name-jp": "アイス大好きナミ",
+      "name-tw": "",
       "name-us": "",
       "no": 680,
       "portrait-jp": "png/jp/character_0736_c1.png",
@@ -12259,8 +12259,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "アイス大好きロビン",
+      "name-jp": "アイス大好きロビン",
+      "name-tw": "",
       "name-us": "",
       "no": 682,
       "portrait-jp": "png/jp/character_0738_c1.png",
@@ -12295,8 +12295,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "アイス大好きペローナ",
+      "name-jp": "アイス大好きペローナ",
+      "name-tw": "",
       "name-us": "",
       "no": 684,
       "portrait-jp": "png/jp/character_0740_c1.png",
@@ -12547,8 +12547,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "サーベル少佐",
+      "name-jp": "サーベル少佐",
+      "name-tw": "",
       "name-us": "",
       "no": 698,
       "portrait-jp": "png/jp/character_0757_c1.png",
@@ -12560,8 +12560,8 @@
       "thumbnail-jp": "png/jp/character_0757_t1.png",
       "thumbnail-tw": "png/tw/character_none.png",
       "thumbnail-us": "png/us/character_none.png",
-      "title-jp": "",
-      "title-tw": "海軍本部",
+      "title-jp": "海軍本部",
+      "title-tw": "",
       "title-us": ""
     },
     {
@@ -12763,8 +12763,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "佛朗基",
+      "name-jp": "フランキー",
+      "name-tw": "",
       "name-us": "",
       "no": 710,
       "portrait-jp": "png/jp/character_0689_c1.png",
@@ -12776,8 +12776,8 @@
       "thumbnail-jp": "png/jp/character_0689_t1.png",
       "thumbnail-tw": "png/tw/character_none.png",
       "thumbnail-us": "png/us/character_none.png",
-      "title-jp": "",
-      "title-tw": "航海の記録・麦わらの一味",
+      "title-jp": "航海の記録・麦わらの一味",
+      "title-tw": "",
       "title-us": ""
     },
     {
@@ -12871,8 +12871,8 @@
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "コニス",
+      "name-jp": "コニス",
+      "name-tw": "",
       "name-us": "",
       "no": 716,
       "portrait-jp": "png/jp/character_0745_c1.png",
@@ -12884,26 +12884,26 @@
       "thumbnail-jp": "png/jp/character_0745_t1.png",
       "thumbnail-tw": "png/tw/character_none.png",
       "thumbnail-us": "png/us/character_none.png",
-      "title-jp": "",
-      "title-tw": "スカイピアの少女",
+      "title-jp": "スカイピアの少女",
+      "title-tw": "",
       "title-us": ""
     },
     {
-      "name-jp": "",
-      "name-tw": "喬拉可爾・密佛格",
+      "name-jp": "ジュラキュール・ミホーク",
+      "name-tw": "",
       "name-us": "",
       "no": 717,
-      "portrait-jp": "png/jp/character_9999_t1.png",
-      "portrait-tw": "png/tw/character_0791_c1.png",
+      "portrait-jp": "png/jp/character_0791_c1.png",
+      "portrait-tw": "png/tw/character_9999_t1.png",
       "portrait-us": "png/us/character_9999_t1.png",
       "skill-jp": "png/jp/motion_0791_mihawk_skill_name.png",
       "skill-tw": "png/tw/character_9999_t1.png",
       "skill-us": "png/us/character_9999_t1.png",
       "thumbnail-jp": "png/jp/character_0791_t1.png",
-      "thumbnail-tw": "png/tw/character_0791_t1.png",
+      "thumbnail-tw": "png/tw/character_none.png",
       "thumbnail-us": "png/us/character_0791_t1.png",
-      "title-jp": "",
-      "title-tw": "王下七武海",
+      "title-jp": "王下七武海",
+      "title-tw": "",
       "title-us": ""
     },
     {
