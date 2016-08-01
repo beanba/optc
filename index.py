@@ -771,6 +771,7 @@ idList[1010] = {'id':1152, 'name-jp':'バトラー伯爵'}
 idList[1013] = {'id':1155, 'name-jp':'ホットドッグ将軍', 'skill':8169}
 idList[1022] = {'id':1001, 'name-jp':'モンキー・D・ルフィ', 'title-tw':'海賊王への軌跡'}
 idList[1023] = {'id':1049, 'name-jp':'ポートガス・D・エース', 'title-jp':'海賊王に馳せた夢'}
+idList[1027] = {'id':1167, 'name-jp':'ブルーギリー', 'title-jp':'脚功道格闘家（ジャオクンドー）'}
 idList[1034] = {'id':1174, 'name-jp':'バルトロメオ'}
 idList[1035] = {'id':1175, 'name-jp':'人食いのバルトロメオ', 'skill':1174}
 idList[1036] = {'id':1176, 'name-jp':'エンポリオ・イワンコフ', 'title-jp':'秘密の花園の女王'}
@@ -786,6 +787,7 @@ idList[1048] = {'id':1206, 'name-jp':'ニコ・オルビア'}
 idList[1050] = {'id':1208, 'name-jp':'ハグワール・D・サウロ'}
 idList[1071] = {'id':824, 'name-jp':'ガスパーデ'}
 idList[1077] = {'id':1221, 'name-jp':'レオ', 'title-jp':'トンタッタ族戦士長'}
+idList[1079] = {'id':1223, 'name-jp':'マンシェリー', 'title-jp':'トンタッタ族王女', 'skill':1222}
 idList[1083] = {'id':1227, 'name-jp':'首領・サイ', 'title-jp':'花ノ国のギャング', 'skill':1226}
 idList[1084] = {'id':1301, 'name-jp':'藤虎'}
 idList[1085] = {'id':1302, 'name-jp':'イッショウ', 'skill':1301}
@@ -804,8 +806,9 @@ idList[1113] = {'id':1261, 'name-jp':'チョッパー', 'title-jp':'若返った
 idList[1114] = {'id':1293, 'name-jp':'モンキー・D・ルフィ', 'title-jp':'夢を追い求める冒険者'}
 idList[1121] = {'id':1347, 'name-jp':'モンキー・D・ルフィ', 'title-jp':'大海賊時代への誓い「海賊王」', 'skill':631}
 idList[1132] = {'id':1274, 'name-jp':'イデオ'}
-idList[1133] = {'id':1275, 'name-jp':'イデオ', 'title-jp':'破壊砲'}
+idList[1133] = {'id':1275, 'name-jp':'イデオ', 'title-jp':'破壊砲', 'skill':1274}
 idList[1142] = {'id':1180, 'name-jp':'フォクシー', 'title-jp':'ドーナツレースの邪魔者'}
+idList[1187] = {'id':1319, 'name-jp':'アトモス'}
 
 rtn = {
 	"builds":[]
