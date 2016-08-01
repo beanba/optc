@@ -39,7 +39,7 @@ rm -f tmp.txt
 # ls $BASEDIR'/png/'
 # find $BASEDIR'/png/' -name "*.png" | wc -l
 
-./index.py
+./index.py "$SUBDIR"
 jade --out . --obj index.json --pretty index-jp.jade
 jade --out . --obj index.json --pretty index-tw.jade
 jade --out . --obj index.json --pretty index-us.jade
