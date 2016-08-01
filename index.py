@@ -6,6 +6,7 @@ import fnmatch
 import json
 import os
 import os.path
+import sys
 
 idList = {}
 for x in xrange(1,1141):
@@ -806,13 +807,19 @@ rtn = {
 
 print datetime.datetime.now()
 
+lang_input = 'tw'
+if len(sys.argv) > 1:
+	lang_input = sys.argv[1]
+
+print lang_input
+
 for tup in iter(sorted(idList.iteritems())):
 	build = {}
 
 	obj = tup[1]
 	build['no'] = tup[0]
 
-	for lang in ['jp', 'tw', 'us']:
+	for lang in ['tw', 'jp', 'us']:
 		build['name-{0}'.format(lang)] = obj['name-{0}'.format(lang)] if 'name-{0}'.format(lang) in obj else ''
 		build['title-{0}'.format(lang)] = obj['title-{0}'.format(lang)] if 'title-{0}'.format(lang) in obj else ''
 		build['thumbnail-{0}'.format(lang)] = 'png/{0}/character_none.png'.format(lang)
@@ -833,12 +840,17 @@ for tup in iter(sorted(idList.iteritems())):
 			thumbnail = 'character_{0}_t1.png'.format(index)
 			portrait = 'character_{0}_c1.png'.format(index)
 
+			missing_portrait = False
 			missing_skill = False
 
 			if os.path.exists('png/{0}/'.format(lang) + thumbnail):
 				build['thumbnail-{0}'.format(lang)] = 'png/{0}/'.format(lang) + thumbnail
+
 			if os.path.exists('png/{0}/'.format(lang) + portrait):
 				build['portrait-{0}'.format(lang)] = 'png/{0}/'.format(lang) + portrait
+			else:
+				if build['thumbnail-{0}'.format(lang)] != 'png/{0}/character_none.png'.format(lang):
+					missing_portrait = True
 
 			if obj['id'] == sid or (sid > -1 and sid < 8000):
 				dirname = 'png/{0}'.format(lang);
@@ -863,7 +875,11 @@ for tup in iter(sorted(idList.iteritems())):
 						if build['thumbnail-{0}'.format(lang)] != 'png/{0}/character_none.png'.format(lang):
 							missing_skill = True
 
-			if missing_skill and lang == 'tw':
+			if missing_portrait and lang == lang_input:
+				print '\033[0;33mmissing_portrail' + ' ' + lang
+				print json.dumps(build, indent=2, ensure_ascii=False, sort_keys=True)
+
+			if missing_skill and lang == lang_input:
 				print '\033[0;32mmissing_skill' + ' ' + lang
 				print json.dumps(build, indent=2, ensure_ascii=False, sort_keys=True)
 
