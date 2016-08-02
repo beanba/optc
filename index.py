@@ -404,6 +404,7 @@ idList[393] = {'id':417, 'name-tw':'庫馬希', 'skill':8062}
 idList[394] = {'id':418, 'name-tw':'狗企鵝', 'skill':8063}
 idList[395] = {'id':427, 'name-tw':'Miss 聖誕節', 'name-us':'Miss Merry Christmas'}
 idList[396] = {'id':428, 'name-tw':'Miss 聖誕節', 'title-tw':'鼴鼠人'}
+idList[397] = {'id':429, 'name-tw':'Mr.4'}
 idList[398] = {'id':430, 'name-tw':'Mr.4 與犬槍拉蘇'}
 idList[399] = {'id':431, 'name-tw':'Miss 雙手指', 'name-jp':'ミス・ダブルフィンガー'}
 idList[400] = {'id':432, 'name-tw':'Miss 雙手指', 'title-tw':'荊棘人'}
