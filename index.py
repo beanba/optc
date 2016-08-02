@@ -9,7 +9,7 @@ import os.path
 import sys
 
 idList = {}
-for x in xrange(1,1141):
+for x in xrange(1,1191):
 	idList[x] = {'id':9999}
 
 idList[1] = {'id':1, 'name-tw':'蒙其・D・魯夫'}
