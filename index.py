@@ -635,6 +635,7 @@ idList[692] = {'id':716, 'name-tw':'拿槍的伍長', 'title-tw':'海軍本部',
 idList[693] = {'id':717, 'name-tw':'配劍的伍長', 'title-tw':'海軍本部', 'name-jp':'サーベル伍長', 'title-jp':'海軍本部', 'skill':8015}
 idList[694] = {'id':718, 'name-tw':'火箭炮伍長', 'title-tw':'海軍本部', 'name-jp':'バズーカ伍長', 'title-jp':'海軍本部', 'skill':8100}
 idList[695] = {'id':719, 'name-tw':'手指虎伍長', 'title-tw':'海軍本部', 'name-jp':'ナックル伍長', 'title-jp':'海軍本部', 'skill':8095}
+idList[696] = {'id':755, 'name-tw':'薙刀少校', 'title-tw':'海軍本部', 'skill':8024}
 idList[697] = {'id':756, 'name-tw':'拿槍的少校', 'title-tw':'海軍本部', 'skill':8025}
 idList[698] = {'id':757, 'name-tw':'配劍的少校', 'title-tw':'海軍本部', 'name-jp':'サーベル少佐', 'title-jp':'海軍本部', 'skill':8015}
 idList[699] = {'id':758, 'name-tw':'火箭炮少校', 'title-tw':'海軍本部', 'skill':8100}
