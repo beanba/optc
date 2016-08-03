@@ -643,6 +643,7 @@ idList[698] = {'id':757, 'name-tw':'配劍的少校', 'title-tw':'海軍本部',
 idList[699] = {'id':758, 'name-tw':'火箭炮少校', 'title-tw':'海軍本部', 'skill':8100}
 idList[700] = {'id':759, 'name-tw':'手指虎少校', 'title-tw':'海軍本部', 'name-jp':'ナックル少佐', 'title-jp':'海軍本部', 'skill':8095}
 idList[708] = {'id':778, 'name-tw':'妮可・羅賓', 'title-tw':'惡魔之子', 'name-jp':'ニコ・ロビン', 'title-jp':'悪魔の子'}
+idList[709] = {'id':779, 'name-tw':'妮可・羅賓', 'title-tw':'草帽一夥', 'name-jp':'ニコ・ロビン', 'title-jp':'麦わらの一味', 'skill':778}
 idList[710] = {'id':689, 'name-jp':'フランキー', 'title-jp':'航海の記録・麦わらの一味'}
 idList[716] = {'id':745, 'name-jp':'コニス', 'title-jp':'スカイピアの少女', 'skill':744}
 idList[717] = {'id':791, 'name-jp':'ジュラキュール・ミホーク', 'title-jp':'王下七武海'}
