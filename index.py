@@ -628,6 +628,7 @@ idList[673] = {'id':731, 'name-tw':'哈克', 'title-tw':'革命軍', 'name-jp':'
 idList[674] = {'id':732, 'name-tw':'艾波利歐・伊娃柯夫', 'title-tw':'新人類拳法　師父', 'name-jp':'エンポリオ・イワンコフ', 'title-jp':'ニューカマー拳法　師範'}
 idList[675] = {'id':733, 'name-tw':'艾波利歐・伊娃柯夫', 'title-tw':'革命軍','name-jp':'エンポリオ・イワンコフ', 'title-jp':'革命軍', 'skill':732}
 idList[676] = {'id':734, 'name-jp':'イナズマ'}
+idList[677] = {'id':735, 'name-tw':'雷電', 'title-tw':'革命軍'}
 idList[680] = {'id':736, 'name-tw':'最愛冰淇淋・娜美', 'name-jp':'アイス大好きナミ'}
 idList[682] = {'id':738, 'name-jp':'アイス大好きロビン'}
 idList[684] = {'id':740, 'name-jp':'アイス大好きペローナ'}
