@@ -822,6 +822,7 @@ idList[1107] = {'id':1236, 'name-jp':'金獅子のシキ'}
 idList[1111] = {'id':1259, 'name-jp':'ニコ・ロビン', 'title-jp':'若返った考古学者'}
 idList[1113] = {'id':1261, 'name-jp':'チョッパー', 'title-jp':'若返った船医', 'skill':8175}
 idList[1114] = {'id':1293, 'name-jp':'モンキー・D・ルフィ', 'title-jp':'夢を追い求める冒険者'}
+idList[1115] = {'id':1294, 'name-jp':'モンキー・D・ルフィ', 'title-jp':'信念に生きる麦わらの一味', 'skill':1293}
 idList[1121] = {'id':1347, 'name-tw':'蒙其・D・魯夫', 'title-tw':'與大海賊時代的誓約「海賊王」', 'name-jp':'モンキー・D・ルフィ', 'title-jp':'大海賊時代への誓い「海賊王」', 'skill':1346}
 idList[1122] = {'id':1262, 'name-jp':'キャベンディッシュ'}
 idList[1126] = {'id':1268, 'name-jp':'オオロンブス'}
