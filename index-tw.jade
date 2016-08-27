@@ -22,7 +22,7 @@ html(lang="zh-Hant-HK")
 					div(style="position: absolute; left: " + x + "px; top: " + y + "px")
 						img(class="thumbnail" src="#{build['thumbnail-tw']}" data-title="#{build['title-tw']}" data-name="#{build['name-tw']}" data-skill="#{build['skill-tw']}" data-portrait="#{build['portrait-tw']}")
 					div(align="center" style="position: absolute; left: " + x + "px; top: " + y2 + "px; width: 113px; height: 18px; font-family: \"Arial Black\", Gadget, sans-serif; font-size: 18px; color: white; text-shadow: 1px 1px black, -1px -1px black, -1px 1px black, 1px -1px black;") No.#{build['no']}
-			div(class="op-flex-item" id="shower")
+			div(id="shower")
 
 		script.
 			$( "img.thumbnail" ).mouseenter(function() {
