@@ -839,6 +839,7 @@ idList[1101] = {'id':1284, 'name-jp':'黒腕のゼファー'}
 idList[1103] = {'id':1286, 'name-jp':'アイン', 'title-jp':'ＮＥＯ海軍'}
 idList[1105] = {'id':1288, 'name-jp':'ビンズ', 'title-jp':'ＮＥＯ海軍'}
 idList[1107] = {'id':1236, 'name-jp':'金獅子のシキ'}
+idList[1068] = {'id':1251, 'name-jp':'敏捷女格闘士', 'title-jp':'九蛇の戦士'}
 idList[1111] = {'id':1259, 'name-jp':'ニコ・ロビン', 'title-jp':'若返った考古学者'}
 idList[1113] = {'id':1261, 'name-jp':'チョッパー', 'title-jp':'若返った船医', 'skill':8175}
 idList[1114] = {'id':1293, 'name-jp':'モンキー・D・ルフィ', 'title-jp':'夢を追い求める冒険者'}
@@ -865,6 +866,11 @@ idList[1184] = {'id':1316, 'name-jp':'双拳ガントレットのキングデュ
 idList[1185] = {'id':1317, 'name-jp':'ハルタ'}
 idList[1187] = {'id':1319, 'name-jp':'アトモス'}
 idList[1192] = {'id':1324, 'name-jp':'クザン', 'skill':1323}
+idList[1200] = {'id':1331, 'name-jp':'ヴァイオレット', 'title-jp':'挑発のバカンス'}
+idList[1216] = {'id':1336, 'name-jp':'セバスチャン', 'title-jp':'ワールド海賊団'}
+idList[1217] = {'id':1337, 'name-jp':'ナイチン', 'title-jp':'ワールド海賊団'}
+idList[1219] = {'id':1342, 'name-jp':'バーンディ・ワールド'}
+idList[1221] = {'id':1339, 'name-jp':'リトルオーズJr.', 'title-jp':'白ひげ海賊団傘下'}
 
 rtn = {
 	"builds":[]
