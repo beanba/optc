@@ -812,6 +812,7 @@ idList[1010] = {'id':1152, 'name-jp':'バトラー伯爵'}
 idList[1013] = {'id':1155, 'name-jp':'ホットドッグ将軍', 'skill':8169}
 idList[1022] = {'id':1001, 'name-jp':'モンキー・D・ルフィ', 'title-tw':'海賊王への軌跡'}
 idList[1023] = {'id':1049, 'name-jp':'ポートガス・D・エース', 'title-jp':'海賊王に馳せた夢'}
+idList[1025] = {'id':1165, 'name-jp':'首領・チンジャオ', 'title-jp':'花ノ国のギャング'}
 idList[1027] = {'id':1167, 'name-jp':'ブルーギリー', 'title-jp':'脚功道格闘家（ジャオクンドー）', 'skill':1166}
 idList[1034] = {'id':1174, 'name-jp':'バルトロメオ'}
 idList[1035] = {'id':1175, 'name-jp':'人食いのバルトロメオ', 'skill':1174}
