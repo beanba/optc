@@ -9,7 +9,7 @@ import os.path
 import sys
 
 idList = {}
-for x in xrange(1,1191):
+for x in xrange(1,1231):
 	idList[x] = {'id':9999}
 
 idList[1] = {'id':1, 'name-tw':'蒙其・D・魯夫'}
@@ -974,7 +974,18 @@ for tup in iter(sorted(idList.iteritems())):
 
 	rtn['builds'].append(build)
 
-# print json.dumps(rtn, indent=2, separators=(',', ': '), ensure_ascii=False, sort_keys=True)
+for build in rtn['builds']:
+	build['name'] = ''
+	build['portrait'] = 'png/tw/character_9999_t1.png'
+	build['skill'] = 'png/tw/character_9999_t1.png'
+	build['thumbnail'] = 'png/tw/character_none.png'
+	build['title'] = ''
+	for key in ['name', 'portrait', 'skill', 'thumbnail', 'title']:
+		for lang in ['tw', 'jp', 'us']:
+			tmp = build['{0}-{1}'.format(key, lang)]
+			if tmp != '' and not tmp.endswith('9999_t1.png') and not tmp.endswith('none.png'):
+				build[key] = tmp
+				break
 
 with open('index.json', 'w') as f:
 	f.write(json.dumps(rtn, indent=2, separators=(',', ': '), ensure_ascii=False, sort_keys=True))
