@@ -593,6 +593,7 @@ idList[609] = {'id':684, 'name-tw':'小混混卡爾涅', 'name-jp':'ごろつき
 idList[610] = {'id':679, 'name-us':'Hiking Bear', 'skill':8044}
 idList[611] = {'id':680, 'name-us':'Purinpurin', 'skill':8038}
 idList[614] = {'id':660, 'name-tw':'贊拜', 'skill':8107}
+idList[615] = {'id':661, 'name-tw':'怪力毀滅者 斧頭', 'skill':8102}
 idList[616] = {'id':662, 'name-tw':'怪力毀滅者 長槍', 'name-jp':'怪力デストロイヤーズ 槍使い', 'skill':8103}
 idList[617] = {'id':663, 'name-tw':'怪力毀滅者 大砲', 'skill':8104}
 idList[618] = {'id':766, 'name-tw':'戴手指虎的小混混', 'title-tw':'紅色的賞金獵人', 'name-jp':'ナックルチンピラ', 'title-jp':'赤の賞金稼ぎ', 'skill':8094}
