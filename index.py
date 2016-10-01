@@ -13,8 +13,8 @@ for x in xrange(1,1281):
 	idList[x] = {'id':9999}
 
 idList[1] = {'id':1, 'name-tw':'蒙其・D・魯夫'}
-idList[2] = {'id':2, 'name-tw':'蒙其・D・魯夫', 'title-tw':'伸縮自如的橡膠槍'}
-idList[3] = {'id':3, 'name-tw':'蒙其・D・魯夫', 'title-tw':'伸縮自如的橡膠火箭砲'}
+idList[2] = {'id':2, 'name-tw':'蒙其・D・魯夫', 'title-tw':'伸縮自如的橡膠槍', 'name-jp':'モンキー・D・ルフィ', 'title-jp':'ゴムゴムの銃(ピストル)'}
+idList[3] = {'id':3, 'name-tw':'蒙其・D・魯夫', 'title-tw':'伸縮自如的橡膠火箭砲', 'name-jp':'モンキー・D・ルフィ', 'title-jp':'ゴムゴムのバズーカ'}
 idList[4] = {'id':8, 'name-tw':'蒙其・D・魯夫', 'title-tw':'２檔'}
 idList[5] = {'id':9, 'name-tw':'羅羅亞・索隆'}
 idList[6] = {'id':10, 'name-tw':'羅羅亞・索隆', 'title-tw':'三・千・世・界'}
@@ -25,7 +25,7 @@ idList[10] = {'id':15, 'name-tw':'娜美', 'title-tw':'龍捲風天候', 'name-j
 idList[11] = {'id':16, 'name-tw':'娜美', 'title-tw':'海市蜃樓天候'}
 idList[12] = {'id':18, 'name-tw':'娜美', 'title-tw':'雷霆天候'}
 idList[13] = {'id':19, 'name-tw':'騙人布'}
-idList[14] = {'id':20, 'name-tw':'騙人布', 'title-tw':'墨西哥辣椒星'}
+idList[14] = {'id':20, 'name-tw':'騙人布', 'title-tw':'墨西哥辣椒星', 'name-jp':'ウソップ', 'title-jp':'タバスコ星'}
 idList[15] = {'id':22, 'name-tw':'騙人布', 'title-tw':'黃金鐵鎚'}
 idList[16] = {'id':23, 'name-tw':'狙擊王'}
 idList[17] = {'id':24, 'name-tw':'香吉士',}
@@ -229,7 +229,7 @@ idList[214] = {'id':237, 'name-tw':'拉布', 'title-tw':'被魯夫塗鴉的'}
 idList[215] = {'id':259, 'name-tw':'大王烏賊', 'skill':8051}
 idList[216] = {'id':4, 'name-tw':'蒙其・D・魯夫', 'title-tw':'伸縮自如的橡膠氣球'}
 idList[217] = {'id':6, 'name-tw':'蒙其・D・魯夫', 'title-tw':'３檔'}
-idList[218] = {'id':12, 'name-tw':'羅羅亞・索隆', 'title-tw':'刀狼流'}
+idList[218] = {'id':12, 'name-tw':'羅羅亞・索隆', 'title-tw':'刀狼流', 'name-jp':'ロロノア・ゾロ', 'title-jp':'刀狼流し（とうろうながし）'}
 idList[219] = {'id':294, 'name-tw':'羅羅亞・索隆', 'title-tw':'獅子歌歌'}
 idList[221] = {'id':17, 'name-tw':'娜美', 'title-tw':'幸福的一擊'}
 idList[222] = {'id':296, 'name-tw':'騙人布', 'title-tw':'騙人布反擊'}
@@ -904,6 +904,8 @@ idList[1216] = {'id':1336, 'name-jp':'セバスチャン', 'title-jp':'ワール
 idList[1217] = {'id':1337, 'name-jp':'ナイチン', 'title-jp':'ワールド海賊団'}
 idList[1219] = {'id':1342, 'name-jp':'バーンディ・ワールド'}
 idList[1221] = {'id':1339, 'name-jp':'リトルオーズJr.', 'title-jp':'白ひげ海賊団傘下'}
+idList[1275] = {'id':1419, 'name-jp':'シリュウ'}
+idList[1277] = {'id':1421, 'name-jp':'ドクQ'}
 idList[1278] = {'id':1422, 'name-jp':'”死神”ドクQ'}
 
 rtn = {
