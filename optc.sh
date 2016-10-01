@@ -5,41 +5,15 @@ PKG=$1
 ID=$2
 SUBDIR=$3
 
-if [ -z "$ID" ]; then
-  adb shell 'ls -d /data/data/'$PKG'/files/Cache/GNPCACHE/**/* | grep -E "/.*\.png$"' > tmp.txt
-else
-  adb shell 'ls -d /data/data/'$PKG'/files/Cache/GNPCACHE/**/* | grep -E "/.*'$ID'.*\.png$"' > tmp.txt
-fi
+# pull GNPCACHE, mv *.png to SUBDIR
+adb pull /data/data/com.linecorp.LGOPTW/files/Cache/GNPCACHE
+mv $(find GNPCACHE -name *.png | xargs) $BASEDIR'/png/'$SUBDIR'/'
+rm -rf GNPCACHE
 
-while read -r line
-do
-  s="$(echo -e "${line}" | tr -d '[[:space:]]')"
-  echo $s
-
-  while true; do
-    if [ -z "$DEVICE" ]; then
-      adb pull $s $BASEDIR'/png/'$SUBDIR'/'
-    else
-      adb -s $DEVICE pull $s $BASEDIR'/png/'$SUBDIR'/'
-    fi
-    err=$?
-    if [ "0" == "${err}" ]; then
-      break
-    else
-      echo "retry: $s"
-      sleep 1
-      adb devices
-    fi
-  done
-
-done < tmp.txt
-
-rm -f tmp.txt
-
-# ls $BASEDIR'/png/'
-# find $BASEDIR'/png/' -name "*.png" | wc -l
-
+# generate json
 ./index.py "$SUBDIR"
+
+# export html
 jade --out . --obj index.json --pretty index.jade
 jade --out . --obj index.json --pretty index-jp.jade
 jade --out . --obj index.json --pretty index-tw.jade
