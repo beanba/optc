@@ -6,7 +6,8 @@ ID=$2
 SUBDIR=$3
 
 # pull GNPCACHE, mv *.png to SUBDIR
-adb pull /data/data/com.linecorp.LGOPTW/files/Cache/GNPCACHE
+rm -rf GNPCACHE
+adb pull /data/data/$PKG/files/Cache/GNPCACHE
 mv $(find GNPCACHE -name *.png | xargs) $BASEDIR'/png/'$SUBDIR'/'
 rm -rf GNPCACHE
 
