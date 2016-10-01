@@ -7,7 +7,7 @@ for f in $(find png/$1/ -name character*t1* | awk -F/ '{print $4}' | sort | uniq
 	fi
 	dummy=$(grep "'id':"$f"" "index.py" | grep "$1")
 	if [ "$?" != 0 ]; then
-		find "png/$1" -name *$f*
+		find "png/$1" -name *$f* | grep character_
 	fi
 done
 
