@@ -903,6 +903,7 @@ idList[1216] = {'id':1336, 'name-jp':'セバスチャン', 'title-jp':'ワール
 idList[1217] = {'id':1337, 'name-jp':'ナイチン', 'title-jp':'ワールド海賊団'}
 idList[1219] = {'id':1342, 'name-jp':'バーンディ・ワールド'}
 idList[1221] = {'id':1339, 'name-jp':'リトルオーズJr.', 'title-jp':'白ひげ海賊団傘下'}
+idList[1278] = {'id':1422, 'name-jp':'死神ドクQ'}
 
 rtn = {
 	"builds":[]

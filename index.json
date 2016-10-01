@@ -28289,6 +28289,29 @@
       "title-jp": "",
       "title-tw": "",
       "title-us": ""
+    },
+    {
+      "name": "死神ドクQ",
+      "name-jp": "死神ドクQ",
+      "name-tw": "",
+      "name-us": "",
+      "no": 1278,
+      "portrait": "png/jp/character_1422_c1.png",
+      "portrait-jp": "png/jp/character_1422_c1.png",
+      "portrait-tw": "png/tw/character_9999_t1.png",
+      "portrait-us": "png/us/character_9999_t1.png",
+      "skill": "png/tw/character_9999_t1.png",
+      "skill-jp": "png/jp/character_9999_t1.png",
+      "skill-tw": "png/tw/character_9999_t1.png",
+      "skill-us": "png/us/character_9999_t1.png",
+      "thumbnail": "png/jp/character_1422_t1.png",
+      "thumbnail-jp": "png/jp/character_1422_t1.png",
+      "thumbnail-tw": "png/tw/character_none.png",
+      "thumbnail-us": "png/us/character_none.png",
+      "title": "",
+      "title-jp": "",
+      "title-tw": "",
+      "title-us": ""
     }
   ]
 }
