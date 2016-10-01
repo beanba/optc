@@ -849,6 +849,7 @@ idList[1048] = {'id':1206, 'name-jp':'ニコ・オルビア'}
 idList[1050] = {'id':1208, 'name-jp':'ハグワール・D・サウロ'}
 idList[1069] = {'id':822, 'name-tw':'蕭萊亞・巴斯庫德'}
 idList[1071] = {'id':824, 'name-tw':'嘉斯帕德', 'name-jp':'ガスパーデ'}
+idList[1072] = {'id':825, 'name-tw':'嘉斯帕德', 'title-tw':'嘉斯帕德海賊團'}
 idList[1073] = {'id':826, 'name-tw':'尼德斯', 'skill':8173}
 idList[1077] = {'id':1221, 'name-jp':'レオ', 'title-jp':'トンタッタ族戦士長', 'skill':1220}
 idList[1079] = {'id':1223, 'name-jp':'マンシェリー', 'title-jp':'トンタッタ族王女', 'skill':1222}
