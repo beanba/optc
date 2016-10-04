@@ -15,7 +15,7 @@ for x in xrange(1,1281):
 idList[1] = {'id':1, 'name-tw':'蒙其・D・魯夫'}
 idList[2] = {'id':2, 'name-tw':'蒙其・D・魯夫', 'title-tw':'伸縮自如的橡膠槍', 'name-jp':'モンキー・D・ルフィ', 'title-jp':'ゴムゴムの銃(ピストル)'}
 idList[3] = {'id':3, 'name-tw':'蒙其・D・魯夫', 'title-tw':'伸縮自如的橡膠火箭砲', 'name-jp':'モンキー・D・ルフィ', 'title-jp':'ゴムゴムのバズーカ'}
-idList[4] = {'id':8, 'name-tw':'蒙其・D・魯夫', 'title-tw':'２檔'}
+idList[4] = {'id':8, 'name-tw':'蒙其・D・魯夫', 'title-tw':'２檔', 'name-jp':'モンキー・D・ルフィ', 'title-jp':'ギア２'}
 idList[5] = {'id':9, 'name-tw':'羅羅亞・索隆'}
 idList[6] = {'id':10, 'name-tw':'羅羅亞・索隆', 'title-tw':'三・千・世・界'}
 idList[7] = {'id':11, 'name-tw':'羅羅亞・索隆', 'title-tw':'煩惱鳳'}
