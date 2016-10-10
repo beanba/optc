@@ -8,6 +8,9 @@ SUBDIR=$3
 # pull GNPCACHE, mv *.png to SUBDIR
 rm -rf GNPCACHE
 adb pull /data/data/$PKG/files/Cache/GNPCACHE
+if [ $? != 0 ]; then
+  exit 1
+fi
 mv $(find GNPCACHE -name *.png | xargs) $BASEDIR'/png/'$SUBDIR'/'
 rm -rf GNPCACHE
 
