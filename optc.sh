@@ -9,6 +9,9 @@ SUBDIR=$3
 rm -rf GNPCACHE
 adb pull /data/data/$PKG/files/Cache/GNPCACHE
 if [ $? != 0 ]; then
+  adb kill-server
+  adb start-server
+  adb devices
   exit 1
 fi
 mv $(find GNPCACHE -name *.png | xargs) $BASEDIR'/png/'$SUBDIR'/'
