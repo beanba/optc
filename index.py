@@ -887,6 +887,7 @@ idList[1111] = {'id':1259, 'name-jp':'ニコ・ロビン', 'title-jp':'若返っ
 idList[1113] = {'id':1261, 'name-jp':'チョッパー', 'title-jp':'若返った船医', 'skill':8175}
 idList[1114] = {'id':1293, 'name-jp':'モンキー・D・ルフィ', 'title-jp':'夢を追い求める冒険者'}
 idList[1115] = {'id':1294, 'name-tw':'蒙其・D・魯夫', 'title-tw':'以信念做為生存之道的草帽一夥', 'name-jp':'モンキー・D・ルフィ', 'title-jp':'信念に生きる麦わらの一味', 'skill':1293}
+idList[1116] = {'id':1295, 'name-tw':'香吉士', 'title-tw':'追求夢想的冒險者'}
 idList[1118] = {'id':1297, 'name-tw':'娜美', 'title-tw':'追求夢想的冒險者'}
 idList[1119] = {'id':1298, 'name-tw':'娜美', 'title-tw':'以信念做為生存之道的草帽一夥', 'skill':1297}
 idList[1120] = {'id':1346, 'name-tw':'蒙其・D・魯夫', 'title-tw':'永無止盡的夢想航跡・草帽一夥'}
