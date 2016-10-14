@@ -9,7 +9,7 @@ import os.path
 import sys
 
 idList = {}
-for x in xrange(1,1291):
+for x in xrange(1,1301):
 	idList[x] = {'id':9999}
 
 idList[1] = {'id':1, 'name-tw':'蒙其・D・魯夫'}
@@ -883,6 +883,7 @@ idList[1105] = {'id':1288, 'name-jp':'ビンズ', 'title-jp':'ＮＥＯ海軍'}
 idList[1107] = {'id':1236, 'name-tw':'金獅子獅鬼', 'name-jp':'金獅子のシキ'}
 idList[1108] = {'id':1237, 'name-tw':'金獅子獅鬼', 'title-tw':'金獅子海賊團', 'skill':1236}
 idList[1068] = {'id':1251, 'name-jp':'敏捷女格闘士', 'title-jp':'九蛇の戦士'}
+idList[1089] = {'id':1217, 'name-jp':'サガ', 'title-jp':'呪われた聖剣'}
 idList[1111] = {'id':1259, 'name-jp':'ニコ・ロビン', 'title-jp':'若返った考古学者'}
 idList[1113] = {'id':1261, 'name-jp':'チョッパー', 'title-jp':'若返った船医', 'skill':8175}
 idList[1114] = {'id':1293, 'name-jp':'モンキー・D・ルフィ', 'title-jp':'夢を追い求める冒険者'}
@@ -919,17 +920,22 @@ idList[1216] = {'id':1336, 'name-jp':'セバスチャン', 'title-jp':'ワール
 idList[1217] = {'id':1337, 'name-jp':'ナイチン', 'title-jp':'ワールド海賊団'}
 idList[1219] = {'id':1342, 'name-jp':'バーンディ・ワールド'}
 idList[1221] = {'id':1339, 'name-jp':'リトルオーズJr.', 'title-jp':'白ひげ海賊団傘下'}
+idList[1241] = {'id':1368, 'name-jp':'コアラ', 'title-jp':'魚人空手師範代'}
+idList[1243] = {'id':1370, 'name-jp':'ハック', 'title-jp':'魚人空手師範', 'skill':8193}
 idList[1245] = {'id':1408, 'name-jp':'モンキー・D・ルフィ', 'title-jp':'マリンフォードに舞う“麦わら”'}
 idList[1246] = {'id':1409, 'name-jp':'ポートガス・D・エース', 'title-jp':'処刑台の“火拳”'}
 idList[1247] = {'id':1410, 'name-jp':'ポートガス・D・エース', 'title-jp':'マリンフォードに舞う“火拳”'}
 idList[1248] = {'id':1384, 'name-jp':'マルコ', 'title-jp':'秋風にはためく襟元'}
 idList[1249] = {'id':1385, 'name-jp':'マルコ', 'title-jp':'ほろ酔いの着崩れ'}
+idList[1254] = {'id':1395, 'name-jp':'大渦蜘蛛スクアード', 'title-jp':'白ひげ海賊団傘下'}
+idList[1255] = {'id':1394, 'name-jp':'絆のディカルバン兄弟', 'title-jp':'白ひげ海賊団傘下', 'skill':8195}
 idList[1267] = {'id':1411, 'name-jp':'マーシャル・D・ティーチ', 'title-jp':'黒ひげ海賊団船長'}
 idList[1268] = {'id':1412, 'name-jp':'黒ひげ', 'title-jp':'黒ひげ海賊団船長'}
 idList[1275] = {'id':1419, 'name-jp':'シリュウ'}
 idList[1277] = {'id':1421, 'name-jp':'ドクＱ'}
 idList[1278] = {'id':1422, 'name-jp':'“死神”ドクＱ'}
 idList[1286] = {'id':1425, 'name-jp':'ベビー５', 'title-jp':'スパイダーマイルズの少女'}
+idList[1293] = {'id':1380, 'name-jp':'ボア・サンダーソニア', 'title-jp':'九蛇の戦士'}
 
 rtn = {
 	"builds":[]
