@@ -917,6 +917,7 @@ idList[1185] = {'id':1317, 'name-jp':'ハルタ'}
 idList[1187] = {'id':1319, 'name-jp':'アトモス'}
 idList[1192] = {'id':1324, 'name-jp':'クザン', 'skill':1323}
 idList[1200] = {'id':1331, 'name-jp':'ヴァイオレット', 'title-jp':'挑発のバカンス'}
+idList[1201] = {'id':1332, 'name-jp':'ヴァイオレット', 'title-jp':'紅潮のバカンス'}
 idList[1216] = {'id':1336, 'name-jp':'セバスチャン', 'title-jp':'ワールド海賊団'}
 idList[1217] = {'id':1337, 'name-jp':'ナイチン', 'title-jp':'ワールド海賊団'}
 idList[1219] = {'id':1342, 'name-jp':'バーンディ・ワールド'}
