@@ -960,6 +960,7 @@ idList[1255] = {'id':1394, 'name-jp':'絆のディカルバン兄弟', 'title-jp
 idList[1267] = {'id':1411, 'name-jp':'マーシャル・D・ティーチ', 'title-jp':'黒ひげ海賊団船長'}
 idList[1268] = {'id':1412, 'name-jp':'黒ひげ', 'title-jp':'黒ひげ海賊団船長'}
 idList[1275] = {'id':1419, 'name-jp':'シリュウ'}
+idList[1276] = {'id':1420, 'name-jp':'雨のシリュウ', 'skill':1419}
 idList[1277] = {'id':1421, 'name-jp':'ドクＱ'}
 idList[1278] = {'id':1422, 'name-jp':'“死神”ドクＱ'}
 idList[1286] = {'id':1425, 'name-jp':'ベビー５', 'title-jp':'スパイダーマイルズの少女'}
