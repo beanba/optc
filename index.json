@@ -278,7 +278,7 @@
     },
     {
       "name": "騙人布",
-      "name-jp": "",
+      "name-jp": "ウソップ",
       "name-tw": "騙人布",
       "name-us": "",
       "no": 13,
@@ -5085,7 +5085,7 @@
     },
     {
       "name": "騙人布",
-      "name-jp": "",
+      "name-jp": "ウソップ",
       "name-tw": "騙人布",
       "name-us": "",
       "no": 222,
@@ -5102,13 +5102,13 @@
       "thumbnail-tw": "png/tw/character_0296_t1.png",
       "thumbnail-us": "png/us/character_0296_t1.png",
       "title": "騙人布反擊",
-      "title-jp": "",
+      "title-jp": "ウソップハンマー",
       "title-tw": "騙人布反擊",
       "title-us": ""
     },
     {
       "name": "騙人布",
-      "name-jp": "",
+      "name-jp": "ウソップ",
       "name-tw": "騙人布",
       "name-us": "",
       "no": 223,
@@ -5125,7 +5125,7 @@
       "thumbnail-tw": "png/tw/character_0021_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title": "衝擊",
-      "title-jp": "",
+      "title-jp": "衝撃（インパクト）",
       "title-tw": "衝擊",
       "title-us": ""
     },

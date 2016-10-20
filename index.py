@@ -24,7 +24,7 @@ idList[9] = {'id':14, 'name-tw':'娜美'}
 idList[10] = {'id':15, 'name-tw':'娜美', 'title-tw':'龍捲風天候', 'name-jp':'ナミ', 'title-jp':'トルネード=テンポ'}
 idList[11] = {'id':16, 'name-tw':'娜美', 'title-tw':'海市蜃樓天候'}
 idList[12] = {'id':18, 'name-tw':'娜美', 'title-tw':'雷霆天候', 'name-jp':'ナミ', 'title-jp':'サンダーボルト=テンポ'}
-idList[13] = {'id':19, 'name-tw':'騙人布'}
+idList[13] = {'id':19, 'name-tw':'騙人布', 'name-jp':'ウソップ'}
 idList[14] = {'id':20, 'name-tw':'騙人布', 'title-tw':'墨西哥辣椒星', 'name-jp':'ウソップ', 'title-jp':'タバスコ星'}
 idList[15] = {'id':22, 'name-tw':'騙人布', 'title-tw':'黃金鐵鎚'}
 idList[16] = {'id':23, 'name-tw':'狙擊王'}
@@ -232,8 +232,8 @@ idList[217] = {'id':6, 'name-tw':'蒙其・D・魯夫', 'title-tw':'３檔', 'na
 idList[218] = {'id':12, 'name-tw':'羅羅亞・索隆', 'title-tw':'刀狼流', 'name-jp':'ロロノア・ゾロ', 'title-jp':'刀狼流し（とうろうながし）'}
 idList[219] = {'id':294, 'name-tw':'羅羅亞・索隆', 'title-tw':'獅子歌歌'}
 idList[221] = {'id':17, 'name-tw':'娜美', 'title-tw':'幸福的一擊', 'name-jp':'ナミ', 'title-jp':'幸せパンチ'}
-idList[222] = {'id':296, 'name-tw':'騙人布', 'title-tw':'騙人布反擊'}
-idList[223] = {'id':21, 'name-tw':'騙人布', 'title-tw':'衝擊'}
+idList[222] = {'id':296, 'name-tw':'騙人布', 'title-tw':'騙人布反擊', 'name-jp':'ウソップ', 'title-jp':'ウソップハンマー'}
+idList[223] = {'id':21, 'name-tw':'騙人布', 'title-tw':'衝擊', 'name-jp':'ウソップ', 'title-jp':'衝撃（インパクト）'}
 idList[224] = {'id':297, 'name-tw':'Mr.王子', 'title-tw':'羊肉SHOT'}
 idList[225] = {'id':298, 'name-tw':'Mr.王子', 'title-tw':'小牛肉SHOT'}
 idList[226] = {'id':168, 'name-tw':'喬拉可爾・密佛格'}
