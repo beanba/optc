@@ -347,7 +347,7 @@
     },
     {
       "name": "狙擊王",
-      "name-jp": "",
+      "name-jp": "そげキング",
       "name-tw": "狙擊王",
       "name-us": "",
       "no": 16,
@@ -2509,7 +2509,7 @@
     },
     {
       "name": "紅色領主海龜",
-      "name-jp": "",
+      "name-jp": "赤ダイミョウガメ",
       "name-tw": "紅色領主海龜",
       "name-us": "",
       "no": 110,
@@ -3705,7 +3705,7 @@
     },
     {
       "name": "老鳥砲擊手",
-      "name-jp": "",
+      "name-jp": "砲撃手 腕利き",
       "name-tw": "老鳥砲擊手",
       "name-us": "",
       "no": 162,
@@ -4234,7 +4234,7 @@
     },
     {
       "name": "佩劍的一等兵",
-      "name-jp": "",
+      "name-jp": "サーベル一等兵",
       "name-tw": "佩劍的一等兵",
       "name-us": "",
       "no": 185,
@@ -4251,13 +4251,13 @@
       "thumbnail-tw": "png/tw/character_0230_t1.png",
       "thumbnail-us": "png/us/character_0230_t1.png",
       "title": "海軍",
-      "title-jp": "",
+      "title-jp": "海軍",
       "title-tw": "海軍",
       "title-us": ""
     },
     {
       "name": "薙刀一等兵",
-      "name-jp": "",
+      "name-jp": "ナギナタ一等兵",
       "name-tw": "薙刀一等兵",
       "name-us": "",
       "no": 186,
@@ -4274,7 +4274,7 @@
       "thumbnail-tw": "png/tw/character_0231_t1.png",
       "thumbnail-us": "png/us/character_0231_t1.png",
       "title": "海軍",
-      "title-jp": "",
+      "title-jp": "海軍",
       "title-tw": "海軍",
       "title-us": ""
     },
