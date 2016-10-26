@@ -982,6 +982,7 @@ idList[1276] = {'id':1420, 'name-jp':'雨のシリュウ', 'skill':1419}
 idList[1277] = {'id':1421, 'name-jp':'ドクＱ'}
 idList[1278] = {'id':1422, 'name-jp':'“死神”ドクＱ'}
 idList[1286] = {'id':1425, 'name-jp':'ベビー５', 'title-jp':'スパイダーマイルズの少女'}
+idList[1287] = {'id':1426, 'name-jp':'ベビー５', 'title-jp':'ドンキホーテファミリーの一員', 'skill':1425}
 idList[1293] = {'id':1380, 'name-jp':'ボア・サンダーソニア', 'title-jp':'九蛇の戦士'}
 idList[1297] = {'id':1366, 'name-jp':'赤犬'}
 idList[1298] = {'id':1367, 'name-jp':'赤犬', 'title-jp':'マグマ人間'}
