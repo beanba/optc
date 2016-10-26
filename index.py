@@ -961,6 +961,7 @@ idList[1219] = {'id':1342, 'name-jp':'バーンディ・ワールド'}
 idList[1221] = {'id':1339, 'name-jp':'リトルオーズJr.', 'title-jp':'白ひげ海賊団傘下'}
 idList[1230] = {'id':1355, 'name-jp':'鉞の戦桃丸', 'title-jp':'海軍本部将校'}
 idList[1231] = {'id':1356, 'name-jp':'スモーカー', 'title-jp':'海軍ＧＬ第５支部'}
+idList[1232] = {'id':1357, 'name-jp':'スモーカー', 'title-jp':'海軍ＧＬ第５支部「Ｇ‐５」中将'}
 idList[1240] = {'id':1365, 'name-jp':'ボルサリーノ'}
 idList[1241] = {'id':1368, 'name-jp':'コアラ', 'title-jp':'魚人空手師範代'}
 idList[1243] = {'id':1370, 'name-jp':'ハック', 'title-jp':'魚人空手師範', 'skill':8193}
