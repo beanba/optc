@@ -922,7 +922,7 @@
     },
     {
       "name": "山姆",
-      "name-jp": "",
+      "name-jp": "シャム",
       "name-tw": "山姆",
       "name-us": "",
       "no": 41,
@@ -968,7 +968,7 @@
     },
     {
       "name": "１・２傑克斯",
-      "name-jp": "",
+      "name-jp": "１・２のジャンゴ",
       "name-tw": "１・２傑克斯",
       "name-us": "",
       "no": 43,
@@ -991,7 +991,7 @@
     },
     {
       "name": "跳舞傑克斯",
-      "name-jp": "",
+      "name-jp": "ダンシングジャンゴ",
       "name-tw": "跳舞傑克斯",
       "name-us": "",
       "no": 44,
@@ -1037,7 +1037,7 @@
     },
     {
       "name": "百計的克洛",
-      "name-jp": "",
+      "name-jp": "百計のクロ",
       "name-tw": "百計的克洛",
       "name-us": "",
       "no": 46,
@@ -1060,7 +1060,7 @@
     },
     {
       "name": "約瑟夫",
-      "name-jp": "",
+      "name-jp": "ヨサク",
       "name-tw": "約瑟夫",
       "name-us": "",
       "no": 47,
@@ -1106,7 +1106,7 @@
     },
     {
       "name": "鐵拳芬布迪",
-      "name-jp": "",
+      "name-jp": "鉄拳のフルボディ",
       "name-tw": "鐵拳芬布迪",
       "name-us": "",
       "no": 49,
@@ -1129,7 +1129,7 @@
     },
     {
       "name": "帕提",
-      "name-jp": "",
+      "name-jp": "パティ",
       "name-tw": "帕提",
       "name-us": "",
       "no": 50,
@@ -1152,7 +1152,7 @@
     },
     {
       "name": "卡爾涅",
-      "name-jp": "",
+      "name-jp": "カルネ",
       "name-tw": "卡爾涅",
       "name-us": "",
       "no": 51,
@@ -1221,7 +1221,7 @@
     },
     {
       "name": "鬼人銀仔",
-      "name-jp": "",
+      "name-jp": "鬼人ギン",
       "name-tw": "鬼人銀仔",
       "name-us": "",
       "no": 54,
@@ -1244,7 +1244,7 @@
     },
     {
       "name": "帕魯",
-      "name-jp": "",
+      "name-jp": "パール",
       "name-tw": "帕魯",
       "name-us": "",
       "no": 55,
@@ -1267,7 +1267,7 @@
     },
     {
       "name": "火球帕魯",
-      "name-jp": "",
+      "name-jp": "ファイヤーパール",
       "name-tw": "火球帕魯",
       "name-us": "",
       "no": 56,
@@ -1290,7 +1290,7 @@
     },
     {
       "name": "首領克利克",
-      "name-jp": "",
+      "name-jp": "首領・クリーク",
       "name-tw": "首領克利克",
       "name-us": "",
       "no": 57,
@@ -1313,7 +1313,7 @@
     },
     {
       "name": "首領克利克",
-      "name-jp": "",
+      "name-jp": "首領・クリーク",
       "name-tw": "首領克利克",
       "name-us": "",
       "no": 58,
@@ -1330,13 +1330,13 @@
       "thumbnail-tw": "png/tw/character_0045_t1.png",
       "thumbnail-us": "png/us/character_0045_t1.png",
       "title": "劇毒毒氣彈「M・H・5」",
-      "title-jp": "",
+      "title-jp": "猛毒ガス弾「Ｍ・Ｈ・５",
       "title-tw": "劇毒毒氣彈「M・H・5」",
       "title-us": ""
     },
     {
       "name": "老鼠",
-      "name-jp": "",
+      "name-jp": "ネズミ",
       "name-tw": "老鼠",
       "name-us": "",
       "no": 59,
@@ -1382,7 +1382,7 @@
     },
     {
       "name": "啾",
-      "name-jp": "",
+      "name-jp": "チュウ",
       "name-tw": "啾",
       "name-us": "",
       "no": 61,
@@ -1405,7 +1405,7 @@
     },
     {
       "name": "克羅歐比",
-      "name-jp": "",
+      "name-jp": "クロオビ",
       "name-tw": "克羅歐比",
       "name-us": "",
       "no": 62,
@@ -1428,7 +1428,7 @@
     },
     {
       "name": "小八",
-      "name-jp": "",
+      "name-jp": "はっちゃん",
       "name-tw": "小八",
       "name-us": "",
       "no": 63,
@@ -1451,7 +1451,7 @@
     },
     {
       "name": "六刀流小八",
-      "name-jp": "",
+      "name-jp": "六刀流のハチ",
       "name-tw": "六刀流小八",
       "name-us": "",
       "no": 64,
@@ -1474,7 +1474,7 @@
     },
     {
       "name": "惡龍",
-      "name-jp": "",
+      "name-jp": "アーロン",
       "name-tw": "惡龍",
       "name-us": "",
       "no": 65,
@@ -1520,7 +1520,7 @@
     },
     {
       "name": "達絲琪",
-      "name-jp": "",
+      "name-jp": "たしぎ",
       "name-tw": "達絲琪",
       "name-us": "",
       "no": 67,
@@ -1543,7 +1543,7 @@
     },
     {
       "name": "達絲琪",
-      "name-jp": "",
+      "name-jp": "たしぎ",
       "name-tw": "達絲琪",
       "name-us": "",
       "no": 68,
@@ -1560,13 +1560,13 @@
       "thumbnail-tw": "png/tw/character_0165_t1.png",
       "thumbnail-us": "png/us/character_0165_t1.png",
       "title": "海軍本部少尉",
-      "title-jp": "",
+      "title-jp": "海軍本部少尉",
       "title-tw": "海軍本部少尉",
       "title-us": ""
     },
     {
       "name": "斯摩格",
-      "name-jp": "",
+      "name-jp": "スモーカー",
       "name-tw": "斯摩格",
       "name-us": "",
       "no": 69,
@@ -1589,7 +1589,7 @@
     },
     {
       "name": "白獵之斯摩格",
-      "name-jp": "",
+      "name-jp": "白猟のスモーカー",
       "name-tw": "白獵之斯摩格",
       "name-us": "",
       "no": 70,
@@ -1612,7 +1612,7 @@
     },
     {
       "name": "Miss星期三",
-      "name-jp": "",
+      "name-jp": "ミス・ウェンズデー",
       "name-tw": "Miss星期三",
       "name-us": "",
       "no": 71,
@@ -1635,7 +1635,7 @@
     },
     {
       "name": "納菲魯塔利・薇薇",
-      "name-jp": "",
+      "name-jp": "ネフェルタリ・ビビ",
       "name-tw": "納菲魯塔利・薇薇",
       "name-us": "",
       "no": 72,
@@ -1658,7 +1658,7 @@
     },
     {
       "name": "薇薇公主",
-      "name-jp": "",
+      "name-jp": "王女ビビ",
       "name-tw": "薇薇公主",
       "name-us": "",
       "no": 73,
@@ -1681,7 +1681,7 @@
     },
     {
       "name": "波特卡斯・D・艾斯",
-      "name-jp": "",
+      "name-jp": "ポートガス・D・エース",
       "name-tw": "波特卡斯・D・艾斯",
       "name-us": "",
       "no": 74,
@@ -1704,7 +1704,7 @@
     },
     {
       "name": "波特卡斯・D・艾斯",
-      "name-jp": "",
+      "name-jp": "ポートガス・D・エース",
       "name-tw": "波特卡斯・D・艾斯",
       "name-us": "",
       "no": 75,
@@ -1721,13 +1721,13 @@
       "thumbnail-tw": "png/tw/character_0174_t1.png",
       "thumbnail-us": "png/us/character_0174_t1.png",
       "title": "鏡火炎",
-      "title-jp": "",
+      "title-jp": "鏡火炎（きょうかえん）",
       "title-tw": "鏡火炎",
       "title-us": ""
     },
     {
       "name": "傑克",
-      "name-jp": "",
+      "name-jp": "シャンクス",
       "name-tw": "傑克",
       "name-us": "",
       "no": 76,
@@ -1750,7 +1750,7 @@
     },
     {
       "name": "紅髮傑克",
-      "name-jp": "",
+      "name-jp": "赤髪のシャンクス",
       "name-tw": "紅髮傑克",
       "name-us": "",
       "no": 77,
@@ -1773,7 +1773,7 @@
     },
     {
       "name": "紅色小偷企鵝",
-      "name-jp": "",
+      "name-jp": "赤盗人ペンギン",
       "name-tw": "紅色小偷企鵝",
       "name-us": "",
       "no": 78,
@@ -1796,7 +1796,7 @@
     },
     {
       "name": "藍色小偷企鵝",
-      "name-jp": "",
+      "name-jp": "青盗人ペンギン",
       "name-tw": "藍色小偷企鵝",
       "name-us": "",
       "no": 79,
@@ -1819,7 +1819,7 @@
     },
     {
       "name": "綠色小偷企鵝",
-      "name-jp": "",
+      "name-jp": "緑盗人ペンギン",
       "name-tw": "綠色小偷企鵝",
       "name-us": "",
       "no": 80,
@@ -1842,7 +1842,7 @@
     },
     {
       "name": "黃色小偷企鵝",
-      "name-jp": "",
+      "name-jp": "黄盗人ペンギン",
       "name-tw": "黃色小偷企鵝",
       "name-us": "",
       "no": 81,
@@ -1865,7 +1865,7 @@
     },
     {
       "name": "黑色小偷企鵝",
-      "name-jp": "",
+      "name-jp": "黒盗人ペンギン",
       "name-tw": "黑色小偷企鵝",
       "name-us": "",
       "no": 82,
@@ -1888,7 +1888,7 @@
     },
     {
       "name": "彩虹小偷企鵝",
-      "name-jp": "",
+      "name-jp": "虹盗人ペンギン",
       "name-tw": "彩虹小偷企鵝",
       "name-us": "",
       "no": 83,
@@ -1911,7 +1911,7 @@
     },
     {
       "name": "紅色海賊企鵝",
-      "name-jp": "",
+      "name-jp": "赤海賊ペンギン",
       "name-tw": "紅色海賊企鵝",
       "name-us": "",
       "no": 84,
@@ -1934,7 +1934,7 @@
     },
     {
       "name": "藍色海賊企鵝",
-      "name-jp": "",
+      "name-jp": "青海賊ペンギン",
       "name-tw": "藍色海賊企鵝",
       "name-us": "",
       "no": 85,
@@ -1957,7 +1957,7 @@
     },
     {
       "name": "綠色海賊企鵝",
-      "name-jp": "",
+      "name-jp": "緑海賊ペンギン",
       "name-tw": "綠色海賊企鵝",
       "name-us": "",
       "no": 86,
@@ -1980,7 +1980,7 @@
     },
     {
       "name": "黃色海賊企鵝",
-      "name-jp": "",
+      "name-jp": "黄海賊ペンギン",
       "name-tw": "黃色海賊企鵝",
       "name-us": "",
       "no": 87,
@@ -2003,7 +2003,7 @@
     },
     {
       "name": "黑色海賊企鵝",
-      "name-jp": "",
+      "name-jp": "黒海賊ペンギン",
       "name-tw": "黑色海賊企鵝",
       "name-us": "",
       "no": 88,
@@ -2026,7 +2026,7 @@
     },
     {
       "name": "紅色頭盔寄居蟹",
-      "name-jp": "",
+      "name-jp": "赤カブトヤドカリ",
       "name-tw": "紅色頭盔寄居蟹",
       "name-us": "",
       "no": 89,
@@ -2049,7 +2049,7 @@
     },
     {
       "name": "藍色頭盔寄居蟹",
-      "name-jp": "",
+      "name-jp": "青カブトヤドカリ",
       "name-tw": "藍色頭盔寄居蟹",
       "name-us": "",
       "no": 90,
@@ -2072,7 +2072,7 @@
     },
     {
       "name": "綠色頭盔寄居蟹",
-      "name-jp": "",
+      "name-jp": "緑カブトヤドカリ",
       "name-tw": "綠色頭盔寄居蟹",
       "name-us": "",
       "no": 91,
@@ -2095,7 +2095,7 @@
     },
     {
       "name": "黃色頭盔寄居蟹",
-      "name-jp": "",
+      "name-jp": "黄カブトヤドカリ",
       "name-tw": "黃色頭盔寄居蟹",
       "name-us": "",
       "no": 92,
@@ -2118,7 +2118,7 @@
     },
     {
       "name": "黑色頭盔寄居蟹",
-      "name-jp": "",
+      "name-jp": "黒カブトヤドカリ",
       "name-tw": "黑色頭盔寄居蟹",
       "name-us": "",
       "no": 93,
@@ -2141,7 +2141,7 @@
     },
     {
       "name": "彩虹頭盔寄居蟹",
-      "name-jp": "",
+      "name-jp": "虹カブトヤドカリ",
       "name-tw": "彩虹頭盔寄居蟹",
       "name-us": "",
       "no": 94,
@@ -2164,7 +2164,7 @@
     },
     {
       "name": "紅色鎧甲蟹",
-      "name-jp": "",
+      "name-jp": "赤ヨロイガニ",
       "name-tw": "紅色鎧甲蟹",
       "name-us": "",
       "no": 95,
@@ -2187,7 +2187,7 @@
     },
     {
       "name": "藍色鎧甲蟹",
-      "name-jp": "",
+      "name-jp": "青ヨロイガニ",
       "name-tw": "藍色鎧甲蟹",
       "name-us": "",
       "no": 96,
@@ -2210,7 +2210,7 @@
     },
     {
       "name": "綠色鎧甲蟹",
-      "name-jp": "",
+      "name-jp": "緑ヨロイガニ",
       "name-tw": "綠色鎧甲蟹",
       "name-us": "",
       "no": 97,
@@ -2233,7 +2233,7 @@
     },
     {
       "name": "黃色鎧甲蟹",
-      "name-jp": "",
+      "name-jp": "黄ヨロイガニ",
       "name-tw": "黃色鎧甲蟹",
       "name-us": "",
       "no": 98,
@@ -2256,7 +2256,7 @@
     },
     {
       "name": "黑色鎧甲蟹",
-      "name-jp": "",
+      "name-jp": "黒ヨロイガニ",
       "name-tw": "黑色鎧甲蟹",
       "name-us": "",
       "no": 99,
@@ -2279,7 +2279,7 @@
     },
     {
       "name": "紅色守護龍",
-      "name-jp": "",
+      "name-jp": "赤しま番竜",
       "name-tw": "紅色守護龍",
       "name-us": "",
       "no": 100,
@@ -2302,7 +2302,7 @@
     },
     {
       "name": "藍色守護龍",
-      "name-jp": "",
+      "name-jp": "青しま番竜",
       "name-tw": "藍色守護龍",
       "name-us": "",
       "no": 101,
@@ -2325,7 +2325,7 @@
     },
     {
       "name": "綠色守護龍",
-      "name-jp": "",
+      "name-jp": "緑しま番竜",
       "name-tw": "綠色守護龍",
       "name-us": "",
       "no": 102,
@@ -2348,7 +2348,7 @@
     },
     {
       "name": "黃色守護龍",
-      "name-jp": "",
+      "name-jp": "黄しま番竜",
       "name-tw": "黃色守護龍",
       "name-us": "",
       "no": 103,
@@ -2371,7 +2371,7 @@
     },
     {
       "name": "黑色守護龍",
-      "name-jp": "",
+      "name-jp": "黒しま番竜",
       "name-tw": "黑色守護龍",
       "name-us": "",
       "no": 104,
@@ -2417,7 +2417,7 @@
     },
     {
       "name": "藍色寶石龜",
-      "name-jp": "",
+      "name-jp": "青タカラガメ",
       "name-tw": "藍色寶石龜",
       "name-us": "",
       "no": 106,
@@ -2440,7 +2440,7 @@
     },
     {
       "name": "綠色寶石龜",
-      "name-jp": "",
+      "name-jp": "緑タカラガメ",
       "name-tw": "綠色寶石龜",
       "name-us": "",
       "no": 107,
@@ -2463,7 +2463,7 @@
     },
     {
       "name": "黃色寶石龜",
-      "name-jp": "",
+      "name-jp": "黄タカラガメ",
       "name-tw": "黃色寶石龜",
       "name-us": "",
       "no": 108,
@@ -2486,7 +2486,7 @@
     },
     {
       "name": "黑色寶石龜",
-      "name-jp": "",
+      "name-jp": "黒タカラガメ",
       "name-tw": "黑色寶石龜",
       "name-us": "",
       "no": 109,
@@ -2555,7 +2555,7 @@
     },
     {
       "name": "綠色領主海龜",
-      "name-jp": "",
+      "name-jp": "緑ダイミョウガメ",
       "name-tw": "綠色領主海龜",
       "name-us": "",
       "no": 112,
@@ -2578,7 +2578,7 @@
     },
     {
       "name": "黃色領主海龜",
-      "name-jp": "",
+      "name-jp": "黄ダイミョウガメ",
       "name-tw": "黃色領主海龜",
       "name-us": "",
       "no": 113,
@@ -2624,7 +2624,7 @@
     },
     {
       "name": "海馬",
-      "name-jp": "",
+      "name-jp": "タツノコ",
       "name-tw": "海馬",
       "name-us": "",
       "no": 115,
@@ -2647,7 +2647,7 @@
     },
     {
       "name": "海馬王子",
-      "name-jp": "",
+      "name-jp": "タツノワカ",
       "name-tw": "海馬王子",
       "name-us": "",
       "no": 116,
@@ -2670,7 +2670,7 @@
     },
     {
       "name": "海馬皇太子",
-      "name-jp": "",
+      "name-jp": "タツノミコト",
       "name-tw": "海馬皇太子",
       "name-us": "",
       "no": 117,
@@ -2693,7 +2693,7 @@
     },
     {
       "name": "海馬王",
-      "name-jp": "",
+      "name-jp": "タツノオウ",
       "name-tw": "海馬王",
       "name-us": "",
       "no": 118,
@@ -17403,7 +17403,7 @@
       "skill-tw": "png/tw/motion_0875_fukurou_skill_name.png",
       "skill-us": "png/us/motion_0875_fukurou_skill_name.png",
       "thumbnail": "png/tw/character_0875_t1.png",
-      "thumbnail-jp": "png/jp/character_none.png",
+      "thumbnail-jp": "png/jp/character_0875_t1.png",
       "thumbnail-tw": "png/tw/character_0875_t1.png",
       "thumbnail-us": "png/us/character_0875_t1.png",
       "title": "闇之正義「ＣＰ９」",
