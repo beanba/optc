@@ -993,6 +993,7 @@ idList[1298] = {'id':1367, 'name-jp':'赤犬', 'title-jp':'マグマ人間'}
 idList[1299] = {'id':1444, 'name-jp':'レベッカ　ラブリーモンスターキャット'}
 idList[1301] = {'id':1446, 'name-jp':'受刑者　バギー'}
 idList[1303] = {'id':1448, 'name-jp':'脱走囚　ギャルディーノ'}
+idList[1311] = {'id':1382, 'name-jp':'ボア・マリーゴールド', 'title-jp':'九蛇の戦士'}
 
 rtn = {
 	"builds":[]
