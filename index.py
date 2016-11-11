@@ -9,7 +9,7 @@ import os.path
 import sys
 
 idList = {}
-for x in xrange(1,1301):
+for x in xrange(1,1321):
 	idList[x] = {'id':9999}
 
 idList[1] = {'id':1, 'name-tw':'蒙其・D・魯夫', 'name-jp':'モンキー・D・ルフィ'}
@@ -1006,6 +1006,7 @@ idList[1299] = {'id':1444, 'name-jp':'レベッカ　ラブリーモンスター
 idList[1301] = {'id':1446, 'name-jp':'受刑者　バギー'}
 idList[1303] = {'id':1448, 'name-jp':'脱走囚　ギャルディーノ'}
 idList[1311] = {'id':1382, 'name-jp':'ボア・マリーゴールド', 'title-jp':'九蛇の戦士'}
+idList[1317] = {'id':1458, 'name-jp':'モンキー・D・ガープ', 'title-jp':'海軍本部中将'}
 
 rtn = {
 	"builds":[]
