@@ -13,6 +13,14 @@ if [ -n "$c1" ]; then
   exit 0
 fi
 
+if [ -n "$t1" ]; then
+  adb shell ls /data/data/$PKG/files/Cache/GNPCACHE/*/*t1.png | tr '\r' ' ' | xargs -n1 adb pull
+  if [ $? == 0 ]; then
+    mv *.png $BASEDIR'/png/'$SUBDIR'/'
+  fi
+  exit 0
+fi
+
 # pull GNPCACHE, mv *.png to SUBDIR
 rm -rf GNPCACHE
 adb pull /data/data/$PKG/files/Cache/GNPCACHE
