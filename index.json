@@ -7799,7 +7799,7 @@
     },
     {
       "name": "大海怪",
-      "name-jp": "",
+      "name-jp": "クラーケン",
       "name-tw": "大海怪",
       "name-us": "",
       "no": 340,
@@ -7816,13 +7816,13 @@
       "thumbnail-tw": "png/tw/character_0399_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title": "魷魚",
-      "title-jp": "",
+      "title-jp": "スルメ",
       "title-tw": "魷魚",
       "title-us": ""
     },
     {
       "name": "大海怪",
-      "name-jp": "",
+      "name-jp": "クラーケン",
       "name-tw": "大海怪",
       "name-us": "",
       "no": 341,
@@ -7839,13 +7839,13 @@
       "thumbnail-tw": "png/tw/character_0400_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title": "北極的怪物",
-      "title-jp": "",
+      "title-jp": "北極の怪物",
       "title-tw": "北極的怪物",
       "title-us": ""
     },
     {
       "name": "紅色能量豬",
-      "name-jp": "",
+      "name-jp": "赤パワース豚（トーン）",
       "name-tw": "紅色能量豬",
       "name-us": "",
       "no": 342,
@@ -7868,7 +7868,7 @@
     },
     {
       "name": "藍色能量豬",
-      "name-jp": "",
+      "name-jp": "青パワース豚（トーン）",
       "name-tw": "藍色能量豬",
       "name-us": "",
       "no": 343,
@@ -7891,7 +7891,7 @@
     },
     {
       "name": "綠色能量豬",
-      "name-jp": "",
+      "name-jp": "緑パワース豚（トーン）",
       "name-tw": "綠色能量豬",
       "name-us": "",
       "no": 344,
@@ -7914,7 +7914,7 @@
     },
     {
       "name": "黃色能量豬",
-      "name-jp": "",
+      "name-jp": "黄パワース豚（トーン）",
       "name-tw": "黃色能量豬",
       "name-us": "",
       "no": 345,
@@ -7937,7 +7937,7 @@
     },
     {
       "name": "黑色能量豬",
-      "name-jp": "",
+      "name-jp": "黒パワース豚（トーン）",
       "name-tw": "黑色能量豬",
       "name-us": "",
       "no": 346,
@@ -7960,7 +7960,7 @@
     },
     {
       "name": "紅寶石能量豬",
-      "name-jp": "",
+      "name-jp": "ルビーパワース豚（トーン）",
       "name-tw": "紅寶石能量豬",
       "name-us": "",
       "no": 347,
@@ -7983,7 +7983,7 @@
     },
     {
       "name": "藍寶石能量豬",
-      "name-jp": "",
+      "name-jp": "サファイアパワース豚（トーン）",
       "name-tw": "藍寶石能量豬",
       "name-us": "",
       "no": 348,
@@ -8006,7 +8006,7 @@
     },
     {
       "name": "綠寶石能量豬",
-      "name-jp": "",
+      "name-jp": "エメラルドパワース豚（トーン）",
       "name-tw": "綠寶石能量豬",
       "name-us": "",
       "no": 349,
@@ -8029,7 +8029,7 @@
     },
     {
       "name": "黃寶石能量豬",
-      "name-jp": "",
+      "name-jp": "トパーズパワース豚（トーン）",
       "name-tw": "黃寶石能量豬",
       "name-us": "",
       "no": 350,
@@ -8052,7 +8052,7 @@
     },
     {
       "name": "紫水晶能量豬",
-      "name-jp": "",
+      "name-jp": "アメジストパワース豚（トーン）",
       "name-tw": "紫水晶能量豬",
       "name-us": "",
       "no": 351,
@@ -8144,7 +8144,7 @@
     },
     {
       "name": "艾茵",
-      "name-jp": "",
+      "name-jp": "アイン",
       "name-tw": "艾茵",
       "name-us": "",
       "no": 355,
@@ -8161,7 +8161,7 @@
       "thumbnail-tw": "png/tw/character_0380_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title": "新海軍副提督",
-      "title-jp": "",
+      "title-jp": "NEO海軍バイス・アドミラル",
       "title-tw": "新海軍副提督",
       "title-us": ""
     },
@@ -8788,7 +8788,7 @@
     },
     {
       "name": "Mr.0",
-      "name-jp": "",
+      "name-jp": "Mr.0",
       "name-tw": "Mr.0",
       "name-us": "",
       "no": 383,
@@ -8805,13 +8805,13 @@
       "thumbnail-tw": "png/tw/character_0383_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title": "巴洛克華克社長",
-      "title-jp": "",
+      "title-jp": "バロックワークス社長",
       "title-tw": "巴洛克華克社長",
       "title-us": ""
     },
     {
       "name": "沙・克洛克達爾",
-      "name-jp": "",
+      "name-jp": "サー・クロコダイル",
       "name-tw": "沙・克洛克達爾",
       "name-us": "",
       "no": 384,
@@ -8834,7 +8834,7 @@
     },
     {
       "name": "赫古巴庫",
-      "name-jp": "",
+      "name-jp": "ホグバック",
       "name-tw": "赫古巴庫",
       "name-us": "",
       "no": 385,
@@ -8857,7 +8857,7 @@
     },
     {
       "name": "赫古巴庫醫生",
-      "name-jp": "",
+      "name-jp": "ドクトル・ホグバック",
       "name-tw": "赫古巴庫醫生",
       "name-us": "",
       "no": 386,
@@ -8880,7 +8880,7 @@
     },
     {
       "name": "辛朵莉",
-      "name-jp": "",
+      "name-jp": "シンドリーちゃん",
       "name-tw": "辛朵莉",
       "name-us": "",
       "no": 387,
@@ -8903,7 +8903,7 @@
     },
     {
       "name": "維多莉亞・辛朵莉",
-      "name-jp": "",
+      "name-jp": "ビクトリア・シンドリー",
       "name-tw": "維多莉亞・辛朵莉",
       "name-us": "",
       "no": 388,
@@ -8926,7 +8926,7 @@
     },
     {
       "name": "艾波利歐・伊娃柯夫",
-      "name-jp": "",
+      "name-jp": "エンポリオ・イワンコフ",
       "name-tw": "艾波利歐・伊娃柯夫",
       "name-us": "",
       "no": 389,
@@ -8949,7 +8949,7 @@
     },
     {
       "name": "艾波利歐・伊娃柯夫",
-      "name-jp": "",
+      "name-jp": "エンポリオ・イワンコフ",
       "name-tw": "艾波利歐・伊娃柯夫",
       "name-us": "",
       "no": 390,
@@ -8966,13 +8966,13 @@
       "thumbnail-tw": "png/tw/character_0402_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title": "卡馬帕卡王國女王【永久缺號】",
-      "title-jp": "",
+      "title-jp": "カマバッカ王国女王【永久欠番】",
       "title-tw": "卡馬帕卡王國女王【永久缺號】",
       "title-us": ""
     },
     {
       "name": "培羅娜",
-      "name-jp": "",
+      "name-jp": "ペローナ",
       "name-tw": "培羅娜",
       "name-us": "",
       "no": 391,
@@ -8995,7 +8995,7 @@
     },
     {
       "name": "培羅娜",
-      "name-jp": "",
+      "name-jp": "ペローナ",
       "name-tw": "培羅娜",
       "name-us": "",
       "no": 392,
@@ -9012,13 +9012,13 @@
       "thumbnail-tw": "png/tw/character_0416_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title": "鬼魂公主",
-      "title-jp": "",
+      "title-jp": "ゴーストプリンセス",
       "title-tw": "鬼魂公主",
       "title-us": ""
     },
     {
       "name": "庫馬希",
-      "name-jp": "",
+      "name-jp": "クマシー",
       "name-tw": "庫馬希",
       "name-us": "",
       "no": 393,
@@ -9041,7 +9041,7 @@
     },
     {
       "name": "狗企鵝",
-      "name-jp": "",
+      "name-jp": "犬ッペ",
       "name-tw": "狗企鵝",
       "name-us": "",
       "no": 394,
@@ -9064,7 +9064,7 @@
     },
     {
       "name": "Miss 聖誕節",
-      "name-jp": "",
+      "name-jp": "ミス・メリークリスマス",
       "name-tw": "Miss 聖誕節",
       "name-us": "Miss Merry Christmas",
       "no": 395,
@@ -9087,7 +9087,7 @@
     },
     {
       "name": "Miss 聖誕節",
-      "name-jp": "",
+      "name-jp": "ミス・メリークリスマス",
       "name-tw": "Miss 聖誕節",
       "name-us": "",
       "no": 396,
@@ -9104,13 +9104,13 @@
       "thumbnail-tw": "png/tw/character_0428_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title": "鼴鼠人",
-      "title-jp": "",
+      "title-jp": "モグラ人間",
       "title-tw": "鼴鼠人",
       "title-us": ""
     },
     {
       "name": "Mr.4",
-      "name-jp": "",
+      "name-jp": "Mr.4",
       "name-tw": "Mr.4",
       "name-us": "",
       "no": 397,
@@ -9133,7 +9133,7 @@
     },
     {
       "name": "Mr.4 與犬槍拉蘇",
-      "name-jp": "",
+      "name-jp": "Mr.4と犬銃ラッスー",
       "name-tw": "Mr.4 與犬槍拉蘇",
       "name-us": "",
       "no": 398,
@@ -9179,7 +9179,7 @@
     },
     {
       "name": "Miss 雙手指",
-      "name-jp": "",
+      "name-jp": "ミス・ダブルフィンガー",
       "name-tw": "Miss 雙手指",
       "name-us": "",
       "no": 400,
@@ -9196,13 +9196,13 @@
       "thumbnail-tw": "png/tw/character_0432_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title": "荊棘人",
-      "title-jp": "",
+      "title-jp": "棘（とげ）人間",
       "title-tw": "荊棘人",
       "title-us": ""
     },
     {
       "name": "Mr.1",
-      "name-jp": "",
+      "name-jp": "Mr.1",
       "name-tw": "Mr.1",
       "name-us": "",
       "no": 401,
@@ -9225,7 +9225,7 @@
     },
     {
       "name": "Mr.1",
-      "name-jp": "",
+      "name-jp": "Mr.1",
       "name-tw": "Mr.1",
       "name-us": "",
       "no": 402,
@@ -9242,13 +9242,13 @@
       "thumbnail-tw": "png/tw/character_0434_t1.png",
       "thumbnail-us": "png/us/character_0434_t1.png",
       "title": "全身刀刃人",
-      "title-jp": "",
+      "title-jp": "全身刃物人間",
       "title-tw": "全身刀刃人",
       "title-us": ""
     },
     {
       "name": "蕾貝卡",
-      "name-jp": "",
+      "name-jp": "レベッカ",
       "name-tw": "蕾貝卡",
       "name-us": "",
       "no": 403,
@@ -9271,7 +9271,7 @@
     },
     {
       "name": "阿布薩羅姆",
-      "name-jp": "",
+      "name-jp": "アブサロム",
       "name-tw": "阿布薩羅姆",
       "name-us": "",
       "no": 404,
@@ -9294,7 +9294,7 @@
     },
     {
       "name": "墓園的阿布薩羅姆",
-      "name-jp": "",
+      "name-jp": "墓場のアブサロム",
       "name-tw": "墓園的阿布薩羅姆",
       "name-us": "",
       "no": 405,
@@ -9317,7 +9317,7 @@
     },
     {
       "name": "將軍殭屍",
-      "name-jp": "",
+      "name-jp": "将軍ゾンビ",
       "name-tw": "將軍殭屍",
       "name-us": "",
       "no": 406,
@@ -9340,7 +9340,7 @@
     },
     {
       "name": "風之治五郎",
-      "name-jp": "",
+      "name-jp": "風のジゴロウ",
       "name-tw": "風之治五郎",
       "name-us": "",
       "no": 407,
@@ -9639,8 +9639,8 @@
     },
     {
       "name": "モンキー・Ｄ・ルフィ",
-      "name-jp": "",
-      "name-tw": "モンキー・Ｄ・ルフィ",
+      "name-jp": "モンキー・Ｄ・ルフィ",
+      "name-tw": "",
       "name-us": "",
       "no": 420,
       "portrait": "png/jp/character_0444_c1.png",
@@ -9656,8 +9656,8 @@
       "thumbnail-tw": "png/tw/character_none.png",
       "thumbnail-us": "png/us/character_0444_t1.png",
       "title": "ゴムゴムのバズーカ“覇”",
-      "title-jp": "",
-      "title-tw": "ゴムゴムのバズーカ“覇”",
+      "title-jp": "ゴムゴムのバズーカ“覇”",
+      "title-tw": "",
       "title-us": ""
     },
     {
@@ -10237,7 +10237,7 @@
     },
     {
       "name": "馬歇爾・D・汀奇",
-      "name-jp": "",
+      "name-jp": "マーシャル・Ｄ・ティーチ",
       "name-tw": "馬歇爾・D・汀奇",
       "name-us": "",
       "no": 446,
@@ -10260,7 +10260,7 @@
     },
     {
       "name": "黑鬍子",
-      "name-jp": "",
+      "name-jp": "黒ひげ",
       "name-tw": "黑鬍子",
       "name-us": "Blackbeard",
       "no": 447,
@@ -10283,7 +10283,7 @@
     },
     {
       "name": "薩吉",
-      "name-jp": "",
+      "name-jp": "サッチ",
       "name-tw": "薩吉",
       "name-us": "",
       "no": 448,
@@ -10306,7 +10306,7 @@
     },
     {
       "name": "雙劍的薩吉",
-      "name-jp": "",
+      "name-jp": "双剣のサッチ",
       "name-tw": "雙劍的薩吉",
       "name-us": "",
       "no": 449,
@@ -10329,7 +10329,7 @@
     },
     {
       "name": "納米爾",
-      "name-jp": "",
+      "name-jp": "ナミュール",
       "name-tw": "納米爾",
       "name-us": "",
       "no": 450,
@@ -10352,7 +10352,7 @@
     },
     {
       "name": "奮力一擊的納米爾",
-      "name-jp": "",
+      "name-jp": "一撃のナミュール",
       "name-tw": "奮力一擊的納米爾",
       "name-us": "",
       "no": 451,
@@ -10375,7 +10375,7 @@
     },
     {
       "name": "落葉",
-      "name-jp": "",
+      "name-jp": "ラクヨウ",
       "name-tw": "落葉",
       "name-us": "",
       "no": 452,
@@ -10398,7 +10398,7 @@
     },
     {
       "name": "流星錘的落葉",
-      "name-jp": "",
+      "name-jp": "モーニングスターのラクヨウ",
       "name-tw": "流星錘的落葉",
       "name-us": "",
       "no": 453,
@@ -10421,7 +10421,7 @@
     },
     {
       "name": "佛薩",
-      "name-jp": "",
+      "name-jp": "フォッサ",
       "name-tw": "佛薩",
       "name-us": "",
       "no": 454,
@@ -10444,7 +10444,7 @@
     },
     {
       "name": "火炎刀的佛薩",
-      "name-jp": "",
+      "name-jp": "火炎刀のフォッサ",
       "name-tw": "火炎刀的佛薩",
       "name-us": "",
       "no": 455,
@@ -10467,7 +10467,7 @@
     },
     {
       "name": "克利耶爾",
-      "name-jp": "",
+      "name-jp": "クリエル",
       "name-tw": "克利耶爾",
       "name-us": "",
       "no": 456,
@@ -10490,7 +10490,7 @@
     },
     {
       "name": "使用重型火藥兵器的克利耶爾",
-      "name-jp": "",
+      "name-jp": "重火器使いのクリエル",
       "name-tw": "使用重型火藥兵器的克利耶爾",
       "name-us": "",
       "no": 457,
@@ -10559,7 +10559,7 @@
     },
     {
       "name": "犯罪者　加爾迪諾",
-      "name-jp": "",
+      "name-jp": "犯罪者ギャルディーノ",
       "name-tw": "犯罪者　加爾迪諾",
       "name-us": "",
       "no": 460,
@@ -10576,13 +10576,13 @@
       "thumbnail-tw": "png/tw/character_0521_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title": "Mr.3",
-      "title-jp": "",
+      "title-jp": "Mr.3",
       "title-tw": "Mr.3",
       "title-us": ""
     },
     {
       "name": "脫逃者　班薩姆",
-      "name-jp": "",
+      "name-jp": "脱走者ベンサム",
       "name-tw": "脫逃者　班薩姆",
       "name-us": "",
       "no": 461,
@@ -10599,13 +10599,13 @@
       "thumbnail-tw": "png/tw/character_0505_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title": "Mr.2　馮・克雷",
-      "title-jp": "",
+      "title-jp": "Mr.2・ボン・クレー",
       "title-tw": "Mr.2　馮・克雷",
       "title-us": ""
     },
     {
       "name": "逃獄名人　班薩姆",
-      "name-jp": "",
+      "name-jp": "脱獄名人ベンサム",
       "name-tw": "逃獄名人　班薩姆",
       "name-us": "",
       "no": 462,
@@ -10622,13 +10622,13 @@
       "thumbnail-tw": "png/tw/character_0506_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title": "Mr.2　馮・克雷",
-      "title-jp": "",
+      "title-jp": "Mr.2・ボン・クレー",
       "title-tw": "Mr.2　馮・克雷",
       "title-us": ""
     },
     {
       "name": "大悟",
-      "name-jp": "",
+      "name-jp": "サトリ",
       "name-tw": "大悟",
       "name-us": "",
       "no": 463,
@@ -10650,8 +10650,8 @@
       "title-us": ""
     },
     {
-      "name": "Shura",
-      "name-jp": "",
+      "name": "シュラ",
+      "name-jp": "シュラ",
       "name-tw": "",
       "name-us": "Shura",
       "no": 464,
@@ -10674,7 +10674,7 @@
     },
     {
       "name": "涅槃",
-      "name-jp": "",
+      "name-jp": "ゲダツ",
       "name-tw": "涅槃",
       "name-us": "",
       "no": 465,
@@ -10697,7 +10697,7 @@
     },
     {
       "name": "布拉哈姆",
-      "name-jp": "",
+      "name-jp": "ブラハム",
       "name-tw": "布拉哈姆",
       "name-us": "Braham",
       "no": 466,
@@ -10720,7 +10720,7 @@
     },
     {
       "name": "大山",
-      "name-jp": "",
+      "name-jp": "ヤマ",
       "name-tw": "大山",
       "name-us": "",
       "no": 467,
