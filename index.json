@@ -5729,7 +5729,7 @@
     },
     {
       "name": "馬可",
-      "name-jp": "",
+      "name-jp": "マルコ",
       "name-tw": "馬可",
       "name-us": "",
       "no": 250,
@@ -5752,7 +5752,7 @@
     },
     {
       "name": "不死鳥馬可",
-      "name-jp": "",
+      "name-jp": "不死鳥マルコ",
       "name-tw": "不死鳥馬可",
       "name-us": "",
       "no": 251,
@@ -5775,7 +5775,7 @@
     },
     {
       "name": "裘斯",
-      "name-jp": "",
+      "name-jp": "ジョズ",
       "name-tw": "裘斯",
       "name-us": "",
       "no": 252,
@@ -5798,7 +5798,7 @@
     },
     {
       "name": "鑽石裘斯",
-      "name-jp": "",
+      "name-jp": "ダイヤモンド・ジョズ",
       "name-tw": "鑽石裘斯",
       "name-us": "",
       "no": 253,
@@ -5821,7 +5821,7 @@
     },
     {
       "name": "比斯塔",
-      "name-jp": "",
+      "name-jp": "ビスタ",
       "name-tw": "比斯塔",
       "name-us": "Vista",
       "no": 254,
@@ -5844,7 +5844,7 @@
     },
     {
       "name": "花劍比斯塔",
-      "name-jp": "",
+      "name-jp": "花剣のビスタ",
       "name-tw": "花劍比斯塔",
       "name-us": "",
       "no": 255,
@@ -5913,7 +5913,7 @@
     },
     {
       "name": "布朗明哥",
-      "name-jp": "",
+      "name-jp": "ブラメンコ",
       "name-tw": "布朗明哥",
       "name-us": "",
       "no": 258,
@@ -5936,7 +5936,7 @@
     },
     {
       "name": "大槌布朗明哥",
-      "name-jp": "",
+      "name-jp": "大槌のブラメンコ",
       "name-tw": "大槌布朗明哥",
       "name-us": "",
       "no": 259,
@@ -5959,7 +5959,7 @@
     },
     {
       "name": "艾德華・紐蓋特",
-      "name-jp": "",
+      "name-jp": "エドワード・ニューゲート",
       "name-tw": "艾德華・紐蓋特",
       "name-us": "",
       "no": 260,
@@ -5982,7 +5982,7 @@
     },
     {
       "name": "白鬍子",
-      "name-jp": "",
+      "name-jp": "白ひげ",
       "name-tw": "白鬍子",
       "name-us": "",
       "no": 261,
@@ -7040,7 +7040,7 @@
     },
     {
       "name": "托拉法爾加・羅",
-      "name-jp": "",
+      "name-jp": "トラファルガー・ロー",
       "name-tw": "托拉法爾加・羅",
       "name-us": "",
       "no": 307,
@@ -7063,7 +7063,7 @@
     },
     {
       "name": "托拉法爾加・羅",
-      "name-jp": "",
+      "name-jp": "トラファルガー・ロー",
       "name-tw": "托拉法爾加・羅",
       "name-us": "",
       "no": 308,
@@ -7080,13 +7080,13 @@
       "thumbnail-tw": "png/tw/character_0331_t1.png",
       "thumbnail-us": "png/us/character_0331_t1.png",
       "title": "ROOM",
-      "title-jp": "",
+      "title-jp": "ROOM",
       "title-tw": "ROOM",
       "title-us": ""
     },
     {
       "name": "巴吉魯・霍金斯",
-      "name-jp": "",
+      "name-jp": "バジル・ホーキンス",
       "name-tw": "巴吉魯・霍金斯",
       "name-us": "",
       "no": 309,
@@ -7109,7 +7109,7 @@
     },
     {
       "name": "魔術師巴吉魯・霍金斯",
-      "name-jp": "",
+      "name-jp": "魔術師バジル・ホーキンス",
       "name-tw": "魔術師巴吉魯・霍金斯",
       "name-us": "",
       "no": 310,
@@ -7178,7 +7178,7 @@
     },
     {
       "name": "烏魯基",
-      "name-jp": "",
+      "name-jp": "ウルージ",
       "name-tw": "烏魯基",
       "name-us": "",
       "no": 313,
@@ -7201,7 +7201,7 @@
     },
     {
       "name": "怪僧烏魯基",
-      "name-jp": "",
+      "name-jp": "怪僧ウルージ",
       "name-tw": "怪僧烏魯基",
       "name-us": "",
       "no": 314,
@@ -7224,7 +7224,7 @@
     },
     {
       "name": "培波",
-      "name-jp": "",
+      "name-jp": "ベポ",
       "name-tw": "培波",
       "name-us": "",
       "no": 315,
@@ -7247,7 +7247,7 @@
     },
     {
       "name": "武鬥家培波",
-      "name-jp": "",
+      "name-jp": "武闘家のベポ",
       "name-tw": "武鬥家培波",
       "name-us": "",
       "no": 316,
@@ -7638,7 +7638,7 @@
     },
     {
       "name": "Dr.古蕾娃",
-      "name-jp": "",
+      "name-jp": "Dr.くれは",
       "name-tw": "Dr.古蕾娃",
       "name-us": "",
       "no": 333,
@@ -7661,7 +7661,7 @@
     },
     {
       "name": "食肉兔",
-      "name-jp": "",
+      "name-jp": "ラパーン",
       "name-tw": "食肉兔",
       "name-us": "",
       "no": 334,
@@ -7684,7 +7684,7 @@
     },
     {
       "name": "食肉兔",
-      "name-jp": "",
+      "name-jp": "ラパーン",
       "name-tw": "食肉兔",
       "name-us": "",
       "no": 335,
@@ -7701,13 +7701,13 @@
       "thumbnail-tw": "png/tw/character_0349_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title": "成獸",
-      "title-jp": "",
+      "title-jp": "成獣",
       "title-tw": "成獸",
       "title-us": ""
     },
     {
       "name": "佛朗基",
-      "name-jp": "",
+      "name-jp": "フランキー",
       "name-tw": "佛朗基",
       "name-us": "",
       "no": 336,
@@ -8190,7 +8190,7 @@
     },
     {
       "name": "船長基德",
-      "name-jp": "",
+      "name-jp": "キャプテン・キッド",
       "name-tw": "船長基德",
       "name-us": "",
       "no": 357,
@@ -8213,7 +8213,7 @@
     },
     {
       "name": "刮盤人・亞普",
-      "name-jp": "",
+      "name-jp": "スクラッチメン・アプー",
       "name-tw": "刮盤人・亞普",
       "name-us": "",
       "no": 358,
@@ -8259,7 +8259,7 @@
     },
     {
       "name": "X・多雷古",
-      "name-jp": "",
+      "name-jp": "X・ドレーク",
       "name-tw": "X・多雷古",
       "name-us": "",
       "no": 360,
@@ -8282,7 +8282,7 @@
     },
     {
       "name": "紅旗　X・多雷古",
-      "name-jp": "",
+      "name-jp": "赤旗 X・ドレーク",
       "name-tw": "紅旗　X・多雷古",
       "name-us": "",
       "no": 361,
@@ -8305,7 +8305,7 @@
     },
     {
       "name": "珠寶・波妮",
-      "name-jp": "",
+      "name-jp": "ジュエリー・ボニー",
       "name-tw": "珠寶・波妮",
       "name-us": "",
       "no": 362,
@@ -8328,7 +8328,7 @@
     },
     {
       "name": "大胃王 珠寶・波妮",
-      "name-jp": "",
+      "name-jp": "大喰らい ジュエリー・ボニー",
       "name-tw": "大胃王 珠寶・波妮",
       "name-us": "",
       "no": 363,
@@ -8351,7 +8351,7 @@
     },
     {
       "name": "卡波涅・培基",
-      "name-jp": "",
+      "name-jp": "カポネ・ベッジ",
       "name-tw": "卡波涅・培基",
       "name-us": "",
       "no": 364,
@@ -8374,7 +8374,7 @@
     },
     {
       "name": "卡波涅・流氓・培基",
-      "name-jp": "",
+      "name-jp": "カポネ・ギャング・ベッジ",
       "name-tw": "卡波涅・流氓・培基",
       "name-us": "",
       "no": 365,
@@ -8397,7 +8397,7 @@
     },
     {
       "name": "席爾巴斯・雷利",
-      "name-jp": "",
+      "name-jp": "シルバーズ・レイリー",
       "name-tw": "席爾巴斯・雷利",
       "name-us": "",
       "no": 366,
@@ -8443,7 +8443,7 @@
     },
     {
       "name": "巨人斬擊隊",
-      "name-jp": "",
+      "name-jp": "巨人斬撃隊",
       "name-tw": "巨人斬擊隊",
       "name-us": "",
       "no": 368,
@@ -8460,13 +8460,13 @@
       "thumbnail-tw": "png/tw/character_0363_t1.png",
       "thumbnail-us": "png/us/character_0363_t1.png",
       "title": "紅色海賊",
-      "title-jp": "",
+      "title-jp": "レッドパイレーツ",
       "title-tw": "紅色海賊",
       "title-us": ""
     },
     {
       "name": "巨人射擊隊",
-      "name-jp": "",
+      "name-jp": "巨人射撃隊",
       "name-tw": "巨人射擊隊",
       "name-us": "",
       "no": 369,
@@ -8483,13 +8483,13 @@
       "thumbnail-tw": "png/tw/character_0366_t1.png",
       "thumbnail-us": "png/us/character_0366_t1.png",
       "title": "藍色海賊",
-      "title-jp": "",
+      "title-jp": "ブルーパイレーツ",
       "title-tw": "藍色海賊",
       "title-us": ""
     },
     {
       "name": "巨人女戰士隊",
-      "name-jp": "",
+      "name-jp": "巨人女戦士隊",
       "name-tw": "巨人女戰士隊",
       "name-us": "",
       "no": 370,
@@ -8506,13 +8506,13 @@
       "thumbnail-tw": "png/tw/character_0365_t1.png",
       "thumbnail-us": "png/us/character_0365_t1.png",
       "title": "綠色海賊",
-      "title-jp": "",
+      "title-jp": "グリーンパイレーツ",
       "title-tw": "綠色海賊",
       "title-us": ""
     },
     {
       "name": "巨人格鬥隊",
-      "name-jp": "",
+      "name-jp": "巨人格闘隊",
       "name-tw": "巨人格鬥隊",
       "name-us": "",
       "no": 371,
@@ -8529,13 +8529,13 @@
       "thumbnail-tw": "png/tw/character_0362_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title": "黃色海賊",
-      "title-jp": "",
+      "title-jp": "イエローパイレーツ",
       "title-tw": "黃色海賊",
       "title-us": ""
     },
     {
       "name": "巨人突擊隊",
-      "name-jp": "",
+      "name-jp": "巨人突撃隊",
       "name-tw": "巨人突擊隊",
       "name-us": "",
       "no": 372,
@@ -8552,13 +8552,13 @@
       "thumbnail-tw": "png/tw/character_0364_t1.png",
       "thumbnail-us": "png/us/character_0364_t1.png",
       "title": "黑色海賊",
-      "title-jp": "",
+      "title-jp": "ブラックパイレーツ",
       "title-tw": "黑色海賊",
       "title-us": ""
     },
     {
       "name": "巨人斬擊近衛隊",
-      "name-jp": "",
+      "name-jp": "巨人斬撃近衛隊",
       "name-tw": "巨人斬擊近衛隊",
       "name-us": "",
       "no": 373,
@@ -8575,13 +8575,13 @@
       "thumbnail-tw": "png/tw/character_0391_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title": "紅色海賊",
-      "title-jp": "",
+      "title-jp": "レッドパイレーツ",
       "title-tw": "紅色海賊",
       "title-us": ""
     },
     {
       "name": "巨人射擊近衛隊",
-      "name-jp": "",
+      "name-jp": "巨人射撃近衛隊",
       "name-tw": "巨人射擊近衛隊",
       "name-us": "",
       "no": 374,
@@ -8598,13 +8598,13 @@
       "thumbnail-tw": "png/tw/character_0394_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title": "藍色海賊",
-      "title-jp": "",
+      "title-jp": "ブルーパイレーツ",
       "title-tw": "藍色海賊",
       "title-us": ""
     },
     {
       "name": "巨人女戰士近衛隊",
-      "name-jp": "",
+      "name-jp": "巨人女戦士近衛隊",
       "name-tw": "巨人女戰士近衛隊",
       "name-us": "",
       "no": 375,
@@ -8621,13 +8621,13 @@
       "thumbnail-tw": "png/tw/character_0393_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title": "綠色海賊",
-      "title-jp": "",
+      "title-jp": "グリーンパイレーツ",
       "title-tw": "綠色海賊",
       "title-us": ""
     },
     {
       "name": "巨人格鬥近衛隊",
-      "name-jp": "",
+      "name-jp": "巨人格闘近衛隊",
       "name-tw": "巨人格鬥近衛隊",
       "name-us": "",
       "no": 376,
@@ -8644,13 +8644,13 @@
       "thumbnail-tw": "png/tw/character_0390_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title": "黃色海賊",
-      "title-jp": "",
+      "title-jp": "イエローパイレーツ",
       "title-tw": "黃色海賊",
       "title-us": ""
     },
     {
       "name": "巨人突擊近衛隊",
-      "name-jp": "",
+      "name-jp": "巨人突撃近衛隊",
       "name-tw": "巨人突擊近衛隊",
       "name-us": "",
       "no": 377,
@@ -8667,7 +8667,7 @@
       "thumbnail-tw": "png/tw/character_0392_t1.png",
       "thumbnail-us": "png/us/character_none.png",
       "title": "黑色海賊",
-      "title-jp": "",
+      "title-jp": "ブラックパイレーツ",
       "title-tw": "黑色海賊",
       "title-us": ""
     },
