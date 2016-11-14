@@ -5292,7 +5292,7 @@
     },
     {
       "name": "希娜",
-      "name-jp": "",
+      "name-jp": "ヒナ",
       "name-tw": "希娜",
       "name-us": "",
       "no": 231,
@@ -5315,7 +5315,7 @@
     },
     {
       "name": "黑檻的希娜",
-      "name-jp": "",
+      "name-jp": "黒檻のヒナ",
       "name-tw": "黑檻的希娜",
       "name-us": "",
       "no": 232,
@@ -5545,7 +5545,7 @@
     },
     {
       "name": "戴手指虎的億萬長者",
-      "name-jp": "",
+      "name-jp": "ナックルビリオンズ",
       "name-tw": "戴手指虎的億萬長者",
       "name-us": "",
       "no": 242,
@@ -5562,13 +5562,13 @@
       "thumbnail-tw": "png/tw/character_0281_t1.png",
       "thumbnail-us": "png/us/character_0281_t1.png",
       "title": "巴洛克華克",
-      "title-jp": "",
+      "title-jp": "バロックワークス",
       "title-tw": "巴洛克華克",
       "title-us": ""
     },
     {
       "name": "佩劍的億萬長者",
-      "name-jp": "",
+      "name-jp": "サーベルビリオンズ",
       "name-tw": "佩劍的億萬長者",
       "name-us": "",
       "no": 243,
@@ -5585,13 +5585,13 @@
       "thumbnail-tw": "png/tw/character_0282_t1.png",
       "thumbnail-us": "png/us/character_0282_t1.png",
       "title": "巴洛克華克",
-      "title-jp": "",
+      "title-jp": "バロックワークス",
       "title-tw": "巴洛克華克",
       "title-us": ""
     },
     {
       "name": "薙刀億萬長者",
-      "name-jp": "",
+      "name-jp": "ナギナタビリオンズ",
       "name-tw": "薙刀億萬長者",
       "name-us": "",
       "no": 244,
@@ -5608,13 +5608,13 @@
       "thumbnail-tw": "png/tw/character_0283_t1.png",
       "thumbnail-us": "png/us/character_0283_t1.png",
       "title": "巴洛克華克",
-      "title-jp": "",
+      "title-jp": "バロックワークス",
       "title-tw": "巴洛克華克",
       "title-us": ""
     },
     {
       "name": "拿槍的億萬長者",
-      "name-jp": "",
+      "name-jp": "ピストルビリオンズ",
       "name-tw": "拿槍的億萬長者",
       "name-us": "",
       "no": 245,
@@ -5631,13 +5631,13 @@
       "thumbnail-tw": "png/tw/character_0284_t1.png",
       "thumbnail-us": "png/us/character_0284_t1.png",
       "title": "巴洛克華克",
-      "title-jp": "",
+      "title-jp": "バロックワークス",
       "title-tw": "巴洛克華克",
       "title-us": ""
     },
     {
       "name": "火箭砲億萬長者",
-      "name-jp": "",
+      "name-jp": "バズーカビリオンズ",
       "name-tw": "火箭砲億萬長者",
       "name-us": "",
       "no": 246,
@@ -5654,13 +5654,13 @@
       "thumbnail-tw": "png/tw/character_0285_t1.png",
       "thumbnail-us": "png/us/character_0285_t1.png",
       "title": "巴洛克華克",
-      "title-jp": "",
+      "title-jp": "バロックワークス",
       "title-tw": "巴洛克華克",
       "title-us": ""
     },
     {
       "name": "喬巴超人",
-      "name-jp": "",
+      "name-jp": "チョッパーマン",
       "name-tw": "喬巴超人",
       "name-us": "",
       "no": 247,
@@ -6005,7 +6005,7 @@
     },
     {
       "name": "特訓克比",
-      "name-jp": "",
+      "name-jp": "特訓コビー",
       "name-tw": "特訓克比",
       "name-us": "",
       "no": 262,
@@ -6028,7 +6028,7 @@
     },
     {
       "name": "克比上士",
-      "name-jp": "",
+      "name-jp": "曹長コビー",
       "name-tw": "克比上士",
       "name-us": "",
       "no": 263,
@@ -6672,7 +6672,7 @@
     },
     {
       "name": "多利",
-      "name-jp": "",
+      "name-jp": "ドリー",
       "name-tw": "多利",
       "name-us": "",
       "no": 291,
@@ -6695,7 +6695,7 @@
     },
     {
       "name": "布洛基",
-      "name-jp": "",
+      "name-jp": "ブロギー",
       "name-tw": "布洛基",
       "name-us": "",
       "no": 292,
@@ -6787,7 +6787,7 @@
     },
     {
       "name": "阿鶴",
-      "name-jp": "",
+      "name-jp": "おつるさん",
       "name-tw": "阿鶴",
       "name-us": "",
       "no": 296,
@@ -6810,7 +6810,7 @@
     },
     {
       "name": "大參謀阿鶴",
-      "name-jp": "",
+      "name-jp": "大参謀つる",
       "name-tw": "大參謀阿鶴",
       "name-us": "",
       "no": 297,
@@ -6993,9 +6993,9 @@
       "title-us": ""
     },
     {
-      "name": "卡普",
-      "name-jp": "",
-      "name-tw": "卡普",
+      "name": "蒙其・D・卡普",
+      "name-jp": "モンキー・D・ガープ",
+      "name-tw": "蒙其・D・卡普",
       "name-us": "",
       "no": 305,
       "portrait": "png/tw/character_0315_c1.png",
@@ -7017,7 +7017,7 @@
     },
     {
       "name": "鐵拳卡普",
-      "name-jp": "",
+      "name-jp": "ゲンコツのガープ",
       "name-tw": "鐵拳卡普",
       "name-us": "",
       "no": 306,
