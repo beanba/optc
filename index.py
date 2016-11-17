@@ -9,7 +9,7 @@ import os.path
 import sys
 
 idList = {}
-for x in xrange(1,1331):
+for x in xrange(1,1341):
 	idList[x] = {'id':9999}
 
 idList[1] = {'id':1, 'name-tw':'蒙其・D・魯夫', 'name-jp':'モンキー・D・ルフィ'}
@@ -1073,16 +1073,21 @@ idList[1298] = {'id':1367, 'name-jp':'赤犬', 'title-jp':'マグマ人間'}
 idList[1299] = {'id':1444, 'name-jp':'レベッカ　ラブリーモンスターキャット'}
 idList[1301] = {'id':1446, 'name-jp':'受刑者　バギー'}
 idList[1303] = {'id':1448, 'name-jp':'脱走囚　ギャルディーノ'}
+idList[1304] = {'id':1449, 'name-jp':'脱走囚　ギャルディーノ', 'title-jp':'脱獄同盟'}
 idList[1305] = {'id':1440, 'name-jp':'シュガー　リトルサキュバス'}
 idList[1306] = {'id':1441, 'name-jp':'シュガー　リトルサキュバス', 'title-jp':'ハロウィンナイト・マスカレード'}
 idList[1311] = {'id':1382, 'name-jp':'ボア・マリーゴールド', 'title-jp':'九蛇の戦士'}
 idList[1312] = {'id':1383, 'name-jp':'ボア・マリーゴールド', 'title-jp':'ゴルゴン三姉妹・三女'}
+idList[1314] = {'id':1455, 'name-jp':'サカズキ'}
 idList[1317] = {'id':1458, 'name-jp':'モンキー・D・ガープ', 'title-jp':'海軍本部中将'}
 idList[1318] = {'id':1459, 'name-jp':'ゲンコツのガープ', 'title-jp':'海軍本部中将'}
 idList[1327] = {'id':1468, 'name-jp':'レオ', 'title-jp':'トンタッタ族トンタ兵団'}
 idList[1328] = {'id':1469, 'name-jp':'戦士レオ', 'title-jp':'トンタッタ族トンタ兵団'}
 idList[1329] = {'id':1470, 'name-jp':'ウィッカ'}
 idList[1330] = {'id':1471, 'name-jp':'ガンチョ'}
+idList[1331] = {'id':1490, 'name-jp':'マンシェリー', 'title-jp':'トンタ長の娘'}
+idList[1333] = {'id':1492, 'name-jp':'カブ'}
+idList[1334] = {'id':1493, 'name-jp':'ビアン'}
 
 rtn = {
 	"builds":[]
