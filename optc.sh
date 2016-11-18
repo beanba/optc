@@ -15,17 +15,7 @@ if [ -n "$t1" ]; then
   exit 0
 fi
 
-# pull GNPCACHE, mv *.png to SUBDIR
-rm -rf GNPCACHE
-adb pull /data/data/$PKG/files/Cache/GNPCACHE
-if [ $? != 0 ]; then
-  adb kill-server
-  adb start-server
-  adb devices
-  exit 1
-fi
-mv $(find GNPCACHE -name *.png | xargs) $BASEDIR'/png/'$SUBDIR'/'
-rm -rf GNPCACHE
+adb shell ls /data/data/$PKG/files/Cache/GNPCACHE/*/*.png | tr '\r' ' ' | xargs -J % adb pull % $BASEDIR'/png/'$SUBDIR'/'
 
 # generate json
 ./index.py "$SUBDIR"
