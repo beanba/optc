@@ -1115,7 +1115,7 @@ idList[1329] = {'id':1470, 'name-jp':'ウィッカ'}
 idList[1330] = {'id':1471, 'name-jp':'ガンチョ'}
 idList[1331] = {'id':1490, 'name-jp':'マンシェリー', 'title-jp':'トンタ長の娘'}
 idList[1333] = {'id':1492, 'name-jp':'カブ'}
-idList[1334] = {'id':1493, 'name-jp':'ビアン'}
+idList[1334] = {'id':1493, 'name-jp':'ビアン', 'skill':8202}
 
 rtn = {
 	"builds":[]
