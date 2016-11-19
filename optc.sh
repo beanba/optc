@@ -16,6 +16,9 @@ if [ -n "$t1" ]; then
 fi
 
 adb shell ls /data/data/$PKG/files/Cache/GNPCACHE/*/*.png | tr '\r' ' ' | xargs -J % adb pull % $BASEDIR'/png/'$SUBDIR'/'
+if [ "$?" != 0 ]; then
+	exit 1
+fi
 
 # generate json
 ./index.py "$SUBDIR"
