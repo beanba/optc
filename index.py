@@ -880,6 +880,7 @@ idList[943] = {'id':1069, 'name-jp':'鉄人（サイボーグ）フランキー'
 idList[947] = {'id':1071, 'name-jp':'フォッサ', 'title-jp':'白ひげ海賊団１５番隊隊長'}
 idList[949] = {'id':1073, 'name-jp':'サッチ', 'title-jp':'白ひげ海賊団４番隊隊長'}
 idList[950] = {'id':1056, 'name-jp':'火拳のエース'}
+idList[951] = {'id':1057, 'name-jp':'火拳のエース', 'title-jp':'白ひげ海賊団２番隊隊長', 'skill':1056}
 idList[952] = {'id':817, 'name-jp':'ベン・ベックマン'}
 idList[957] = {'id':1193, 'name-tw':'熟練的槍手', 'title-tw':'藍色保鑣', 'name-jp':'早業のガンマン', 'title-jp':'青のボディガード', 'skill':8149}
 idList[958] = {'id':1194, 'name-tw':'策略的槍手', 'title-tw':'黑色保鑣', 'name-jp':'計略のガンマン', 'title-jp':'黒のボディガード', 'skill':8150}
