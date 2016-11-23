@@ -687,6 +687,7 @@ idList[703] = {'id':753, 'name-tw':'法狗隊', 'name-jp':'法の番犬部隊', 
 idList[704] = {'id':754, 'name-tw':'有罪陪審團員', 'name-jp':'有罪陪審員', 'skill':8116}
 idList[705] = {'id':752, 'name-tw':'三頭的巴斯卡比爾', 'skill':8114}
 idList[706] = {'id':748, 'name-tw':'布魯諾', 'title-tw':'CIPHER POL No.9'}
+idList[707] = {'id':749, 'name-tw':'布魯諾　六式', 'title-tw':'CIPHER POL No.9', 'skill':748}
 idList[708] = {'id':778, 'name-tw':'妮可・羅賓', 'title-tw':'惡魔之子', 'name-jp':'ニコ・ロビン', 'title-jp':'悪魔の子'}
 idList[709] = {'id':779, 'name-tw':'妮可・羅賓', 'title-tw':'草帽一夥', 'name-jp':'ニコ・ロビン', 'title-jp':'麦わらの一味', 'skill':778}
 idList[710] = {'id':689, 'name-jp':'フランキー', 'title-jp':'航海の記録・麦わらの一味'}
