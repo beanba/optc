@@ -627,6 +627,7 @@ idList[627] = {'id':775, 'name-tw':'拿機關槍的小混混', 'title-tw':'藍�
 idList[628] = {'id':659, 'name-tw':'戴魯斯通', 'name-jp':'タイルストン', 'skill':8106}
 idList[629] = {'id':658, 'name-tw':'佛朗基', 'title-tw':'佛朗基家族一家之主', 'name-jp':'フランキー', 'title-tw':'フランキー一家棟梁', 'skill':8105}
 idList[630] = {'id':654, 'name-tw':'卡古', 'title-tw':'CIPHER POL No.9', 'name-jp':'カク', 'title-jp':'サイファーポールNo.9'}
+idList[631] = {'id':655, 'name-tw':'卡古　六式', 'title-tw':'CIPHER POL No.9'}
 idList[632] = {'id':656, 'name-tw':'羅布・路基', 'title-tw':'CIPHER POL No.9'}
 idList[633] = {'id':657, 'name-tw':'羅布・路基　六式', 'title-tw':'CIPHER POL No.9'}
 idList[634] = {'id':705, 'name-tw':'海咪', 'name-jp':'ケイミー', 'name-us':'Camie'}
