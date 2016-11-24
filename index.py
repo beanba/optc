@@ -650,6 +650,7 @@ idList[652] = {'id':711, 'name-tw':'鐵面具迪巴魯', 'name-jp':'鉄仮面の
 idList[653] = {'id':712, 'name-tw':'迪巴魯', 'title-tw':'飛魚騎士老大'}
 idList[654] = {'id':713, 'name-tw':'迪巴魯', 'title-tw':'彩色人生騎士老大'}
 idList[655] = {'id':685, 'name-tw':'海賊惡龍', 'name-jp':'海賊アーロン', 'name-us':'Arlong the Pirate'}
+idList[656] = {'id':686, 'name-tw':'海賊惡龍', 'title-tw':'太陽海賊團', 'skill':685}
 idList[657] = {'id':687, 'name-tw':'克羅歐比', 'title-tw':'太陽海賊團', 'name-jp':'クロオビ', 'title-jp':'タイヨウの海賊団', 'name-us':'Kuroobi', 'title-us':'Sun Pirates', 'skill':8110}
 idList[659] = {'id':674, 'name-jp':'モンキー・D・ルフィ', 'title-jp':'うきわ'}
 idList[662] = {'id':673, 'name-jp':'ナミ', 'title-jp':'バカンス'}
