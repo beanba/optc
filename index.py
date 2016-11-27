@@ -1137,14 +1137,14 @@ idList[1318] = {'id':1459, 'name-jp':'ゲンコツのガープ', 'title-jp':'海
 idList[1322] = {'id':1463, 'name-jp':'海軍本部中将モモンガ', 'title-jp':'怪物斬りの名将'}
 idList[1325] = {'id':1442, 'name-jp':'コラソン　ロイヤルヴァンパイア'}
 idList[1327] = {'id':1468, 'name-jp':'レオ', 'title-jp':'トンタッタ族トンタ兵団'}
-idList[1328] = {'id':1469, 'name-jp':'戦士レオ', 'title-jp':'トンタッタ族トンタ兵団'}
+idList[1328] = {'id':1469, 'name-jp':'戦士レオ', 'title-jp':'トンタッタ族トンタ兵団', 'skill':1468}
 idList[1329] = {'id':1470, 'name-jp':'ウィッカ', 'skill':8199}
 idList[1330] = {'id':1471, 'name-jp':'ガンチョ', 'skill':8200}
 idList[1331] = {'id':1490, 'name-jp':'マンシェリー', 'title-jp':'トンタ長の娘'}
-idList[1332] = {'id':1491, 'name-jp':'マンシェリー', 'title-jp':'トンタッタ王国の姫'}
+idList[1332] = {'id':1491, 'name-jp':'マンシェリー', 'title-jp':'トンタッタ王国の姫', 'skill':1490}
 idList[1333] = {'id':1492, 'name-jp':'カブ', 'skill':8201}
 idList[1334] = {'id':1493, 'name-jp':'ビアン', 'skill':8202}
-idList[1343] = {'id':1475, 'name-jp':'ポルシェーミ'}
+idList[1343] = {'id':1475, 'name-jp':'ポルシェーミ', 'skill':8204}
 
 rtn = {
 	"builds":[]
