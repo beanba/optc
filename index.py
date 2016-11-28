@@ -1000,6 +1000,7 @@ idList[1098] = {'id':1242, 'name-tw':'雷鳥比利', 'name-jp':'雷鳥ビリー'
 idList[1099] = {'id':1160, 'name-jp':'コビー', 'title-jp':'雨の中の曹長'}
 idList[1100] = {'id':1161, 'name-jp':'コビー', 'title-jp':'露にきらめく曹長'}
 idList[1101] = {'id':1284, 'name-jp':'黒腕のゼファー'}
+idList[1102] = {'id':1285, 'name-jp':'黒腕のゼファー', 'title-jp':'元海軍本部大将'}
 idList[1103] = {'id':1286, 'name-jp':'アイン', 'title-jp':'ＮＥＯ海軍'}
 idList[1104] = {'id':1287, 'name-jp':'アイン', 'title-jp':'ゼファー最後の教え子'}
 idList[1105] = {'id':1288, 'name-jp':'ビンズ', 'title-jp':'ＮＥＯ海軍'}
