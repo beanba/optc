@@ -850,6 +850,7 @@ idList[886] = {'id':978, 'name-jp':'Mr.1', 'title-jp':'西の海の剣客'}
 idList[887] = {'id':979, 'name-jp':'バギー', 'title-jp':'陽気なかぶき者'}
 idList[888] = {'id':925, 'name-tw':'呵囉鬼魂', 'name-jp':'ホロホロゴースト', 'skill':8142}
 idList[889] = {'id':921, 'name-tw':'培羅娜', 'title-tw':'恐怖三桅帆船的怪人'}
+idList[890] = {'id':922, 'name-tw':'培羅娜', 'title-tw':'巨大的鬼魂公主'}
 idList[892] = {'id':924, 'name-tw':'墓園的阿布薩羅姆', 'title-tw':'恐怖三桅帆船的怪人', 'skill':8141}
 idList[894] = {'id':893, 'name-tw':'月光・摩利亞', 'title-tw':'影子集合地', 'name-jp':'ゲッコー・モリア', 'title-jp':'影の集合地（シャドーズ・アスガルド）'}
 idList[895] = {'id':926, 'name-tw':'布魯克', 'title-tw':'紳士骷髏', 'name-jp':'ブルック', 'title-jp':'紳士なガイコツ'}
