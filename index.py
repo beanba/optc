@@ -1150,6 +1150,8 @@ idList[1331] = {'id':1490, 'name-jp':'マンシェリー', 'title-jp':'トンタ
 idList[1332] = {'id':1491, 'name-jp':'マンシェリー', 'title-jp':'トンタッタ王国の姫', 'skill':1490}
 idList[1333] = {'id':1492, 'name-jp':'カブ', 'skill':8201}
 idList[1334] = {'id':1493, 'name-jp':'ビアン', 'skill':8202}
+idList[1337] = {'id':1484, 'name-jp':'カン十郎'}
+idList[1338] = {'id':1485, 'name-jp':'夕立ち　カン十郎'}
 idList[1343] = {'id':1475, 'name-jp':'ポルシェーミ', 'skill':8204}
 
 rtn = {
