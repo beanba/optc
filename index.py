@@ -9,7 +9,7 @@ import os.path
 import sys
 
 idList = {}
-for x in xrange(1,1351):
+for x in xrange(1,1371):
 	idList[x] = {'id':9999}
 
 idList[1] = {'id':1, 'name-tw':'蒙其・D・魯夫', 'name-jp':'モンキー・D・ルフィ'}
@@ -1032,7 +1032,7 @@ idList[1127] = {'id':1269, 'name-jp':'オオロンブス', 'title-jp':'殺戮支
 idList[1128] = {'id':1270, 'name-jp':'ダガマ'}
 idList[1129] = {'id':1271, 'name-jp':'ダガマ', 'title-jp':'プロデンス王国軍師', 'skill':1270}
 idList[1130] = {'id':1272, 'name-jp':'エリザベローII世'}
-idList[1131] = {'id':1273, 'name-jp':'エリザベローII世', 'title-jp':'プロデンス王国国王'}
+idList[1131] = {'id':1273, 'name-jp':'エリザベローII世', 'title-jp':'プロデンス王国国王', 'skill':1272}
 idList[1132] = {'id':1274, 'name-jp':'イデオ'}
 idList[1133] = {'id':1275, 'name-jp':'イデオ', 'title-jp':'破壊砲', 'skill':1274}
 idList[1136] = {'id':1276, 'name-jp':'フクロウ', 'title-jp':'世界政府直下暗躍諜報機関'}
@@ -1165,6 +1165,8 @@ idList[1336] = {'id':1467, 'name-jp':'サボ', 'title-jp':'劇場の怪人', 'sk
 idList[1337] = {'id':1484, 'name-jp':'カン十郎'}
 idList[1338] = {'id':1485, 'name-jp':'夕立ち　カン十郎'}
 idList[1343] = {'id':1475, 'name-jp':'ポルシェーミ', 'skill':8204}
+idList[1361] = {'id':1500, 'name-jp':'ロロノア・ゾロ', 'title-jp':'集結の麦わらの一味'}
+idList[1368] = {'id':1507, 'name-jp':'サンジ', 'title-jp':'新生・麦わらの一味', 'skill':1506}
 
 rtn = {
 	"builds":[]
