@@ -1213,7 +1213,7 @@ for tup in iter(sorted(idList.iteritems())):
 		build['thumbnail-{0}'.format(lang)] = 'png/{0}/character_none.png'.format(lang)
 		build['portrait-{0}'.format(lang)] = 'png/{0}/character_9999_t1.png'.format(lang)
 		build['skill-{0}'.format(lang)] = 'png/{0}/character_9999_t1.png'.format(lang)
-		build['skillless'] = False
+		build['sid'] = obj['id']
 
 		if obj['id'] == 9999:
 			pass
@@ -1223,6 +1223,8 @@ for tup in iter(sorted(idList.iteritems())):
 				sid = obj['skill']
 			else:
 				sid = obj['id']
+
+			build['sid'] = sid
 
 			index = str(obj['id']).zfill(4)
 
@@ -1255,7 +1257,6 @@ for tup in iter(sorted(idList.iteritems())):
 						missing_skill = True
 			else:
 				if sid == -1:
-					build['skillless'] = True
 					pass
 				else:
 					dirname = 'png/{0}'.format(lang);
