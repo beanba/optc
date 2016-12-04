@@ -7668,23 +7668,23 @@
     {
       "id": 295,
       "name": {
-        "al": "ナミ",
+        "al": "娜美",
         "jp": "ナミ",
-        "tw": "",
+        "tw": "娜美",
         "us": ""
       },
       "no": 220,
       "portrait": {
-        "al": "png/jp/character_0295_c1.png",
+        "al": "png/tw/character_0295_c1.png",
         "jp": "png/jp/character_0295_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0295_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 295,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/motion_0295_nami_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0295_nami_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -7694,9 +7694,9 @@
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "ファイン=テンポ",
+        "al": "風和日麗",
         "jp": "ファイン=テンポ",
-        "tw": "",
+        "tw": "風和日麗",
         "us": ""
       }
     },
@@ -27686,31 +27686,31 @@
       }
     },
     {
-      "id": 9999,
+      "id": 854,
       "name": {
-        "al": "",
+        "al": "艾斯巴古",
         "jp": "",
-        "tw": "",
+        "tw": "艾斯巴古",
         "us": ""
       },
       "no": 792,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/character_0854_c1.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0854_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 854,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/motion_0854_iceberg_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0854_iceberg_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
+        "al": "png/tw/character_0854_t1.png",
         "jp": "png/jp/character_none.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0854_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
@@ -29543,23 +29543,23 @@
     {
       "id": 967,
       "name": {
-        "al": "バッファロー",
+        "al": "水牛",
         "jp": "バッファロー",
-        "tw": "",
+        "tw": "水牛",
         "us": ""
       },
       "no": 845,
       "portrait": {
-        "al": "png/jp/character_0967_c1.png",
+        "al": "png/tw/character_0967_c1.png",
         "jp": "png/jp/character_0967_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0967_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 967,
       "skill": {
-        "al": "png/jp/motion_0967_buffalo_skill_name.png",
+        "al": "png/tw/motion_0967_buffalo_skill_name.png",
         "jp": "png/jp/motion_0967_buffalo_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0967_buffalo_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -32343,23 +32343,23 @@
     {
       "id": 947,
       "name": {
-        "al": "獄卒長サディちゃん",
+        "al": "獄卒長小莎蒂",
         "jp": "獄卒長サディちゃん",
-        "tw": "",
+        "tw": "獄卒長小莎蒂",
         "us": ""
       },
       "no": 925,
       "portrait": {
-        "al": "png/jp/character_0947_c1.png",
+        "al": "png/tw/character_0947_c1.png",
         "jp": "png/jp/character_0947_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0947_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 947,
       "skill": {
-        "al": "png/jp/motion_0947_sadichan_skill_name.png",
+        "al": "png/tw/motion_0947_sadichan_skill_name.png",
         "jp": "png/jp/motion_0947_sadichan_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0947_sadichan_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -32413,23 +32413,23 @@
     {
       "id": 850,
       "name": {
-        "al": "ドーベルマン",
+        "al": "鬥犬",
         "jp": "ドーベルマン",
-        "tw": "",
+        "tw": "鬥犬",
         "us": ""
       },
       "no": 927,
       "portrait": {
-        "al": "png/jp/character_0850_c1.png",
+        "al": "png/tw/character_0850_c1.png",
         "jp": "png/jp/character_0850_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0850_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 850,
+      "sid": 8145,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/skill_name_8145.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/skill_name_8145.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -32439,9 +32439,9 @@
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "海軍本部中将",
+        "al": "海軍本部中將",
         "jp": "海軍本部中将",
-        "tw": "",
+        "tw": "海軍本部中將",
         "us": ""
       }
     },
