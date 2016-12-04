@@ -22236,7 +22236,7 @@
       "no": 636,
       "portrait": {
         "al": "png/tw/character_0707_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0707_c1.png",
         "tw": "png/tw/character_0707_c1.png",
         "us": "png/us/character_0707_c1.png"
       },
@@ -22249,7 +22249,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0707_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0707_t1.png",
         "tw": "png/tw/character_0707_t1.png",
         "us": "png/us/character_0707_t1.png"
       },
