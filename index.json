@@ -27723,35 +27723,35 @@
     {
       "id": 855,
       "name": {
-        "al": "アイスバーグ",
+        "al": "艾斯巴古",
         "jp": "アイスバーグ",
-        "tw": "",
+        "tw": "艾斯巴古",
         "us": ""
       },
       "no": 793,
       "portrait": {
-        "al": "png/jp/character_0855_c1.png",
+        "al": "png/tw/character_0855_c1.png",
         "jp": "png/jp/character_0855_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0855_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 855,
+      "sid": 854,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/motion_0854_iceberg_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0854_iceberg_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0855_t1.png",
+        "al": "png/tw/character_0855_t1.png",
         "jp": "png/jp/character_0855_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0855_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "Ｗ７市長＆ガレーラカンパニー社長",
+        "al": "水之七島市長＆卡雷拉公司社長",
         "jp": "Ｗ７市長＆ガレーラカンパニー社長",
-        "tw": "",
+        "tw": "水之七島市長＆卡雷拉公司社長",
         "us": ""
       }
     },
