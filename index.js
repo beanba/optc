@@ -75,23 +75,23 @@ if (process.env.OPTC_FORCE) {
         }
       }
     }
+  }
 
-    const keys = ['name', 'portrait', 'skill', 'thumbnail', 'title'];
-    const sortLangs = ['tw', 'jp', 'us'];
+  const keys = ['name', 'portrait', 'skill', 'thumbnail', 'title'];
+  const sortLangs = ['tw', 'jp', 'us'];
 
-    for (let j = 0; j < indexJson.builds.length; j++) {
-      const build = indexJson.builds[j];
+  for (let j = 0; j < indexJson.builds.length; j++) {
+    const build = indexJson.builds[j];
 
-      for (let k = 0; k < keys.length; k++) {
-        const key = keys[k];
+    for (let k = 0; k < keys.length; k++) {
+      const key = keys[k];
 
-        for (let l = 0; l < sortLangs.length; l++) {
-          const lang = sortLangs[l];
+      for (let l = 0; l < sortLangs.length; l++) {
+        const lang = sortLangs[l];
 
-          if (build[key][lang] !== '' && !build[key][lang].endsWith('9999_t1.png') && !build[key][lang].endsWith('none.png')) {
-            build[key].al = build[key][lang];
-            break;
-          }
+        if (build[key][lang] !== '' && !build[key][lang].endsWith('9999_t1.png') && !build[key][lang].endsWith('none.png')) {
+          build[key].al = build[key][lang];
+          break;
         }
       }
     }
