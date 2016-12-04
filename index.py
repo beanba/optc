@@ -1205,6 +1205,7 @@ for tup in iter(sorted(idList.iteritems())):
 
 	obj = tup[1]
 	build['no'] = tup[0]
+	build['id'] = obj['id']
 
 	for lang in ['tw', 'jp', 'us']:
 		build['name-{0}'.format(lang)] = obj['name-{0}'.format(lang)] if 'name-{0}'.format(lang) in obj else ''
@@ -1240,6 +1241,7 @@ for tup in iter(sorted(idList.iteritems())):
 					missing_portrait = True
 
 			if obj['id'] == sid or (sid > -1 and sid < 8000):
+				build['skillless'] = False
 				dirname = 'png/{0}'.format(lang);
 				for filename in os.listdir(dirname):
 					if fnmatch.fnmatch(filename, 'motion_{0}_*_name.png'.format(str(sid).zfill(4))):
@@ -1253,8 +1255,10 @@ for tup in iter(sorted(idList.iteritems())):
 						missing_skill = True
 			else:
 				if sid == -1:
+					build['skillless'] = True
 					pass
 				else:
+					build['skillless'] = False
 					dirname = 'png/{0}'.format(lang);
 					if os.path.exists('{0}/skill_name_{1}.png'.format(dirname, str(sid).zfill(4))):
 						build['skill-{0}'.format(lang)] = '{0}/skill_name_{1}.png'.format(dirname, str(sid).zfill(4))
