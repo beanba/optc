@@ -10,7 +10,7 @@ const regexpTest = function(pattern, o) {
   return pattern.test(o);
 };
 
-const newIndexJson = require('./new-index.json');
+const indexJson = require('./index.json');
 
 let langs = ['jp', 'tw', 'us'];
 if (process.env.OPTC_LANG)
@@ -21,9 +21,8 @@ if (process.env.OPTC_FORCE) {
     const lang = langs[i];
     const files = fs.readdirSync(`png/${langs[i]}`);
 
-    // for (let j = 0; j < 1; j++) { // mocking
-    for (let j = 0; j < newIndexJson.builds.length; j++) {
-      const build = newIndexJson.builds[j];
+    for (let j = 0; j < indexJson.builds.length; j++) {
+      const build = indexJson.builds[j];
 
       if (build.id === 9999 || build.name[lang] === '')
         continue;
@@ -78,7 +77,7 @@ if (process.env.OPTC_FORCE) {
     }
   }
 
-  fs.writeFileSync('new-index.json', stringify(newIndexJson, {
+  fs.writeFileSync('index.json', stringify(indexJson, {
     space: '  '
   }));
 }
@@ -89,11 +88,11 @@ for (let i = 0; i < langs.length; i++) {
     pretty: true
   });
 
-  fs.writeFileSync(`new-index-${lang}.html`, compiledFunction(newIndexJson));
+  fs.writeFileSync(`new-index-${lang}.html`, compiledFunction(indexJson));
 }
 
 const compiledFunction = pug.compileFile(`new-index.pug`, {
   pretty: true
 });
 
-fs.writeFileSync(`new-index.html`, compiledFunction(newIndexJson));
+fs.writeFileSync(`new-index.html`, compiledFunction(indexJson));
