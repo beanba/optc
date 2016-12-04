@@ -22558,7 +22558,7 @@
       "sid": 702,
       "skill": {
         "al": "png/tw/motion_0702_whitybey_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0702_whitybey_skill_name.png",
         "tw": "png/tw/motion_0702_whitybey_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -31970,10 +31970,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1024,
+      "sid": 1023,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_1023_brook_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -32390,10 +32390,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 948,
+      "sid": 947,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0947_sadichan_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -42015,10 +42015,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1332,
+      "sid": 1331,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_1331_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -42330,10 +42330,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1351,
+      "sid": 1350,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_1350_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
