@@ -84,15 +84,15 @@ if (process.env.OPTC_FORCE) {
 
 for (let i = 0; i < langs.length; i++) {
   const lang = langs[i];
-  const compiledFunction = pug.compileFile(`new-index-${lang}.pug`, {
+  const compiledFunction = pug.compileFile(`index-${lang}.pug`, {
     pretty: true
   });
 
-  fs.writeFileSync(`new-index-${lang}.html`, compiledFunction(indexJson));
+  fs.writeFileSync(`index-${lang}.html`, compiledFunction(indexJson));
 }
 
-const compiledFunction = pug.compileFile(`new-index.pug`, {
+const compiledFunction = pug.compileFile(`index.pug`, {
   pretty: true
 });
 
-fs.writeFileSync(`new-index.html`, compiledFunction(indexJson));
+fs.writeFileSync(`index.html`, compiledFunction(indexJson));
