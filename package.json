@@ -1,0 +1,22 @@
+{
+  "name": "optc",
+  "version": "1.0.0",
+  "description": "One Piece Treasure Cruise",
+  "main": "index.js",
+  "dependencies": {
+    "debug": "^2.3.3",
+    "json-stable-stringify": "^1.0.1",
+    "lodash": "^4.17.2",
+    "pug": "^2.0.0-beta6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-beanba:beanba/optc.git"
+  },
+  "author": "Elton Lau",
+  "license": "MIT"
+}
