@@ -20,13 +20,9 @@ if [ "$?" != 0 ]; then
 	exit 1
 fi
 
-# generate json
-./index.py "$SUBDIR"
-
-# export html
-jade --out . --obj index.json --pretty index.jade
-jade --out . --obj index.json --pretty index-jp.jade
-jade --out . --obj index.json --pretty index-tw.jade
-jade --out . --obj index.json --pretty index-us.jade
+# generate json, parse pug to html
+date
+DEBUG=optc OPTC_FORCE=true OPTC_LANG=$SUBDIR node index.js
+date
 
 exit 0

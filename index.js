@@ -6,57 +6,11 @@ const fs = require('fs');
 const pug = require('pug');
 const stringify = require('json-stable-stringify');
 
-// const indexJson = require('./index.json');
-
-// const newIndexJson = {
-//   builds: []
-// };
-
-// for (let i = 0; i < indexJson.builds.length; i++) {
-//   const old_build = indexJson.builds[i];
-
-//   const new_build = {};
-//   new_build.id = old_build.id;
-//   new_build.name = {};
-//   new_build.name.al = old_build['name'];
-//   new_build.name.jp = old_build['name-jp'];
-//   new_build.name.tw = old_build['name-tw'];
-//   new_build.name.us = old_build['name-us'];
-//   new_build.no = old_build.no;
-//   new_build.portrait = {};
-//   new_build.portrait.al = old_build['portrait'];
-//   new_build.portrait.jp = old_build['portrait-jp'];
-//   new_build.portrait.tw = old_build['portrait-tw'];
-//   new_build.portrait.us = old_build['portrait-us'];
-//   new_build.sid = old_build.sid;
-//   new_build.skill = {};
-//   new_build.skill.al = old_build['skill'];
-//   new_build.skill.jp = old_build['skill-jp'];
-//   new_build.skill.tw = old_build['skill-tw'];
-//   new_build.skill.us = old_build['skill-us'];
-//   new_build.thumbnail = {};
-//   new_build.thumbnail.al = old_build['thumbnail'];
-//   new_build.thumbnail.jp = old_build['thumbnail-jp'];
-//   new_build.thumbnail.tw = old_build['thumbnail-tw'];
-//   new_build.thumbnail.us = old_build['thumbnail-us'];
-//   new_build.title = {};
-//   new_build.title.al = old_build['title'];
-//   new_build.title.jp = old_build['title-jp'];
-//   new_build.title.tw = old_build['title-tw'];
-//   new_build.title.us = old_build['title-us'];
-
-//   newIndexJson.builds.push(new_build);
-// }
-
-// fs.writeFileSync('new-index.json', stringify(newIndexJson, {
-//   space: '  '
-// }));
-
 const regexpTest = function(pattern, o) {
   return pattern.test(o);
 };
 
-const newIndexJson = require('./new-index.json');
+const indexJson = require('./index.json');
 
 let langs = ['jp', 'tw', 'us'];
 if (process.env.OPTC_LANG)
@@ -67,9 +21,8 @@ if (process.env.OPTC_FORCE) {
     const lang = langs[i];
     const files = fs.readdirSync(`png/${langs[i]}`);
 
-    // for (let j = 0; j < 1; j++) { // mocking
-    for (let j = 0; j < newIndexJson.builds.length; j++) {
-      const build = newIndexJson.builds[j];
+    for (let j = 0; j < indexJson.builds.length; j++) {
+      const build = indexJson.builds[j];
 
       if (build.id === 9999 || build.name[lang] === '')
         continue;
@@ -124,22 +77,42 @@ if (process.env.OPTC_FORCE) {
     }
   }
 
-  fs.writeFileSync('new-index.json', stringify(newIndexJson, {
+  const keys = ['name', 'portrait', 'skill', 'thumbnail', 'title'];
+  const sortLangs = ['tw', 'jp', 'us'];
+
+  for (let j = 0; j < indexJson.builds.length; j++) {
+    const build = indexJson.builds[j];
+
+    for (let k = 0; k < keys.length; k++) {
+      const key = keys[k];
+
+      for (let l = 0; l < sortLangs.length; l++) {
+        const lang = sortLangs[l];
+
+        if (build[key][lang] !== '' && !build[key][lang].endsWith('9999_t1.png') && !build[key][lang].endsWith('none.png')) {
+          build[key].al = build[key][lang];
+          break;
+        }
+      }
+    }
+  }
+
+  fs.writeFileSync('index.json', stringify(indexJson, {
     space: '  '
   }));
 }
 
 for (let i = 0; i < langs.length; i++) {
   const lang = langs[i];
-  const compiledFunction = pug.compileFile(`new-index-${lang}.pug`, {
+  const compiledFunction = pug.compileFile(`index-${lang}.pug`, {
     pretty: true
   });
 
-  fs.writeFileSync(`new-index-${lang}.html`, compiledFunction(newIndexJson));
+  fs.writeFileSync(`index-${lang}.html`, compiledFunction(indexJson));
 }
 
-const compiledFunction = pug.compileFile(`new-index.pug`, {
+const compiledFunction = pug.compileFile(`index.pug`, {
   pretty: true
 });
 
-fs.writeFileSync(`new-index.html`, compiledFunction(newIndexJson));
+fs.writeFileSync(`index.html`, compiledFunction(indexJson));
