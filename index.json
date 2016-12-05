@@ -16264,7 +16264,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0497_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0497_t1.png",
         "tw": "png/tw/character_0497_t1.png",
         "us": "png/us/character_0497_t1.png"
       },
@@ -41756,36 +41756,36 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1283,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ボア・ハンコック",
+        "jp": "ボア・ハンコック",
         "tw": "",
         "us": ""
       },
       "no": 1194,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1283_c1.png",
+        "jp": "png/jp/character_1283_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1282,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1282_skill_name.png",
+        "jp": "png/jp/motion_1282_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1283_t1.png",
+        "jp": "png/jp/character_1283_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "恋に溺れた乙女",
+        "jp": "恋に溺れた乙女",
         "tw": "",
         "us": ""
       }
