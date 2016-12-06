@@ -16194,7 +16194,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0495_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0495_t1.png",
         "tw": "png/tw/character_0495_t1.png",
         "us": "png/us/character_0495_t1.png"
       },
@@ -16776,7 +16776,7 @@
       "no": 480,
       "portrait": {
         "al": "png/tw/character_0580_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0580_c1.png",
         "tw": "png/tw/character_0580_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -30811,7 +30811,7 @@
       "no": 881,
       "portrait": {
         "al": "png/tw/character_0940_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0940_c1.png",
         "tw": "png/tw/character_0940_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -31370,8 +31370,8 @@
       },
       "no": 897,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_0980_c1.png",
+        "jp": "png/jp/character_0980_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -31405,8 +31405,8 @@
       },
       "no": 898,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_0981_c1.png",
+        "jp": "png/jp/character_0981_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -31546,7 +31546,7 @@
       "no": 902,
       "portrait": {
         "al": "png/tw/character_0942_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0942_c1.png",
         "tw": "png/tw/character_0942_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -32315,8 +32315,8 @@
       },
       "no": 924,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_0839_c1.png",
+        "jp": "png/jp/character_0839_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
