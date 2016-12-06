@@ -13044,7 +13044,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0391_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0391_t1.png",
         "tw": "png/tw/character_0391_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -28351,21 +28351,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 898,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "リスキー兄弟",
+        "jp": "リスキー兄弟",
         "tw": "",
         "us": ""
       },
       "no": 811,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_0898_c1.png",
+        "jp": "png/jp/character_0898_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 898,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -28373,8 +28373,8 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_0898_t1.png",
+        "jp": "png/jp/character_0898_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
@@ -31189,7 +31189,7 @@
       "id": 924,
       "name": {
         "al": "墓園的阿布薩羅姆",
-        "jp": "",
+        "jp": "墓場のアブサロム",
         "tw": "墓園的阿布薩羅姆",
         "us": ""
       },
@@ -31209,13 +31209,13 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0924_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0924_t1.png",
         "tw": "png/tw/character_0924_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
         "al": "恐怖三桅帆船的怪人",
-        "jp": "",
+        "jp": "スリラーバークの怪人",
         "tw": "恐怖三桅帆船的怪人",
         "us": ""
       }
@@ -47951,21 +47951,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 903,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ロロノア・ゾロ",
+        "jp": "ロロノア・ゾロ",
         "tw": "",
         "us": ""
       },
       "no": 1371,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_0903_c1.png",
+        "jp": "png/jp/character_0903_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 903,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -47973,14 +47973,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_0903_t1.png",
+        "jp": "png/jp/character_0903_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "野生の海賊",
+        "jp": "野生の海賊",
         "tw": "",
         "us": ""
       }
