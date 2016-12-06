@@ -8124,14 +8124,14 @@
       "id": 244,
       "name": {
         "al": "Mr.8",
-        "jp": "",
+        "jp": "Mr.8",
         "tw": "Mr.8",
         "us": ""
       },
       "no": 233,
       "portrait": {
         "al": "png/tw/character_0244_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0244_c1.png",
         "tw": "png/tw/character_0244_c1.png",
         "us": "png/us/character_0244_c1.png"
       },
@@ -8144,7 +8144,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0244_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0244_t1.png",
         "tw": "png/tw/character_0244_t1.png",
         "us": "png/us/character_0244_t1.png"
       },
@@ -19709,7 +19709,7 @@
       "id": 624,
       "name": {
         "al": "卡博帝",
-        "jp": "",
+        "jp": "カポーティ",
         "tw": "卡博帝",
         "us": ""
       },
@@ -19729,7 +19729,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0624_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0624_t1.png",
         "tw": "png/tw/character_0624_t1.png",
         "us": "png/us/character_0624_t1.png"
       },
@@ -21494,7 +21494,7 @@
       "id": 661,
       "name": {
         "al": "怪力毀滅者 斧頭",
-        "jp": "",
+        "jp": "怪力デストロイヤーズ 斧使い",
         "tw": "怪力毀滅者 斧頭",
         "us": ""
       },
@@ -21514,7 +21514,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0661_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0661_t1.png",
         "tw": "png/tw/character_0661_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -21564,7 +21564,7 @@
       "id": 663,
       "name": {
         "al": "怪力毀滅者 大砲",
-        "jp": "",
+        "jp": "怪力デストロイヤーズ 大砲使い",
         "tw": "怪力毀滅者 大砲",
         "us": ""
       },
@@ -21584,7 +21584,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0663_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0663_t1.png",
         "tw": "png/tw/character_0663_t1.png",
         "us": "png/us/character_none.png"
       },
