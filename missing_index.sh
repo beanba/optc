@@ -1,13 +1,9 @@
 #!/usr/bin/env bash
 
-for f in $(find png/$1/ -name character*t1* | awk -F/ '{print $4}' | sort | uniq | grep -Eo "_\d+_" | awk -F_ '{print $2}'); do
-	f=$((10#$f))
-	if [ $f -gt 2000 ]; then
-		continue;
-	fi
-	dummy=$(grep "'id':"$f"" "index.py" | grep "$1")
+for f in $(find -E png/$1  -regex ".*character_[0-1][0-9]{3}_t1\.png"); do
+	dummy=$(grep "$f" index.json)
 	if [ "$?" != 0 ]; then
-		find "png/$1" -name *$f* | grep character_
+		echo "$f"
 	fi
 done
 
