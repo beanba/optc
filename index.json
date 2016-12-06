@@ -42246,21 +42246,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1349,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ニコ・ロビン",
+        "jp": "ニコ・ロビン",
         "tw": "",
         "us": ""
       },
       "no": 1208,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1349_c1.png",
+        "jp": "png/jp/character_1349_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1349,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -42268,14 +42268,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1349_t1.png",
+        "jp": "png/jp/character_1349_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "信念に生きる麦わらの一味",
+        "jp": "信念に生きる麦わらの一味",
         "tw": "",
         "us": ""
       }
@@ -43156,21 +43156,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1359,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "たしぎ",
+        "jp": "たしぎ",
         "tw": "",
         "us": ""
       },
       "no": 1234,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1359_c1.png",
+        "jp": "png/jp/character_1359_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1359,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -43178,14 +43178,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1359_t1.png",
+        "jp": "png/jp/character_1359_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "海軍ＧＬ第５支部「Ｇ‐５」大佐",
+        "jp": "海軍ＧＬ第５支部「Ｇ‐５」大佐",
         "tw": "",
         "us": ""
       }
