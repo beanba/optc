@@ -8068,7 +8068,7 @@
       "sid": 302,
       "skill": {
         "al": "png/tw/motion_0302_hina_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0302_hina_skill_name.png",
         "tw": "png/tw/motion_0302_hina_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -8096,7 +8096,7 @@
       "no": 232,
       "portrait": {
         "al": "png/tw/character_0303_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0303_c1.png",
         "tw": "png/tw/character_0303_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -19582,8 +19582,8 @@
       },
       "sid": 620,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_0620_franky_skill_name.png",
+        "jp": "png/jp/motion_0620_franky_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -32096,21 +32096,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1026,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "マーガレット",
+        "jp": "マーガレット",
         "tw": "",
         "us": ""
       },
       "no": 918,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1026_c1.png",
+        "jp": "png/jp/character_1026_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1026,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -32118,14 +32118,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1026_t1.png",
+        "jp": "png/jp/character_1026_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "護国の戦士",
+        "jp": "護国の戦士",
         "tw": "",
         "us": ""
       }
@@ -47531,21 +47531,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1497,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "タマゴ男爵",
+        "jp": "タマゴ男爵",
         "tw": "",
         "us": ""
       },
       "no": 1359,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1497_c1.png",
+        "jp": "png/jp/character_1497_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1497,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -47553,14 +47553,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1497_t1.png",
+        "jp": "png/jp/character_1497_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "ビッグ・マム海賊団",
+        "jp": "ビッグ・マム海賊団",
         "tw": "",
         "us": ""
       }
