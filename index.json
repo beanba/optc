@@ -1739,7 +1739,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0147_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0147_t1.png",
         "tw": "png/tw/character_0147_t1.png",
         "us": "png/us/character_0147_t1.png"
       },
@@ -1774,7 +1774,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0148_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0148_t1.png",
         "tw": "png/tw/character_0148_t1.png",
         "us": "png/us/character_0148_t1.png"
       },
@@ -11491,7 +11491,7 @@
       "no": 329,
       "portrait": {
         "al": "png/tw/character_0343_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0343_c1.png",
         "tw": "png/tw/character_0343_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -14934,7 +14934,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0448_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0448_t1.png",
         "tw": "png/tw/character_0448_t1.png",
         "us": "png/us/character_0448_t1.png"
       },
@@ -16299,7 +16299,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0500_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0500_t1.png",
         "tw": "png/tw/character_0500_t1.png",
         "us": "png/us/character_0500_t1.png"
       },
@@ -18959,7 +18959,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0499_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0499_t1.png",
         "tw": "png/tw/character_0499_t1.png",
         "us": "png/us/character_0499_t1.png"
       },
@@ -31203,7 +31203,7 @@
       "sid": 8141,
       "skill": {
         "al": "png/tw/skill_name_8141.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8141.png",
         "tw": "png/tw/skill_name_8141.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -32110,10 +32110,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1026,
+      "sid": 1025,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1025_margaret_skill_name.png",
+        "jp": "png/jp/motion_1025_margaret_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
