@@ -13884,7 +13884,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0429_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0429_t1.png",
         "tw": "png/tw/character_0429_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -32145,10 +32145,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1027,
+      "sid": 8143,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/skill_name_8143.png",
+        "jp": "png/jp/skill_name_8143.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
