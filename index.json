@@ -20128,16 +20128,16 @@
     {
       "id": 676,
       "name": {
-        "al": "ナミのティータイム",
+        "al": "娜美的午茶時光",
         "jp": "ナミのティータイム",
-        "tw": "",
+        "tw": "娜美的午茶時光",
         "us": ""
       },
       "no": 576,
       "portrait": {
-        "al": "png/jp/character_0676_c1.png",
+        "al": "png/tw/character_0676_c1.png",
         "jp": "png/jp/character_0676_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0676_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 676,
@@ -20148,9 +20148,9 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0676_t1.png",
+        "al": "png/tw/character_0676_t1.png",
         "jp": "png/jp/character_0676_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0676_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
@@ -21024,7 +21024,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0651_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0651_t1.png",
         "tw": "png/tw/character_0651_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -23171,21 +23171,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 721,
       "name": {
-        "al": "",
+        "al": "納菲魯塔利・薇薇",
         "jp": "",
-        "tw": "",
+        "tw": "納菲魯塔利・薇薇",
         "us": ""
       },
       "no": 663,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/character_0721_c1.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0721_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 721,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -23193,15 +23193,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
+        "al": "png/tw/character_0721_t1.png",
         "jp": "png/jp/character_none.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0721_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
+        "al": "阿拉巴斯坦王國公主",
         "jp": "",
-        "tw": "",
+        "tw": "阿拉巴斯坦王國公主",
         "us": ""
       }
     },
@@ -23243,16 +23243,16 @@
     {
       "id": 723,
       "name": {
-        "al": "Koza",
+        "al": "寇沙",
         "jp": "",
-        "tw": "",
+        "tw": "寇沙",
         "us": "Koza"
       },
       "no": 665,
       "portrait": {
-        "al": "png/us/character_0723_c1.png",
+        "al": "png/tw/character_0723_c1.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0723_c1.png",
         "us": "png/us/character_0723_c1.png"
       },
       "sid": 723,
@@ -23263,15 +23263,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/us/character_0723_t1.png",
+        "al": "png/tw/character_0723_t1.png",
         "jp": "png/jp/character_none.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0723_t1.png",
         "us": "png/us/character_0723_t1.png"
       },
       "title": {
-        "al": "Alabasta Citizen",
+        "al": "阿拉巴斯坦居民",
         "jp": "",
-        "tw": "",
+        "tw": "阿拉巴斯坦居民",
         "us": "Alabasta Citizen"
       }
     },
@@ -23311,21 +23311,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 725,
       "name": {
-        "al": "",
+        "al": "納菲魯塔利・寇布拉",
         "jp": "",
-        "tw": "",
+        "tw": "納菲魯塔利・寇布拉",
         "us": ""
       },
       "no": 667,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/character_0725_c1.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0725_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 725,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -23333,15 +23333,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
+        "al": "png/tw/character_0725_t1.png",
         "jp": "png/jp/character_none.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0725_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
+        "al": "阿拉巴斯坦王國國王",
         "jp": "",
-        "tw": "",
+        "tw": "阿拉巴斯坦王國國王",
         "us": ""
       }
     },
@@ -31151,21 +31151,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 923,
       "name": {
-        "al": "",
+        "al": "赫古巴庫醫生",
         "jp": "",
-        "tw": "",
+        "tw": "赫古巴庫醫生",
         "us": ""
       },
       "no": 891,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/character_0923_c1.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0923_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 923,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -31173,15 +31173,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
+        "al": "png/tw/character_0923_t1.png",
         "jp": "png/jp/character_none.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0923_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
+        "al": "恐怖三桅帆船的怪人",
         "jp": "",
-        "tw": "",
+        "tw": "恐怖三桅帆船的怪人",
         "us": ""
       }
     },
@@ -31221,21 +31221,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 946,
       "name": {
-        "al": "",
+        "al": "歐斯",
         "jp": "",
-        "tw": "",
+        "tw": "歐斯",
         "us": ""
       },
       "no": 893,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/character_0946_c1.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0946_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 946,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -31243,15 +31243,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
+        "al": "png/tw/character_0946_t1.png",
         "jp": "png/jp/character_none.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0946_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
+        "al": "特別殭屍",
         "jp": "",
-        "tw": "",
+        "tw": "特別殭屍",
         "us": ""
       }
     },
