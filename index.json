@@ -20142,9 +20142,9 @@
       },
       "sid": 676,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/motion_0676_nami_teatime_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0676_nami_teatime_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -23187,9 +23187,9 @@
       },
       "sid": 721,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/motion_0721_child_vivi_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0721_child_vivi_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -23257,9 +23257,9 @@
       },
       "sid": 723,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/motion_0723_kohza_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0723_kohza_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -23325,11 +23325,11 @@
         "tw": "png/tw/character_0725_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 725,
+      "sid": 8117,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/skill_name_8117.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/skill_name_8117.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -31165,11 +31165,11 @@
         "tw": "png/tw/character_0923_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 923,
+      "sid": 8140,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/skill_name_8140.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/skill_name_8140.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -31237,9 +31237,9 @@
       },
       "sid": 946,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/motion_0946_oars_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0946_oars_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
