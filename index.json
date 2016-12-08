@@ -7409,7 +7409,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0236_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0236_t1.png",
         "tw": "png/tw/character_0236_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -8159,7 +8159,7 @@
       "id": 245,
       "name": {
         "al": "Mr.8",
-        "jp": "",
+        "jp": "Mr.8",
         "tw": "Mr.8",
         "us": ""
       },
@@ -8179,13 +8179,13 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0245_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0245_t1.png",
         "tw": "png/tw/character_0245_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
         "al": "捲毛砲",
-        "jp": "",
+        "jp": "イガラッパッパ",
         "tw": "捲毛砲",
         "us": ""
       }
@@ -12638,9 +12638,9 @@
     {
       "id": 356,
       "name": {
-        "al": "珠寶・波妮",
+        "al": "ジュエリー・ボニー",
         "jp": "ジュエリー・ボニー",
-        "tw": "珠寶・波妮",
+        "tw": "",
         "us": ""
       },
       "no": 362,
@@ -15074,7 +15074,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0452_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0452_t1.png",
         "tw": "png/tw/character_0452_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -16293,7 +16293,7 @@
       "sid": 8067,
       "skill": {
         "al": "png/tw/skill_name_8067.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8067.png",
         "tw": "png/tw/skill_name_8067.png",
         "us": "png/us/skill_name_8067.png"
       },
@@ -20142,9 +20142,9 @@
       },
       "sid": 676,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/motion_0676_nami_teatime_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0676_nami_teatime_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -23187,9 +23187,9 @@
       },
       "sid": 721,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/motion_0721_child_vivi_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0721_child_vivi_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -23257,9 +23257,9 @@
       },
       "sid": 723,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/motion_0723_kohza_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0723_kohza_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -23325,11 +23325,11 @@
         "tw": "png/tw/character_0725_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 725,
+      "sid": 8117,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/skill_name_8117.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/skill_name_8117.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -24658,7 +24658,7 @@
       "sid": 8114,
       "skill": {
         "al": "png/tw/skill_name_8114.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8114.png",
         "tw": "png/tw/skill_name_8114.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -25971,36 +25971,36 @@
       }
     },
     {
-      "id": 9999,
+      "id": 803,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ワンゼ",
+        "jp": "ワンゼ",
         "tw": "",
         "us": ""
       },
       "no": 743,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_0803_c1.png",
+        "jp": "png/jp/character_0803_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 803,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_0803_wanze_skill_name.png",
+        "jp": "png/jp/motion_0803_wanze_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_0803_t1.png",
+        "jp": "png/jp/character_0803_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "イファーポールNo.7",
+        "jp": "イファーポールNo.7",
         "tw": "",
         "us": ""
       }
@@ -31165,11 +31165,11 @@
         "tw": "png/tw/character_0923_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 923,
+      "sid": 8140,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/skill_name_8140.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/skill_name_8140.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -31237,9 +31237,9 @@
       },
       "sid": 946,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/motion_0946_oars_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0946_oars_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -32287,9 +32287,9 @@
       },
       "sid": 838,
       "skill": {
-        "al": "png/jp/motion_0838_kid_skill_name.png",
+        "al": "png/tw/motion_0838_kid_skill_name.png",
         "jp": "png/jp/motion_0838_kid_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0838_kid_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
