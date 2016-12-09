@@ -23208,16 +23208,16 @@
     {
       "id": 722,
       "name": {
-        "al": "ネフェルタリ・ビビ",
+        "al": "納菲魯塔利・薇薇",
         "jp": "ネフェルタリ・ビビ",
-        "tw": "",
+        "tw": "納菲魯塔利・薇薇",
         "us": ""
       },
       "no": 664,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/character_0722_c1.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0722_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 722,
@@ -23228,15 +23228,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0722_t1.png",
+        "al": "png/tw/character_0722_t1.png",
         "jp": "png/jp/character_0722_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0722_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "砂砂団　副リーダー",
+        "al": "砂砂團　副首領",
         "jp": "砂砂団　副リーダー",
-        "tw": "",
+        "tw": "砂砂團　副首領",
         "us": ""
       }
     },
@@ -23276,21 +23276,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 724,
       "name": {
-        "al": "",
+        "al": "寇沙",
         "jp": "",
-        "tw": "",
+        "tw": "寇沙",
         "us": ""
       },
       "no": 666,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/character_0724_c1.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0724_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 724,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -23298,15 +23298,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
+        "al": "png/tw/character_0724_t1.png",
         "jp": "png/jp/character_none.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0724_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
+        "al": "砂砂團　副領",
         "jp": "",
-        "tw": "",
+        "tw": "砂砂團　副領",
         "us": ""
       }
     },
@@ -32378,35 +32378,35 @@
     {
       "id": 948,
       "name": {
-        "al": "獄卒長サディちゃん",
+        "al": "獄卒長小莎蒂",
         "jp": "獄卒長サディちゃん",
-        "tw": "",
+        "tw": "獄卒長小莎蒂",
         "us": ""
       },
       "no": 926,
       "portrait": {
-        "al": "png/jp/character_0948_c1.png",
+        "al": "png/tw/character_0948_c1.png",
         "jp": "png/jp/character_0948_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0948_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 947,
       "skill": {
-        "al": "png/jp/motion_0947_sadichan_skill_name.png",
+        "al": "png/tw/motion_0947_sadichan_skill_name.png",
         "jp": "png/jp/motion_0947_sadichan_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0947_sadichan_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0948_t1.png",
+        "al": "png/tw/character_0948_t1.png",
         "jp": "png/jp/character_0948_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0948_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "獄卒獣の指揮官",
+        "al": "獄卒獣指揮官",
         "jp": "獄卒獣の指揮官",
-        "tw": "",
+        "tw": "獄卒獣指揮官",
         "us": ""
       }
     },
