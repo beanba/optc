@@ -9636,7 +9636,7 @@
       "no": 276,
       "portrait": {
         "al": "png/tw/character_0267_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0267_c1.png",
         "tw": "png/tw/character_0267_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -9649,7 +9649,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0267_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0267_t1.png",
         "tw": "png/tw/character_0267_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -20416,7 +20416,7 @@
       "no": 584,
       "portrait": {
         "al": "png/tw/character_0643_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0643_c1.png",
         "tw": "png/tw/character_0643_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -20429,7 +20429,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0643_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0643_t1.png",
         "tw": "png/tw/character_0643_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -47426,30 +47426,30 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1494,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ペコムズ",
+        "jp": "ペコムズ",
         "tw": "",
         "us": ""
       },
       "no": 1356,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1494_c1.png",
+        "jp": "png/jp/character_1494_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1494,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1494_skill_name.png",
+        "jp": "png/jp/motion_1494_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1494_t1.png",
+        "jp": "png/jp/character_1494_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
