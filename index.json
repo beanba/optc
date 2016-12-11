@@ -33391,21 +33391,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1030,
       "name": {
-        "al": "",
+        "al": "馬可羅",
         "jp": "",
-        "tw": "",
+        "tw": "馬可羅",
         "us": ""
       },
       "no": 955,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/character_1030_c1.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1030_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1030,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -33413,9 +33413,9 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
+        "al": "png/tw/character_1030_t1.png",
         "jp": "png/jp/character_none.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1030_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
@@ -33426,21 +33426,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1031,
       "name": {
-        "al": "",
+        "al": "淡水",
         "jp": "",
-        "tw": "",
+        "tw": "淡水",
         "us": ""
       },
       "no": 956,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/character_1031_c1.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1031_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1031,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -33448,9 +33448,9 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
+        "al": "png/tw/character_1031_t1.png",
         "jp": "png/jp/character_none.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1031_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
@@ -33960,9 +33960,9 @@
       },
       "no": 971,
       "portrait": {
-        "al": "png/jp/character_1199_c1.png",
+        "al": "png/tw/character_1199_c1.png",
         "jp": "png/jp/character_1199_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1199_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 8156,
@@ -33973,9 +33973,9 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1199_t1.png",
+        "al": "png/tw/character_1199_t1.png",
         "jp": "png/jp/character_1199_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1199_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
