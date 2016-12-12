@@ -47461,10 +47461,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1495,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ペコムズ",
+        "jp": "ペコムズ",
         "tw": "",
         "us": ""
       },
@@ -47475,7 +47475,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1495,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -47483,14 +47483,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1495_t1.png",
+        "jp": "png/jp/character_1495_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "ビッグ・マム海賊団",
+        "jp": "ビッグ・マム海賊団",
         "tw": "",
         "us": ""
       }
@@ -47636,10 +47636,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1501,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ロロノア・ゾロ",
+        "jp": "ロロノア・ゾロ",
         "tw": "",
         "us": ""
       },
@@ -47650,7 +47650,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1501,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -47658,14 +47658,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1501_t1.png",
+        "jp": "png/jp/character_1501_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "新生・麦わらの一味",
+        "jp": "新生・麦わらの一味",
         "tw": "",
         "us": ""
       }
@@ -48161,21 +48161,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1529,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "マーガレット",
+        "jp": "マーガレット",
         "tw": "",
         "us": ""
       },
       "no": 1377,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1529_c1.png",
+        "jp": "png/jp/character_1529_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1529,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -48183,23 +48183,23 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1529_t1.png",
+        "jp": "png/jp/character_1529_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "アマゾン・リリーの弓兵",
+        "jp": "アマゾン・リリーの弓兵",
         "tw": "",
         "us": ""
       }
     },
     {
-      "id": 9999,
+      "id": 1530,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "マーガレット",
+        "jp": "マーガレット",
         "tw": "",
         "us": ""
       },
@@ -48210,7 +48210,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1530,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -48218,14 +48218,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1530_t1.png",
+        "jp": "png/jp/character_1530_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "九蛇の覇気使い",
+        "jp": "九蛇の覇気使い",
         "tw": "",
         "us": ""
       }
