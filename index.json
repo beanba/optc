@@ -47251,10 +47251,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1483,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "テキーラウルフの警備兵",
+        "jp": "テキーラウルフの警備兵",
         "tw": "",
         "us": ""
       },
@@ -47265,7 +47265,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1483,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -47273,8 +47273,8 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1483_t1.png",
+        "jp": "png/jp/character_1483_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
@@ -48091,21 +48091,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1486,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "デリンジャー",
+        "jp": "デリンジャー",
         "tw": "",
         "us": ""
       },
       "no": 1375,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1486_c1.png",
+        "jp": "png/jp/character_1486_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1486,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -48113,23 +48113,23 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1486_t1.png",
+        "jp": "png/jp/character_1486_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "闘魚の血を引く半魚人",
+        "jp": "闘魚の血を引く半魚人",
         "tw": "",
         "us": ""
       }
     },
     {
-      "id": 9999,
+      "id": 1487,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "デリンジャー",
+        "jp": "デリンジャー",
         "tw": "",
         "us": ""
       },
@@ -48140,7 +48140,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1487,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -48148,14 +48148,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1487_t1.png",
+        "jp": "png/jp/character_1487_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "ディアマンテ軍戦闘員",
+        "jp": "ディアマンテ軍戦闘員",
         "tw": "",
         "us": ""
       }
