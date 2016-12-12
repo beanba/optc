@@ -10259,7 +10259,7 @@
       "id": 300,
       "name": {
         "al": "暴龍",
-        "jp": "",
+        "jp": "レックス",
         "tw": "暴龍",
         "us": ""
       },
@@ -10279,7 +10279,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0300_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0300_t1.png",
         "tw": "png/tw/character_0300_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -11764,7 +11764,7 @@
       "id": 396,
       "name": {
         "al": "解體商佛朗基",
-        "jp": "",
+        "jp": "解体屋フランキー",
         "tw": "解體商佛朗基",
         "us": ""
       },
@@ -11784,7 +11784,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0396_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0396_t1.png",
         "tw": "png/tw/character_0396_t1.png",
         "us": "png/us/character_0396_t1.png"
       },
@@ -11799,7 +11799,7 @@
       "id": 397,
       "name": {
         "al": "基威",
-        "jp": "",
+        "jp": "キウイ",
         "tw": "基威",
         "us": ""
       },
@@ -11819,7 +11819,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0397_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0397_t1.png",
         "tw": "png/tw/character_0397_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -11834,7 +11834,7 @@
       "id": 398,
       "name": {
         "al": "摩茲",
-        "jp": "",
+        "jp": "モズ",
         "tw": "摩茲",
         "us": ""
       },
@@ -11854,7 +11854,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0398_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0398_t1.png",
         "tw": "png/tw/character_0398_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -13339,7 +13339,7 @@
       "id": 389,
       "name": {
         "al": "沙漠大蜥蜴",
-        "jp": "",
+        "jp": "サンドラ大トカゲ",
         "tw": "沙漠大蜥蜴",
         "us": ""
       },
@@ -13359,7 +13359,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0389_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0389_t1.png",
         "tw": "png/tw/character_0389_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -17399,7 +17399,7 @@
       "id": 564,
       "name": {
         "al": "波特卡斯・D・艾斯",
-        "jp": "",
+        "jp": "ポートガス・Ｄ・エース",
         "tw": "波特卡斯・D・艾斯",
         "us": ""
       },
@@ -17413,19 +17413,19 @@
       "sid": 564,
       "skill": {
         "al": "png/tw/motion_0564_ace_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0564_ace_skill_name.png",
         "tw": "png/tw/motion_0564_ace_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
         "al": "png/tw/character_0564_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0564_t1.png",
         "tw": "png/tw/character_0564_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
         "al": "科爾波山惡童3人組「兄弟結拜酒」",
-        "jp": "",
+        "jp": "コルボ山の悪ガキ３兄弟“兄弟盃”",
         "tw": "科爾波山惡童3人組「兄弟結拜酒」",
         "us": ""
       }
@@ -17819,7 +17819,7 @@
       "id": 508,
       "name": {
         "al": "最強的囚犯 沙・克洛克達爾",
-        "jp": "",
+        "jp": "最強の囚人サー・クロコダイル",
         "tw": "最強的囚犯 沙・克洛克達爾",
         "us": ""
       },
@@ -17839,13 +17839,13 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0508_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0508_t1.png",
         "tw": "png/tw/character_0508_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
         "al": "原王下七武海成員",
-        "jp": "",
+        "jp": "元王下七武海",
         "tw": "原王下七武海成員",
         "us": ""
       }
@@ -21459,7 +21459,7 @@
       "id": 660,
       "name": {
         "al": "贊拜",
-        "jp": "",
+        "jp": "ザンバイ",
         "tw": "贊拜",
         "us": ""
       },
@@ -21479,7 +21479,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0660_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0660_t1.png",
         "tw": "png/tw/character_0660_t1.png",
         "us": "png/us/character_none.png"
       },
