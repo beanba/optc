@@ -4428,7 +4428,7 @@
       "sid": 8007,
       "skill": {
         "al": "png/tw/skill_name_8007.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8007.png",
         "tw": "png/tw/skill_name_8007.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -4778,7 +4778,7 @@
       "sid": 8007,
       "skill": {
         "al": "png/tw/skill_name_8007.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8007.png",
         "tw": "png/tw/skill_name_8007.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -5163,7 +5163,7 @@
       "sid": 8007,
       "skill": {
         "al": "png/tw/skill_name_8007.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8007.png",
         "tw": "png/tw/skill_name_8007.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -5513,7 +5513,7 @@
       "sid": 8007,
       "skill": {
         "al": "png/tw/skill_name_8007.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8007.png",
         "tw": "png/tw/skill_name_8007.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -9439,7 +9439,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0261_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0261_t1.png",
         "tw": "png/tw/character_0261_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -9608,13 +9608,13 @@
       "sid": 8007,
       "skill": {
         "al": "png/tw/skill_name_8007.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8007.png",
         "tw": "png/tw/skill_name_8007.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
         "al": "png/tw/character_0266_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0266_t1.png",
         "tw": "png/tw/character_0266_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -9789,7 +9789,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0271_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0271_t1.png",
         "tw": "png/tw/character_0271_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -9958,13 +9958,13 @@
       "sid": 8007,
       "skill": {
         "al": "png/tw/skill_name_8007.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8007.png",
         "tw": "png/tw/skill_name_8007.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
         "al": "png/tw/character_0276_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0276_t1.png",
         "tw": "png/tw/character_0276_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -13353,7 +13353,7 @@
       "sid": 8007,
       "skill": {
         "al": "png/tw/skill_name_8007.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8007.png",
         "tw": "png/tw/skill_name_8007.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -15838,13 +15838,13 @@
       "sid": 486,
       "skill": {
         "al": "png/tw/motion_0486_luoyang_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0486_luoyang_skill_name.png",
         "tw": "png/tw/motion_0486_luoyang_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
         "al": "png/tw/character_0486_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0486_t1.png",
         "tw": "png/tw/character_0486_t1.png",
         "us": "png/us/character_0486_t1.png"
       },
