@@ -32941,27 +32941,27 @@
         "al": "フランキー",
         "jp": "フランキー",
         "tw": "",
-        "us": ""
+        "us": "Franky"
       },
       "no": 942,
       "portrait": {
         "al": "png/jp/character_1068_c1.png",
         "jp": "png/jp/character_1068_c1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_1068_c1.png"
       },
       "sid": 1068,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/us/motion_1068_franky_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_1068_franky_skill_name.png"
       },
       "thumbnail": {
         "al": "png/jp/character_1068_t1.png",
         "jp": "png/jp/character_1068_t1.png",
         "tw": "png/tw/character_none.png",
-        "us": "png/us/character_none.png"
+        "us": "png/us/character_1068_t1.png"
       },
       "title": {
         "al": "メカアニマルと戦う改造人間",
@@ -32976,7 +32976,7 @@
         "al": "鉄人（サイボーグ）フランキー",
         "jp": "鉄人（サイボーグ）フランキー",
         "tw": "",
-        "us": ""
+        "us": "Mech-Animal Fighting Cyborg"
       },
       "no": 943,
       "portrait": {
