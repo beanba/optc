@@ -30139,7 +30139,7 @@
       "id": 847,
       "name": {
         "al": "亞爾麗塔小姐",
-        "jp": "",
+        "jp": "レディー・アルビダ",
         "tw": "亞爾麗塔小姐",
         "us": ""
       },
@@ -30159,13 +30159,13 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0847_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0847_t1.png",
         "tw": "png/tw/character_0847_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
         "al": "絕世美女",
-        "jp": "",
+        "jp": "絶世の美女",
         "tw": "絕世美女",
         "us": ""
       }
@@ -31084,7 +31084,7 @@
       "id": 921,
       "name": {
         "al": "培羅娜",
-        "jp": "",
+        "jp": "ペローナ",
         "tw": "培羅娜",
         "us": ""
       },
@@ -31098,19 +31098,19 @@
       "sid": 921,
       "skill": {
         "al": "png/tw/motion_0921_perona_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0921_perona_skill_name.png",
         "tw": "png/tw/motion_0921_perona_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
         "al": "png/tw/character_0921_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0921_t1.png",
         "tw": "png/tw/character_0921_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
         "al": "恐怖三桅帆船的怪人",
-        "jp": "",
+        "jp": "スリラーバークの怪人",
         "tw": "恐怖三桅帆船的怪人",
         "us": ""
       }
@@ -31154,14 +31154,14 @@
       "id": 923,
       "name": {
         "al": "赫古巴庫醫生",
-        "jp": "",
+        "jp": "ドクトル・ホグバック",
         "tw": "赫古巴庫醫生",
         "us": ""
       },
       "no": 891,
       "portrait": {
         "al": "png/tw/character_0923_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0923_c1.png",
         "tw": "png/tw/character_0923_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -31174,13 +31174,13 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0923_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0923_t1.png",
         "tw": "png/tw/character_0923_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
         "al": "恐怖三桅帆船的怪人",
-        "jp": "",
+        "jp": "スリラーバークの怪人",
         "tw": "恐怖三桅帆船的怪人",
         "us": ""
       }
@@ -33394,7 +33394,7 @@
       "id": 1030,
       "name": {
         "al": "馬可羅",
-        "jp": "",
+        "jp": "マクロ",
         "tw": "馬可羅",
         "us": ""
       },
@@ -33414,7 +33414,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_1030_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_1030_t1.png",
         "tw": "png/tw/character_1030_t1.png",
         "us": "png/us/character_none.png"
       },
