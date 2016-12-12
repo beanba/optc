@@ -22,7 +22,7 @@ fi
 
 # generate json, parse pug to html
 date
-DEBUG=optc OPTC_FORCE=true OPTC_LANG=$SUBDIR node index.js
+DEBUG=miss OPTC_FORCE=true OPTC_LANG=$SUBDIR node index.js
 date
 
 exit 0

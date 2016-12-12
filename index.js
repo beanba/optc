@@ -1,7 +1,9 @@
 'use strict';
 
 const _ = require('lodash');
-const debug = require('debug')('optc');
+const debug = require('debug');
+const debugInfo = debug('info');
+const debugMiss = debug('miss');
 const fs = require('fs');
 const pug = require('pug');
 const stringify = require('json-stable-stringify');
@@ -31,27 +33,27 @@ if (process.env.OPTC_FORCE) {
       const skill = build.skill[lang];
       const thumbnail = build.thumbnail[lang];
 
-      debug(build.no);
+      debugInfo(build.no);
 
       if (portrait === `png/${lang}/character_9999_t1.png`) {
-        debug('\x1b[33m', 'missing portrait', '\x1b[0m');
+        debugMiss('\x1b[33m', `${build.no} portrait`, '\x1b[0m');
         const findName = `character_${_.padStart(build.id, 4, '0')}_c1.png`;
         if (files.includes(findName)) {
-          debug('\x1b[93m', `found ${findName}`, '\x1b[0m');
+          debugMiss('\x1b[93m', `found ${findName}`, '\x1b[0m');
           build.portrait[lang] = `png/${lang}/${findName}`;
         }
       }
 
       if (build.sid !== -1) {
         if (skill === `png/${lang}/character_9999_t1.png`) {
-          debug('\x1b[32m', 'missing skill', '\x1b[0m');
+          debugMiss('\x1b[32m', `${build.no} skill`, '\x1b[0m');
 
           if (build.sid < 8000) { // skill with animation
             const pattern = new RegExp(`motion_${_.padStart(build.sid, 4, '0')}_.*_name\.png`);
             const findName = _.find(files, regexpTest.bind(null, pattern));
 
             if (findName) {
-              debug('\x1b[92m', `found ${findName}`, '\x1b[0m');
+              debugMiss('\x1b[92m', `found ${findName}`, '\x1b[0m');
               build.skill[lang] = `png/${lang}/${findName}`;
             } // skip law and ryu-ma case
           } else { // skill with only text
@@ -59,7 +61,7 @@ if (process.env.OPTC_FORCE) {
             const findName = _.find(files, regexpTest.bind(null, pattern));
 
             if (findName) {
-              debug('\x1b[92m', `found ${findName}`, '\x1b[0m');
+              debugMiss('\x1b[92m', `found ${findName}`, '\x1b[0m');
               build.skill[lang] = `png/${lang}/${findName}`;
             }
           }
@@ -67,10 +69,10 @@ if (process.env.OPTC_FORCE) {
       }
 
       if (thumbnail === `png/${lang}/character_none.png`) {
-        debug('\x1b[31m', 'missing thumbnail', '\x1b[0m');
+        debugMiss('\x1b[31m', `${build.no} thumbnail`, '\x1b[0m');
         const findName = `character_${_.padStart(build.id, 4, '0')}_t1.png`;
         if (files.includes(findName)) {
-          debug('\x1b[91m', `found ${findName}`, '\x1b[0m');
+          debugMiss('\x1b[91m', `found ${findName}`, '\x1b[0m');
           build.thumbnail[lang] = `png/${lang}/${findName}`;
         }
       }
