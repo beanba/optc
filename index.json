@@ -34761,27 +34761,27 @@
         "al": "ヴァイオレット",
         "jp": "ヴァイオレット",
         "tw": "",
-        "us": ""
+        "us": "Violet"
       },
       "no": 994,
       "portrait": {
         "al": "png/jp/character_1120_c1.png",
         "jp": "png/jp/character_1120_c1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_1120_c1.png"
       },
       "sid": 1120,
       "skill": {
         "al": "png/jp/motion_1120_skill_name.png",
         "jp": "png/jp/motion_1120_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_1120_skill_name.png"
       },
       "thumbnail": {
         "al": "png/jp/character_1120_t1.png",
         "jp": "png/jp/character_1120_t1.png",
         "tw": "png/tw/character_none.png",
-        "us": "png/us/character_none.png"
+        "us": "png/us/character_1120_t1.png"
       },
       "title": {
         "al": "",
