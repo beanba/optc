@@ -11743,7 +11743,7 @@
       "sid": 395,
       "skill": {
         "al": "png/tw/motion_0395_franky_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0395_franky_skill_name.png",
         "tw": "png/tw/motion_0395_franky_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -11771,7 +11771,7 @@
       "no": 337,
       "portrait": {
         "al": "png/tw/character_0396_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0396_c1.png",
         "tw": "png/tw/character_0396_c1.png",
         "us": "png/us/character_0396_c1.png"
       },
@@ -15628,7 +15628,7 @@
       "sid": 477,
       "skill": {
         "al": "png/tw/motion_0477_kurohige_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0477_kurohige_skill_name.png",
         "tw": "png/tw/motion_0477_kurohige_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -36751,21 +36751,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1209,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ハグワール・D・サウロ",
+        "jp": "ハグワール・D・サウロ",
         "tw": "",
         "us": ""
       },
       "no": 1051,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1209_c1.png",
+        "jp": "png/jp/character_1209_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1209,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -36773,14 +36773,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1209_t1.png",
+        "jp": "png/jp/character_1209_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "海軍本部中将",
+        "jp": "海軍本部中将",
         "tw": "",
         "us": ""
       }
@@ -48175,10 +48175,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1529,
+      "sid": 8214,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/skill_name_8214.png",
+        "jp": "png/jp/skill_name_8214.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -48205,8 +48205,8 @@
       },
       "no": 1378,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1530_c1.png",
+        "jp": "png/jp/character_1530_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
