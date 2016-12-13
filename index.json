@@ -11778,7 +11778,7 @@
       "sid": 396,
       "skill": {
         "al": "png/tw/motion_0396_franky_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0396_franky_skill_name.png",
         "tw": "png/tw/motion_0396_franky_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -36765,10 +36765,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1209,
+      "sid": 1208,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1208_sauro_name.png",
+        "jp": "png/jp/motion_1208_sauro_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -45970,10 +45970,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1455,
+      "sid": 1454,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1454_skill_name.png",
+        "jp": "png/jp/motion_1454_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -48210,10 +48210,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1530,
+      "sid": 8214,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/skill_name_8214.png",
+        "jp": "png/jp/skill_name_8214.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
