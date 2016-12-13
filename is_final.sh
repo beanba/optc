@@ -7,4 +7,4 @@ padid=`printf %04d $id`
 padsid=`printf %04d $sid`
 
 find png/$1 -name "*character_"$padid"_*" | xargs ls -l
-find png/$1 -name "*_"$padsid"*" | grep skill | xargs ls -l
+find png/$1 -name "*motion_"$padsid"_*" | xargs ls -l
