@@ -1901,7 +1901,7 @@
       "no": 55,
       "portrait": {
         "al": "png/tw/character_0156_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0156_c1.png",
         "tw": "png/tw/character_0156_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -1914,7 +1914,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0156_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0156_t1.png",
         "tw": "png/tw/character_0156_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -4288,7 +4288,7 @@
       "sid": 8008,
       "skill": {
         "al": "png/tw/skill_name_8008.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8008.png",
         "tw": "png/tw/skill_name_8008.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -4463,7 +4463,7 @@
       "sid": 8019,
       "skill": {
         "al": "png/tw/skill_name_8019.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8019.png",
         "tw": "png/tw/skill_name_8019.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -4638,7 +4638,7 @@
       "sid": 8019,
       "skill": {
         "al": "png/tw/skill_name_8019.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8019.png",
         "tw": "png/tw/skill_name_8019.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -4813,7 +4813,7 @@
       "sid": 8017,
       "skill": {
         "al": "png/tw/skill_name_8017.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8017.png",
         "tw": "png/tw/skill_name_8017.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -5023,7 +5023,7 @@
       "sid": 8008,
       "skill": {
         "al": "png/tw/skill_name_8008.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8008.png",
         "tw": "png/tw/skill_name_8008.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -5198,7 +5198,7 @@
       "sid": 8019,
       "skill": {
         "al": "png/tw/skill_name_8019.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8019.png",
         "tw": "png/tw/skill_name_8019.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -5373,7 +5373,7 @@
       "sid": 8019,
       "skill": {
         "al": "png/tw/skill_name_8019.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8019.png",
         "tw": "png/tw/skill_name_8019.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -5548,7 +5548,7 @@
       "sid": 8017,
       "skill": {
         "al": "png/tw/skill_name_8017.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8017.png",
         "tw": "png/tw/skill_name_8017.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -9468,7 +9468,7 @@
       "sid": 8008,
       "skill": {
         "al": "png/tw/skill_name_8008.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8008.png",
         "tw": "png/tw/skill_name_8008.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -9643,7 +9643,7 @@
       "sid": 8019,
       "skill": {
         "al": "png/tw/skill_name_8019.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8019.png",
         "tw": "png/tw/skill_name_8019.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -9818,7 +9818,7 @@
       "sid": 8019,
       "skill": {
         "al": "png/tw/skill_name_8019.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8019.png",
         "tw": "png/tw/skill_name_8019.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -9993,7 +9993,7 @@
       "sid": 8017,
       "skill": {
         "al": "png/tw/skill_name_8017.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8017.png",
         "tw": "png/tw/skill_name_8017.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -11714,7 +11714,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0349_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0349_t1.png",
         "tw": "png/tw/character_0349_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -30775,8 +30775,8 @@
       },
       "no": 880,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_0994_c1.png",
+        "jp": "png/jp/character_0994_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -43830,8 +43830,8 @@
       },
       "no": 1253,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1256_c1.png",
+        "jp": "png/jp/character_1256_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -47260,8 +47260,8 @@
       },
       "no": 1351,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1483_c1.png",
+        "jp": "png/jp/character_1483_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -47470,8 +47470,8 @@
       },
       "no": 1357,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1495_c1.png",
+        "jp": "png/jp/character_1495_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -48135,8 +48135,8 @@
       },
       "no": 1376,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1487_c1.png",
+        "jp": "png/jp/character_1487_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
