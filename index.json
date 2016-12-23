@@ -14668,16 +14668,16 @@
     {
       "id": 444,
       "name": {
-        "al": "モンキー・Ｄ・ルフィ",
+        "al": "蒙其・D・魯夫",
         "jp": "モンキー・Ｄ・ルフィ",
-        "tw": "",
+        "tw": "蒙其・D・魯夫",
         "us": ""
       },
       "no": 420,
       "portrait": {
-        "al": "png/jp/character_0444_c1.png",
+        "al": "png/tw/character_0444_c1.png",
         "jp": "png/jp/character_0444_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0444_c1.png",
         "us": "png/us/character_0444_c1.png"
       },
       "sid": 444,
@@ -14688,31 +14688,31 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0444_t1.png",
+        "al": "png/tw/character_0444_t1.png",
         "jp": "png/jp/character_0444_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0444_t1.png",
         "us": "png/us/character_0444_t1.png"
       },
       "title": {
-        "al": "ゴムゴムのバズーカ“覇”",
+        "al": "伸縮自如的橡膠火箭砲「霸」",
         "jp": "ゴムゴムのバズーカ“覇”",
-        "tw": "",
+        "tw": "伸縮自如的橡膠火箭砲「霸」",
         "us": ""
       }
     },
     {
       "id": 445,
       "name": {
-        "al": "ロロノア・ゾロ",
+        "al": "羅羅亞・索隆",
         "jp": "ロロノア・ゾロ",
-        "tw": "",
+        "tw": "羅羅亞・索隆",
         "us": ""
       },
       "no": 421,
       "portrait": {
-        "al": "png/jp/character_0445_c1.png",
+        "al": "png/tw/character_0445_c1.png",
         "jp": "png/jp/character_0445_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0445_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 445,
@@ -14723,15 +14723,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0445_t1.png",
+        "al": "png/tw/character_0445_t1.png",
         "jp": "png/jp/character_0445_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0445_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "三・千・世・界“斬”",
+        "al": "三・千・世・界「斬」",
         "jp": "三・千・世・界“斬”",
-        "tw": "",
+        "tw": "三・千・世・界「斬」",
         "us": ""
       }
     },
@@ -29331,21 +29331,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 961,
       "name": {
-        "al": "",
+        "al": "威爾可",
         "jp": "",
-        "tw": "",
+        "tw": "威爾可",
         "us": ""
       },
       "no": 839,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/character_0961_c1.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0961_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 961,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -29353,9 +29353,9 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
+        "al": "png/tw/character_0961_t1.png",
         "jp": "png/jp/character_none.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0961_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
@@ -32308,16 +32308,16 @@
     {
       "id": 839,
       "name": {
-        "al": "キャプテン・キッド",
+        "al": "船長基德",
         "jp": "キャプテン・キッド",
-        "tw": "",
+        "tw": "船長基德",
         "us": ""
       },
       "no": 924,
       "portrait": {
-        "al": "png/jp/character_0839_c1.png",
+        "al": "png/tw/character_0839_c1.png",
         "jp": "png/jp/character_0839_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0839_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 839,
@@ -32328,15 +32328,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0839_t1.png",
+        "al": "png/tw/character_0839_t1.png",
         "jp": "png/jp/character_0839_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0839_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "キッド海賊団船長",
+        "al": "基德海賊團船長",
         "jp": "キッド海賊団船長",
-        "tw": "",
+        "tw": "基德海賊團船長",
         "us": ""
       }
     },
@@ -36961,21 +36961,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1089,
       "name": {
-        "al": "",
+        "al": "波雅・瑪莉哥德",
         "jp": "",
-        "tw": "",
+        "tw": "波雅・瑪莉哥德",
         "us": ""
       },
       "no": 1057,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/character_1089_c1.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1089_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1089,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -36983,9 +36983,9 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
+        "al": "png/tw/character_1089_t1.png",
         "jp": "png/jp/character_none.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1089_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
@@ -37173,16 +37173,16 @@
     {
       "id": 1246,
       "name": {
-        "al": "破壊の女射手",
+        "al": "破壞的女射手",
         "jp": "破壊の女射手",
-        "tw": "",
+        "tw": "破壞的女射手",
         "us": ""
       },
       "no": 1063,
       "portrait": {
-        "al": "png/jp/character_1246_c1.png",
+        "al": "png/tw/character_1246_c1.png",
         "jp": "png/jp/character_1246_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1246_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 8164,
@@ -37193,31 +37193,31 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1246_t1.png",
+        "al": "png/tw/character_1246_t1.png",
         "jp": "png/jp/character_1246_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1246_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "九蛇の戦士",
+        "al": "九蛇戰士",
         "jp": "九蛇の戦士",
-        "tw": "",
+        "tw": "九蛇戰士",
         "us": ""
       }
     },
     {
       "id": 1247,
       "name": {
-        "al": "謀略の女射手",
+        "al": "計謀的女射手",
         "jp": "謀略の女射手",
-        "tw": "",
+        "tw": "計謀的女射手",
         "us": ""
       },
       "no": 1064,
       "portrait": {
-        "al": "png/jp/character_1247_c1.png",
+        "al": "png/tw/character_1247_c1.png",
         "jp": "png/jp/character_1247_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1247_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1247,
@@ -37228,31 +37228,31 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1247_t1.png",
+        "al": "png/tw/character_1247_t1.png",
         "jp": "png/jp/character_1247_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1247_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "九蛇の戦士",
+        "al": "九蛇戰士",
         "jp": "九蛇の戦士",
-        "tw": "",
+        "tw": "九蛇戰士",
         "us": ""
       }
     },
     {
       "id": 1248,
       "name": {
-        "al": "かしこい女剣士",
+        "al": "聰明的女劍士",
         "jp": "かしこい女剣士",
-        "tw": "",
+        "tw": "聰明的女劍士",
         "us": ""
       },
       "no": 1065,
       "portrait": {
-        "al": "png/jp/character_1248_c1.png",
+        "al": "png/tw/character_1248_c1.png",
         "jp": "png/jp/character_1248_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1248_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1248,
@@ -37263,31 +37263,31 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1248_t1.png",
+        "al": "png/tw/character_1248_t1.png",
         "jp": "png/jp/character_1248_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1248_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "九蛇の戦士",
+        "al": "九蛇戰士",
         "jp": "九蛇の戦士",
-        "tw": "",
+        "tw": "九蛇戰士",
         "us": ""
       }
     },
     {
       "id": 1249,
       "name": {
-        "al": "あかるい女剣士",
+        "al": "活潑的女劍士",
         "jp": "あかるい女剣士",
-        "tw": "",
+        "tw": "活潑的女劍士",
         "us": ""
       },
       "no": 1066,
       "portrait": {
-        "al": "png/jp/character_1249_c1.png",
+        "al": "png/tw/character_1249_c1.png",
         "jp": "png/jp/character_1249_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1249_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1249,
@@ -37298,31 +37298,31 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1249_t1.png",
+        "al": "png/tw/character_1249_t1.png",
         "jp": "png/jp/character_1249_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1249_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "九蛇の戦士",
+        "al": "九蛇戰士",
         "jp": "九蛇の戦士",
-        "tw": "",
+        "tw": "九蛇戰士",
         "us": ""
       }
     },
     {
       "id": 1250,
       "name": {
-        "al": "熟練女格闘士",
+        "al": "熟練的女格鬥士",
         "jp": "熟練女格闘士",
-        "tw": "",
+        "tw": "熟練的女格鬥士",
         "us": ""
       },
       "no": 1067,
       "portrait": {
-        "al": "png/jp/character_1250_c1.png",
+        "al": "png/tw/character_1250_c1.png",
         "jp": "png/jp/character_1250_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1250_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1250,
@@ -37333,31 +37333,31 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1250_t1.png",
+        "al": "png/tw/character_1250_t1.png",
         "jp": "png/jp/character_1250_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1250_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "九蛇の戦士",
+        "al": "九蛇戰士",
         "jp": "九蛇の戦士",
-        "tw": "",
+        "tw": "九蛇戰士",
         "us": ""
       }
     },
     {
       "id": 1251,
       "name": {
-        "al": "敏捷女格闘士",
+        "al": "敏捷的女格鬥士",
         "jp": "敏捷女格闘士",
-        "tw": "",
+        "tw": "敏捷的女格鬥士",
         "us": ""
       },
       "no": 1068,
       "portrait": {
-        "al": "png/jp/character_1251_c1.png",
+        "al": "png/tw/character_1251_c1.png",
         "jp": "png/jp/character_1251_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1251_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1251,
@@ -37368,15 +37368,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1251_t1.png",
+        "al": "png/tw/character_1251_t1.png",
         "jp": "png/jp/character_1251_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1251_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "九蛇の戦士",
+        "al": "九蛇戰士",
         "jp": "九蛇の戦士",
-        "tw": "",
+        "tw": "九蛇戰士",
         "us": ""
       }
     },
