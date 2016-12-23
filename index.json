@@ -2404,7 +2404,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0166_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0166_t1.png",
         "tw": "png/tw/character_0166_t1.png",
         "us": "png/us/character_0166_t1.png"
       },
@@ -31224,14 +31224,14 @@
       "id": 946,
       "name": {
         "al": "歐斯",
-        "jp": "",
+        "jp": "オーズ",
         "tw": "歐斯",
         "us": ""
       },
       "no": 893,
       "portrait": {
         "al": "png/tw/character_0946_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0946_c1.png",
         "tw": "png/tw/character_0946_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -31244,13 +31244,13 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0946_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0946_t1.png",
         "tw": "png/tw/character_0946_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
         "al": "特別殭屍",
-        "jp": "",
+        "jp": "特別ゾンビ",
         "tw": "特別殭屍",
         "us": ""
       }
@@ -33811,21 +33811,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1039,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "トラファルガー・ロー",
+        "jp": "トラファルガー・ロー",
         "tw": "",
         "us": ""
       },
       "no": 967,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1039_c1.png",
+        "jp": "png/jp/character_1039_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1039,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -33833,14 +33833,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1039_t1.png",
+        "jp": "png/jp/character_1039_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "超新星（スーパールーキー）",
+        "jp": "超新星（スーパールーキー）",
         "tw": "",
         "us": ""
       }
@@ -35561,10 +35561,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 949,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "茶ひげ",
+        "jp": "茶ひげ",
         "tw": "",
         "us": ""
       },
@@ -35575,7 +35575,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 949,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -35583,8 +35583,8 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_0949_t1.png",
+        "jp": "png/jp/character_0949_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
