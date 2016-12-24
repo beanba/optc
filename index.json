@@ -1424,7 +1424,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0154_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0154_t1.png",
         "tw": "png/tw/character_0154_t1.png",
         "us": "png/us/character_0154_t1.png"
       },
@@ -1599,7 +1599,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0043_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0043_t1.png",
         "tw": "png/tw/character_0043_t1.png",
         "us": "png/us/character_0043_t1.png"
       },
@@ -33076,10 +33076,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1070,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ラクヨウ",
+        "jp": "ラクヨウ",
         "tw": "",
         "us": ""
       },
@@ -33090,7 +33090,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1070,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -33098,14 +33098,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1070_t1.png",
+        "jp": "png/jp/character_1070_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "白ひげ海賊団７番隊隊長",
+        "jp": "白ひげ海賊団７番隊隊長",
         "tw": "",
         "us": ""
       }
@@ -33146,10 +33146,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1072,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "クリエル",
+        "jp": "クリエル",
         "tw": "",
         "us": ""
       },
@@ -33160,7 +33160,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1072,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -33168,14 +33168,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1072_t1.png",
+        "jp": "png/jp/character_1072_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "白ひげ海賊団１０番隊隊長",
+        "jp": "白ひげ海賊団１０番隊隊長",
         "tw": "",
         "us": ""
       }
@@ -33401,7 +33401,7 @@
       "no": 955,
       "portrait": {
         "al": "png/tw/character_1030_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_1030_c1.png",
         "tw": "png/tw/character_1030_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -36088,8 +36088,8 @@
     {
       "id": 1172,
       "name": {
-        "al": "Abdullah and Jeet",
-        "jp": "",
+        "al": "アブドーラ＆ジェット",
+        "jp": "アブドーラ＆ジェット",
         "tw": "",
         "us": "Abdullah and Jeet"
       },
@@ -36108,8 +36108,8 @@
         "us": "png/us/motion_1172_skill_name.png"
       },
       "thumbnail": {
-        "al": "png/us/character_1172_t1.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1172_t1.png",
+        "jp": "png/jp/character_1172_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_1172_t1.png"
       },
@@ -37593,15 +37593,15 @@
     {
       "id": 1219,
       "name": {
-        "al": "Ricky",
-        "jp": "",
+        "al": "リッキー",
+        "jp": "リッキー",
         "tw": "",
         "us": "Ricky"
       },
       "no": 1075,
       "portrait": {
-        "al": "png/us/character_1219_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1219_c1.png",
+        "jp": "png/jp/character_1219_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_1219_c1.png"
       },
@@ -37613,14 +37613,14 @@
         "us": "png/us/motion_1218_skill_name.png"
       },
       "thumbnail": {
-        "al": "png/us/character_1219_t1.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1219_t1.png",
+        "jp": "png/jp/character_1219_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_1219_t1.png"
       },
       "title": {
-        "al": "Mystery Swordsman",
-        "jp": "",
+        "al": "謎の剣闘士",
+        "jp": "謎の剣闘士",
         "tw": "",
         "us": "Mystery Swordsman"
       }
@@ -42491,10 +42491,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1335,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ガイラム",
+        "jp": "ガイラム",
         "tw": "",
         "us": ""
       },
@@ -42505,7 +42505,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1335,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -42513,14 +42513,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1335_t1.png",
+        "jp": "png/jp/character_1335_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "ワールド海賊団",
+        "jp": "ワールド海賊団",
         "tw": "",
         "us": ""
       }
@@ -42911,10 +42911,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1232,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ジュラキュール・ミホーク",
+        "jp": "ジュラキュール・ミホーク",
         "tw": "",
         "us": ""
       },
@@ -42925,7 +42925,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1232,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -42933,14 +42933,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1232_t1.png",
+        "jp": "png/jp/character_1232_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "鷹の目",
+        "jp": "鷹の目",
         "tw": "",
         "us": ""
       }
@@ -47645,8 +47645,8 @@
       },
       "no": 1362,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1501_c1.png",
+        "jp": "png/jp/character_1501_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
