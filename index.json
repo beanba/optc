@@ -27807,9 +27807,9 @@
       },
       "sid": 837,
       "skill": {
-        "al": "png/jp/motion_0837_nightmareluffy_skill_name.png",
+        "al": "png/tw/motion_0837_nightmareluffy_skill_name.png",
         "jp": "png/jp/motion_0837_nightmareluffy_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0837_nightmareluffy_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -33720,11 +33720,11 @@
         "tw": "png/tw/character_1036_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1036,
+      "sid": 8155,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/skill_name_8155.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/skill_name_8155.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -36977,9 +36977,9 @@
       },
       "sid": 1089,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/motion_1089_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_1089_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -37187,9 +37187,9 @@
       },
       "sid": 8164,
       "skill": {
-        "al": "png/jp/skill_name_8164.png",
+        "al": "png/tw/skill_name_8164.png",
         "jp": "png/jp/skill_name_8164.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/skill_name_8164.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -37325,11 +37325,11 @@
         "tw": "png/tw/character_1250_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1250,
+      "sid": 8166,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/skill_name_8166.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/skill_name_8166.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
