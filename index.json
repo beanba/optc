@@ -14613,7 +14613,7 @@
       "sid": 443,
       "skill": {
         "al": "png/tw/motion_0443_doflamingo_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0443_doflamingo_skill_name.png",
         "tw": "png/tw/motion_0443_doflamingo_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -26723,7 +26723,7 @@
       "sid": 832,
       "skill": {
         "al": "png/tw/motion_0832_nami_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0832_nami_skill_name.png",
         "tw": "png/tw/motion_0832_nami_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -26793,7 +26793,7 @@
       "sid": 828,
       "skill": {
         "al": "png/tw/motion_0828_zoro_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0828_zoro_skill_name.png",
         "tw": "png/tw/motion_0828_zoro_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -34385,10 +34385,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 908,
+      "sid": 907,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_0907_vista_skill_name.png",
+        "jp": "png/jp/motion_0907_vista_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -42927,8 +42927,8 @@
       },
       "sid": 1232,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1232_skill_name.png",
+        "jp": "png/jp/motion_1232_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
