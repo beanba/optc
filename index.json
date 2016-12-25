@@ -8768,7 +8768,7 @@
       "sid": 319,
       "skill": {
         "al": "png/tw/motion_0319_marco_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0319_marco_skill_name.png",
         "tw": "png/tw/motion_0319_marco_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -10868,7 +10868,7 @@
       "sid": 334,
       "skill": {
         "al": "png/tw/motion_0334_killer_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0334_killer_skill_name.png",
         "tw": "png/tw/motion_0334_killer_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -13598,7 +13598,7 @@
       "sid": 401,
       "skill": {
         "al": "png/tw/motion_0401_ivankov_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0401_ivankov_skill_name.png",
         "tw": "png/tw/motion_0401_ivankov_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -18078,7 +18078,7 @@
       "sid": 599,
       "skill": {
         "al": "png/tw/motion_0599_usopp_fat_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0599_usopp_fat_skill_name.png",
         "tw": "png/tw/motion_0599_usopp_fat_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -24865,10 +24865,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 690,
+      "sid": 689,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_0689_franky_skill_name.png",
+        "jp": "png/jp/motion_0689_franky_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -30818,7 +30818,7 @@
       "sid": 940,
       "skill": {
         "al": "png/tw/motion_0940_apoo_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0940_apoo_skill_name.png",
         "tw": "png/tw/motion_0940_apoo_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -30853,7 +30853,7 @@
       "sid": 940,
       "skill": {
         "al": "png/tw/motion_0940_apoo_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0940_apoo_skill_name.png",
         "tw": "png/tw/motion_0940_apoo_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -31412,8 +31412,8 @@
       },
       "sid": 981,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_0981_mr3_candlechampion_skill_name.png",
+        "jp": "png/jp/motion_0981_mr3_candlechampion_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -38165,10 +38165,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1051,
+      "sid": 1050,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1050_skill_name.png",
+        "jp": "png/jp/motion_1050_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -43380,10 +43380,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1365,
+      "sid": 1364,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1364_skill_name.png",
+        "jp": "png/jp/motion_1364_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -48455,10 +48455,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1520,
+      "sid": 8215,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/skill_name_8215.png",
+        "jp": "png/jp/skill_name_8215.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -48476,36 +48476,36 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1521,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "レベッカ",
+        "jp": "レベッカ",
         "tw": "",
         "us": ""
       },
       "no": 1386,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1521_c1.png",
+        "jp": "png/jp/character_1521_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 8215,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/skill_name_8215.png",
+        "jp": "png/jp/skill_name_8215.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1521_t1.png",
+        "jp": "png/jp/character_1521_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "狙われる旧王家の血",
+        "jp": "狙われる旧王家の血",
         "tw": "",
         "us": ""
       }
