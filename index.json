@@ -47181,21 +47181,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1479,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ハレダス",
+        "jp": "ハレダス",
         "tw": "",
         "us": ""
       },
       "no": 1349,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1479_c1.png",
+        "jp": "png/jp/character_1479_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1479,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -47203,8 +47203,8 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1479_t1.png",
+        "jp": "png/jp/character_1479_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
