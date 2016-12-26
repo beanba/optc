@@ -1299,7 +1299,7 @@
       "id": 40,
       "name": {
         "al": "巴其",
-        "jp": "バギー",
+        "jp": "",
         "tw": "巴其",
         "us": ""
       },
@@ -1411,14 +1411,14 @@
       "no": 41,
       "portrait": {
         "al": "png/tw/character_0154_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0154_c1.png",
         "tw": "png/tw/character_0154_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 154,
       "skill": {
         "al": "png/tw/motion_0154_sham_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0154_sham_skill_name.png",
         "tw": "png/tw/motion_0154_sham_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -1474,7 +1474,7 @@
       "id": 151,
       "name": {
         "al": "１・２傑克斯",
-        "jp": "１・２のジャンゴ",
+        "jp": "",
         "tw": "１・２傑克斯",
         "us": ""
       },
@@ -16818,7 +16818,7 @@
       "sid": 8016,
       "skill": {
         "al": "png/tw/skill_name_8016.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8016.png",
         "tw": "png/tw/skill_name_8016.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -16993,7 +16993,7 @@
       "sid": 8016,
       "skill": {
         "al": "png/tw/skill_name_8016.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8016.png",
         "tw": "png/tw/skill_name_8016.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -17273,7 +17273,7 @@
       "sid": 8080,
       "skill": {
         "al": "png/tw/skill_name_8080.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8080.png",
         "tw": "png/tw/skill_name_8080.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -17343,7 +17343,7 @@
       "sid": 8080,
       "skill": {
         "al": "png/tw/skill_name_8080.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8080.png",
         "tw": "png/tw/skill_name_8080.png",
         "us": "png/us/character_9999_t1.png"
       },
