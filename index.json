@@ -31056,7 +31056,7 @@
       "no": 888,
       "portrait": {
         "al": "png/tw/character_0925_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0925_c1.png",
         "tw": "png/tw/character_0925_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -31091,7 +31091,7 @@
       "no": 889,
       "portrait": {
         "al": "png/tw/character_0921_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0921_c1.png",
         "tw": "png/tw/character_0921_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -33085,8 +33085,8 @@
       },
       "no": 946,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1070_c1.png",
+        "jp": "png/jp/character_1070_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -33155,8 +33155,8 @@
       },
       "no": 948,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1072_c1.png",
+        "jp": "png/jp/character_1072_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -35570,8 +35570,8 @@
       },
       "no": 1017,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_0949_c1.png",
+        "jp": "png/jp/character_0949_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -36095,8 +36095,8 @@
       },
       "no": 1032,
       "portrait": {
-        "al": "png/us/character_1172_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1172_c1.png",
+        "jp": "png/jp/character_1172_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_1172_c1.png"
       },
