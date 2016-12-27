@@ -1964,7 +1964,7 @@
       "id": 44,
       "name": {
         "al": "首領克利克",
-        "jp": "首領・クリーク",
+        "jp": "",
         "tw": "首領克利克",
         "us": ""
       },
@@ -2286,7 +2286,7 @@
       "no": 66,
       "portrait": {
         "al": "png/tw/character_0047_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0047_c1.png",
         "tw": "png/tw/character_0047_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -2391,7 +2391,7 @@
       "no": 69,
       "portrait": {
         "al": "png/tw/character_0166_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0166_c1.png",
         "tw": "png/tw/character_0166_c1.png",
         "us": "png/us/character_0166_c1.png"
       },
@@ -2496,7 +2496,7 @@
       "no": 72,
       "portrait": {
         "al": "png/tw/character_0171_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0171_c1.png",
         "tw": "png/tw/character_0171_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -7319,7 +7319,7 @@
       "id": 239,
       "name": {
         "al": "妮可・羅賓",
-        "jp": "ニコ・ロビン",
+        "jp": "",
         "tw": "妮可・羅賓",
         "us": ""
       },
@@ -7459,7 +7459,7 @@
       "id": 237,
       "name": {
         "al": "拉布",
-        "jp": "ラブーン",
+        "jp": "",
         "tw": "拉布",
         "us": ""
       },
@@ -8614,7 +8614,7 @@
       "id": 367,
       "name": {
         "al": "喬巴超人",
-        "jp": "チョッパーマン",
+        "jp": "",
         "tw": "喬巴超人",
         "us": ""
       },
@@ -9426,7 +9426,7 @@
       "no": 270,
       "portrait": {
         "al": "png/tw/character_0261_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0261_c1.png",
         "tw": "png/tw/character_0261_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -9601,7 +9601,7 @@
       "no": 275,
       "portrait": {
         "al": "png/tw/character_0266_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0266_c1.png",
         "tw": "png/tw/character_0266_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -9776,7 +9776,7 @@
       "no": 280,
       "portrait": {
         "al": "png/tw/character_0271_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0271_c1.png",
         "tw": "png/tw/character_0271_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -9951,7 +9951,7 @@
       "no": 285,
       "portrait": {
         "al": "png/tw/character_0276_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0276_c1.png",
         "tw": "png/tw/character_0276_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -10091,7 +10091,7 @@
       "no": 289,
       "portrait": {
         "al": "png/tw/character_0280_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0280_c1.png",
         "tw": "png/tw/character_0280_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -10784,7 +10784,7 @@
       "id": 332,
       "name": {
         "al": "巴吉魯・霍金斯",
-        "jp": "バジル・ホーキンス",
+        "jp": "",
         "tw": "巴吉魯・霍金斯",
         "us": ""
       },
