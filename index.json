@@ -35596,21 +35596,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 950,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "茶ひげ",
+        "jp": "茶ひげ",
         "tw": "",
         "us": ""
       },
       "no": 1018,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_0950_c1.png",
+        "jp": "png/jp/character_0950_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 950,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -35624,8 +35624,8 @@
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "ワニのケンタウロス",
+        "jp": "ワニのケンタウロス",
         "tw": "",
         "us": ""
       }
