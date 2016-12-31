@@ -15984,7 +15984,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0490_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0490_t1.png",
         "tw": "png/tw/character_0490_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -46385,8 +46385,8 @@
       },
       "no": 1326,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1443_c1.png",
+        "jp": "png/jp/character_1443_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
