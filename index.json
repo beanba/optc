@@ -27311,7 +27311,7 @@
       "no": 781,
       "portrait": {
         "al": "png/tw/character_0816_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0816_c1.png",
         "tw": "png/tw/character_0816_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -40540,8 +40540,8 @@
       },
       "no": 1159,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1113_c1.png",
+        "jp": "png/jp/character_1113_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
