@@ -14738,35 +14738,35 @@
     {
       "id": 446,
       "name": {
-        "al": "ナミ",
+        "al": "娜美",
         "jp": "ナミ",
-        "tw": "",
+        "tw": "娜美",
         "us": ""
       },
       "no": 422,
       "portrait": {
-        "al": "png/jp/character_0446_c1.png",
+        "al": "png/tw/character_0446_c1.png",
         "jp": "png/jp/character_0446_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0446_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 446,
       "skill": {
-        "al": "png/jp/motion_0446_nami_skill_name.png",
+        "al": "png/tw/motion_0446_nami_skill_name.png",
         "jp": "png/jp/motion_0446_nami_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0446_nami_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0446_t1.png",
+        "al": "png/tw/character_0446_t1.png",
         "jp": "png/jp/character_0446_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0446_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "蜃気楼＝テンポ“天”",
+        "al": "海市蜃樓「天」",
         "jp": "蜃気楼＝テンポ“天”",
-        "tw": "",
+        "tw": "海市蜃樓「天」",
         "us": ""
       }
     },
@@ -16208,9 +16208,9 @@
     {
       "id": 496,
       "name": {
-        "al": "シュラ",
+        "al": "修羅",
         "jp": "シュラ",
-        "tw": "",
+        "tw": "修羅",
         "us": "Shura"
       },
       "no": 464,
@@ -16222,15 +16222,15 @@
       },
       "sid": 496,
       "skill": {
-        "al": "png/us/motion_0496_shura_skill_name.png",
+        "al": "png/tw/motion_0496_shura_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0496_shura_skill_name.png",
         "us": "png/us/motion_0496_shura_skill_name.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0496_t1.png",
+        "al": "png/tw/character_0496_t1.png",
         "jp": "png/jp/character_0496_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0496_t1.png",
         "us": "png/us/character_0496_t1.png"
       },
       "title": {
@@ -33218,29 +33218,29 @@
     {
       "id": 1056,
       "name": {
-        "al": "火拳のエース",
+        "al": "火拳艾斯",
         "jp": "火拳のエース",
-        "tw": "",
+        "tw": "火拳艾斯",
         "us": ""
       },
       "no": 950,
       "portrait": {
-        "al": "png/jp/character_1056_c1.png",
+        "al": "png/tw/character_1056_c1.png",
         "jp": "png/jp/character_1056_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1056_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1056,
       "skill": {
-        "al": "png/jp/motion_1056_ace_skill_name.png",
+        "al": "png/tw/motion_1056_ace_skill_name.png",
         "jp": "png/jp/motion_1056_ace_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_1056_ace_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1056_t1.png",
+        "al": "png/tw/character_1056_t1.png",
         "jp": "png/jp/character_1056_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1056_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
@@ -33288,29 +33288,29 @@
     {
       "id": 817,
       "name": {
-        "al": "ベン・ベックマン",
+        "al": "班・貝克曼",
         "jp": "ベン・ベックマン",
-        "tw": "",
+        "tw": "班・貝克曼",
         "us": ""
       },
       "no": 952,
       "portrait": {
-        "al": "png/jp/character_0817_c1.png",
+        "al": "png/tw/character_0817_c1.png",
         "jp": "png/jp/character_0817_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0817_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 817,
       "skill": {
-        "al": "png/jp/motion_0817_benbeckman_skill_name.png",
+        "al": "png/tw/motion_0817_benbeckman_skill_name.png",
         "jp": "png/jp/motion_0817_benbeckman_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0817_benbeckman_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0817_t1.png",
+        "al": "png/tw/character_0817_t1.png",
         "jp": "png/jp/character_0817_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0817_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
