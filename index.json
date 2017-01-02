@@ -10343,7 +10343,7 @@
       "sid": 309,
       "skill": {
         "al": "png/tw/motion_0309_otsuru_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0309_otsuru_skill_name.png",
         "tw": "png/tw/motion_0309_otsuru_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -20941,7 +20941,7 @@
       "no": 599,
       "portrait": {
         "al": "png/tw/character_0649_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0649_c1.png",
         "tw": "png/tw/character_0649_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -20960,7 +20960,7 @@
       },
       "title": {
         "al": "羅傑海賊團",
-        "jp": "",
+        "jp": "ロジャー海賊団",
         "tw": "羅傑海賊團",
         "us": ""
       }
@@ -30048,7 +30048,7 @@
       "sid": 810,
       "skill": {
         "al": "png/tw/motion_0810_coby_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0810_coby_skill_name.png",
         "tw": "png/tw/motion_0810_coby_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -30083,7 +30083,7 @@
       "sid": 810,
       "skill": {
         "al": "png/tw/motion_0810_coby_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0810_coby_skill_name.png",
         "tw": "png/tw/motion_0810_coby_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -46915,10 +46915,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1053,
+      "sid": 1052,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1052_skill_name.png",
+        "jp": "png/jp/motion_1052_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -47741,36 +47741,36 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1504,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ナミ",
+        "jp": "ナミ",
         "tw": "",
         "us": ""
       },
       "no": 1365,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1504_c1.png",
+        "jp": "png/jp/character_1504_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1504,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1504_skill_name.png",
+        "jp": "png/jp/motion_1504_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1504_t1.png",
+        "jp": "png/jp/character_1504_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "集結の麦わらの一味",
+        "jp": "集結の麦わらの一味",
         "tw": "",
         "us": ""
       }
