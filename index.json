@@ -2111,7 +2111,7 @@
       "no": 61,
       "portrait": {
         "al": "png/tw/character_0160_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0160_c1.png",
         "tw": "png/tw/character_0160_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -10826,7 +10826,7 @@
       "no": 310,
       "portrait": {
         "al": "png/tw/character_0333_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0333_c1.png",
         "tw": "png/tw/character_0333_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -27689,14 +27689,14 @@
       "id": 854,
       "name": {
         "al": "艾斯巴古",
-        "jp": "",
+        "jp": "アイスバーグ",
         "tw": "艾斯巴古",
         "us": ""
       },
       "no": 792,
       "portrait": {
         "al": "png/tw/character_0854_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0854_c1.png",
         "tw": "png/tw/character_0854_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -27709,7 +27709,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0854_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0854_t1.png",
         "tw": "png/tw/character_0854_t1.png",
         "us": "png/us/character_none.png"
       },
