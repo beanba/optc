@@ -13814,7 +13814,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0427_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0427_t1.png",
         "tw": "png/tw/character_0427_t1.png",
         "us": "png/us/character_0427_t1.png"
       },
@@ -16048,7 +16048,7 @@
       "sid": 492,
       "skill": {
         "al": "png/tw/motion_0492_sengoku_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0492_sengoku_skill_name.png",
         "tw": "png/tw/motion_0492_sengoku_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -41630,10 +41630,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1322,
+      "sid": 1321,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1321_skill_name.png",
+        "jp": "png/jp/motion_1321_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
