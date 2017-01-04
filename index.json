@@ -29368,35 +29368,35 @@
     {
       "id": 962,
       "name": {
-        "al": "ヴェルゴ",
+        "al": "威爾可",
         "jp": "ヴェルゴ",
-        "tw": "",
+        "tw": "威爾可",
         "us": ""
       },
       "no": 840,
       "portrait": {
-        "al": "png/jp/character_0962_c1.png",
+        "al": "png/tw/character_0962_c1.png",
         "jp": "png/jp/character_0962_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0962_c1.png",
         "us": "png/us/character_0962_c1.png"
       },
       "sid": 961,
       "skill": {
-        "al": "png/jp/motion_0961_vergo_skill_name.png",
+        "al": "png/tw/motion_0961_vergo_skill_name.png",
         "jp": "png/jp/motion_0961_vergo_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0961_vergo_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0962_t1.png",
+        "al": "png/tw/character_0962_t1.png",
         "jp": "png/jp/character_0962_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0962_t1.png",
         "us": "png/us/character_0962_t1.png"
       },
       "title": {
-        "al": "ドンキホーテ海賊団",
+        "al": "唐吉訶德海賊團",
         "jp": "ドンキホーテ海賊団",
-        "tw": "",
+        "tw": "唐吉訶德海賊團",
         "us": ""
       }
     },
@@ -30278,105 +30278,105 @@
     {
       "id": 819,
       "name": {
-        "al": "ニコ・ロビン",
+        "al": "妮可・羅賓",
         "jp": "ニコ・ロビン",
-        "tw": "",
+        "tw": "妮可・羅賓",
         "us": ""
       },
       "no": 866,
       "portrait": {
-        "al": "png/jp/character_0819_c1.png",
+        "al": "png/tw/character_0819_c1.png",
         "jp": "png/jp/character_0819_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0819_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 819,
       "skill": {
-        "al": "png/jp/motion_0819_robin_skill_name.png",
+        "al": "png/tw/motion_0819_robin_skill_name.png",
         "jp": "png/jp/motion_0819_robin_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0819_robin_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0819_t1.png",
+        "al": "png/tw/character_0819_t1.png",
         "jp": "png/jp/character_0819_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0819_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "百花繚乱 ウイング“華”",
+        "al": "百花撩亂「翅膀」「華」",
         "jp": "百花繚乱 ウイング“華”",
-        "tw": "",
+        "tw": "百花撩亂「翅膀」「華」",
         "us": ""
       }
     },
     {
       "id": 820,
       "name": {
-        "al": "ウソップ",
+        "al": "騙人布",
         "jp": "ウソップ",
-        "tw": "",
+        "tw": "騙人布",
         "us": ""
       },
       "no": 867,
       "portrait": {
-        "al": "png/jp/character_0820_c1.png",
+        "al": "png/tw/character_0820_c1.png",
         "jp": "png/jp/character_0820_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0820_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 820,
       "skill": {
-        "al": "png/jp/motion_0820_usopp_skill_name.png",
+        "al": "png/tw/motion_0820_usopp_skill_name.png",
         "jp": "png/jp/motion_0820_usopp_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0820_usopp_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0820_t1.png",
+        "al": "png/tw/character_0820_t1.png",
         "jp": "png/jp/character_0820_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0820_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "タバスコ星“撃”",
+        "al": "墨西哥辣椒星「擊」",
         "jp": "タバスコ星“撃”",
-        "tw": "",
+        "tw": "墨西哥辣椒星「擊」",
         "us": ""
       }
     },
     {
       "id": 821,
       "name": {
-        "al": "トニートニー・チョッパー",
+        "al": "多尼多尼・喬巴",
         "jp": "トニートニー・チョッパー",
-        "tw": "",
+        "tw": "多尼多尼・喬巴",
         "us": ""
       },
       "no": 868,
       "portrait": {
-        "al": "png/jp/character_0821_c1.png",
+        "al": "png/tw/character_0821_c1.png",
         "jp": "png/jp/character_0821_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0821_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 821,
       "skill": {
-        "al": "png/jp/motion_0821_chopper_skill_name.png",
+        "al": "png/tw/motion_0821_chopper_skill_name.png",
         "jp": "png/jp/motion_0821_chopper_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0821_chopper_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0821_t1.png",
+        "al": "png/tw/character_0821_t1.png",
         "jp": "png/jp/character_0821_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0821_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "重量ゴング“獣”",
+        "al": "重量級鐵拳「獸」",
         "jp": "重量ゴング“獣”",
-        "tw": "",
+        "tw": "重量級鐵拳「獸」",
         "us": ""
       }
     },
