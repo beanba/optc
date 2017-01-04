@@ -1229,7 +1229,7 @@
       "id": 145,
       "name": {
         "al": "摩奇＆利基",
-        "jp": "",
+        "jp": "モージ＆リッチー",
         "tw": "摩奇＆利基",
         "us": ""
       },
@@ -1243,13 +1243,13 @@
       "sid": 145,
       "skill": {
         "al": "png/tw/motion_0145_morge&richie_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0145_morge&richie_skill_name.png",
         "tw": "png/tw/motion_0145_morge&richie_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
         "al": "png/tw/character_0145_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0145_t1.png",
         "tw": "png/tw/character_0145_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -8614,14 +8614,14 @@
       "id": 367,
       "name": {
         "al": "喬巴超人",
-        "jp": "",
+        "jp": "チョッパーマン",
         "tw": "喬巴超人",
         "us": ""
       },
       "no": 247,
       "portrait": {
         "al": "png/tw/character_0367_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0367_c1.png",
         "tw": "png/tw/character_0367_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -8634,7 +8634,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0367_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0367_t1.png",
         "tw": "png/tw/character_0367_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -27444,7 +27444,7 @@
       "id": 761,
       "name": {
         "al": "源造",
-        "jp": "",
+        "jp": "ゲンゾウ",
         "tw": "源造",
         "us": ""
       },
@@ -27464,13 +27464,13 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0761_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0761_t1.png",
         "tw": "png/tw/character_0761_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
         "al": "可可亞西村的巡警",
-        "jp": "",
+        "jp": "ココヤシ村の駐在",
         "tw": "可可亞西村的巡警",
         "us": ""
       }
@@ -48581,36 +48581,36 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1525,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ナミ",
+        "jp": "ナミ",
         "tw": "",
         "us": ""
       },
       "no": 1389,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1525_c1.png",
+        "jp": "png/jp/character_1525_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1525,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1525_skill_name.png",
+        "jp": "png/jp/motion_1525_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1525_t1.png",
+        "jp": "png/jp/character_1525_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "サンダーブリード＝テンポ",
+        "jp": "サンダーブリード＝テンポ",
         "tw": "",
         "us": ""
       }
