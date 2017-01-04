@@ -43996,21 +43996,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1345,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "エドワード・ニューゲート",
+        "jp": "エドワード・ニューゲート",
         "tw": "",
         "us": ""
       },
       "no": 1258,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1345_c1.png",
+        "jp": "png/jp/character_1345_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1345,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -44018,14 +44018,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1345_t1.png",
+        "jp": "png/jp/character_1345_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "大海賊“白ひげ”",
+        "jp": "大海賊“白ひげ”",
         "tw": "",
         "us": ""
       }
@@ -48861,21 +48861,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1550,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "たしぎ　七尺十手",
+        "jp": "たしぎ　七尺十手",
         "tw": "",
         "us": ""
       },
       "no": 1397,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1550_c1.png",
+        "jp": "png/jp/character_1550_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1550,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -48883,14 +48883,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1550_t1.png",
+        "jp": "png/jp/character_1550_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "シャンブルズ",
+        "jp": "シャンブルズ",
         "tw": "",
         "us": ""
       }
