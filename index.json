@@ -14123,7 +14123,7 @@
       "sid": 423,
       "skill": {
         "al": "png/tw/motion_0423_absalom_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0423_absalom_skill_name.png",
         "tw": "png/tw/motion_0423_absalom_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -24055,8 +24055,8 @@
       },
       "no": 688,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_0545_c1.png",
+        "jp": "png/jp/character_0545_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -29109,7 +29109,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0848_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0848_t1.png",
         "tw": "png/tw/character_0848_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -44530,8 +44530,8 @@
       },
       "no": 1273,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1417_c1.png",
+        "jp": "png/jp/character_1417_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
