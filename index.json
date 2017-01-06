@@ -19664,9 +19664,9 @@
         "us": "png/us/character_0612_t1.png"
       },
       "title": {
-        "al": "黒衣の白ひげ海賊団2番隊隊長",
+        "al": "黑衣的白鬍子海賊團第2小隊隊長",
         "jp": "黒衣の白ひげ海賊団2番隊隊長",
-        "tw": "黒衣の白ひげ海賊団2番隊隊長",
+        "tw": "黑衣的白鬍子海賊團第2小隊隊長",
         "us": ""
       }
     },
@@ -33323,16 +33323,16 @@
     {
       "id": 818,
       "name": {
-        "al": "ベン・ベックマン",
+        "al": "班・貝克曼",
         "jp": "ベン・ベックマン",
-        "tw": "",
+        "tw": "班・貝克曼",
         "us": ""
       },
       "no": 953,
       "portrait": {
-        "al": "png/jp/character_0818_c1.png",
+        "al": "png/tw/character_0818_c1.png",
         "jp": "png/jp/character_0818_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0818_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 818,
@@ -33343,15 +33343,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0818_t1.png",
+        "al": "png/tw/character_0818_t1.png",
         "jp": "png/jp/character_0818_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0818_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "赤髪海賊団",
+        "al": "赤髪海賊團",
         "jp": "赤髪海賊団",
-        "tw": "",
+        "tw": "赤髪海賊團",
         "us": ""
       }
     },
