@@ -25180,10 +25180,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 794,
+      "sid": 793,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_0793_crocodile_skill_name.png",
+        "jp": "png/jp/motion_0793_crocodile_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -48931,21 +48931,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1552,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "スモーカー　時雨",
+        "jp": "スモーカー　時雨",
         "tw": "",
         "us": ""
       },
       "no": 1399,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1552_c1.png",
+        "jp": "png/jp/character_1552_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1552,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -48953,14 +48953,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1552_t1.png",
+        "jp": "png/jp/character_1552_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "シャンブルズ",
+        "jp": "シャンブルズ",
         "tw": "",
         "us": ""
       }
