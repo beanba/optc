@@ -14633,35 +14633,35 @@
     {
       "id": 480,
       "name": {
-        "al": "サンジ",
+        "al": "香吉士",
         "jp": "サンジ",
-        "tw": "",
+        "tw": "香吉士",
         "us": ""
       },
       "no": 419,
       "portrait": {
-        "al": "png/jp/character_0480_c1.png",
+        "al": "png/tw/character_0480_c1.png",
         "jp": "png/jp/character_0480_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0480_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 480,
       "skill": {
-        "al": "png/jp/motion_0480_sanji_skill_name.png",
+        "al": "png/tw/motion_0480_sanji_skill_name.png",
         "jp": "png/jp/motion_0480_sanji_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0480_sanji_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0480_t1.png",
+        "al": "png/tw/character_0480_t1.png",
         "jp": "png/jp/character_0480_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0480_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "整形ショット(パラージュショット)　“嵐”",
+        "al": "整形SHOT「嵐」",
         "jp": "整形ショット(パラージュショット)　“嵐”",
-        "tw": "",
+        "tw": "整形SHOT「嵐」",
         "us": ""
       }
     },
@@ -36996,21 +36996,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1090,
       "name": {
-        "al": "",
+        "al": "波雅・瑪莉哥德",
         "jp": "",
-        "tw": "",
+        "tw": "波雅・瑪莉哥德",
         "us": ""
       },
       "no": 1058,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/character_1090_c1.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1090_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1090,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -37018,15 +37018,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
+        "al": "png/tw/character_1090_t1.png",
         "jp": "png/jp/character_none.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1090_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
+        "al": "九蛇海賊船",
         "jp": "",
-        "tw": "",
+        "tw": "九蛇海賊船",
         "us": ""
       }
     },
