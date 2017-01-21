@@ -8929,7 +8929,7 @@
       "id": 324,
       "name": {
         "al": "以藏",
-        "jp": "",
+        "jp": "イゾウ",
         "tw": "以藏",
         "us": ""
       },
@@ -8949,7 +8949,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0324_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0324_t1.png",
         "tw": "png/tw/character_0324_t1.png",
         "us": "png/us/character_0324_t1.png"
       },
@@ -11411,21 +11411,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 341,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ワポルハウス",
+        "jp": "ワポルハウス",
         "tw": "",
         "us": ""
       },
       "no": 327,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_0341_c1.png",
+        "jp": "png/jp/character_0341_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 341,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -11433,8 +11433,8 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_0341_t1.png",
+        "jp": "png/jp/character_0341_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
@@ -13234,7 +13234,7 @@
       "id": 386,
       "name": {
         "al": "功夫海牛",
-        "jp": "",
+        "jp": "クンフージュゴン",
         "tw": "功夫海牛",
         "us": ""
       },
@@ -13254,7 +13254,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0386_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0386_t1.png",
         "tw": "png/tw/character_0386_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -48793,34 +48793,34 @@
     {
       "id": 1548,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": " ベビー５",
+        "jp": " ベビー５",
         "tw": "",
         "us": ""
       },
       "no": 1395,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1548_c1.png",
+        "jp": "png/jp/character_1548_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1547,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1547_skill_name.png",
+        "jp": "png/jp/motion_1547_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1548_t1.png",
+        "jp": "png/jp/character_1548_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": " ぎこちない振袖",
+        "jp": " ぎこちない振袖",
         "tw": "",
         "us": ""
       }
@@ -49108,34 +49108,34 @@
     {
       "id": 1538,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "モンキー・D・ルフィ",
+        "jp": "モンキー・D・ルフィ",
         "tw": "",
         "us": ""
       },
       "no": 1404,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1538_c1.png",
+        "jp": "png/jp/character_1538_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1537,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1537_skill_name.png",
+        "jp": "png/jp/motion_1537_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1538_t1.png",
+        "jp": "png/jp/character_1538_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "新生・麦わらの一味",
+        "jp": "新生・麦わらの一味",
         "tw": "",
         "us": ""
       }
