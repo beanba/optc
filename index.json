@@ -30173,16 +30173,16 @@
     {
       "id": 954,
       "name": {
-        "al": "銀世界のナミ",
+        "al": "銀白世界的娜美",
         "jp": "銀世界のナミ",
-        "tw": "",
+        "tw": "銀白世界的娜美",
         "us": ""
       },
       "no": 863,
       "portrait": {
-        "al": "png/jp/character_0954_c1.png",
+        "al": "png/tw/character_0954_c1.png",
         "jp": "png/jp/character_0954_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0954_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 954,
@@ -30193,9 +30193,9 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0954_t1.png",
+        "al": "png/tw/character_0954_t1.png",
         "jp": "png/jp/character_0954_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0954_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
