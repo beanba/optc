@@ -39691,10 +39691,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1103,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "たしぎ",
+        "jp": "たしぎ",
         "tw": "",
         "us": ""
       },
@@ -39705,7 +39705,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1103,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -39713,14 +39713,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1103_t1.png",
+        "jp": "png/jp/character_1103_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "夢見る剣道少女",
+        "jp": "夢見る剣道少女",
         "tw": "",
         "us": ""
       }
@@ -41056,10 +41056,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1325,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ロロノア・ゾロ",
+        "jp": "ロロノア・ゾロ",
         "tw": "",
         "us": ""
       },
@@ -41070,22 +41070,22 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1325,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1325_skill_name.png",
+        "jp": "png/jp/motion_1325_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1325_t1.png",
+        "jp": "png/jp/character_1325_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "夢を追い求める冒険者",
+        "jp": "夢を追い求める冒険者",
         "tw": "",
         "us": ""
       }
@@ -41861,21 +41861,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1255,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "スカイブリーダー・オーム",
+        "jp": "スカイブリーダー・オーム",
         "tw": "",
         "us": ""
       },
       "no": 1197,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1255_c1.png",
+        "jp": "png/jp/character_1255_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1255,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -41883,8 +41883,8 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1255_t1.png",
+        "jp": "png/jp/character_1255_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
@@ -45186,21 +45186,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1379,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ラオＧ",
+        "jp": "ラオＧ",
         "tw": "",
         "us": ""
       },
       "no": 1292,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1379_c1.png",
+        "jp": "png/jp/character_1379_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1379,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -45208,14 +45208,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1379_t1.png",
+        "jp": "png/jp/character_1379_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "ディアマンテ軍幹部",
+        "jp": "ディアマンテ軍幹部",
         "tw": "",
         "us": ""
       }
