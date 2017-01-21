@@ -45921,36 +45921,36 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1454,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "赤犬",
+        "jp": "赤犬",
         "tw": "",
         "us": ""
       },
       "no": 1313,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1454_c1.png",
+        "jp": "png/jp/character_1454_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1454,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1454_skill_name.png",
+        "jp": "png/jp/motion_1454_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1454_t1.png",
+        "jp": "png/jp/character_1454_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "海軍本部最高戦力",
+        "jp": "海軍本部最高戦力",
         "tw": "",
         "us": ""
       }
@@ -49283,34 +49283,34 @@
     {
       "id": 1543,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ブルック",
+        "jp": "ブルック",
         "tw": "",
         "us": ""
       },
       "no": 1409,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1543_c1.png",
+        "jp": "png/jp/character_1543_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1543,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1543_skill_name.png",
+        "jp": "png/jp/motion_1543_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1543_t1.png",
+        "jp": "png/jp/character_1543_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "集結の麦わらの一味",
+        "jp": "集結の麦わらの一味",
         "tw": "",
         "us": ""
       }
@@ -49318,34 +49318,34 @@
     {
       "id": 1544,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ブルック",
+        "jp": "ブルック",
         "tw": "",
         "us": ""
       },
       "no": 1410,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1544_c1.png",
+        "jp": "png/jp/character_1544_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1543,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1543_skill_name.png",
+        "jp": "png/jp/motion_1543_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1544_t1.png",
+        "jp": "png/jp/character_1544_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "新生・麦わらの一味",
+        "jp": "新生・麦わらの一味",
         "tw": "",
         "us": ""
       }
