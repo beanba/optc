@@ -2538,7 +2538,7 @@
       "sid": 172,
       "skill": {
         "al": "png/tw/motion_0172_vivi_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0172_vivi_skill_name.png",
         "tw": "png/tw/motion_0172_vivi_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -8529,7 +8529,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0283_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0283_t1.png",
         "tw": "png/tw/character_0283_t1.png",
         "us": "png/us/character_0283_t1.png"
       },
@@ -11504,7 +11504,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0343_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0343_t1.png",
         "tw": "png/tw/character_0343_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -12414,7 +12414,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0380_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0380_t1.png",
         "tw": "png/tw/character_0380_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -13079,7 +13079,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0394_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0394_t1.png",
         "tw": "png/tw/character_0394_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -13849,7 +13849,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0428_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0428_t1.png",
         "tw": "png/tw/character_0428_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -16894,7 +16894,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0583_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0583_t1.png",
         "tw": "png/tw/character_0583_t1.png",
         "us": "png/us/character_none.png"
       },
