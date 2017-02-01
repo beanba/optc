@@ -8873,7 +8873,7 @@
       "sid": 322,
       "skill": {
         "al": "png/tw/motion_0322_vista_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0322_vista_skill_name.png",
         "tw": "png/tw/motion_0322_vista_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -13003,7 +13003,7 @@
       "sid": 8057,
       "skill": {
         "al": "png/tw/skill_name_8057.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8057.png",
         "tw": "png/tw/skill_name_8057.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -13178,13 +13178,13 @@
       "sid": 8057,
       "skill": {
         "al": "png/tw/skill_name_8057.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8057.png",
         "tw": "png/tw/skill_name_8057.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
         "al": "png/tw/character_0392_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0392_t1.png",
         "tw": "png/tw/character_0392_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -27219,7 +27219,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0860_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0860_t1.png",
         "tw": "png/tw/character_0860_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -47790,10 +47790,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1505,
+      "sid": 1504,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1504_skill_name.png",
+        "jp": "png/jp/motion_1504_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -48632,8 +48632,8 @@
       },
       "sid": 1535,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1535_skill_name.png",
+        "jp": "png/jp/motion_1535_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -49246,36 +49246,36 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1542,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ニコ・ロビン",
+        "jp": "ニコ・ロビン",
         "tw": "",
         "us": ""
       },
       "no": 1408,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1542_c1.png",
+        "jp": "png/jp/character_1542_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1541,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1541_skill_name.png",
+        "jp": "png/jp/motion_1541_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1542_t1.png",
+        "jp": "png/jp/character_1542_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "新生・麦わらの一味",
+        "jp": "新生・麦わらの一味",
         "tw": "",
         "us": ""
       }
@@ -49701,36 +49701,36 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1571,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ディアマンテ",
+        "jp": "ディアマンテ",
         "tw": "",
         "us": ""
       },
       "no": 1421,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1571_c1.png",
+        "jp": "png/jp/character_1571_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1571,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1571_skill_name.png",
+        "jp": "png/jp/motion_1571_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1571_t1.png",
+        "jp": "png/jp/character_1571_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "はためく旗（フラッグ）人間",
+        "jp": "はためく旗（フラッグ）人間",
         "tw": "",
         "us": ""
       }
