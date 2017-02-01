@@ -26323,16 +26323,16 @@
     {
       "id": 871,
       "name": {
-        "al": "ジャブラ",
+        "al": "賈布拉",
         "jp": "ジャブラ",
-        "tw": "",
+        "tw": "賈布拉",
         "us": ""
       },
       "no": 753,
       "portrait": {
-        "al": "png/jp/character_0871_c1.png",
+        "al": "png/tw/character_0871_c1.png",
         "jp": "png/jp/character_0871_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0871_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 871,
@@ -26343,15 +26343,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0871_t1.png",
+        "al": "png/tw/character_0871_t1.png",
         "jp": "png/jp/character_0871_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0871_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "闇の正義の「ＣＰ９」",
+        "al": "闇之正義「ＣＰ９」",
         "jp": "闇の正義の「ＣＰ９」",
-        "tw": "",
+        "tw": "闇之正義「ＣＰ９」",
         "us": ""
       }
     },
@@ -26393,16 +26393,16 @@
     {
       "id": 873,
       "name": {
-        "al": "ブルーノ",
+        "al": "布魯諾",
         "jp": "ブルーノ",
-        "tw": "",
+        "tw": "布魯諾",
         "us": ""
       },
       "no": 755,
       "portrait": {
-        "al": "png/jp/character_0873_c1.png",
+        "al": "png/tw/character_0873_c1.png",
         "jp": "png/jp/character_0873_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0873_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 873,
@@ -26413,15 +26413,15 @@
         "us": "png/us/motion_0873_bruno_skill_name.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0873_t1.png",
+        "al": "png/tw/character_0873_t1.png",
         "jp": "png/jp/character_0873_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0873_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "闇の正義の「ＣＰ９」",
+        "al": "闇之正義「ＣＰ９」",
         "jp": "闇の正義の「ＣＰ９」",
-        "tw": "",
+        "tw": "闇之正義「ＣＰ９」",
         "us": ""
       }
     },
@@ -30208,35 +30208,35 @@
     {
       "id": 936,
       "name": {
-        "al": "ボア・ハンコック",
+        "al": "波雅・漢考克",
         "jp": "ボア・ハンコック",
-        "tw": "",
+        "tw": "波雅・漢考克",
         "us": ""
       },
       "no": 864,
       "portrait": {
-        "al": "png/jp/character_0936_c1.png",
+        "al": "png/tw/character_0936_c1.png",
         "jp": "png/jp/character_0936_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0936_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 936,
       "skill": {
-        "al": "png/jp/motion_0936_hankook_skill_name.png",
+        "al": "png/tw/motion_0936_hankook_skill_name.png",
         "jp": "png/jp/motion_0936_hankook_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0936_hankook_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0936_t1.png",
+        "al": "png/tw/character_0936_t1.png",
         "jp": "png/jp/character_0936_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0936_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "九蛇海賊団船長",
+        "al": "九蛇海賊團船長",
         "jp": "九蛇海賊団船長",
-        "tw": "",
+        "tw": "九蛇海賊團船長",
         "us": ""
       }
     },
@@ -30593,16 +30593,16 @@
     {
       "id": 989,
       "name": {
-        "al": "トレーボル",
+        "al": "托雷波爾",
         "jp": "トレーボル",
-        "tw": "",
+        "tw": "托雷波爾",
         "us": ""
       },
       "no": 875,
       "portrait": {
-        "al": "png/jp/character_0989_c1.png",
+        "al": "png/tw/character_0989_c1.png",
         "jp": "png/jp/character_0989_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0989_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 989,
@@ -30613,9 +30613,9 @@
         "us": "png/us/motion_0989_trebol_skill_name.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0989_t1.png",
+        "al": "png/tw/character_0989_t1.png",
         "jp": "png/jp/character_0989_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0989_t1.png",
         "us": "png/us/character_0989_t1.png"
       },
       "title": {
@@ -30943,16 +30943,16 @@
     {
       "id": 977,
       "name": {
-        "al": "ジンベエ",
+        "al": "吉貝爾",
         "jp": "ジンベエ",
-        "tw": "",
+        "tw": "吉貝爾",
         "us": ""
       },
       "no": 885,
       "portrait": {
-        "al": "png/jp/character_0977_c1.png",
+        "al": "png/tw/character_0977_c1.png",
         "jp": "png/jp/character_0977_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0977_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 977,
@@ -30963,15 +30963,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0977_t1.png",
+        "al": "png/tw/character_0977_t1.png",
         "jp": "png/jp/character_0977_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0977_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "鮫の武人",
+        "al": "鮫之武人",
         "jp": "鮫の武人",
-        "tw": "",
+        "tw": "鮫之武人",
         "us": ""
       }
     },
@@ -30980,14 +30980,14 @@
       "name": {
         "al": "Mr.1",
         "jp": "Mr.1",
-        "tw": "",
+        "tw": "Mr.1",
         "us": ""
       },
       "no": 886,
       "portrait": {
-        "al": "png/jp/character_0978_c1.png",
+        "al": "png/tw/character_0978_c1.png",
         "jp": "png/jp/character_0978_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0978_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 978,
@@ -30998,31 +30998,31 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0978_t1.png",
+        "al": "png/tw/character_0978_t1.png",
         "jp": "png/jp/character_0978_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0978_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "西の海の剣客",
+        "al": "西海劍客",
         "jp": "西の海の剣客",
-        "tw": "",
+        "tw": "西海劍客",
         "us": ""
       }
     },
     {
       "id": 979,
       "name": {
-        "al": "バギー",
+        "al": "巴其",
         "jp": "バギー",
-        "tw": "",
+        "tw": "巴其",
         "us": ""
       },
       "no": 887,
       "portrait": {
-        "al": "png/jp/character_0979_c1.png",
+        "al": "png/tw/character_0979_c1.png",
         "jp": "png/jp/character_0979_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0979_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 979,
@@ -31033,15 +31033,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0979_t1.png",
+        "al": "png/tw/character_0979_t1.png",
         "jp": "png/jp/character_0979_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0979_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "陽気なかぶき者",
+        "al": "開朗的歌舞伎者",
         "jp": "陽気なかぶき者",
-        "tw": "",
+        "tw": "開朗的歌舞伎者",
         "us": ""
       }
     },
@@ -31363,16 +31363,16 @@
     {
       "id": 980,
       "name": {
-        "al": "サー・クロコダイル",
+        "al": "沙・克洛克達爾",
         "jp": "サー・クロコダイル",
-        "tw": "",
+        "tw": "沙・克洛克達爾",
         "us": ""
       },
       "no": 897,
       "portrait": {
-        "al": "png/jp/character_0980_c1.png",
+        "al": "png/tw/character_0980_c1.png",
         "jp": "png/jp/character_0980_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0980_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 980,
@@ -31383,15 +31383,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0980_t1.png",
+        "al": "png/tw/character_0980_t1.png",
         "jp": "png/jp/character_0980_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0980_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "砂の武将",
+        "al": "沙之武將",
         "jp": "砂の武将",
-        "tw": "",
+        "tw": "沙之武將",
         "us": ""
       }
     },
@@ -31400,14 +31400,14 @@
       "name": {
         "al": "Mr.3",
         "jp": "Mr.3",
-        "tw": "",
+        "tw": "Mr.3",
         "us": ""
       },
       "no": 898,
       "portrait": {
-        "al": "png/jp/character_0981_c1.png",
+        "al": "png/tw/character_0981_c1.png",
         "jp": "png/jp/character_0981_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0981_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 981,
@@ -31418,15 +31418,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0981_t1.png",
+        "al": "png/tw/character_0981_t1.png",
         "jp": "png/jp/character_0981_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0981_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "姑息な楽士",
+        "al": "姑息的音樂家",
         "jp": "姑息な楽士",
-        "tw": "",
+        "tw": "姑息的音樂家",
         "us": ""
       }
     },
@@ -31853,16 +31853,16 @@
     {
       "id": 1021,
       "name": {
-        "al": "サンジ",
+        "al": "香吉士",
         "jp": "サンジ",
-        "tw": "",
+        "tw": "香吉士",
         "us": ""
       },
       "no": 911,
       "portrait": {
-        "al": "png/jp/character_1021_c1.png",
+        "al": "png/tw/character_1021_c1.png",
         "jp": "png/jp/character_1021_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1021_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1021,
@@ -31873,15 +31873,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1021_t1.png",
+        "al": "png/tw/character_1021_t1.png",
         "jp": "png/jp/character_1021_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1021_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "カマバッカ王国の逃走者",
+        "al": "卡馬帕卡王國的逃亡者",
         "jp": "カマバッカ王国の逃走者",
-        "tw": "",
+        "tw": "卡馬帕卡王國的逃亡者",
         "us": ""
       }
     },
@@ -32201,21 +32201,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 975,
       "name": {
-        "al": "",
+        "al": "波雅・漢考克",
         "jp": "",
-        "tw": "",
+        "tw": "波雅・漢考克",
         "us": ""
       },
       "no": 921,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/character_0975_c1.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0975_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 975,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -32223,15 +32223,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
+        "al": "png/tw/character_0975_t1.png",
         "jp": "png/jp/character_none.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0975_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
+        "al": "女人島的新娘",
         "jp": "",
-        "tw": "",
+        "tw": "女人島的新娘",
         "us": ""
       }
     },
@@ -32553,16 +32553,16 @@
     {
       "id": 1046,
       "name": {
-        "al": "ブルゴリ",
+        "al": "藍猩猩",
         "jp": "ブルゴリ",
-        "tw": "",
+        "tw": "藍猩猩",
         "us": ""
       },
       "no": 931,
       "portrait": {
-        "al": "png/jp/character_1046_c1.png",
+        "al": "png/tw/character_1046_c1.png",
         "jp": "png/jp/character_1046_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1046_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 8158,
@@ -32573,9 +32573,9 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1046_t1.png",
+        "al": "png/tw/character_1046_t1.png",
         "jp": "png/jp/character_1046_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1046_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
@@ -36158,16 +36158,16 @@
     {
       "id": 1174,
       "name": {
-        "al": "バルトロメオ",
+        "al": "巴特洛馬",
         "jp": "バルトロメオ",
-        "tw": "",
+        "tw": "巴特洛馬",
         "us": ""
       },
       "no": 1034,
       "portrait": {
-        "al": "png/jp/character_1174_c1.png",
+        "al": "png/tw/character_1174_c1.png",
         "jp": "png/jp/character_1174_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1174_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1174,
@@ -36178,9 +36178,9 @@
         "us": "png/us/motion_1174_skill_name.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1174_t1.png",
+        "al": "png/tw/character_1174_t1.png",
         "jp": "png/jp/character_1174_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1174_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
@@ -40078,16 +40078,16 @@
     {
       "id": 1397,
       "name": {
-        "al": "制圧の制服看守",
+        "al": "壓制的制服獄卒",
         "jp": "制圧の制服看守",
-        "tw": "",
+        "tw": "壓制的制服獄卒",
         "us": ""
       },
       "no": 1146,
       "portrait": {
-        "al": "png/jp/character_1397_c1.png",
+        "al": "png/tw/character_1397_c1.png",
         "jp": "png/jp/character_1397_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1397_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1397,
@@ -40098,9 +40098,9 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1397_t1.png",
+        "al": "png/tw/character_1397_t1.png",
         "jp": "png/jp/character_1397_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1397_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
@@ -40113,16 +40113,16 @@
     {
       "id": 1398,
       "name": {
-        "al": "火急の制服看守",
+        "al": "火速的制服獄卒",
         "jp": "火急の制服看守",
-        "tw": "",
+        "tw": "火速的制服獄卒",
         "us": ""
       },
       "no": 1147,
       "portrait": {
-        "al": "png/jp/character_1398_c1.png",
+        "al": "png/tw/character_1398_c1.png",
         "jp": "png/jp/character_1398_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1398_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1398,
@@ -40133,9 +40133,9 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1398_t1.png",
+        "al": "png/tw/character_1398_t1.png",
         "jp": "png/jp/character_1398_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1398_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
@@ -40218,16 +40218,16 @@
     {
       "id": 1401,
       "name": {
-        "al": "行動派獄卒",
+        "al": "行動派監獄獄卒",
         "jp": "行動派獄卒",
-        "tw": "",
+        "tw": "行動派監獄獄卒",
         "us": ""
       },
       "no": 1150,
       "portrait": {
-        "al": "png/jp/character_1401_c1.png",
+        "al": "png/tw/character_1401_c1.png",
         "jp": "png/jp/character_1401_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1401_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1401,
@@ -40238,9 +40238,9 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1401_t1.png",
+        "al": "png/tw/character_1401_t1.png",
         "jp": "png/jp/character_1401_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1401_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
