@@ -29228,35 +29228,35 @@
     {
       "id": 900,
       "name": {
-        "al": "暴君バーソロミュー・くま",
+        "al": "暴君巴索羅繆・大熊",
         "jp": "暴君バーソロミュー・くま",
-        "tw": "",
+        "tw": "暴君巴索羅繆・大熊",
         "us": ""
       },
       "no": 836,
       "portrait": {
-        "al": "png/jp/character_0900_c1.png",
+        "al": "png/tw/character_0900_c1.png",
         "jp": "png/jp/character_0900_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0900_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 899,
       "skill": {
-        "al": "png/jp/motion_0899_bartholomewkuma_skill_name.png",
+        "al": "png/tw/motion_0899_bartholomewkuma_skill_name.png",
         "jp": "png/jp/motion_0899_bartholomewkuma_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0899_bartholomewkuma_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0900_t1.png",
+        "al": "png/tw/character_0900_t1.png",
         "jp": "png/jp/character_0900_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0900_t1.png",
         "us": "png/us/character_0900_t1.png"
       },
       "title": {
-        "al": "政府の人間兵器",
+        "al": "政府的活人武器",
         "jp": "政府の人間兵器",
-        "tw": "",
+        "tw": "政府的活人武器",
         "us": ""
       }
     },
@@ -33253,35 +33253,35 @@
     {
       "id": 1057,
       "name": {
-        "al": "火拳のエース",
+        "al": "火拳艾斯",
         "jp": "火拳のエース",
-        "tw": "",
+        "tw": "火拳艾斯",
         "us": ""
       },
       "no": 951,
       "portrait": {
-        "al": "png/jp/character_1057_c1.png",
+        "al": "png/tw/character_1057_c1.png",
         "jp": "png/jp/character_1057_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1057_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1056,
       "skill": {
-        "al": "png/jp/motion_1056_ace_skill_name.png",
+        "al": "png/tw/motion_1056_ace_skill_name.png",
         "jp": "png/jp/motion_1056_ace_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_1056_ace_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1057_t1.png",
+        "al": "png/tw/character_1057_t1.png",
         "jp": "png/jp/character_1057_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1057_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "白ひげ海賊団２番隊隊長",
+        "al": "白鬍子海賊團第二隊隊長",
         "jp": "白ひげ海賊団２番隊隊長",
-        "tw": "",
+        "tw": "白鬍子海賊團第二隊隊長",
         "us": ""
       }
     },
