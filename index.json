@@ -10996,21 +10996,21 @@
         "al": "培波",
         "jp": "ベポ",
         "tw": "培波",
-        "us": ""
+        "us": "Bepo"
       },
       "no": 315,
       "portrait": {
         "al": "png/tw/character_0338_c1.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/character_0338_c1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_0338_c1.png"
       },
       "sid": 338,
       "skill": {
         "al": "png/tw/motion_0338_bepo_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/motion_0338_bepo_skill_name.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_0338_bepo_skill_name.png"
       },
       "thumbnail": {
         "al": "png/tw/character_0338_t1.png",
@@ -11031,14 +11031,14 @@
         "al": "武鬥家培波",
         "jp": "武闘家のベポ",
         "tw": "武鬥家培波",
-        "us": ""
+        "us": "Bepo the Martial Artist"
       },
       "no": 316,
       "portrait": {
         "al": "png/tw/character_0339_c1.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/character_0339_c1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_0339_c1.png"
       },
       "sid": 339,
       "skill": {
@@ -11051,7 +11051,7 @@
         "al": "png/tw/character_0339_t1.png",
         "jp": "png/jp/character_0339_t1.png",
         "tw": "png/tw/character_0339_t1.png",
-        "us": "png/us/character_none.png"
+        "us": "png/us/character_0339_t1.png"
       },
       "title": {
         "al": "",
@@ -29581,7 +29581,7 @@
         "al": "水牛",
         "jp": "バッファロー",
         "tw": "水牛",
-        "us": ""
+        "us": "Buffalo"
       },
       "no": 846,
       "portrait": {
@@ -29607,7 +29607,7 @@
         "al": "唐吉訶德海賊團",
         "jp": "ドンキホーテ海賊団",
         "tw": "唐吉訶德海賊團",
-        "us": ""
+        "us": "Donquixote Pirates"
       }
     },
     {
@@ -34726,21 +34726,21 @@
         "al": "グラディウス",
         "jp": "グラディウス",
         "tw": "",
-        "us": ""
+        "us": "Gladius"
       },
       "no": 993,
       "portrait": {
         "al": "png/jp/character_1119_c1.png",
         "jp": "png/jp/character_1119_c1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_1119_c1.png"
       },
       "sid": 1119,
       "skill": {
         "al": "png/jp/motion_1119_gladius_skill_name.png",
         "jp": "png/jp/motion_1119_gladius_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_1119_gladius_skill_name.png"
       },
       "thumbnail": {
         "al": "png/jp/character_1119_t1.png",
@@ -34752,7 +34752,7 @@
         "al": "ドンキホーテ海賊団",
         "jp": "ドンキホーテ海賊団",
         "tw": "",
-        "us": ""
+        "us": "Donquixote Pirates"
       }
     },
     {
@@ -41026,33 +41026,33 @@
         "al": "ブルック",
         "jp": "ブルック",
         "tw": "",
-        "us": ""
+        "us": "Brook"
       },
       "no": 1173,
       "portrait": {
         "al": "png/jp/character_1300_c1.png",
         "jp": "png/jp/character_1300_c1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_1300_c1.png"
       },
-      "sid": 1300,
+      "sid": 1299,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/us/motion_1299_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_1299_skill_name.png"
       },
       "thumbnail": {
         "al": "png/jp/character_1300_t1.png",
         "jp": "png/jp/character_1300_t1.png",
         "tw": "png/tw/character_none.png",
-        "us": "png/us/character_none.png"
+        "us": "png/us/character_1300_t1.png"
       },
       "title": {
         "al": "信念に生きる麦わらの一味",
         "jp": "信念に生きる麦わらの一味",
         "tw": "",
-        "us": ""
+        "us": "A Pirate Who Lives By His Code"
       }
     },
     {
@@ -43231,7 +43231,7 @@
         "al": "追撃のメイナード",
         "jp": "追撃のメイナード",
         "tw": "",
-        "us": " Maynard the Pursuer"
+        "us": "Maynard the Pursuer"
       },
       "no": 1236,
       "portrait": {
@@ -43546,7 +43546,7 @@
         "al": "モンキー・D・ルフィ",
         "jp": "モンキー・D・ルフィ",
         "tw": "",
-        "us": ""
+        "us": "Monkey D Luffy"
       },
       "no": 1245,
       "portrait": {
@@ -43560,19 +43560,19 @@
         "al": "png/jp/motion_1408_skill_name.png",
         "jp": "png/jp/motion_1408_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_1408_skill_name.png"
       },
       "thumbnail": {
         "al": "png/jp/character_1408_t1.png",
         "jp": "png/jp/character_1408_t1.png",
         "tw": "png/tw/character_none.png",
-        "us": "png/us/character_none.png"
+        "us": "png/us/character_1408_t1.png"
       },
       "title": {
         "al": "マリンフォードに舞う“麦わら”",
         "jp": "マリンフォードに舞う“麦わら”",
         "tw": "",
-        "us": ""
+        "us": "Straw Hat Rockin' Marineford"
       }
     },
     {
@@ -48793,8 +48793,8 @@
     {
       "id": 1548,
       "name": {
-        "al": " ベビー５",
-        "jp": " ベビー５",
+        "al": "ベビー５",
+        "jp": "ベビー５",
         "tw": "",
         "us": ""
       },
@@ -48819,8 +48819,8 @@
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": " ぎこちない振袖",
-        "jp": " ぎこちない振袖",
+        "al": "ぎこちない振袖",
+        "jp": "ぎこちない振袖",
         "tw": "",
         "us": ""
       }
