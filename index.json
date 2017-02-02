@@ -31433,35 +31433,35 @@
     {
       "id": 982,
       "name": {
-        "al": "Mr.2・ボン・クレー",
+        "al": "Mr.2・馮・克雷",
         "jp": "Mr.2・ボン・クレー",
-        "tw": "",
+        "tw": "Mr.2・馮・克雷",
         "us": ""
       },
       "no": 899,
       "portrait": {
-        "al": "png/jp/character_0982_c1.png",
+        "al": "png/tw/character_0982_c1.png",
         "jp": "png/jp/character_0982_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0982_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 982,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/motion_0982_mr2_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0982_mr2_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0982_t1.png",
+        "al": "png/tw/character_0982_t1.png",
         "jp": "png/jp/character_0982_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0982_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "あやふやな侍",
+        "al": "真真假假的武士",
         "jp": "あやふやな侍",
-        "tw": "",
+        "tw": "真真假假的武士",
         "us": ""
       }
     },
