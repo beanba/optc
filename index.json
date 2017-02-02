@@ -2561,21 +2561,21 @@
         "al": "波特卡斯・D・艾斯",
         "jp": "ポートガス・D・エース",
         "tw": "波特卡斯・D・艾斯",
-        "us": ""
+        "us": "Portgas D. Ace"
       },
       "no": 74,
       "portrait": {
         "al": "png/tw/character_0173_c1.png",
         "jp": "png/jp/character_0173_c1.png",
         "tw": "png/tw/character_0173_c1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_0173_c1.png"
       },
       "sid": 173,
       "skill": {
         "al": "png/tw/motion_0173_ace_skill_name.png",
         "jp": "png/jp/motion_0173_ace_skill_name.png",
         "tw": "png/tw/motion_0173_ace_skill_name.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_0173_ace_skill_name.png"
       },
       "thumbnail": {
         "al": "png/tw/character_0173_t1.png",
@@ -13586,21 +13586,21 @@
         "al": "艾波利歐・伊娃柯夫",
         "jp": "エンポリオ・イワンコフ",
         "tw": "艾波利歐・伊娃柯夫",
-        "us": ""
+        "us": "Emporio Ivankov"
       },
       "no": 389,
       "portrait": {
         "al": "png/tw/character_0401_c1.png",
         "jp": "png/jp/character_0401_c1.png",
         "tw": "png/tw/character_0401_c1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_0401_c1.png"
       },
       "sid": 401,
       "skill": {
         "al": "png/tw/motion_0401_ivankov_skill_name.png",
         "jp": "png/jp/motion_0401_ivankov_skill_name.png",
         "tw": "png/tw/motion_0401_ivankov_skill_name.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_0401_ivankov_skill_name.png"
       },
       "thumbnail": {
         "al": "png/tw/character_0401_t1.png",
@@ -28297,10 +28297,10 @@
       },
       "sid": 896,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/us/motion_0896_rola_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_0896_rola_skill_name.png"
       },
       "thumbnail": {
         "al": "png/us/character_0896_t1.png",
@@ -28316,38 +28316,38 @@
       }
     },
     {
-      "id": 9999,
+      "id": 897,
       "name": {
-        "al": "",
+        "al": "Loveseeking Lola",
         "jp": "",
         "tw": "",
-        "us": ""
+        "us": "Loveseeking Lola"
       },
       "no": 810,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/us/character_0897_c1.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_0897_c1.png"
       },
-      "sid": 9999,
+      "sid": 896,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/us/motion_0896_rola_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_0896_rola_skill_name.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
+        "al": "png/us/character_0897_t1.png",
         "jp": "png/jp/character_none.png",
         "tw": "png/tw/character_none.png",
-        "us": "png/us/character_none.png"
+        "us": "png/us/character_0897_t1.png"
       },
       "title": {
-        "al": "",
+        "al": "Thriller Bark Bride",
         "jp": "",
         "tw": "",
-        "us": ""
+        "us": "Thriller Bark Bride"
       }
     },
     {
@@ -29441,7 +29441,7 @@
         "al": "莫內",
         "jp": "モネ",
         "tw": "莫內",
-        "us": ""
+        "us": "Monet"
       },
       "no": 842,
       "portrait": {
@@ -29467,7 +29467,7 @@
         "al": "唐吉訶德海賊團",
         "jp": "ドンキホーテ海賊団",
         "tw": "唐吉訶德海賊團",
-        "us": ""
+        "us": "Donquixote Pirates"
       }
     },
     {
@@ -32976,7 +32976,7 @@
         "al": "鉄人（サイボーグ）フランキー",
         "jp": "鉄人（サイボーグ）フランキー",
         "tw": "",
-        "us": "Mech-Animal Fighting Cyborg"
+        "us": ""
       },
       "no": 943,
       "portrait": {
@@ -34632,10 +34632,10 @@
       },
       "sid": 1116,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/us/motion_1116_Machvice_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_1116_Machvice_skill_name.png"
       },
       "thumbnail": {
         "al": "png/us/character_1116_t1.png",
@@ -34651,38 +34651,38 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1117,
       "name": {
-        "al": "",
+        "al": "Machvise",
         "jp": "",
         "tw": "",
-        "us": ""
+        "us": "Machvise"
       },
       "no": 991,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/us/character_1117_c1.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_1117_c1.png"
       },
-      "sid": 9999,
+      "sid": 1116,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/us/motion_1116_Machvice_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_1116_Machvice_skill_name.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
+        "al": "png/us/character_1117_t1.png",
         "jp": "png/jp/character_none.png",
         "tw": "png/tw/character_none.png",
-        "us": "png/us/character_none.png"
+        "us": "png/us/character_1117_t1.png"
       },
       "title": {
-        "al": "",
+        "al": "Donquixote Pirates",
         "jp": "",
         "tw": "",
-        "us": ""
+        "us": "Donquixote Pirates"
       }
     },
     {
@@ -34691,21 +34691,21 @@
         "al": "グラディウス",
         "jp": "グラディウス",
         "tw": "",
-        "us": ""
+        "us": "Gladius"
       },
       "no": 992,
       "portrait": {
         "al": "png/jp/character_1118_c1.png",
         "jp": "png/jp/character_1118_c1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_1118_c1.png"
       },
       "sid": 1118,
       "skill": {
         "al": "png/jp/motion_1118_gladius_skill_name.png",
         "jp": "png/jp/motion_1118_gladius_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_1118_gladius_skill_name.png"
       },
       "thumbnail": {
         "al": "png/jp/character_1118_t1.png",
@@ -39626,33 +39626,33 @@
         "al": "イデオ",
         "jp": "イデオ",
         "tw": "",
-        "us": ""
+        "us": "Ideo"
       },
       "no": 1133,
       "portrait": {
         "al": "png/jp/character_1275_c1.png",
         "jp": "png/jp/character_1275_c1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_1275_c1.png"
       },
       "sid": 1274,
       "skill": {
         "al": "png/jp/motion_1274_skill_name.png",
         "jp": "png/jp/motion_1274_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_1274_skill_name.png"
       },
       "thumbnail": {
         "al": "png/jp/character_1275_t1.png",
         "jp": "png/jp/character_1275_t1.png",
         "tw": "png/tw/character_none.png",
-        "us": "png/us/character_none.png"
+        "us": "png/us/character_1275_t1.png"
       },
       "title": {
         "al": "破壊砲",
         "jp": "破壊砲",
         "tw": "",
-        "us": ""
+        "us": "Destruction Cannon"
       }
     },
     {
@@ -41005,7 +41005,7 @@
         "al": "png/jp/motion_1299_skill_name.png",
         "jp": "png/jp/motion_1299_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_1299_skill_name.png"
       },
       "thumbnail": {
         "al": "png/tw/character_1299_t1.png",
@@ -43231,33 +43231,33 @@
         "al": "追撃のメイナード",
         "jp": "追撃のメイナード",
         "tw": "",
-        "us": ""
+        "us": " Maynard the Pursuer"
       },
       "no": 1236,
       "portrait": {
         "al": "png/jp/character_1361_c1.png",
         "jp": "png/jp/character_1361_c1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_1361_c1.png"
       },
       "sid": 1360,
       "skill": {
         "al": "png/jp/motion_1360_skill_name.png",
         "jp": "png/jp/motion_1360_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_1360_skill_name.png"
       },
       "thumbnail": {
         "al": "png/jp/character_1361_t1.png",
         "jp": "png/jp/character_1361_t1.png",
         "tw": "png/tw/character_none.png",
-        "us": "png/us/character_none.png"
+        "us": "png/us/character_1361_t1.png"
       },
       "title": {
         "al": "海軍本部中将",
         "jp": "海軍本部中将",
         "tw": "",
-        "us": ""
+        "us": "Naval HQ Vice Admiral"
       }
     },
     {
