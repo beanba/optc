@@ -30607,9 +30607,9 @@
       },
       "sid": 989,
       "skill": {
-        "al": "png/jp/motion_0989_trebol_skill_name.png",
+        "al": "png/tw/motion_0989_trebol_skill_name.png",
         "jp": "png/jp/motion_0989_trebol_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0989_trebol_skill_name.png",
         "us": "png/us/motion_0989_trebol_skill_name.png"
       },
       "thumbnail": {
@@ -31027,9 +31027,9 @@
       },
       "sid": 979,
       "skill": {
-        "al": "png/jp/motion_0979_buggy_skill_name.png",
+        "al": "png/tw/motion_0979_buggy_skill_name.png",
         "jp": "png/jp/motion_0979_buggy_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0979_buggy_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -31377,9 +31377,9 @@
       },
       "sid": 980,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/motion_0980_crocodile_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0980_crocodile_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -31412,9 +31412,9 @@
       },
       "sid": 981,
       "skill": {
-        "al": "png/jp/motion_0981_mr3_candlechampion_skill_name.png",
+        "al": "png/tw/motion_0981_mr3_candlechampion_skill_name.png",
         "jp": "png/jp/motion_0981_mr3_candlechampion_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0981_mr3_candlechampion_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -31867,9 +31867,9 @@
       },
       "sid": 1021,
       "skill": {
-        "al": "png/jp/motion_1021_sanji_skill_name.png",
+        "al": "png/tw/motion_1021_sanji_skill_name.png",
         "jp": "png/jp/motion_1021_sanji_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_1021_sanji_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -32567,9 +32567,9 @@
       },
       "sid": 8158,
       "skill": {
-        "al": "png/jp/skill_name_8158.png",
+        "al": "png/tw/skill_name_8158.png",
         "jp": "png/jp/skill_name_8158.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/skill_name_8158.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -33335,11 +33335,11 @@
         "tw": "png/tw/character_0818_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 818,
+      "sid": 817,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/motion_0817_benbeckman_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0817_benbeckman_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
