@@ -7076,14 +7076,14 @@
         "al": "Mr.3",
         "jp": "Mr.3",
         "tw": "Mr.3",
-        "us": ""
+        "us": "Mr. 3"
       },
       "no": 203,
       "portrait": {
         "al": "png/tw/character_0250_c1.png",
         "jp": "png/jp/character_0250_c1.png",
         "tw": "png/tw/character_0250_c1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_0250_c1.png"
       },
       "sid": -1,
       "skill": {
@@ -7111,14 +7111,14 @@
         "al": "Mr.3",
         "jp": "Mr.3",
         "tw": "Mr.3",
-        "us": ""
+        "us": "Mr. 3"
       },
       "no": 204,
       "portrait": {
         "al": "png/tw/character_0251_c1.png",
         "jp": "png/jp/character_0251_c1.png",
         "tw": "png/tw/character_0251_c1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_0251_c1.png"
       },
       "sid": 251,
       "skill": {
@@ -7131,13 +7131,13 @@
         "al": "png/tw/character_0251_t1.png",
         "jp": "png/jp/character_0251_t1.png",
         "tw": "png/tw/character_0251_t1.png",
-        "us": "png/us/character_none.png"
+        "us": "png/us/character_0251_t1.png"
       },
       "title": {
         "al": "特大號蠟燭饗宴",
         "jp": "特大キャンドルサービスセット",
         "tw": "特大號蠟燭饗宴",
-        "us": ""
+        "us": "Extra Special Candelabra"
       }
     },
     {
@@ -7356,14 +7356,14 @@
         "al": "Mr.9",
         "jp": "Mr.9",
         "tw": "Mr.9",
-        "us": ""
+        "us": "Mr. 9"
       },
       "no": 211,
       "portrait": {
         "al": "png/tw/character_0234_c1.png",
         "jp": "png/jp/character_0234_c1.png",
         "tw": "png/tw/character_0234_c1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_0234_c1.png"
       },
       "sid": -1,
       "skill": {
@@ -7391,14 +7391,14 @@
         "al": "Mr.9",
         "jp": "Mr.9",
         "tw": "Mr.9",
-        "us": ""
+        "us": "Mr. 9"
       },
       "no": 212,
       "portrait": {
         "al": "png/tw/character_0236_c1.png",
         "jp": "png/jp/character_0236_c1.png",
         "tw": "png/tw/character_0236_c1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_0236_c1.png"
       },
       "sid": 236,
       "skill": {
@@ -7411,13 +7411,13 @@
         "al": "png/tw/character_0236_t1.png",
         "jp": "png/jp/character_0236_t1.png",
         "tw": "png/tw/character_0236_t1.png",
-        "us": "png/us/character_none.png"
+        "us": "png/us/character_0236_t1.png"
       },
       "title": {
         "al": "熱血9號後空翻",
         "jp": "（熱血ナイン根性バット）",
         "tw": "熱血9號後空翻",
-        "us": ""
+        "us": "Hot Blooded Bat"
       }
     },
     {
@@ -22931,33 +22931,33 @@
         "al": "惡龍",
         "jp": "アーロン",
         "tw": "惡龍",
-        "us": ""
+        "us": "Arlong"
       },
       "no": 656,
       "portrait": {
         "al": "png/tw/character_0686_c1.png",
         "jp": "png/jp/character_0686_c1.png",
         "tw": "png/tw/character_0686_c1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_0686_c1.png"
       },
       "sid": 685,
       "skill": {
         "al": "png/tw/motion_0685_arlong_skill_name.png",
         "jp": "png/jp/motion_0685_arlong_skill_name.png",
         "tw": "png/tw/motion_0685_arlong_skill_name.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_0685_arlong_skill_name.png"
       },
       "thumbnail": {
         "al": "png/tw/character_0686_t1.png",
         "jp": "png/jp/character_0686_t1.png",
         "tw": "png/tw/character_0686_t1.png",
-        "us": "png/us/character_none.png"
+        "us": "png/us/character_0686_t1.png"
       },
       "title": {
         "al": "太陽海賊團",
         "jp": "タイヨウの海賊団",
         "tw": "太陽海賊團",
-        "us": ""
+        "us": "Sun Pirates"
       }
     },
     {
