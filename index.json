@@ -8896,7 +8896,7 @@
         "al": "花劍比斯塔",
         "jp": "花剣のビスタ",
         "tw": "花劍比斯塔",
-        "us": ""
+        "us": "Flower Sword Vista"
       },
       "no": 255,
       "portrait": {
@@ -8910,7 +8910,7 @@
         "al": "png/tw/motion_0323_vista_skill_name.png",
         "jp": "png/jp/motion_0323_vista_skill_name.png",
         "tw": "png/tw/motion_0323_vista_skill_name.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_0323_vista_skill_name.png"
       },
       "thumbnail": {
         "al": "png/tw/character_0323_t1.png",
@@ -10646,21 +10646,21 @@
         "al": "蒙其・D・卡普",
         "jp": "モンキー・D・ガープ",
         "tw": "蒙其・D・卡普",
-        "us": ""
+        "us": "Monkey D. Garp"
       },
       "no": 305,
       "portrait": {
         "al": "png/tw/character_0315_c1.png",
         "jp": "png/jp/character_0315_c1.png",
         "tw": "png/tw/character_0315_c1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_0315_c1.png"
       },
       "sid": 315,
       "skill": {
         "al": "png/tw/motion_0315_garp_skill_name.png",
         "jp": "png/jp/motion_0315_garp_skill_name.png",
         "tw": "png/tw/motion_0315_garp_skill_name.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_0315_garp_skill_name.png"
       },
       "thumbnail": {
         "al": "png/tw/character_0315_t1.png",
@@ -10681,14 +10681,14 @@
         "al": "鐵拳卡普",
         "jp": "ゲンコツのガープ",
         "tw": "鐵拳卡普",
-        "us": ""
+        "us": "Garp the Fist"
       },
       "no": 306,
       "portrait": {
         "al": "png/tw/character_0316_c1.png",
         "jp": "png/jp/character_0316_c1.png",
         "tw": "png/tw/character_0316_c1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_0316_c1.png"
       },
       "sid": 316,
       "skill": {
@@ -11045,7 +11045,7 @@
         "al": "png/tw/motion_0339_bepo_evolved_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/motion_0339_bepo_evolved_skill_name.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_0339_bepo_evolved_skill_name.png"
       },
       "thumbnail": {
         "al": "png/tw/character_0339_t1.png",
@@ -13621,14 +13621,14 @@
         "al": "艾波利歐・伊娃柯夫",
         "jp": "エンポリオ・イワンコフ",
         "tw": "艾波利歐・伊娃柯夫",
-        "us": ""
+        "us": "Emporio Ivankov"
       },
       "no": 390,
       "portrait": {
         "al": "png/tw/character_0402_c1.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/character_0402_c1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_0402_c1.png"
       },
       "sid": 402,
       "skill": {
@@ -13641,13 +13641,13 @@
         "al": "png/tw/character_0402_t1.png",
         "jp": "png/jp/character_0402_t1.png",
         "tw": "png/tw/character_0402_t1.png",
-        "us": "png/us/character_none.png"
+        "us": "png/us/character_0402_t1.png"
       },
       "title": {
         "al": "卡馬帕卡王國女王【永久缺號】",
         "jp": "カマバッカ王国女王【永久欠番】",
         "tw": "卡馬帕卡王國女王【永久缺號】",
-        "us": ""
+        "us": "Queen of Kamabakka Queendom (Retired)"
       }
     },
     {
@@ -21335,7 +21335,7 @@
         "al": "png/tw/skill_name_8044.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/skill_name_8044.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/skill_name_8044.png"
       },
       "thumbnail": {
         "al": "png/jp/character_0679_t1.png",
@@ -22686,7 +22686,7 @@
         "al": "不死鳥馬可",
         "jp": "不死鳥マルコ",
         "tw": "不死鳥馬可",
-        "us": ""
+        "us": "Marco the Phoenix"
       },
       "no": 649,
       "portrait": {
@@ -22712,7 +22712,7 @@
         "al": "白鬍子海賊團第１隊隊長",
         "jp": "白ひげ海賊団１番隊隊長",
         "tw": "白鬍子海賊團第１隊隊長",
-        "us": ""
+        "us": "Whitebeard 1st Div. Commander"
       }
     },
     {
@@ -25136,33 +25136,33 @@
         "al": "サー・クロコダイル　ロギア",
         "jp": "サー・クロコダイル　ロギア",
         "tw": "",
-        "us": ""
+        "us": "Sir Crocodile: Logia"
       },
       "no": 719,
       "portrait": {
         "al": "png/jp/character_0793_c1.png",
         "jp": "png/jp/character_0793_c1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_0793_c1.png"
       },
       "sid": 793,
       "skill": {
         "al": "png/jp/motion_0793_crocodile_skill_name.png",
         "jp": "png/jp/motion_0793_crocodile_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_0793_crocodile_skill_name.png"
       },
       "thumbnail": {
         "al": "png/jp/character_0793_t1.png",
         "jp": "png/jp/character_0793_t1.png",
         "tw": "png/tw/character_none.png",
-        "us": "png/us/character_none.png"
+        "us": "png/us/character_0793_t1.png"
       },
       "title": {
         "al": "王下七武海",
         "jp": "王下七武海",
         "tw": "",
-        "us": ""
+        "us": "Warlord of the Sea"
       }
     },
     {
@@ -25171,33 +25171,33 @@
         "al": "サー・クロコダイル　ロギア",
         "jp": "サー・クロコダイル　ロギア",
         "tw": "",
-        "us": ""
+        "us": "Sir Crocodile: Logia"
       },
       "no": 720,
       "portrait": {
         "al": "png/jp/character_0794_c1.png",
         "jp": "png/jp/character_0794_c1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_0794_c1.png"
       },
       "sid": 793,
       "skill": {
         "al": "png/jp/motion_0793_crocodile_skill_name.png",
         "jp": "png/jp/motion_0793_crocodile_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_0793_crocodile_skill_name.png"
       },
       "thumbnail": {
         "al": "png/jp/character_0794_t1.png",
         "jp": "png/jp/character_0794_t1.png",
         "tw": "png/tw/character_none.png",
-        "us": "png/us/character_none.png"
+        "us": "png/us/character_0794_t1.png"
       },
       "title": {
         "al": "元王下七武海",
         "jp": "元王下七武海",
         "tw": "",
-        "us": ""
+        "us": "Ex-Warlord of the Sea"
       }
     },
     {
@@ -32766,7 +32766,7 @@
         "al": "モンキー・Ｄ・ルフィ",
         "jp": "モンキー・Ｄ・ルフィ",
         "tw": "",
-        "us": ""
+        "us": "Monkey D. Luffy"
       },
       "no": 937,
       "portrait": {
@@ -32780,7 +32780,7 @@
         "al": "png/jp/motion_1063_luffy_skill_name.png",
         "jp": "png/jp/motion_1063_luffy_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_1063_luffy_skill_name.png"
       },
       "thumbnail": {
         "al": "png/jp/character_1063_t1.png",
@@ -32792,7 +32792,7 @@
         "al": "仲間との誓い『３Ｄ２Ｙ』",
         "jp": "仲間との誓い『３Ｄ２Ｙ』",
         "tw": "",
-        "us": ""
+        "us": "Crew's Promise: 3D2Y"
       }
     },
     {
@@ -41446,27 +41446,27 @@
         "al": "ハルタ",
         "jp": "ハルタ",
         "tw": "",
-        "us": ""
+        "us": "Haruta"
       },
       "no": 1185,
       "portrait": {
         "al": "png/jp/character_1317_c1.png",
         "jp": "png/jp/character_1317_c1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_1317_c1.png"
       },
       "sid": 1317,
       "skill": {
         "al": "png/jp/motion_1317_skill_name.png",
         "jp": "png/jp/motion_1317_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_1317_skill_name.png"
       },
       "thumbnail": {
         "al": "png/jp/character_1317_t1.png",
         "jp": "png/jp/character_1317_t1.png",
         "tw": "png/tw/character_none.png",
-        "us": "png/us/character_none.png"
+        "us": "png/us/character_1317_t1.png"
       },
       "title": {
         "al": "",
@@ -42356,14 +42356,14 @@
         "al": "フランキー",
         "jp": "フランキー",
         "tw": "",
-        "us": ""
+        "us": "Franky"
       },
       "no": 1211,
       "portrait": {
         "al": "png/jp/character_1352_c1.png",
         "jp": "png/jp/character_1352_c1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_1352_c1.png"
       },
       "sid": 1352,
       "skill": {
@@ -42382,7 +42382,7 @@
         "al": "夢を追い求める冒険者",
         "jp": "夢を追い求める冒険者",
         "tw": "",
-        "us": ""
+        "us": "Dream Chaser"
       }
     },
     {
@@ -42391,7 +42391,7 @@
         "al": "フランキー",
         "jp": "フランキー",
         "tw": "",
-        "us": ""
+        "us": "Franky"
       },
       "no": 1212,
       "portrait": {
@@ -42400,12 +42400,12 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_1353_c1.png"
       },
-      "sid": 1353,
+      "sid": 1352,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/us/motion_1352_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_1352_skill_name.png"
       },
       "thumbnail": {
         "al": "png/jp/character_1353_t1.png",
@@ -42417,7 +42417,7 @@
         "al": "信念に生きる麦わらの一味",
         "jp": "信念に生きる麦わらの一味",
         "tw": "",
-        "us": ""
+        "us": "A Pirate Who Lives by His Code"
       }
     },
     {
