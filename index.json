@@ -33338,7 +33338,7 @@
       "sid": 817,
       "skill": {
         "al": "png/tw/motion_0817_benbeckman_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0817_benbeckman_skill_name.png",
         "tw": "png/tw/motion_0817_benbeckman_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -35666,10 +35666,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1144,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "シュガー　実桜",
+        "jp": "シュガー　実桜",
         "tw": "",
         "us": ""
       },
@@ -35680,16 +35680,16 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1144,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1144_sugar_skill_name.png",
+        "jp": "png/jp/motion_1144_sugar_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1144_t1.png",
+        "jp": "png/jp/character_1144_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
@@ -37101,10 +37101,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1096,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "キキョウ",
+        "jp": "キキョウ",
         "tw": "",
         "us": ""
       },
@@ -37115,7 +37115,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1096,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -37123,8 +37123,8 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1096_t1.png",
+        "jp": "png/jp/character_1096_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
@@ -38784,7 +38784,7 @@
       "id": 1257,
       "name": {
         "al": "娜美",
-        "jp": "",
+        "jp": "ナミ",
         "tw": "娜美",
         "us": ""
       },
@@ -38804,13 +38804,13 @@
       },
       "thumbnail": {
         "al": "png/tw/character_1257_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_1257_t1.png",
         "tw": "png/tw/character_1257_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
         "al": "返老還童的航海士",
-        "jp": "",
+        "jp": "若返った航海士",
         "tw": "返老還童的航海士",
         "us": ""
       }
@@ -44381,10 +44381,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1413,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ラフィット",
+        "jp": "ラフィット",
         "tw": "",
         "us": ""
       },
@@ -44395,7 +44395,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1413,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -44403,8 +44403,8 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1413_t1.png",
+        "jp": "png/jp/character_1413_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
@@ -45116,10 +45116,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1429,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "バッファロー",
+        "jp": "バッファロー",
         "tw": "",
         "us": ""
       },
@@ -45130,7 +45130,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1429,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -45138,14 +45138,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1429_t1.png",
+        "jp": "png/jp/character_1429_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "ドンキホーテファミリーの一員",
+        "jp": "ドンキホーテファミリーの一員",
         "tw": "",
         "us": ""
       }
