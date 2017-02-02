@@ -28281,21 +28281,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 896,
       "name": {
-        "al": "",
+        "al": "Lola",
         "jp": "",
         "tw": "",
-        "us": ""
+        "us": "Lola"
       },
       "no": 809,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/us/character_0896_c1.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_0896_c1.png"
       },
-      "sid": 9999,
+      "sid": 896,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -28303,16 +28303,16 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
+        "al": "png/us/character_0896_t1.png",
         "jp": "png/jp/character_none.png",
         "tw": "png/tw/character_none.png",
-        "us": "png/us/character_none.png"
+        "us": "png/us/character_0896_t1.png"
       },
       "title": {
-        "al": "",
+        "al": "Thriller Bark Bride",
         "jp": "",
         "tw": "",
-        "us": ""
+        "us": "Thriller Bark Bride"
       }
     },
     {
@@ -34616,21 +34616,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1116,
       "name": {
-        "al": "",
+        "al": "Machvise",
         "jp": "",
         "tw": "",
-        "us": ""
+        "us": "Machvise"
       },
       "no": 990,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/us/character_1116_c1.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_1116_c1.png"
       },
-      "sid": 9999,
+      "sid": 1116,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -34638,10 +34638,10 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
+        "al": "png/us/character_1116_t1.png",
         "jp": "png/jp/character_none.png",
         "tw": "png/tw/character_none.png",
-        "us": "png/us/character_none.png"
+        "us": "png/us/character_1116_t1.png"
       },
       "title": {
         "al": "",
@@ -40991,14 +40991,14 @@
         "al": "布魯克",
         "jp": "ブルック",
         "tw": "布魯克",
-        "us": ""
+        "us": "Brook"
       },
       "no": 1172,
       "portrait": {
         "al": "png/jp/character_1299_c1.png",
         "jp": "png/jp/character_1299_c1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_1299_c1.png"
       },
       "sid": 1299,
       "skill": {
@@ -41011,13 +41011,13 @@
         "al": "png/tw/character_1299_t1.png",
         "jp": "png/jp/character_1299_t1.png",
         "tw": "png/tw/character_1299_t1.png",
-        "us": "png/us/character_none.png"
+        "us": "png/us/character_1299_t1.png"
       },
       "title": {
         "al": "追求夢想的冒險者",
         "jp": "夢を追い求める冒険者",
         "tw": "追求夢想的冒險者",
-        "us": ""
+        "us": "Dream Chaser"
       }
     },
     {
