@@ -1124,7 +1124,7 @@
       "id": 139,
       "name": {
         "al": "貝魯梅柏",
-        "jp": "",
+        "jp": "ヘルメッポ",
         "tw": "貝魯梅柏",
         "us": ""
       },
@@ -1144,7 +1144,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0139_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0139_t1.png",
         "tw": "png/tw/character_0139_t1.png",
         "us": "png/us/character_0139_t1.png"
       },
@@ -1194,7 +1194,7 @@
       "id": 37,
       "name": {
         "al": "斧手蒙卡",
-        "jp": "",
+        "jp": "斧手のモーガン",
         "tw": "斧手蒙卡",
         "us": ""
       },
@@ -1214,7 +1214,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0037_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0037_t1.png",
         "tw": "png/tw/character_0037_t1.png",
         "us": "png/us/character_0037_t1.png"
       },
@@ -1299,7 +1299,7 @@
       "id": 40,
       "name": {
         "al": "巴其",
-        "jp": "",
+        "jp": "バギー",
         "tw": "巴其",
         "us": ""
       },
@@ -1319,7 +1319,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0040_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0040_t1.png",
         "tw": "png/tw/character_0040_t1.png",
         "us": "png/us/character_0040_t1.png"
       },
@@ -7949,7 +7949,7 @@
       "id": 311,
       "name": {
         "al": "逃獄的蒙卡",
-        "jp": "",
+        "jp": "脱獄モーガン",
         "tw": "逃獄的蒙卡",
         "us": ""
       },
@@ -7969,7 +7969,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0311_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0311_t1.png",
         "tw": "png/tw/character_0311_t1.png",
         "us": "png/us/character_0311_t1.png"
       },
@@ -39029,7 +39029,7 @@
       "id": 1295,
       "name": {
         "al": "香吉士",
-        "jp": "",
+        "jp": "サンジ",
         "tw": "香吉士",
         "us": ""
       },
@@ -39049,13 +39049,13 @@
       },
       "thumbnail": {
         "al": "png/tw/character_1295_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_1295_t1.png",
         "tw": "png/tw/character_1295_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
         "al": "追求夢想的冒險者",
-        "jp": "",
+        "jp": "夢を追い求める冒険者",
         "tw": "追求夢想的冒險者",
         "us": ""
       }
