@@ -49806,21 +49806,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1575,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ギン",
+        "jp": "ギン",
         "tw": "",
         "us": ""
       },
       "no": 1424,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1575_c1.png",
+        "jp": "png/jp/character_1575_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1575,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -49828,34 +49828,34 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1575_t1.png",
+        "jp": "png/jp/character_1575_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "海賊艦隊　戦闘“総隊長”",
+        "jp": "海賊艦隊　戦闘“総隊長”",
         "tw": "",
         "us": ""
       }
     },
     {
-      "id": 9999,
+      "id": 1582,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "サイ",
+        "jp": "サイ",
         "tw": "",
         "us": ""
       },
       "no": 1425,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1582_c1.png",
+        "jp": "png/jp/character_1582_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1582,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -49863,23 +49863,23 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1582_t1.png",
+        "jp": "png/jp/character_1582_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "八宝水軍",
+        "jp": "八宝水軍",
         "tw": "",
         "us": ""
       }
     },
     {
-      "id": 9999,
+      "id": 1583,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "サイ",
+        "jp": "サイ",
         "tw": "",
         "us": ""
       },
@@ -49890,7 +49890,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1583,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -49898,34 +49898,34 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1583_t1.png",
+        "jp": "png/jp/character_1583_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "八宝水軍第１３代棟梁",
+        "jp": "八宝水軍第１３代棟梁",
         "tw": "",
         "us": ""
       }
     },
     {
-      "id": 9999,
+      "id": 1584,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ブー",
+        "jp": "ブー",
         "tw": "",
         "us": ""
       },
       "no": 1427,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1584_c1.png",
+        "jp": "png/jp/character_1584_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1584,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -49933,14 +49933,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1584_t1.png",
+        "jp": "png/jp/character_1584_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "八宝水軍",
+        "jp": "八宝水軍",
         "tw": "",
         "us": ""
       }
