@@ -34338,35 +34338,35 @@
     {
       "id": 907,
       "name": {
-        "al": "ビスタ",
+        "al": "比斯塔",
         "jp": "ビスタ",
-        "tw": "",
+        "tw": "比斯塔",
         "us": ""
       },
       "no": 982,
       "portrait": {
-        "al": "png/jp/character_0907_c1.png",
+        "al": "png/tw/character_0907_c1.png",
         "jp": "png/jp/character_0907_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0907_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 907,
       "skill": {
-        "al": "png/jp/motion_0907_vista_skill_name.png",
+        "al": "png/tw/motion_0907_vista_skill_name.png",
         "jp": "png/jp/motion_0907_vista_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0907_vista_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0907_t1.png",
+        "al": "png/tw/character_0907_t1.png",
         "jp": "png/jp/character_0907_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0907_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "白ひげ海賊団５番隊隊長",
+        "al": "白鬍子海賊團第五隊隊長",
         "jp": "白ひげ海賊団５番隊隊長",
-        "tw": "",
+        "tw": "白鬍子海賊團第五隊隊長",
         "us": ""
       }
     },
@@ -34408,35 +34408,35 @@
     {
       "id": 1104,
       "name": {
-        "al": "パウリー",
+        "al": "包利",
         "jp": "パウリー",
-        "tw": "",
+        "tw": "包利",
         "us": ""
       },
       "no": 984,
       "portrait": {
-        "al": "png/jp/character_1104_c1.png",
+        "al": "png/tw/character_1104_c1.png",
         "jp": "png/jp/character_1104_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1104_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1104,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/motion_1104_paulie_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_1104_paulie_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1104_t1.png",
+        "al": "png/tw/character_1104_t1.png",
         "jp": "png/jp/character_1104_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1104_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "ガレーラカンパニー１番ドック職長",
+        "al": "卡雷拉公司 一號船塢工頭",
         "jp": "ガレーラカンパニー１番ドック職長",
-        "tw": "",
+        "tw": "卡雷拉公司 一號船塢工頭",
         "us": ""
       }
     },
@@ -40988,9 +40988,9 @@
     {
       "id": 1299,
       "name": {
-        "al": "ブルック",
+        "al": "布魯克",
         "jp": "ブルック",
-        "tw": "",
+        "tw": "布魯克",
         "us": ""
       },
       "no": 1172,
@@ -41008,15 +41008,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1299_t1.png",
+        "al": "png/tw/character_1299_t1.png",
         "jp": "png/jp/character_1299_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1299_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "夢を追い求める冒険者",
+        "al": "追求夢想的冒險者",
         "jp": "夢を追い求める冒険者",
-        "tw": "",
+        "tw": "追求夢想的冒險者",
         "us": ""
       }
     },
