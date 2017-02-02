@@ -986,21 +986,21 @@
         "al": "鐵棒亞爾麗塔",
         "jp": "",
         "tw": "鐵棒亞爾麗塔",
-        "us": ""
+        "us": "Iron-Mace Alvida"
       },
       "no": 29,
       "portrait": {
         "al": "png/tw/character_0038_c1.png",
         "jp": "png/jp/character_0038_c1.png",
         "tw": "png/tw/character_0038_c1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_0038_c1.png"
       },
       "sid": 38,
       "skill": {
         "al": "png/tw/motion_0038_alwida_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/motion_0038_alwida_skill_name.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_0038_alwida_skill_name.png"
       },
       "thumbnail": {
         "al": "png/tw/character_0038_t1.png",
@@ -1021,14 +1021,14 @@
         "al": "鐵棒亞爾麗塔",
         "jp": "金棒のアルビダ",
         "tw": "鐵棒亞爾麗塔",
-        "us": ""
+        "us": "Iron-Mace Alvida"
       },
       "no": 30,
       "portrait": {
         "al": "png/tw/character_0039_c1.png",
         "jp": "png/jp/character_0039_c1.png",
         "tw": "png/tw/character_0039_c1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_0039_c1.png"
       },
       "sid": 39,
       "skill": {
@@ -1047,7 +1047,7 @@
         "al": "滑嫩果實",
         "jp": "スベスベの実",
         "tw": "滑嫩果實",
-        "us": ""
+        "us": "Smooth-Smooth Fruit"
       }
     },
     {
@@ -7566,7 +7566,7 @@
         "al": "蒙其・D・魯夫",
         "jp": "モンキー・D・ルフィ",
         "tw": "蒙其・D・魯夫",
-        "us": ""
+        "us": "Monkey D. Luffy"
       },
       "no": 217,
       "portrait": {
@@ -7580,7 +7580,7 @@
         "al": "png/tw/motion_0006_luffy_skill_name.png",
         "jp": "png/jp/motion_0006_luffy_skill_name.png",
         "tw": "png/tw/motion_0006_luffy_skill_name.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_0006_luffy_skill_name.png"
       },
       "thumbnail": {
         "al": "png/tw/character_0006_t1.png",
@@ -7592,7 +7592,7 @@
         "al": "３檔",
         "jp": "ギア３",
         "tw": "３檔",
-        "us": ""
+        "us": "Gear Third"
       }
     },
     {
@@ -10695,7 +10695,7 @@
         "al": "png/tw/motion_0316_garp_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/motion_0316_garp_skill_name.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_0316_garp_skill_name.png"
       },
       "thumbnail": {
         "al": "png/tw/character_0316_t1.png",
@@ -13635,7 +13635,7 @@
         "al": "png/tw/motion_0402_ivankov_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/motion_0402_ivankov_skill_name.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_0402_ivankov_skill_name.png"
       },
       "thumbnail": {
         "al": "png/tw/character_0402_t1.png",
@@ -18773,7 +18773,7 @@
         "al": "png/tw/character_0548_c1.png",
         "jp": "png/jp/character_9999_t1.png",
         "tw": "png/tw/character_0548_c1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_0548_c1.png"
       },
       "sid": 548,
       "skill": {
@@ -22910,7 +22910,7 @@
         "al": "png/tw/motion_0685_arlong_skill_name.png",
         "jp": "png/jp/motion_0685_arlong_skill_name.png",
         "tw": "png/tw/motion_0685_arlong_skill_name.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/motion_0685_arlong_skill_name.png"
       },
       "thumbnail": {
         "al": "png/tw/character_0685_t1.png",
@@ -43553,7 +43553,7 @@
         "al": "png/jp/character_1408_c1.png",
         "jp": "png/jp/character_1408_c1.png",
         "tw": "png/tw/character_9999_t1.png",
-        "us": "png/us/character_9999_t1.png"
+        "us": "png/us/character_1408_c1.png"
       },
       "sid": 1408,
       "skill": {
