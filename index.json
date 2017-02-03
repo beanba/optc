@@ -47006,10 +47006,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1476,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ブルージャム",
+        "jp": "ブルージャム",
         "tw": "",
         "us": ""
       },
@@ -47020,7 +47020,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1476,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -47028,8 +47028,8 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1476_t1.png",
+        "jp": "png/jp/character_1476_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
@@ -49036,21 +49036,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1488,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ドルトン",
+        "jp": "ドルトン",
         "tw": "",
         "us": ""
       },
       "no": 1402,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1488_c1.png",
+        "jp": "png/jp/character_1488_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1488,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -49058,14 +49058,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1488_t1.png",
+        "jp": "png/jp/character_1488_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "ドラム島民間護衛団団長",
+        "jp": "ドラム島民間護衛団団長",
         "tw": "",
         "us": ""
       }
