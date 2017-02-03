@@ -31594,7 +31594,7 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0943_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0943_t1.png",
         "tw": "png/tw/character_0943_t1.png",
         "us": "png/us/character_none.png"
       },
@@ -50199,6 +50199,181 @@
         "us": ""
       },
       "no": 1435,
+      "portrait": {
+        "al": "png/tw/character_9999_t1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "sid": 9999,
+      "skill": {
+        "al": "png/tw/character_9999_t1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "thumbnail": {
+        "al": "png/tw/character_none.png",
+        "jp": "png/jp/character_none.png",
+        "tw": "png/tw/character_none.png",
+        "us": "png/us/character_none.png"
+      },
+      "title": {
+        "al": "",
+        "jp": "",
+        "tw": "",
+        "us": ""
+      }
+    },
+    {
+      "id": 9999,
+      "name": {
+        "al": "",
+        "jp": "",
+        "tw": "",
+        "us": ""
+      },
+      "no": 1436,
+      "portrait": {
+        "al": "png/tw/character_9999_t1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "sid": 9999,
+      "skill": {
+        "al": "png/tw/character_9999_t1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "thumbnail": {
+        "al": "png/tw/character_none.png",
+        "jp": "png/jp/character_none.png",
+        "tw": "png/tw/character_none.png",
+        "us": "png/us/character_none.png"
+      },
+      "title": {
+        "al": "",
+        "jp": "",
+        "tw": "",
+        "us": ""
+      }
+    },
+    {
+      "id": 9999,
+      "name": {
+        "al": "",
+        "jp": "",
+        "tw": "",
+        "us": ""
+      },
+      "no": 1437,
+      "portrait": {
+        "al": "png/tw/character_9999_t1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "sid": 9999,
+      "skill": {
+        "al": "png/tw/character_9999_t1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "thumbnail": {
+        "al": "png/tw/character_none.png",
+        "jp": "png/jp/character_none.png",
+        "tw": "png/tw/character_none.png",
+        "us": "png/us/character_none.png"
+      },
+      "title": {
+        "al": "",
+        "jp": "",
+        "tw": "",
+        "us": ""
+      }
+    },
+    {
+      "id": 9999,
+      "name": {
+        "al": "",
+        "jp": "",
+        "tw": "",
+        "us": ""
+      },
+      "no": 1438,
+      "portrait": {
+        "al": "png/tw/character_9999_t1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "sid": 9999,
+      "skill": {
+        "al": "png/tw/character_9999_t1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "thumbnail": {
+        "al": "png/tw/character_none.png",
+        "jp": "png/jp/character_none.png",
+        "tw": "png/tw/character_none.png",
+        "us": "png/us/character_none.png"
+      },
+      "title": {
+        "al": "",
+        "jp": "",
+        "tw": "",
+        "us": ""
+      }
+    },
+    {
+      "id": 9999,
+      "name": {
+        "al": "",
+        "jp": "",
+        "tw": "",
+        "us": ""
+      },
+      "no": 1439,
+      "portrait": {
+        "al": "png/tw/character_9999_t1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "sid": 9999,
+      "skill": {
+        "al": "png/tw/character_9999_t1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "thumbnail": {
+        "al": "png/tw/character_none.png",
+        "jp": "png/jp/character_none.png",
+        "tw": "png/tw/character_none.png",
+        "us": "png/us/character_none.png"
+      },
+      "title": {
+        "al": "",
+        "jp": "",
+        "tw": "",
+        "us": ""
+      }
+    },
+    {
+      "id": 9999,
+      "name": {
+        "al": "",
+        "jp": "",
+        "tw": "",
+        "us": ""
+      },
+      "no": 1440,
       "portrait": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
