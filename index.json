@@ -49736,10 +49736,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1572,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ディアマンテ",
+        "jp": "ディアマンテ",
         "tw": "",
         "us": ""
       },
@@ -49750,7 +49750,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1572,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -49758,14 +49758,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1572_t1.png",
+        "jp": "png/jp/character_1572_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "ドンキホーテファミリー最高幹部",
+        "jp": "ドンキホーテファミリー最高幹部",
         "tw": "",
         "us": ""
       }
@@ -50024,6 +50024,181 @@
         "us": ""
       },
       "no": 1430,
+      "portrait": {
+        "al": "png/tw/character_9999_t1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "sid": 9999,
+      "skill": {
+        "al": "png/tw/character_9999_t1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "thumbnail": {
+        "al": "png/tw/character_none.png",
+        "jp": "png/jp/character_none.png",
+        "tw": "png/tw/character_none.png",
+        "us": "png/us/character_none.png"
+      },
+      "title": {
+        "al": "",
+        "jp": "",
+        "tw": "",
+        "us": ""
+      }
+    },
+    {
+      "id": 1560,
+      "name": {
+        "al": "フランキー将軍",
+        "jp": "フランキー将軍",
+        "tw": "",
+        "us": ""
+      },
+      "no": 1431,
+      "portrait": {
+        "al": "png/jp/character_1560_c1.png",
+        "jp": "png/jp/character_1560_c1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "sid": 1560,
+      "skill": {
+        "al": "png/jp/motion_1560_skill_name.png",
+        "jp": "png/jp/motion_1560_skill_name.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "thumbnail": {
+        "al": "png/jp/character_1560_t1.png",
+        "jp": "png/jp/character_1560_t1.png",
+        "tw": "png/tw/character_none.png",
+        "us": "png/us/character_none.png"
+      },
+      "title": {
+        "al": "",
+        "jp": "",
+        "tw": "",
+        "us": ""
+      }
+    },
+    {
+      "id": 9999,
+      "name": {
+        "al": "",
+        "jp": "",
+        "tw": "",
+        "us": ""
+      },
+      "no": 1432,
+      "portrait": {
+        "al": "png/tw/character_9999_t1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "sid": 9999,
+      "skill": {
+        "al": "png/tw/character_9999_t1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "thumbnail": {
+        "al": "png/tw/character_none.png",
+        "jp": "png/jp/character_none.png",
+        "tw": "png/tw/character_none.png",
+        "us": "png/us/character_none.png"
+      },
+      "title": {
+        "al": "",
+        "jp": "",
+        "tw": "",
+        "us": ""
+      }
+    },
+    {
+      "id": 9999,
+      "name": {
+        "al": "",
+        "jp": "",
+        "tw": "",
+        "us": ""
+      },
+      "no": 1433,
+      "portrait": {
+        "al": "png/tw/character_9999_t1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "sid": 9999,
+      "skill": {
+        "al": "png/tw/character_9999_t1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "thumbnail": {
+        "al": "png/tw/character_none.png",
+        "jp": "png/jp/character_none.png",
+        "tw": "png/tw/character_none.png",
+        "us": "png/us/character_none.png"
+      },
+      "title": {
+        "al": "",
+        "jp": "",
+        "tw": "",
+        "us": ""
+      }
+    },
+    {
+      "id": 9999,
+      "name": {
+        "al": "",
+        "jp": "",
+        "tw": "",
+        "us": ""
+      },
+      "no": 1434,
+      "portrait": {
+        "al": "png/tw/character_9999_t1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "sid": 9999,
+      "skill": {
+        "al": "png/tw/character_9999_t1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "thumbnail": {
+        "al": "png/tw/character_none.png",
+        "jp": "png/jp/character_none.png",
+        "tw": "png/tw/character_none.png",
+        "us": "png/us/character_none.png"
+      },
+      "title": {
+        "al": "",
+        "jp": "",
+        "tw": "",
+        "us": ""
+      }
+    },
+    {
+      "id": 9999,
+      "name": {
+        "al": "",
+        "jp": "",
+        "tw": "",
+        "us": ""
+      },
+      "no": 1435,
       "portrait": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
