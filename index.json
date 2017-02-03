@@ -45746,10 +45746,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1439,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "バルトロメオ　フルムーンウルフ",
+        "jp": "バルトロメオ　フルムーンウルフ",
         "tw": "",
         "us": ""
       },
@@ -45760,7 +45760,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1439,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -45768,14 +45768,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1439_t1.png",
+        "jp": "png/jp/character_1439_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "ハロウィンナイト・マスカレード",
+        "jp": "ハロウィンナイト・マスカレード",
         "tw": "",
         "us": ""
       }
@@ -46131,36 +46131,36 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1460,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "つる",
+        "jp": "つる",
         "tw": "",
         "us": ""
       },
       "no": 1319,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1460_c1.png",
+        "jp": "png/jp/character_1460_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1460,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1460_skill_name.png",
+        "jp": "png/jp/motion_1460_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1460_t1.png",
+        "jp": "png/jp/character_1460_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "海軍本部中将",
+        "jp": "海軍本部中将",
         "tw": "",
         "us": ""
       }
@@ -49773,34 +49773,34 @@
     {
       "id": 1532,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "Tボーン",
+        "jp": "Tボーン",
         "tw": "",
         "us": ""
       },
       "no": 1423,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1532_c1.png",
+        "jp": "png/jp/character_1532_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1532,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1532_skill_name.png",
+        "jp": "png/jp/motion_1532_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1532_t1.png",
+        "jp": "png/jp/character_1532_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "海軍本部大佐",
+        "jp": "海軍本部大佐",
         "tw": "",
         "us": ""
       }
