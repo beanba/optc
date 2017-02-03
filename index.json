@@ -49073,34 +49073,34 @@
     {
       "id": 1537,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "モンキー・D・ルフィ",
+        "jp": "モンキー・D・ルフィ",
         "tw": "",
         "us": ""
       },
       "no": 1403,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1537_c1.png",
+        "jp": "png/jp/character_1537_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1537,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1537_skill_name.png",
+        "jp": "png/jp/motion_1537_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1537_t1.png",
+        "jp": "png/jp/character_1537_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "集結の麦わらの一味",
+        "jp": "集結の麦わらの一味",
         "tw": "",
         "us": ""
       }
@@ -49176,10 +49176,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1540,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "ウソップ",
+        "jp": "ウソップ",
         "tw": "",
         "us": ""
       },
@@ -49190,7 +49190,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1540,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -49198,14 +49198,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1540_t1.png",
+        "jp": "png/jp/character_1540_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "新生・麦わらの一味",
+        "jp": "新生・麦わらの一味",
         "tw": "",
         "us": ""
       }
@@ -49351,10 +49351,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1545,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "トニートニー・チョッパー　脚力強化",
+        "jp": "トニートニー・チョッパー　脚力強化",
         "tw": "",
         "us": ""
       },
@@ -49365,22 +49365,22 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1545,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/motion_1545_skill_name.png",
+        "jp": "png/jp/motion_1545_skill_name.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1545_t1.png",
+        "jp": "png/jp/character_1545_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "集結の麦わらの一味",
+        "jp": "集結の麦わらの一味",
         "tw": "",
         "us": ""
       }
@@ -49456,21 +49456,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1533,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "サンジ",
+        "jp": "サンジ",
         "tw": "",
         "us": ""
       },
       "no": 1414,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1533_c1.png",
+        "jp": "png/jp/character_1533_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1533,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -49478,14 +49478,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1533_t1.png",
+        "jp": "png/jp/character_1533_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "料理を作って一服中",
+        "jp": "料理を作って一服中",
         "tw": "",
         "us": ""
       }
@@ -49526,10 +49526,10 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1557,
       "name": {
-        "al": "",
-        "jp": "",
+        "al": "仏のセンゴク",
+        "jp": "仏のセンゴク",
         "tw": "",
         "us": ""
       },
@@ -49540,7 +49540,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1557,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -49548,14 +49548,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_1557_t1.png",
+        "jp": "png/jp/character_1557_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
-        "jp": "",
+        "al": "智将",
+        "jp": "智将",
         "tw": "",
         "us": ""
       }
