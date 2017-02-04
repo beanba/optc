@@ -30628,9 +30628,9 @@
     {
       "id": 990,
       "name": {
-        "al": "トレーボル",
+        "al": "托雷波爾",
         "jp": "トレーボル",
-        "tw": "",
+        "tw": "托雷波爾",
         "us": ""
       },
       "no": 876,
@@ -30642,21 +30642,21 @@
       },
       "sid": 989,
       "skill": {
-        "al": "png/jp/motion_0989_trebol_skill_name.png",
+        "al": "png/tw/motion_0989_trebol_skill_name.png",
         "jp": "png/jp/motion_0989_trebol_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0989_trebol_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0990_t1.png",
+        "al": "png/tw/character_0990_t1.png",
         "jp": "png/jp/character_0990_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0990_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "ドンキホーテ海賊団",
+        "al": "唐吉訶德海賊團",
         "jp": "ドンキホーテ海賊団",
-        "tw": "",
+        "tw": "唐吉訶德海賊團",
         "us": ""
       }
     },
@@ -40148,16 +40148,16 @@
     {
       "id": 1399,
       "name": {
-        "al": "包囲の制服看守",
+        "al": "包圍的制服獄卒",
         "jp": "包囲の制服看守",
-        "tw": "",
+        "tw": "包圍的制服獄卒",
         "us": ""
       },
       "no": 1148,
       "portrait": {
-        "al": "png/jp/character_1399_c1.png",
+        "al": "png/tw/character_1399_c1.png",
         "jp": "png/jp/character_1399_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1399_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1399,
@@ -40168,9 +40168,9 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1399_t1.png",
+        "al": "png/tw/character_1399_t1.png",
         "jp": "png/jp/character_1399_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1399_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
@@ -40183,16 +40183,16 @@
     {
       "id": 1400,
       "name": {
-        "al": "理論派獄卒",
+        "al": "理論派監獄獄卒",
         "jp": "理論派獄卒",
-        "tw": "",
+        "tw": "理論派監獄獄卒",
         "us": ""
       },
       "no": 1149,
       "portrait": {
-        "al": "png/jp/character_1400_c1.png",
+        "al": "png/tw/character_1400_c1.png",
         "jp": "png/jp/character_1400_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1400_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1400,
@@ -40203,9 +40203,9 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1400_t1.png",
+        "al": "png/tw/character_1400_t1.png",
         "jp": "png/jp/character_1400_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1400_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
@@ -42248,9 +42248,9 @@
     {
       "id": 1349,
       "name": {
-        "al": "ニコ・ロビン",
+        "al": "妮可・羅賓",
         "jp": "ニコ・ロビン",
-        "tw": "",
+        "tw": "妮可・羅賓",
         "us": ""
       },
       "no": 1208,
@@ -42268,15 +42268,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1349_t1.png",
+        "al": "png/tw/character_1349_t1.png",
         "jp": "png/jp/character_1349_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1349_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "信念に生きる麦わらの一味",
+        "al": "以信念做為生存之道的草帽一夥",
         "jp": "信念に生きる麦わらの一味",
-        "tw": "",
+        "tw": "以信念做為生存之道的草帽一夥",
         "us": ""
       }
     },
