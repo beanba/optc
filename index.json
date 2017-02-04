@@ -1628,7 +1628,7 @@
       "sid": 8044,
       "skill": {
         "al": "png/tw/skill_name_8044.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8044.png",
         "tw": "png/tw/skill_name_8044.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -1733,7 +1733,7 @@
       "sid": 147,
       "skill": {
         "al": "png/tw/motion_0147_patty_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0147_patty_skill_name.png",
         "tw": "png/tw/motion_0147_patty_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -1803,7 +1803,7 @@
       "sid": 149,
       "skill": {
         "al": "png/tw/motion_0149_zeff_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0149_zeff_skill_name.png",
         "tw": "png/tw/motion_0149_zeff_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -2293,7 +2293,7 @@
       "sid": 47,
       "skill": {
         "al": "png/tw/motion_0047_arlong_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0047_arlong_skill_name.png",
         "tw": "png/tw/motion_0047_arlong_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -21333,7 +21333,7 @@
       "sid": 8044,
       "skill": {
         "al": "png/tw/skill_name_8044.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8044.png",
         "tw": "png/tw/skill_name_8044.png",
         "us": "png/us/skill_name_8044.png"
       },
@@ -50646,7 +50646,7 @@
       }
     },
     {
-      "id": 9999,
+      "id": 1564,
       "name": {
         "al": "",
         "jp": "",
@@ -50660,7 +50660,7 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 1564,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
