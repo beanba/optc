@@ -6983,7 +6983,7 @@
       "sid": 241,
       "skill": {
         "al": "png/tw/motion_0241_mr.5_magnum_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0241_mr.5_magnum_skill_name.png",
         "tw": "png/tw/motion_0241_mr.5_magnum_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -7403,7 +7403,7 @@
       "sid": 236,
       "skill": {
         "al": "png/tw/motion_0236_mr.9_skill_name.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/motion_0236_mr.9_skill_name.png",
         "tw": "png/tw/motion_0236_mr.9_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -7508,7 +7508,7 @@
       "sid": 8051,
       "skill": {
         "al": "png/tw/skill_name_8051.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/skill_name_8051.png",
         "tw": "png/tw/skill_name_8051.png",
         "us": "png/us/character_9999_t1.png"
       },
