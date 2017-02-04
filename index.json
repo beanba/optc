@@ -25308,15 +25308,15 @@
     {
       "id": 799,
       "name": {
-        "al": "Ship Cutter T-Bone",
-        "jp": "",
+        "al": "船斬りTボーン",
+        "jp": "船斬りTボーン",
         "tw": "",
         "us": "Ship Cutter T-Bone"
       },
       "no": 724,
       "portrait": {
-        "al": "png/us/character_0799_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_0799_c1.png",
+        "jp": "png/jp/character_0799_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_0799_c1.png"
       },
@@ -25328,14 +25328,14 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/us/character_0799_t1.png",
-        "jp": "png/jp/character_none.png",
+        "al": "png/jp/character_0799_t1.png",
+        "jp": "png/jp/character_0799_t1.png",
         "tw": "png/tw/character_none.png",
         "us": "png/us/character_0799_t1.png"
       },
       "title": {
-        "al": "Marine Captain",
-        "jp": "",
+        "al": "海軍本部大佐",
+        "jp": "海軍本部大佐",
         "tw": "",
         "us": "Marine Captain"
       }
@@ -40884,14 +40884,14 @@
       "id": 1308,
       "name": {
         "al": "戴斯",
-        "jp": "",
+        "jp": "ダイス",
         "tw": "戴斯",
         "us": ""
       },
       "no": 1169,
       "portrait": {
         "al": "png/tw/character_1308_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_1308_c1.png",
         "tw": "png/tw/character_1308_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -40904,13 +40904,13 @@
       },
       "thumbnail": {
         "al": "png/tw/character_1308_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_1308_t1.png",
         "tw": "png/tw/character_1308_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
         "al": "黃金船的莊家",
-        "jp": "",
+        "jp": "黄金船のディーラー",
         "tw": "黃金船的莊家",
         "us": ""
       }
@@ -43940,10 +43940,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1396,
+      "sid": 8196,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/skill_name_8196.png",
+        "jp": "png/jp/skill_name_8196.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -45125,15 +45125,15 @@
       },
       "no": 1290,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/character_1429_c1.png",
+        "jp": "png/jp/character_1429_c1.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1429,
+      "sid": 8198,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/skill_name_8198.png",
+        "jp": "png/jp/skill_name_8198.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -49960,10 +49960,10 @@
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 1585,
+      "sid": 8223,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "al": "png/jp/skill_name_8223.png",
+        "jp": "png/jp/skill_name_8223.png",
         "tw": "png/tw/character_9999_t1.png",
         "us": "png/us/character_9999_t1.png"
       },
