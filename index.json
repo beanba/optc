@@ -23881,7 +23881,7 @@
       "no": 683,
       "portrait": {
         "al": "png/tw/character_0739_c1.png",
-        "jp": "png/jp/character_9999_t1.png",
+        "jp": "png/jp/character_0739_c1.png",
         "tw": "png/tw/character_0739_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
@@ -23894,13 +23894,13 @@
       },
       "thumbnail": {
         "al": "png/tw/character_0739_t1.png",
-        "jp": "png/jp/character_none.png",
+        "jp": "png/jp/character_0739_t1.png",
         "tw": "png/tw/character_0739_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
         "al": "巧克力冰淇淋",
-        "jp": "",
+        "jp": "チョコアイス",
         "tw": "巧克力冰淇淋",
         "us": ""
       }
