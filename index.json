@@ -35003,16 +35003,16 @@
     {
       "id": 1151,
       "name": {
-        "al": "ドンキホーテ・ロシナンテ",
+        "al": "唐吉訶德・羅西南德",
         "jp": "ドンキホーテ・ロシナンテ",
-        "tw": "",
+        "tw": "唐吉訶德・羅西南德",
         "us": ""
       },
       "no": 1001,
       "portrait": {
-        "al": "png/jp/character_1151_c1.png",
+        "al": "png/tw/character_1151_c1.png",
         "jp": "png/jp/character_1151_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1151_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1151,
@@ -35023,9 +35023,9 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1151_t1.png",
+        "al": "png/tw/character_1151_t1.png",
         "jp": "png/jp/character_1151_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1151_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
