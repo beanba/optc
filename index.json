@@ -25168,16 +25168,16 @@
     {
       "id": 794,
       "name": {
-        "al": "サー・クロコダイル　ロギア",
+        "al": "沙・克洛克達爾　自然系",
         "jp": "サー・クロコダイル　ロギア",
-        "tw": "",
+        "tw": "沙・克洛克達爾　自然系",
         "us": "Sir Crocodile: Logia"
       },
       "no": 720,
       "portrait": {
-        "al": "png/jp/character_0794_c1.png",
+        "al": "png/tw/character_0794_c1.png",
         "jp": "png/jp/character_0794_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0794_c1.png",
         "us": "png/us/character_0794_c1.png"
       },
       "sid": 793,
@@ -25188,15 +25188,15 @@
         "us": "png/us/motion_0793_crocodile_skill_name.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0794_t1.png",
+        "al": "png/tw/character_0794_t1.png",
         "jp": "png/jp/character_0794_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0794_t1.png",
         "us": "png/us/character_0794_t1.png"
       },
       "title": {
-        "al": "元王下七武海",
+        "al": "原王下七武海",
         "jp": "元王下七武海",
-        "tw": "",
+        "tw": "原王下七武海",
         "us": "Ex-Warlord of the Sea"
       }
     },
