@@ -38958,16 +38958,16 @@
     {
       "id": 1293,
       "name": {
-        "al": "モンキー・D・ルフィ",
+        "al": "蒙其・D・魯夫",
         "jp": "モンキー・D・ルフィ",
-        "tw": "",
+        "tw": "蒙其・D・魯夫",
         "us": ""
       },
       "no": 1114,
       "portrait": {
-        "al": "png/jp/character_1293_c1.png",
+        "al": "png/tw/character_1293_c1.png",
         "jp": "png/jp/character_1293_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1293_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 1293,
@@ -38978,15 +38978,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1293_t1.png",
+        "al": "png/tw/character_1293_t1.png",
         "jp": "png/jp/character_1293_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1293_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "夢を追い求める冒険者",
+        "al": "追求夢想的冒險者",
         "jp": "夢を追い求める冒険者",
-        "tw": "",
+        "tw": "追求夢想的冒險者",
         "us": ""
       }
     },
