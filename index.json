@@ -26286,21 +26286,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 870,
       "name": {
-        "al": "",
+        "al": "卡莉法",
         "jp": "",
-        "tw": "",
+        "tw": "卡莉法",
         "us": ""
       },
       "no": 752,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/character_0870_c1.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0870_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 870,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -26308,15 +26308,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
+        "al": "png/tw/character_0870_t1.png",
         "jp": "png/jp/character_none.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0870_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
+        "al": "歷代最強「ＣＰ９」",
         "jp": "",
-        "tw": "",
+        "tw": "歷代最強「ＣＰ９」",
         "us": ""
       }
     },
