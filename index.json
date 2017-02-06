@@ -34373,35 +34373,35 @@
     {
       "id": 908,
       "name": {
-        "al": "花剣のビスタ",
+        "al": "花劍比斯塔",
         "jp": "花剣のビスタ",
-        "tw": "",
+        "tw": "花劍比斯塔",
         "us": ""
       },
       "no": 983,
       "portrait": {
-        "al": "png/jp/character_0908_c1.png",
+        "al": "png/tw/character_0908_c1.png",
         "jp": "png/jp/character_0908_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0908_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 907,
       "skill": {
-        "al": "png/jp/motion_0907_vista_skill_name.png",
+        "al": "png/tw/motion_0907_vista_skill_name.png",
         "jp": "png/jp/motion_0907_vista_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0907_vista_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0908_t1.png",
+        "al": "png/tw/character_0908_t1.png",
         "jp": "png/jp/character_0908_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0908_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "白ひげ海賊団５番隊隊長",
+        "al": "白鬍子海賊團第五隊隊長",
         "jp": "白ひげ海賊団５番隊隊長",
-        "tw": "",
+        "tw": "白鬍子海賊團第五隊隊長",
         "us": ""
       }
     },
@@ -40995,9 +40995,9 @@
       },
       "no": 1172,
       "portrait": {
-        "al": "png/jp/character_1299_c1.png",
+        "al": "png/tw/character_1299_c1.png",
         "jp": "png/jp/character_1299_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1299_c1.png",
         "us": "png/us/character_1299_c1.png"
       },
       "sid": 1299,
@@ -42388,35 +42388,35 @@
     {
       "id": 1353,
       "name": {
-        "al": "フランキー",
+        "al": "佛朗基",
         "jp": "フランキー",
-        "tw": "",
+        "tw": "佛朗基",
         "us": "Franky"
       },
       "no": 1212,
       "portrait": {
-        "al": "png/jp/character_1353_c1.png",
+        "al": "png/tw/character_1353_c1.png",
         "jp": "png/jp/character_1353_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_1353_c1.png",
         "us": "png/us/character_1353_c1.png"
       },
       "sid": 1352,
       "skill": {
-        "al": "png/jp/motion_1352_skill_name.png",
+        "al": "png/tw/motion_1352_skill_name.png",
         "jp": "png/jp/motion_1352_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_1352_skill_name.png",
         "us": "png/us/motion_1352_skill_name.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_1353_t1.png",
+        "al": "png/tw/character_1353_t1.png",
         "jp": "png/jp/character_1353_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_1353_t1.png",
         "us": "png/us/character_1353_t1.png"
       },
       "title": {
-        "al": "信念に生きる麦わらの一味",
+        "al": "以信念做為生存之道的草帽一夥",
         "jp": "信念に生きる麦わらの一味",
-        "tw": "",
+        "tw": "以信念做為生存之道的草帽一夥",
         "us": "A Pirate Who Lives by His Code"
       }
     },
