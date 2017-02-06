@@ -29928,35 +29928,35 @@
     {
       "id": 933,
       "name": {
-        "al": "トラファルガー・ロー",
+        "al": "托拉法爾加・羅",
         "jp": "トラファルガー・ロー",
-        "tw": "",
+        "tw": "托拉法爾加・羅",
         "us": ""
       },
       "no": 856,
       "portrait": {
-        "al": "png/jp/character_0933_c1.png",
+        "al": "png/tw/character_0933_c1.png",
         "jp": "png/jp/character_0933_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0933_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 932,
       "skill": {
-        "al": "png/jp/motion_0932_christmaslaw_skill_name.png",
+        "al": "png/tw/motion_0932_christmaslaw_skill_name.png",
         "jp": "png/jp/motion_0932_christmaslaw_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0932_christmaslaw_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0933_t1.png",
+        "al": "png/tw/character_0933_t1.png",
         "jp": "png/jp/character_0933_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0933_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "聖夜の貴公子",
+        "al": "聖誕夜的貴公子",
         "jp": "聖夜の貴公子",
-        "tw": "",
+        "tw": "聖誕夜的貴公子",
         "us": ""
       }
     },
