@@ -29508,16 +29508,16 @@
     {
       "id": 966,
       "name": {
-        "al": "ベビー５",
+        "al": "BABY5",
         "jp": "ベビー５",
-        "tw": "",
+        "tw": "BABY5",
         "us": ""
       },
       "no": 844,
       "portrait": {
-        "al": "png/jp/character_0966_c1.png",
+        "al": "png/tw/character_0966_c1.png",
         "jp": "png/jp/character_0966_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0966_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 965,
@@ -29528,15 +29528,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0966_t1.png",
+        "al": "png/tw/character_0966_t1.png",
         "jp": "png/jp/character_0966_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0966_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "ドンキホーテ海賊団",
+        "al": "唐吉訶德海賊團",
         "jp": "ドンキホーテ海賊団",
-        "tw": "",
+        "tw": "唐吉訶德海賊團",
         "us": ""
       }
     },
