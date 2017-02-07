@@ -30486,21 +30486,21 @@
       }
     },
     {
-      "id": 9999,
+      "id": 986,
       "name": {
-        "al": "",
+        "al": "砂糖",
         "jp": "",
-        "tw": "",
+        "tw": "砂糖",
         "us": ""
       },
       "no": 872,
       "portrait": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/character_0986_c1.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0986_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
-      "sid": 9999,
+      "sid": 986,
       "skill": {
         "al": "png/tw/character_9999_t1.png",
         "jp": "png/jp/character_9999_t1.png",
@@ -30508,15 +30508,15 @@
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/tw/character_none.png",
+        "al": "png/tw/character_0986_t1.png",
         "jp": "png/jp/character_none.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0986_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "",
+        "al": "唐吉訶德海賊團",
         "jp": "",
-        "tw": "",
+        "tw": "唐吉訶德海賊團",
         "us": ""
       }
     },
