@@ -30243,35 +30243,35 @@
     {
       "id": 937,
       "name": {
-        "al": "女帝ボア・ハンコック",
+        "al": "女帝波雅・漢考克",
         "jp": "女帝ボア・ハンコック",
-        "tw": "",
+        "tw": "女帝波雅・漢考克",
         "us": ""
       },
       "no": 865,
       "portrait": {
-        "al": "png/jp/character_0937_c1.png",
+        "al": "png/tw/character_0937_c1.png",
         "jp": "png/jp/character_0937_c1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/character_0937_c1.png",
         "us": "png/us/character_9999_t1.png"
       },
       "sid": 936,
       "skill": {
-        "al": "png/jp/motion_0936_hankook_skill_name.png",
+        "al": "png/tw/motion_0936_hankook_skill_name.png",
         "jp": "png/jp/motion_0936_hankook_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_0936_hankook_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
-        "al": "png/jp/character_0937_t1.png",
+        "al": "png/tw/character_0937_t1.png",
         "jp": "png/jp/character_0937_t1.png",
-        "tw": "png/tw/character_none.png",
+        "tw": "png/tw/character_0937_t1.png",
         "us": "png/us/character_none.png"
       },
       "title": {
-        "al": "九蛇海賊団船長",
+        "al": "九蛇海賊團船長",
         "jp": "九蛇海賊団船長",
-        "tw": "",
+        "tw": "九蛇海賊團船長",
         "us": ""
       }
     },
