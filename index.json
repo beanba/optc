@@ -50749,6 +50749,41 @@
         "tw": "",
         "us": ""
       }
+    },
+    {
+      "id": 1451,
+      "name": {
+        "al": "Roronoa Zoro",
+        "jp": "",
+        "tw": "",
+        "us": "Roronoa Zoro"
+      },
+      "no": 5006,
+      "portrait": {
+        "al": "png/us/character_1451_c1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_1451_c1.png"
+      },
+      "sid": 1451,
+      "skill": {
+        "al": "png/tw/character_9999_t1.png",
+        "jp": "png/jp/character_9999_t1.png",
+        "tw": "png/tw/character_9999_t1.png",
+        "us": "png/us/character_9999_t1.png"
+      },
+      "thumbnail": {
+        "al": "png/us/character_1451_t1.png",
+        "jp": "png/jp/character_none.png",
+        "tw": "png/tw/character_none.png",
+        "us": "png/us/character_1451_t1.png"
+      },
+      "title": {
+        "al": "A Vow in the Great Age of Pirates - Master Swordsman",
+        "jp": "",
+        "tw": "",
+        "us": "A Vow in the Great Age of Pirates - Master Swordsman"
+      }
     }
   ]
 }
