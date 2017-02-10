@@ -39042,9 +39042,9 @@
       },
       "sid": 1295,
       "skill": {
-        "al": "png/tw/character_9999_t1.png",
+        "al": "png/tw/motion_1295_skill_name.png",
         "jp": "png/jp/character_9999_t1.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_1295_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
@@ -42332,9 +42332,9 @@
       },
       "sid": 1350,
       "skill": {
-        "al": "png/jp/motion_1350_skill_name.png",
+        "al": "png/tw/motion_1350_skill_name.png",
         "jp": "png/jp/motion_1350_skill_name.png",
-        "tw": "png/tw/character_9999_t1.png",
+        "tw": "png/tw/motion_1350_skill_name.png",
         "us": "png/us/character_9999_t1.png"
       },
       "thumbnail": {
